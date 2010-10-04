@@ -16,8 +16,8 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/nb/dep/fd/aktuelt/nyheter/2010/gode-resultater-for-energiledelse-i-fors.html?id=611121'"/>
-<xsl:variable name="title" select="'Gode resultater for energiledelse i Forsvaret - regjeringen.no'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/se/dep/fd/Aigeguovdil/Oasat/2010/Buerie-destie-sjidti-eenergijelijrehtimmien-muhteste-Vaarjelimmesne.html?id=611121'"/>
+<xsl:variable name="title" select="'Buerie destie sjïdti eenergijelijrehtimmien muhteste Vaarjelimmesne - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -56,7 +56,7 @@
 <xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="''"/>
 <xsl:variable name="sub_email" select="'divvun@samediggi.no'"/>
-<xsl:variable name="wordcount" select="'538'"/>
+<xsl:variable name="wordcount" select="'450'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="'$Revision$'"/>
 <xsl:variable name="current_version" select="'Revision'"/>

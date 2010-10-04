@@ -16,8 +16,8 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/nn/dep/krd/pressesenter/Pressemeldingar/Mange-kommunar-med-auka-folketal-fyrste-kvartal-2010/bulystmidlar-til-prosjektet-samdrift--ei.html?id=610478'"/>
-<xsl:variable name="title" select="'Bulystmidlar til prosjektet ”Samdrift” – eit kompetansesenter for frivillig innsats - regjeringen.no'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/se/dep/krd/Preassaguovdda/Preassadieahusat/2010/arromelastoeviertieh-prosjektasse-laaven.html?id=610478'"/>
+<xsl:variable name="title" select="'Årromelastoeviertieh prosjektasse ”Laavenjosteme” – akte maahtoejarnge jïjtjesyjhtehts barkoen åvteste - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -56,7 +56,7 @@
 <xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="''"/>
 <xsl:variable name="sub_email" select="'divvun@samediggi.no'"/>
-<xsl:variable name="wordcount" select="'486'"/>
+<xsl:variable name="wordcount" select="'413'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="'$Revision$'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
