@@ -99,7 +99,7 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'Bulystmidlar-til-prosjektet-Aktive-ungdomsrad-i-Finnmark.html?id=610385'"/>
+<xsl:variable name="para_nno" select="'bulystmidlar-til-prosjektet-aktive-ungdomsrad-i-finnmark.html?id=610385'"/>
 <xsl:variable name="para_nob" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="''"/>

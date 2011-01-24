@@ -99,7 +99,7 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'Snasa-kommune--samisk-parallellnamn-for-kommunen-.html?id=615485'"/>
+<xsl:variable name="para_nno" select="'snasa-kommune--samisk-parallellnamn-for-kommunen-.html?id=615485'"/>
 <xsl:variable name="para_nob" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="''"/>
