@@ -16,7 +16,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/se/dep/lmd/Aigeguovdil/taler_artikler/ministeren/landbruks--og-matminister-lars-peder-bre/2010/Haaleme-Heerredimmie-beetsuvistie--guhkene-bijjene-dennie-beapmoepolitihken-biejjieoornegisnie.html_id=620957'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/se/dep/lmd/Aigeguovdil/taler_artikler/ministeren/landbruks--og-matminister-lars-peder-bre/2010/Haaleme-Heerredimmie-beetsuvistie--guhkene-bijjene-dennie-beapmoepolitihken-biejjieoornegisnie.html?id=620957'"/>
 <xsl:variable name="text_encoding" select="''"/>
 <xsl:variable name="title" select="'Håaleme: Heerredimmie beetsuvistie- guhkene bijjene dennie beapmoepolitihken biejjieøørnegisnie - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
