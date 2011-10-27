@@ -92,8 +92,8 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'tale-forebygging-av-matavfall---hoyt-pa-.html_id=620957'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'beapmoe-fer-lihties.html_id=621010'"/>
-<xsl:variable name="para_smj" select="'-ajnas-lavkke-avddalijguovlluj-avtastall.html_id=621259'"/>
+<xsl:variable name="para_sme" select="''"/>
+<xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 
 
