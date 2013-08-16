@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document id="no_id" xml:lang="sma">
+  <header>
+    <title></title>
+    <genre/>
+    <author>
+      <person born="" firstname="" lastname="Sissel Jåma" nationality="en_US" sex="unknown"/>
+    </author>
+    <year>2012</year>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 48460 $; </version>
+  </header>
+  <body>
+    <p type="title">
+Saemien sijjienommh
+  </p>
+    <p>
+Saemien sijjienommh båata saemiej <errorort correct="jieliemistie" errtype="svow" pos="noun">jielemistie</errorort>, vijremistie, <errorort correct="göölemistie" errtype="ascii" pos="noun">gøølemistie</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="båatsojste" errtype="suf" pos="noun">båatsoejste</errorort>.
+  </p>
+    <p><errormorphsyn cat="pl3prs" const="x" correct="Dah nommh soptsestieh" errtype="x" orig="sg3prs" pos="verb">Dah nommh soptseste</errormorphsyn> guktie <errorort correct="dïhte" errtype="ascii" pos="dem">dihte</errorort> eatneme lea. Soptseste man aelhkie desnie baahtsedh vg. Suohpajohka mij lea gaelemejohke Sveerjesne, <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> guktie gåatome vg. Sidnoajvve mij lea kraesiebaektie. <errormorphsyn cat="pl3prs" const="x" correct="Vihkeles nommh aaj tjahkine mah soptsestieh" errtype="x" orig="sg3prs" pos="verb">Vihkeles nommh aaj tjahkine mah soptseste</errormorphsyn> guktie jåhtadahkh. (<em type="italic">http://www.sofi.se/1717</em>)
+  </p>
+    <p>
+Gosse <errorort correct="Nöörjen" errtype="ascii" pos="prop">Nøørjen</errorort> <errorort correct="nasjovne" errtype="vowc" pos="noun">naasjovne</errorort> edtji bigkesovvedh dle saemien sijjienommh daaroen sijjienommi gujmie <errorort correct="lotnesovvi" errtype="vowc" pos="verb">låtnesovvi</errorort>. <errorort correct="Uniontïjjen" errtype="ascii" pos="noun">Uniontijjen</errorort> minngiegietjie dle ij leah luhpie saemiestidh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> tjoerin barre daaroestidh, <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> daate 1900 raajese vaasi. Finnmarkesne dle dah saemien nommh daaroen nommi gujmie <errorort correct="lotnesovvi" errtype="vowc" pos="verb">låtnesovvi</errorort>.  Daate lij <errorort correct="politihken" errtype="conc" pos="noun">politigken</errorort> <errorort correct="vihkielommes" errtype="mix" pos="adj">vihkelelommes</errorort> vierhtie faamoem dajvesne åadtjodh, Kaisa Rautio Helander Saemien jolleskuvlesne jeahta. Kaisa Rautio Helander lea <errorort correct="saemiennommide" errtype="x" pos="noun">saemien-nommide</errorort> dotkijamme <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="dåakteregraadem" errtype="vow" pos="noun">dåaktoregraadem</errorort> <errorort correct="aamhtesisnie" errtype="mix" pos="noun">aamhtsesne</errorort> åtna. (<em type="italic">http://www.forskning.no/artikler/2008/juni/187309</em>)
+  </p>
+    <p>
+1800 raejeste <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> 1900 raajan dle lij ”fornorskning” <errorort correct="Nöörjesne" errtype="ascii" pos="prop">Nøørjesne</errorort>. Eah lin <errorort correct="snåale" errtype="vow" pos="adj">snåaloe</errorort> vierhtiej gujmie gåessie edtjin dam ”stoerre <errorort correct="nasjonaale" errtype="vow" pos="adj">naasjonale</errorort> barkoem” buektiehtidh, <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> gaajhkh tjoerin viehkiehtidh- gærhkoe, skuvle, <errorort correct="lientsie" errtype="mix" pos="noun">liense</errorort>, <errorort correct="meedia" errtype="con" pos="noun">meedija</errorort>, reereme <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> politihkerh. <errorort correct="Nyöjhkin" errtype="ascii" pos="verb">Nyøjhkin</errorort> saemiestidh. Daate saemien <errorort correct="övtiedimmiem" errtype="mix" pos="noun">øøvtiedimmiem</errorort> skilki <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> aaj saemiej <errorort correct="domtesidie" errtype="mix" pos="noun">domtenasside</errorort><em type="italic">. </em>Stoerre dajvine dam <errorort correct="saemiengïelem" errtype="mix" pos="noun">saemien-gielem</errorort> skilkin, joekoen dennie <errorlex correct="mearoegaedtesne" origpos="w" pos="noun"><errorort correct="kystgaedtesne" errtype="vow" pos="noun">kystegaedtesne</errorort></errorlex>. Saemien sijjienommh <errorortreal correct="daaroengïelese" errtype="ascii" pos="noun">daaroengielese</errorortreal> jarkoestin jallh <errorort correct="orresth" errtype="vowc" pos="adv">urresth</errorort> nommi gujmie <errorort correct="låtnoejin" errtype="mix" pos="verb">låtnin</errorort>. Goevtegeajnoe Kautokeinose <errorort correct="jorkestovvi" errtype="con" pos="verb">jorkesovvi</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> Deatnu <errorort correct="Tanese" errtype="suf" pos="prop">Tanase</errorort>.
+  </p>
+    <p>
+Jaepien 1902 orre laake <errorort correct="bööti" errtype="ascii" pos="verb">bøøti</errorort>, gaajhkh <errorort correct="eekenommh" errtype="vow" pos="noun">eekinommh</errorort> edtji daaroen <errorortreal correct="gïelesne" errtype="ascii" pos="noun">gielesne</errorortreal> årrodh. Dan mænngan idtjin åadtjoeh  saemien sijjienommh  nuhtjedh. <errorort correct="Mubpeden" errtype="con" pos="num">Mubpeden</errorort> veartenedåaroen mænngan dle <errorort correct="dïhte" errtype="ascii" pos="dem">dihte</errorort> <errorort correct="nommepolitihke" errtype="con" pos="noun">nommepolitigke</errorort> jorkesovvi.<errorort correct="jorkestovvi. Mænngan" errtype="mix" pos="mix">Mænngan</errorort> sijjienommelaake jaepien 1990 <errorort correct="bööti" errtype="ascii" pos="verb">bøøti</errorort>, dle lin tjarki barkeme saemien sijjienommh bååstide <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> dejtie bæjhkoehtidh(<em type="italic">http://www.forskning.no/artikler/2008/juni/187309</em>)
+  </p>
+    <p><errorort correct="Dïhte" errtype="ascii" pos="dem">Dihte</errorort> sijjienomme Hjemmeluft <errorort correct="Altesne" errtype="suf" pos="prop">Altasne</errorort> ij utnieh maam gåetine darjodh, <errorort correct="mohte båata" errtype="ncmp" pos="mix">mohtebaåta</errorort> dehtie Jiemmaluohteste. Jiemma lea nåervieaarhte <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> luofta lea <errorort correct="loekte" errtype="vowc" pos="noun">luokte</errorort>. <errorort correct="Jïjnjh" errtype="ascii" pos="indef">Jijnjh</errorort> dagkeres <errorort correct="vuesiehtimmieh" errtype="vow" pos="noun">vuesehtimmieh</errorort> gååvnese. (Magga, Ole Henrik.2001.Sàpmi. <em type="italic">http://www.hundrearsmarkeringen.no/pdf/impulser_068-073.pdf</em>)
+  </p>
+    <p>
+Dah  mah sijhtieh vielie saemiej sijjienommi <errorort correct="bïjre" errtype="ascii" pos="pp">bijre</errorort> lohkedh, maehtieh dam bieliem vuartasjidh: <em type="italic">(http://www2.sofi.se/daum/katta/katta12/katta12.pdf</em>)
+  </p>
+    <p xml:lang="nob">
+Sveerjen <errorort correct="turistsiebrien" errtype="vowc" pos="noun">turistsibrien</errorort> bielesne: <em type="italic">http://www.stfturist.se/sv/Inspiration/Vandring/Allman-fjallinformation/Samiska-ortsnamn/</em></p>
+    <p>
+Kroessebaakoe saemien sijjiennommi gujmie daennie bielesne gååvnese: <em type="italic">http://www.uta.fi/~km56049/same/puzzles/puzplac.html</em></p>
+  </body>
+</document>

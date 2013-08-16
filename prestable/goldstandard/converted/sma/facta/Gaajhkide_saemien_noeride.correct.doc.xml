@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document id="no_id" xml:lang="sma">
+  <header>
+    <title></title>
+    <genre/>
+    <author>
+      <person born="" firstname="" lastname="Sissel Jåma" nationality="en_US" sex="unknown"/>
+    </author>
+    <year>2012</year>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 48460 $; </version>
+  </header>
+  <body>
+    <p>
+Gaajhkide saemien noeride!
+  </p>
+    <p><errorort correct="Bööreme" errtype="ascii" pos="verb">Bøøreme</errorort> <errorort correct="aelkiehtehtedh" errtype="mix" pos="verb">aelkiedaehtedh</errorort> <errorort correct="saemien" errtype="vowc" pos="noun">samien</errorort> <errorort correct="noereorganisasjovnem" errtype="mix" pos="noun">noeriorganisasjovenm</errorort>!
+  </p>
+    <p><errorort correct="Sïjhth" errtype="ascii" pos="verb">Sijhth</errorort> dåeriedidh maam <errorort correct="historihkeles" errtype="mix" pos="adj">historjesadtem</errorort>? Dåeredh <errorort correct="aelkedh" errtype="x" pos="verb">aelkedhdh</errorort> <errorort correct="ovgårreldh" errtype="x" pos="adj">ov-gårreldh</errorort> <errorort correct="abperïjhken" errtype="x" pos="noun">abpe-rijhken</errorort> siebriem saemien noeride? Golken 16.-18. <errorort correct="Biejjiej" errtype="suf" pos="noun">Biejji</errorort> aalkoetjåanghkoe Romsesne, <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="mijjieh" errtype="vow" pos="pers">mijjeh</errorort> <errorort correct="sïjhtebe" errtype="ascii" pos="verb">sijhtebe</errorort> datne aaj edtjh dåeriedidh.
+  </p>
+    <p xml:lang="kal">
+Mannasinie?
+  </p>
+    <p>
+Saemien noereh veasoeminie abpe <errorort correct="Nöörjen" errtype="mix" pos="prop">Nøøren</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> daelie ij gååvnesh naaken <errorort correct="råakedimmiesijjie" errtype="mix" pos="noun">råakesjimmie-sijjie</errorort> mijjide <errormorphsyn cat="gensg" const="x" correct="mij politihken jïh jaahkoen dåaresth" errtype="x" orig="acksg" pos="noun">mij <errorort correct="noun,politihkem">politikem</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> jaahkoen <errorort correct="dåaresth" errtype="vowc" pos="pp">dåeresth</errorort></errormorphsyn>. Gellien aejkien lin noereh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> geervealmetjh ohtselamme juste dagkeres siebriem, <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> aaj <errorort correct="Nöörjesne" errtype="ascii" pos="prop">Nøørjesne</errorort> saemien <errorort correct="rïjhkesiebrie" errtype="ascii" pos="noun">rijhkesiebrie</errorort> noeride daerpies. Daam edtjebe daelie darjodh!
+  </p>
+    <p>
+Aejkie: Golken 16.-18. <errorort correct="Biejjie" errtype="vow" pos="noun">Biejje</errorort></p>
+    <p><errorort correct="Sijjieh" errtype="vow" pos="noun">Sijjeh</errorort>: Kvaløya bydelshus, Romsesne Tjåanghkoe tjïervehts
+  </p>
+    <p>
+Programme <errorort correct="annje" errtype="con" pos="cs">aane</errorort> naemhtie <errorort correct="våajnoe" errtype="vowc" pos="verb">våjnoe</errorort>:
+  </p>
+    <p>
+Bearjadahken: Gaajhkesh dovnesh Romsen jaksi <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> aavoedim mubpie iehkiedasse. 
+  </p>
+    <p>
+Laavadahken: <errorort correct="Jïjtje" errtype="ascii" pos="refl">Jijtje</errorort> aelkiedimmietjåanghkoe <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> murreds konserte iehkeden 
+  </p>
+    <p>
+Aejlegen: Gåatan <errorort correct="vihth" errtype="mix" pos="adv">vidh</errorort> vuelkedh
+  </p>
+    <p>
+Håhkesjibie <errorort correct="buektiehtibie" errtype="mix" pos="verb">buektedibie</errorort> <errorort correct="göökte" errtype="ascii" pos="num">gøøkte</errorort> <errorort correct="bussh" errtype="vow" pos="noun">bussah</errorort> mah vuejiejægan Romsese, akte Gærhkoenjaarkeste <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> mubpie Tråanteste. Jis <errorort correct="minngemes" errtype="con" pos="pp">mingemes</errorort> <errorort correct="beetnehvierhtiem" errtype="x" pos="noun">beetnegeviertiem</errorort> maam vuertieminie åadtjoejibie.
+  </p>
+    <p><errorort correct="Sïjhth" errtype="ascii" pos="verb">Sijhth</errorort> dåeriedidh? <errorortreal correct="Soptsesth" errtype="con" pos="verb">Soptsesh</errorortreal> susanneamalie@gmail.com`ese <errorort correct="åvtelen" errtype="vowc" pos="pp">ååvtelen</errorort> Golken mubpien <errorort correct="biejjien" errtype="suf" pos="noun">biejjen</errorort>, juktie daejrebe nuekies <errorort correct="beapmoeh" errtype="conc" pos="noun">beapmoh</errorort> gaajhkide!
+  </p>
+    <p>
+Vaajtele
+  </p>
+    <p><errorort correct="Barkoedåehkieh" errtype="vowc" pos="noun">Baarkoedåehkieh</errorort> saemien noerisiebriem aelkiedidh, <errorort correct="åejviem" errtype="vowc" pos="noun">åajviem</errorort> Susanne Amalie Andersen baaktoe.  telefovne:  (+47) 92835649 e-påaste: susanneamalie@gmail.com
+  </p>
+    <p>
+Ps!  Veartesjh aaj www.nuora.blogg.no jallh Facebook-dåehkiem ?stiftelse av samisk ungdomsorganisasjon? juktie orre <errorort correct="bïevnesh" errtype="ascii" pos="noun">bievnesh</errorort> <errormorphsyn cat="gensg" const="x" correct="tjåanghkoen bïjre" errtype="x" orig="acksg" pos="noun">tjåanghkoem <errorort correct="bïjre" errtype="ascii" pos="pp">bijre</errorort></errormorphsyn> åådtje.
+  </p>
+    <p>
+Veedtjeme (10.05.12) sæjroste www.nuora.blogg.no
+  </p>
+  </body>
+</document>

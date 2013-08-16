@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document id="no_id" xml:lang="sma">
+  <header>
+    <title></title>
+    <genre/>
+    <author>
+      <person born="" firstname="" lastname="Marit M Fjellheim" nationality="en_US" sex="unknown"/>
+    </author>
+    <year>2012</year>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 48460 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nob">
+Fra internettsiden:
+  </p>
+    <p xml:lang="sme">
+http://....
+  </p>
+    <p xml:lang="smj">
+Lastet ned 26.04.2012
+  </p>
+    <p type="title">
+Nedtetjaalege njammemen bïjre
+  </p>
+    <p>
+Njammemeviehkie daam nedtetjaalegem dorjeme edtja dutnjien mij njammehte maahtoeh jïh raerieh vedtedh njammemen bïjre. Njammemeviehkien baakoe lea: <em type="italic">Viehkije baakoe tjidtjeste</em> <em type="italic">tjædtjan. </em>Ij naan gyhtjelassh fer smaave mijjese. Mijjieh gujht datnem dåarjelibie jïh viehkiehtibie.
+  </p>
+    <p type="title">
+Mannasinie hijven njammedh?
+  </p>
+    <p>
+Ietnienmielhkie dïhte <errorort correct="bööremes" errtype="ascii" pos="adj">bøøremes</errorort> beapmoe <errorort correct="slïedtide" errtype="ascii" pos="noun">sliedtide</errorort>, juktie mielhkien sisvege jïh veahka fïerhten aejkien leah sjïehtesjamme maanan daerpiesvoetese. Njammeme dutnjien jïh maanese <errorort correct="gietskiesvoetem" errtype="vow" pos="noun">gïetskiesvoetem</errorort> vadta, guktie doh baanth dotnen gaskem nænnoesåbpoe <errorort correct="sjidtieh" errtype="vow" pos="verb">sjïdtieh</errorort>. Dotkeme vuesiehtamme njammeme maanam vaarjele gellie skïemtjelassi <errorort correct="vööste" errtype="ascii" pos="pp">vøøste</errorort>, vuesiehtimmien gaavhtan <errorort correct="bieljienaavlehtahke" errtype="x" pos="noun">bieljie-naavlehtahke</errorort>, voejngeovlemh jïh <errorort correct=" tjåejjietjåelieovlemh" errtype="x" pos="noun">tjåejjie-tjåelieovlemh</errorort>. Guhkiebasse maahta vååjnedh goh njammeme aaj hijven gyssehkevoeten, <errorort correct="sohkerejaamedhgæbjan" errtype="mix" pos="noun">sohkejaamedhgæbjan</errorort>, allergijen jïh <errorort correct="mïetskåedtjien" errtype="mix" pos="noun">mietsk-åedtjien</errorort> <errorort correct="vööste" errtype="ascii" pos="pp">vøøste</errorort>. Ietnienmielhkie maahta maanese aktem buerebe fysihken jïh <errorort correct="mentaale" errtype="vow" pos="noun">mentale</errorort> evtiedimmiem vedtedh, jïh lea joekoen hijven aajlan evtiedæmman. Njammeme ij tjirkh maana ij naan aejkien skeamtjoeh, bene ietnienmielhkie dam vaahram vaenede.
+  </p>
+    <p>
+Dutnjien die njammehtimmie hijven <errorort correct=" njammamïetskåedtjien" errtype="vow" pos="noun">njamma-mietskhåedtjien</errorort>, (<errorort correct="eggstokkreefte" errtype="mix" pos="noun">eggstokkreft</errorort> jïh daektiehiejjiesvoeten <errormorphsyn cat="x" const="x" correct="eggstokkreeften jïh daektiehiejjiesvoeten vøøste$(pp,ascii" errtype="x" orig="x" pos="x"><errorort correct="vööste" errtype="ascii" pos="pp">vøøste</errorort></errormorphsyn>.
+  </p>
+    <p>
+Minngemes, bene ij uhtjemes, ietnienmielhkie namhtah, iktegisth <errorort correct="fïerske" errtype="ascii" pos="adj">fierske</errorort> jïh gaervies åtnose vaeltedh!
+  </p>
+    <p type="title">
+Guktie njammedh jïh guktie njammese <errorort correct="bïejedh" errtype="ascii" pos="verb">biejedh</errorort></p>
+    <p>
+Baajh maanam ånnetji njaelmine ohtsedidh åvtelen njammam åådtje. Gosse njaelmiem geehpie, datne maanam dov lïhke geasah. Dellie maanan njaelmie njammine deava gosse jïjtje njammam vaalta. Gosse maanam dov lïhke steerh mearan åejjie loeves, edtja maanan gaejpie dov njamman sontere årrodh. Dellie mielhkie hijvenlaakan galka. Maanan åejjie sæjhta ånnetji byjngese årrodh guktie njuenie jallan låaptjode. Naemhtie maana åådtje voejngehtidh bielelen datne daarpesjh njammam maanan njueneste steeredh.
+  </p>
+    <list>
+      <p type="listitem">
+
+    
+Steerh njammam <errorort correct="bielkine" errtype="con" pos="noun">bielhkine</errorort> bijjiebielesne jïh soermide nuelesne, goh akte stoerre C-baakoe.
+    
+
+   </p>
+    </list>
+    <p>
+Doh soermh eah edtjh dennie provne njammasijjesne årrodh (<errorort correct="areovla" errtype="con" pos="noun">areola</errorort>)
+  </p>
+    <list>
+      <p type="listitem">
+
+    
+Skreejrehth maanam tjarki geehpedh guktie datne maanan <errorort correct="bangsemh" errtype="mix" pos="noun">bangsh</errorort> <errorort correct="njammavaahterinie" errtype="vowc" pos="noun">njammevahterinie</errorort> tjogkeldh, njueneste <errorort correct="vueliebangsemen" errtype="mix" pos="noun">vueliebangsen</errorort> <errorort correct="vööste" errtype="ascii" pos="pp">vøøste</errorort>. <errorort correct="Njammavaahtere" errtype="vowc" pos="noun">Njammavahtere</errorort> lea <errorort correct="öövre" errtype="ascii" pos="adj">øøvre</errorort> maanan njuenien lïhke.
+    
+
+   </p>
+      <p type="listitem">
+
+    
+Gosse maana tjarki geehpie, dellie maanam dov lïhkebasse geasah.
+    
+
+   </p>
+    </list>
+    <p type="title">
+Guktie sïejhme tjahkasjidh jallh gællasjidh gosse njammehteminie
+  </p>
+    <p><error correct="Saaht guktie">Saaht-guktie</error> datne veeljh tjahkasjidh jallh gællasjidh, dle vihkeles datne njaelkieslaakan tjahkesjh jallh gællesjh. Jis ih buektehth <errorort correct="lïegkedidh" errtype="ascii" pos="verb">liegkedidh</errorort> dellie datne sæjloes gosse njammeme galhkeme. Maana tjuara eevre dov njamman lïhke årrodh, olles njammavaahterisnie ”gævnjan” sjïdth. Dellie aelhkie saejrine sjïdtedh.
+  </p>
+    <p type="title">
+Sïejhme suvhtijevuekie:
+  </p>
+    <p>
+Maana sæjrosne dov faerhmesne gællesje, tjåejjine dov tjåejjien <errorort correct="vööste" errtype="ascii" pos="pp">vøøste</errorort>, jïh åejjine byjngese dov vueliegïeten nelnie. Maana dov åelkies vueliegïetesne gællesje gosse åelkiesnjammam njamma. Maanan vueliegïete edtja dov gaskebullen bïjre årrodh. Datne maanan rudtjem vueliegïetine dåvta, jïh ravvem jallh juelkide gïetine steerh.
+  </p>
+    <p type="title"><errorort correct="Jöömmetjevuekie" errtype="ascii" pos="noun">Jøømmetjevuekie</errorort>:
+  </p>
+    <p>
+Maana sæjrosne gællesje, tjåejjine dov sæjroen <errorort correct="vööste" errtype="ascii" pos="pp">vøøste</errorort> akten dåvnan nelnie jïh juelkide byjngese. Datne maanam dov gïetine steerh. Maanan tjovrese/ rudtje dov gïetesne veelede guktie datne maahtah maanam bæjjese njammese lutnjedh. Åelkiesgïete maanan nelnie gosse åelkiesnjammesne njamma. Maanan ravve jïh juelkieh <errorort correct="lïegkedieh" errtype="ascii" pos="verb">liegkedieh</errorort> stovlen rudtjesne. Dïhte mubpie gïete lutnjie jïh njammam sjïehtesje.
+  </p>
+    <p>
+Hijven jöömmetjevuekine låtnoehtidh dan dïehre:
+  </p>
+    <list>
+      <p type="listitem">
+
+    
+Maana njammam jeatjahlaakan vaalta.
+    
+
+   </p>
+      <p type="listitem">
+
+    
+Gosse njammavaahterh saejrine, <errorort correct="jöömmetjevuekie" errtype="ascii" pos="noun">jøømmetjevuekie</errorort> maahta dom saejries sijjiem aarjoehtidh.
+    
+
+   </p>
+      <p type="listitem">
+
+    
+Jis maana tjabra njammam vaeltedh, daate vuekie maahta hijven årrodh, juktie dejnie dov aktine gïetine maahtah dovne maanan åejjiem jïh njammam stuvredh, jïh ”iktedidh” gosse sjeahta.
+    
+
+   </p>
+      <p type="listitem">
+
+    
+Daate vuekie aaj hijven jis dov stoerre jïh leevles njammah, dellie maahtah duvtedh jïh
+    
+
+   </p>
+    </list>
+    <p>
+njammam C-vuekine sjïehtesjidh (gïete nuelesne, <errorort correct="bielkie" errtype="con" pos="noun">bielhkie</errorort> loeves njamman bijjiebielesne).
+  </p>
+    <list>
+      <p type="listitem">
+
+    
+Jis dov <errorort correct="jöömmetjh" errtype="ascii" pos="noun">jøømmetjh</errorort>, maahtah gåabpatjahkh njammehtidh seamma aejkien.
+    
+
+   </p>
+      <p type="listitem">
+
+    
+Daate akte hijven njammemevuekie dejtie maanide mah Frejkan dåvnesne gællasjieh.
+    
+
+   </p>
+    </list>
+    <p type="title">
+Gællan vuekie:
+  </p>
+    <p>
+Datne sæjrosne gællesjh, juelkiejgujmie ånnetji kråavvode guktie datne stynkehke jïh
+  </p>
+    <p>
+njaelkieslaakan gællesjh, ajve åejjine dåvnan nelnie. Maana sæjrosne gællesje, tjåejjine dov <errorort correct="vööste" errtype="ascii" pos="pp">vøøste</errorort>, dov kråahpen lïhke. Maanan åejjie jïh rudtje maahtah gïetine jallh aktine onne dåvnine duvtedh. Datne maahtah dom bijjemes/ jeatjah njammam njammehtidh bielelen jeatjahlaakan gilledidh, ajve kråahpem <errorort correct="njihkedh" errtype="con" pos="verb">njijkedh</errorort>, guktie dïhte bijjemes njamma våålese båata maanese. Maana maahta aaj akten dåvnan nelnie gællasjidh, naemhtie dïhte maahta dov bijjemes njammam njammedh bielelen datne daarpesjh jeatjahlaakan gilledidh seangkosne. Daate aaj akte hijven vuekie <errorort correct="keisersnihten" errtype="con" pos="noun">keisersnitten</errorort> mænngan jïh gosse daektie loevenamme, dan åvteste datne ih daarpesjh seangkosne jårrestalledh. Lissine daate akte hijven vuekie jis maana Frejkan dåvnesne gællesje.
+  </p>
+    <p type="title">
+Man daamtaj jïh man guhkiem edtja maana njammedh?
+  </p>
+    <p>
+Aaj aadtjetje reakadamme maanah joekehts. Naaken smaave jïh daamtaj maalestahkh
+  </p>
+    <p>
+daarpesjieh, mearan jeatjebh jïjnjem <errorort correct="byöpmedieh" errtype="ascii" pos="verb">byøpmedieh</errorort> jïh eah daarpesjh dan daamtaj <errorort correct="byöpmedidh" errtype="ascii" pos="verb">byøpmedidh</errorort>. Maana <errorort correct="byöroe" errtype="ascii" pos="verb">byøroe</errorort> njammam åadtjodh fïerhten aejkien satne vuesehte dam sæjhta. Dam daajrah gosse maana njaelmine ohtsede jallh altese soermide njamma. Gosse <errorort correct="tjyöre" errtype="ascii" pos="verb">tjyøre</errorort>, dellie <errorort correct="nealkoes" errtype="con" pos="adj">njealkoes</errorort> guhkiem orreme, jïh datne <errorort correct="byörh" errtype="ascii" pos="verb">byørh</errorort> maanese njammam vedtedh åvtelen dïhte dan bårrestohtoe. Baajh maanam njammedh dan guhkiem sæjhta. Naemhtie njammide skreejrehth dan jïjnjem mielhkiejgujmie båetedh maam dov maana daarpesje. Dastegh maana varki nahkeste, maahtah maanam skreejrehtidh njammedh jis maanan <errorort correct="gïetenlåapoeh" errtype="x" pos="noun">gïeten-låapoeh</errorort> knugkh jallh juelkiej nuelesne, gaejpien nuelesne jallh <errorort correct="vueliegïngsen" errtype="ascii" pos="noun">vueliegingsen</errorort> nuelesne. Baajh maanam nuekies <errorort correct="tïjjem" errtype="ascii" pos="noun">tijjem</errorort> åadtjodh dejnie aktine njammine galhkedh åvtelen dom mubpiem faalah. Gosse maana jïjtje åådtje sjïehtesjidh man daamtaj jïh man guhkiem satne sæjhta njammedh, dellie ih gujht datne dååjrehth fer vaenie mielhkiem utnedh. Ietnienmielhkie lea geehpes vejtiestidh, jïh varki tjåejjien tjïrrh jåhta. Akten våhkoen mænngan doh jeenjemes maanah <errorort correct="sijhtieh" errtype="vow" pos="verb">sïjhtieh</errorort> medtie 12 maalestahkh utnedh dygnesne. Mænngan sveekebe sæjhta.
+  </p>
+    <p type="title">
+Guktie daajram maana nuekies beapmoem åådtje?
+  </p>
+    <p><errorort correct="Vihkielommes" errtype="svow" pos="adj">Vihkelommes</errorort> lea maanan raajhpesh vuartasjidh. Maana mij lea 0-4 våhkoen båeries jïh ajve ietnienmielhkiem åådtje, paakede fïerhten biejjien jïh raajhpesi <errorort correct="sïjse" errtype="ascii" pos="pp">sijse</errorort> gadtja unnemes 6 aejkieh dygnesne, mænngan dïhte mielhkiedorjese hijvenlaakan aalkeme. Jis datne damth njammah 8 <errorort correct="myövhkebe" errtype="ascii" pos="adj">myøvhkebe</errorort> <errorort correct="sjidtieh" errtype="vow" pos="verb">sjïdtieh</errorort> mænngan datne njammehtamme, govlh maana <errorort correct="njihpelde" errtype="vow" pos="verb">njiehpelde</errorort> jïh maana <errorort correct="fahkes" errtype="vowc" pos="adj">faahkes</errorort> jïh fuakeds vååjnoe, dellie gujht maana nuekies beapmoem åådtje. Jis ih leah læjhkan seekere, maahtah maanam meatan vaeltedh starnegåetien gåajkoe jïh maanam <errorort correct="vïekesjidh" errtype="ascii" pos="verb">viekesjidh</errorort>. Gosse njammehth, dellie datne ånnetji vielie beapmoeh daarpesjh enn mij lea sïejhme. Datne edtjh jovkedh gosse gojhkelovvh, jïh tjaetsiem utnedh dov baalte gosse njammehteminie. Ij leah naan goerehtallemh mah maehtieh <errorort correct="vihtiestidh" errtype="svow" pos="verb">vihtestidh</errorort> jienebem mielhkiem åådtje jis jïjnjem jåvka.
+  </p>
+    <p type="title">
+Fer vaenie mielhkie?
+  </p>
+    <p>
+Gosse maana sjïdtede dellie sæjhta vielie mielhkiem daarpesjidh. Maana sæjhta daamtajåbpoe njammedh 2-3 biejjieh, edtja njammide viehkiehtidh mielhkiedorjese lissehte. Dam gohtje læssanimmiebiejjieh, jïh maahta årrodh dan daamtaj goh fïerhten 14. biejjien, bene stoerre joekehts maaneste maanese.
+  </p>
+    <p type="title">
+      <errorort correct="Galkehtimmierefleekse" errtype="vow" pos="noun">Galkehtimmiereflekse</errorort>
+    </p>
+    <p>
+Gosse maana njammam njamma, dellie bïevnesh aajlan gåajkoe juhtieh, mij aktem <errorort correct="hormovnem" errtype="con" pos="noun">hormonem</errorort> loevene (Oxytocin). Daate <errorort correct="hormovne" errtype="con" pos="noun">hormone</errorort> dorje guktie doh åedtjieh <errorort correct=" mielhkieraavsaj" errtype="vowc" pos="noun">mielhkieruavsaj</errorort> bïjre snårhpoeh, guktie mielhkie olkese galka. <errorort correct="Jïjnjh" errtype="ascii" pos="adj">Jijnjh</errorort> nyjsenæjjah demtieh goh njamma tjogkelde jallh <errorort correct="sneerrie" errtype="svow" pos="verb">snerrie</errorort>. Doh voestes våhkoeh reakadimmien mænngan mielhkie maahta aelkedh galkedh gosse gåvla maanah tjearoeh jallh maanese ussjede. <errorort correct="Galkehtimmierefleekse" errtype="vow" pos="noun">Galkehtimmiereflekse</errorort> maahta aaj nåakebe sjïdtedh jis datne sæjloes, naskoes, skabroeh jallh hujnesne. Dellie maahta geervebe maanese årrodh mielhkiem olkese <errorort correct="buektiehtidh" errtype="x" pos="verb">buektiehtiedh</errorort>. Vihkeles datne voejhkelh <errorort correct="lïegkedidh" errtype="ascii" pos="verb">liegkedidh</errorort> jïh <errorort correct="misseakt" errtype="x" pos="x">misse-akt</errorort> murreds ussjedidh. <errorort correct="Jieniebidie" errtype="svow" pos="adj">Jienebidie</errorort> maahta viehkiehtidh njammam ånnetji knugkedh, jïh <errorort correct="njammavaahterem" errtype="vowc" pos="noun">njammavahterem</errorort> vååregelaakan soermi gaskem jårrehtidh åvtelen maanam njammese beaja.
+  </p>
+    <p>
+Baahkes gaptjesh jïh <errorsyn correct="maamakt" errtype="x" pos="x">maam akt</errorsyn> baahkes jovkedh maahta darjodh guktie mielhkie olkese galka. Ih <errorort correct="byörh" errtype="ascii" pos="verb">byørh</errorort> gelmedh!
+  </p>
+    <p type="title">
+Gïetine buhtjedh jïh pumpadidh
+  </p>
+    <p>
+Dastegh ih maehtieh maanam njammehtidh dan åvteste dïhte fer varki reakasovveme jallh skïemtjine, maahtah gïetine buhtjedh jallh aktem njammapumpem nuhtjedh dam mielhkiem olkese buektedh.
+  </p>
+    <p type="title">
+Gïetine buhtjedh 
+  </p>
+    <list>
+      <p type="listitem">
+
+    
+Skreejrehth <errorort correct="galkehtimmierefleeksem" errtype="vow" pos="noun">galkehtimmierefleksem</errorort> guktie aarebi neebneme.
+    
+
+   </p>
+      <p type="listitem"><errorort correct="Bïejh" errtype="ascii" pos="verb">Biejh</errorort> <errorort correct="bielkiem" errtype="con" pos="noun">bielhkiem</errorort> <errorort correct="njammavaahteren" errtype="vowc" pos="noun">njammavahteren</errorort> bijjiebielesne, jïh tjovtehkem seamma sæjjan <errorort correct="njammavaahteren" errtype="vowc" pos="noun">njammavahteren</errorort> nuelesne.
+    
+
+   </p>
+      <p type="listitem"><errorort correct="Bïejh" errtype="ascii" pos="verb">Biejh</errorort> doh jeatjah soermh dan provne sijjien ålkoelisnie.
+    
+
+   </p>
+      <p type="listitem">
+
+    
+Diedtieh soermide <errorort correct="rïekte" errtype="ascii" pos="adv">riekte</errorort> boengen <errorort correct="vööste" errtype="ascii" pos="pp">vøøste</errorort>, jïh tjaabrh dle soermide vååregelaakan tjåanghkan mearan dejtie vihth åvtese jårrehte. Darjoeh dam <errorort correct="jïevkehtslaakan" errtype="ascii" pos="adv">jievkehtslaakan</errorort> gellie aejkieh.
+    
+
+   </p>
+      <p type="listitem">
+
+    
+Gosse mielhkie galka jallh sjåavkele edtjh jåerhkedh buhtjedh dan guhkiem mielhkie båata.
+    
+
+   </p>
+      <p type="listitem">
+
+    
+Juhtieh dan mænngan dejtie soermide <errorort correct="bïjre-jarkan" errtype="vow" pos="indef">bïjre-jaarkan</errorort> goske gaajhke <errorort correct="myövhkes" errtype="ascii" pos="adj">myøvhkes</errorort>.
+    
+
+   </p>
+      <p type="listitem">
+
+    
+Aellieh baajh soermide njaltjesne njalhkedidh, bene njaamh jis lovves sjædta.
+    
+
+   </p>
+    </list>
+    <p type="title" xml:lang="eng">
+Pumpadidh
+  </p>
+    <p><errorort correct="Bööremes" errtype="ascii" pos="adj">Bøøremes</errorort> jis datne gåabpegh njammah pumpedh seamma aejkien, dellie <errorort correct="tïjjem" errtype="ascii" pos="noun">tijjem</errorort> spåårh jïh maahta vielie mielhkiem sjïdtedh. <errorort correct="Bïssh" errtype="ascii" pos="verb">Bissh</errorort> gïetide. Skreejrehth njammam guktie <errorort correct="galkehtimmierefleekse" errtype="vow" pos="noun">galkehtimmiereflekse</errorort> aalka.
+  </p>
+    <p>
+Datne <errorort correct="byörh" errtype="ascii" pos="verb">byørh</errorort> pumpadidh jallh gïetine buhtjedh 7-8 aejkieh dygnesne <errorort correct="jis" errtype="vow" pos="cs">jïs</errorort> maana aadtjen reakadamme, jïh medtie 15-20 minudth provhkedh fïerhten aejkien. Skuvlh, <errorort correct="bïssh" errtype="ascii" pos="verb">bissh</errorort> jïh voessjh dejtie aatide maam provhkeme raajnes tjaetsesne pumpadimmien mænngan.
+  </p>
+    <p>
+Ietnienmielhkie, maam olkese buhtjeme, maahta <errorort correct="tjïehtjelebaahkesne" errtype="ascii" pos="noun">tjiehtjelebaahkesne</errorort> årrodh mahte 8 tæjmoeh. Datne maahtah dam jueskiedahkesne <errorort correct="vöörhkedh" errtype="ascii" pos="verb">vøørhkedh</errorort> 5 dygnh. Gelmiedahkesne gusnie - 20 <errorort correct="graadh" errtype="x" pos="noun">graaderh</errorort> maahta årrodh 6 askh. Leamkoehtamme mielhkie maahta 1 dygnem jueskiedahkesne årrodh. Baahkedh mielhkiem tjaetsielaavkomisnie goske 37 <errorort correct="graadh" errtype="x" pos="noun">graaderh</errorort>. Aellieh mielhkiem ikth vielie baahkedh.
+  </p>
+    <p type="title">
+Njaptja, <errorort correct="boehtele" errtype="con" pos="noun">poehtele</errorort> jïh njammemesåmskoe
+  </p>
+    <p>
+Maana joekehtslaakan njammesne njamma, enn guktie njaptjam jïh <errorort correct="boehtelem" errtype="con" pos="noun">poehtelem</errorort> njamma. Jïjnjh maanah eah buektehth gåabpagidie njammemevuekide, jïh maehtieh såmskoes sjïdtedh. Daah maanah maehtieh dåeriesmoerh åadtjodh radtjoeslaakan njammedh <errorort correct="jis" errtype="vow" pos="cs">jïs</errorort> <errorort correct="lïereme" errtype="ascii" pos="verb">liereme</errorort> njaptjam jallh <errorort correct="boehtelem" errtype="con" pos="noun">poehtelem</errorort> njammedh åvtelen lïereme tjiehpieslaakan njammedh. Dah eah kanne sïjhth njammam naan aejkien utnedh, jïh dïhte maahta geerve dutnjien sjïdtedh mij vaajtele njammehtidh. Dan dïehre ih <errorort correct="byörh" errtype="ascii" pos="verb">byørh</errorort> <errorort correct="aalkovisnie" errtype="vow" pos="noun">aalkoevisnie</errorort> njaptjam jallh <errorort correct="boehtelem" errtype="con" pos="noun">poehtelem</errorort> maanese vedtedh eannan datne eevre seekere maana tjiehpieslaakan njammeste njamma jïh leevlebe sjædta.
+  </p>
+    <p type="title">
+Kåahpine <errorort correct="bïepmehtidh" errtype="ascii" pos="verb">biepmehtidh</errorort></p>
+    <p>
+Jis datne tjoerh maanam jeatjahlaakan <errorort correct="bïepmehtidh" errtype="ascii" pos="verb">biepmehtidh</errorort> enn njammehtidh aktene boelhkesne, die maahta vijsies årrodh kåahpeste <errorort correct="bïepmehtidh" errtype="ascii" pos="verb">biepmehtidh</errorort> sijjeste <errorort correct="boehtelistie" errtype="con" pos="noun">poehtelistie</errorort>. Raaktan daate vuekie mahte seammalaakan maam maana pråvhka gosse njamma. Gosse naemhtie darjoeh dle ij maana njammemesåmskoes sjïdth. Baajh maanam dov eskesne tjahkasjidh jïh duvtieh maanan rudtjem, tjovresem jïh åejjiem.
+  </p>
+    <list>
+      <p type="listitem"><errorort correct="Bïejh" errtype="ascii" pos="verb">Biejh</errorort> aktem njaamelijniem maanan gïeti nille olles maana kåahpem leejhkh.
+    
+
+   </p>
+      <p type="listitem">
+
+    
+Provhkh aktem kåahpem, <errorort correct="njaptjaboehtelen" errtype="con" pos="noun">njaptjapoehtelen</errorort> <errorort correct="bijjiegietjiem" errtype="ascii" pos="noun">bijjiegïetjiem</errorort>, aktem dalhketjekåahpem jallh plearoeh
+    
+
+   </p>
+      <p type="listitem">
+
+    
+Baahkedh mielhkiem goske 37 <errorort correct="graadh" errtype="x" pos="noun">graaderh</errorort>, jïh dievhtesth kåahpem ånnetji vielie enn <errorort correct="bieliedïeves" errtype="ascii" pos="adj">bieliedieves</errorort></p>
+      <p type="listitem">
+
+    
+Gurkh vååregelaakan goske mielhkie jallan maanan njoektjemen sontere båata.
+    
+
+   </p>
+      <p type="listitem">
+
+    
+Baajh maanam mielhkiem tjoekedh. Ih edtjh mielhkiem maanan <errorort correct="sïjse" errtype="ascii" pos="pp">sijse</errorort> gurkedh. Datne vielie gurkh gosse vuajnah jïh gåvla maana <errorort correct="njihpelde" errtype="vow" pos="verb">njiehpelde</errorort>. Maana dïhte, mij edtja <errorort correct="gïehtjedidh" errtype="ascii" pos="verb">giehtjedidh</errorort> jïh moenedh.
+    
+
+   </p>
+    </list>
+    <p type="title">
+Mov maana ij sïjhth njammam vaeltedh
+  </p>
+    <p>
+Muvhth maanah ånnetji guhkebem <errorort correct="tïjjem" errtype="ascii" pos="noun">tijjem</errorort> daarpesjieh <errorort correct="lïeredh" errtype="ascii" pos="verb">lieredh</errorort> njammedh enn jeatjah maanah. Voejhkelh astedallh, jïh aellieh baanhtsan sjïdth. Sigkh vaarjojde bijjiekråahpesne jïh sigkh maanan vaarjoeh bielelen raajhpesem. Baajh maanam dov njaltjam damtedh, jïh baajh maanam <errorort correct="njammavaahterem" errtype="vowc" pos="noun">njammavahterem</errorort> hopsedh jïh maejstedh. Dennie gaskesne maahtah gïetine buhtjedh jallh pumpadidh, jïh mielhkiem kåahpeste vedtedh. <errorort correct="Pryövh" errtype="ascii" pos="verb">Pryøvh</errorort> daamhtetje maanam njammese <errorort correct="bïejedh" errtype="ascii" pos="verb">biejedh</errorort>. Jis maana <errorort correct="tjyöre" errtype="ascii" pos="verb">tjyøre</errorort>, soelkehth åvtelen njammese <errorort correct="bïejh" errtype="ascii" pos="verb">biejh</errorort>. Vihkeles ih maanam njammese trumhpesth. Aellieh vuertieh viehkien mietie gihtjedh baerselepoliklinihkeste, starnesåjhteristie jallh <errorlex correct="Njammemeviehkien" origpos="x" pos="x">Ammehjelpen</errorlex> luvhtie jis dåeriesmoerh åadtjoeh.
+  </p>
+    <p type="title">
+Gåessie maana maahta aelkedh <errorort correct="byöpmedidh" errtype="ascii" pos="verb">byøpmedidh</errorort>?
+  </p>
+    <p><errorort correct="Nöörjesne" errtype="ascii" pos="prop">Nøørjesne</errorort> juvnehte maanam ållesth njammehtidh 6 askh, ajve lissine D-vitamijneste (traane) 4 våhkoen raejeste. Dan mænngan maahtah aelkiestidh jeatjah beapmoeh vååregelaakan vedtedh mearan datne njammehteminie. Staaten raerie <errorort correct="bïepmehtæmman" errtype="ascii" pos="noun">biepmehtæmman</errorort> juvnehte edtja jåerhkedh njammehtidh abpe voestes jaepiem, jïh eeremasth guhkebem. Jis maana ij leavloem lissehth jallh datne <errorort correct="ovtråjjedh" errtype="x" pos="verb">ov-tråjjedh</errorort> njammehtidh, maahtah garre beapmoejgujmie aelkedh gosse maana 4 asken båeries. Jis maana nuerebe enn 4 askh jïh lissiem daarpesje, edtjh <errorort correct="ietnienmielhkielotnegem" errtype="x" pos="noun">ietnienmielhkie-lotnegem</errorort> vedtedh. Jis maana båarasåbpoe enn njieljien asken båeries, juvnehte garre beapmoem. Gaskesadth starnegåetiem jïh digkedh dejgujmie jis daate akte <errorort correct="sjyöhtehke" errtype="ascii" pos="adj">sjyøhtehke</errorort> dåeriesmoere dutnjien.
+  </p>
+    <p type="title">
+Maana <errorort correct="tjåejjiebaaktjesem" errtype="x" pos="noun">tjåejjie-baaktjesem</errorort>/ <errorort correct="kolihkem" errtype="con" pos="noun">kolikkem</errorort> åtna?
+  </p>
+    <p>
+Maanah mah <errorort correct="tjåejjiebaaktjesem" errtype="x" pos="noun">tjåejjie-baaktjesem</errorort>/ <errorort correct="kolihkem" errtype="con" pos="noun">kolikkem</errorort> utnieh geerve soelkehtidh. Dah daamtaj juelkide bæjjese <errorort correct="krööhkestieh" errtype="ascii" pos="verb">krøøhkestieh</errorort> mij vuesehte tjåejjie <errorort correct="baektjede" errtype="vowc" pos="verb">bæktjede</errorort>. Åvtelen daajrah mejtie maana tjåejjiebaaktjesem/ <errorort correct="kolihkem" errtype="con" pos="noun">kolikkem</errorort> åtna, tjoerh jeatjah fåantoeh laahpehtidh. Maana maahta tjearodh dannasinie bårrestohtoe jallh fer jïjnjem <errorort correct="byöpmedamme" errtype="ascii" pos="verb">byøpmedamme</errorort>. Jis tuhtjh maana fer jïjnjem <errorort correct="tjyöre" errtype="ascii" pos="verb">tjyøre</errorort>, dellie tjoerh maanam meatan vaeltedh dåakteren gåajkoe edtjh <errorort correct="gïehtjedidh" errtype="ascii" pos="verb">giehtjedidh</errorort> mejtie maana skïemtjine. Akte maana mij ij gåaredh soelkedehtedh jïh vielie enn 3 tæjmoeh biejjege <errorort correct="tjyöre" errtype="ascii" pos="verb">tjyøre</errorort>, golme biejjieh våhkosne jïh dam dorjeme dej minngemes golme våhkoej, maahta <errorort correct="slïedtetjåejjiebaaktjesem" errtype="ascii" pos="noun">sliedtetjåejjiebaaktjesem</errorort> utnedh, jis doh jeatjah fåantoeh laahpehtamme. Ij leah seekere man åvteste naan maanah slïedtetjåejjiebaaktjesem åadtjoeh, bene sïejhmelaakan <errorort correct="sliepkehte" errtype="vow" pos="verb">slïepkehte</errorort> golme askh mænngan. Daate akte streavere <errorort correct="tïjje" errtype="ascii" pos="noun">tijje</errorort> eejhtegidie, jïh dannasinie vihkeles nuekies åeredh jïh <errorort correct="lïegkedidh" errtype="ascii" pos="verb">liegkedidh</errorort>. Jis gåarede, dåastoeh viehkiem fuelhkeste jïh voelpijste. Jis jueriedisnie <errorort correct="byörh" errtype="ascii" pos="verb">byørh</errorort> starnesåjhterinie jallh <errorort correct="dåaktarinie" errtype="svow" pos="noun">dåakterinie</errorort> raeriestidh.
+  </p>
+    <p type="title">
+Saejries <errorort correct="njammavaahterh" errtype="vowc" pos="noun">njammavahterh</errorort></p>
+    <p>
+Jïjnjh tjidtjieh saejries <errorort correct="njammavaahterh" errtype="vowc" pos="noun">njammavahterh</errorort> åadtjoeh dan voestes <errorort correct="tïjjen" errtype="ascii" pos="noun">tijjen</errorort>. Jis maana tjiehpieslaakan njamma, ij edtjh baektjiedidh dejnie voestes biejjine jallh saejries <errorort correct="njammavaahterh" errtype="vowc" pos="noun">njammavahterh</errorort> vedtedh. Jis maana <errorort correct="båajhtoehlaakan" errtype="x" pos="adv">båajhtoeh-laakan</errorort> guhkebem njamma, dellie aelhkie saejries <errorort correct="njammavaahterh" errtype="vowc" pos="noun">njammavahterh</errorort> åadtjodh.
+  </p>
+    <list>
+      <p type="listitem">
+
+    
+Tjïhkedh jallh gilledh guktie <errorort correct="lïegkedh" errtype="ascii" pos="verb">liegkedh</errorort>, jïh baajh maanam tjiehpieslaakan njammedh.
+    
+
+   </p>
+      <p type="listitem">
+
+    
+Behtjedh ohtje ietnienmielhkiem <errorort correct="njammavaahterasse" errtype="vowc" pos="noun">njammavahterasse</errorort>. Baajh gejhkedh.
+    
+
+   </p>
+      <p type="listitem"><errorort correct="Bïssh" errtype="ascii" pos="verb">Bissh</errorort> gïetide veelelaakan olles bakterijh njamman <errorort correct="sïjse" errtype="ascii" pos="pp">sijse</errorort> båetieh saejriej jïh raajsi baaktoe.
+    
+
+   </p>
+    </list>
+    <p>
+Naakenidie maahta baektjiedidh gosse njammeminie jalhts <errorort correct="njammavaahterh" errtype="vowc" pos="noun">njammavahterh</errorort> eah leah saejrine. Jis baektjede aaj njammemen mænngan maahta aktem ovlemem årrodh mij lea båateme goebperijstie jallh <errorort correct="bakterijijstie" errtype="con" pos="noun">bakterijistie</errorort>. <errorort correct="Jïjnjesh" errtype="ascii" pos="adj">Jijnjesh</errorort> buerkiestieh daejtie baektjiedimmide goh njammesne baskehte. Jis njaelmiegoebperh maahta muvhten aejkien vuejnedh maanan njaelmien <errorort correct="sisbielie" errtype="x" pos="noun">sis-bielie</errorort> lea veelkes. Nuhtjh njammemeslampoeh mejtie maahtah sleengkedh jallh bissedh unnemes 60 <errorort correct="graadine" errtype="x" pos="noun">graaderinie</errorort>. Njaptjah jïh dagkeres gårvoetjåenieh tjoerh aaj fïerhten biejjien voessjedh. Gaskesadth dåakterem jallh starnesåjhterem edtjh goerehtidh mij lea, jïh guktie edtjh dam båehtjierdidh.
+  </p>
+    <p type="title">
+Jahtseldahke
+  </p>
+    <p>
+Gosse mielhkie riktilaakan båata naan biejjiej mænngan, dellie jïjnjh nyjsenæjjah dååjrehtieh njammah garres <errorort correct="sjidtieh" errtype="vow" pos="verb">sjïdtieh</errorort> jïh baektjiedieh. <errorort correct="Bööremes" errtype="ascii" pos="adj">Bøøremes</errorort> baajedh maanam daamtaj njammedh ollh jahtseldahkem åadtjoeh. Maana maahta njammedh dan daamtaj jïh <errorort correct="jïjnjem" errtype="ascii" pos="adj">jijnjem</errorort> satne sæjhta. Jis dåeriesmoerh saejrine, maana ij daarpesjh njammedh ajve murredsvoeten åvteste, jïh datne <errorort correct="byörh" errtype="ascii" pos="verb">byørh</errorort> <errorort correct="pryövedh" errtype="ascii" pos="verb">pryøvedh</errorort> goerehtidh mannasinie saejrine sjïdth. Ånnetji mænngan dellie njammah <errorort correct="sijhtieh" errtype="x" pos="verb">sïjhtieh</errorort> dan jïjnjem mielhkine båetedh mij maana daarpesje.
+  </p>
+    <p type="title">
+Domhpes mielhkieåerieh
+  </p>
+    <p>
+Gosse akte sijjie njammeste ij doemenh, maahta domtedh goh akte sååjrehke jïh bankes sijjie. Datne maahtah aaj ånnetji gåalodh jïh vaejliem åadtjodh, bene ajve ståantetjem. Dellie tjoerh daam sijjiem <errorort correct="döömedh" errtype="ascii" pos="verb">døømedh</errorort> fïerhten mubpien tæjmoen biejjege jïh <errorort correct="göökth" errtype="ascii" pos="num">gøøkth</errorort> <errorort correct="jïjjen" errtype="ascii" pos="noun">jijjen</errorort>. <errorort correct="Bööremes" errtype="ascii" pos="adj">Bøøremes</errorort> jis maana njamma, bene datne maahtah aaj gïetine buhtjedh jallh njammemepumpam nuhtjedh. Viehkehth guktie aalka galkedh goh aarebi buerkiestamme. Gosse njammehte jallh pumpam nuhtjh, knugkh voestegh njammam vååregelaakan. Dam darjoeh gosse stynkehkelaakan, bene vååregelaakan dom garre sijjiem deehkedh <errorort correct="njammavaahteren" errtype="vowc" pos="noun">njammavahteren</errorort> <errorort correct="vööste" errtype="ascii" pos="pp">vøøste</errorort>. Dam edtjh ajve darjodh gosse mielhkie aalkeme galkedh. Ij edtjh båaloeh knugkedh bielelen mielhkie galka, dellie maahtah mielhkiem njamman <errorort correct="sïjse" errtype="ascii" pos="pp">sijse</errorort> tjabredh jïh akte <errorort correct="ijbakterieelle" errtype="mix" pos="adj">ij-bakterijelle</errorort> ovleme maahta destie båetedh. Datne maahtah aktem lijnies bådtjam jallh åljam nuhtjedh, dellie soermh buerebelaakan njalhkedieh. Jis njammemeslampoeh ållojste nuhtjh jïh baahketjaetsesne laavkoeh jallh <errorort correct="dusjedh" errtype="x" pos="verb">dussjedh</errorort> die maahta buerebe sjïdtedh.
+  </p>
+    <p>
+Naakenidie maahta gellie biejjieh <errorort correct="ryöhkedh" errtype="ascii" pos="verb">ryøhkedh</errorort> eannan doh båaloeh gaarvenieh. Ij leah vaarege dan guhkiem goh doh båaloeh unnebe <errorort correct="sjidtieh" errtype="ascii" pos="verb">sjïdtieh</errorort>. Jis båaloeh åtnah mah eah unnebe sjïdth jalhts njammide daamtaj <errorort correct="döömh" errtype="ascii" pos="verb">døømh</errorort>, jallh dah guhkiem årroeh, <errorort correct="byörh" errtype="ascii" pos="verb">byørh</errorort> <errorort correct="dåaktarinie" errtype="svow" pos="noun">dåakterinie</errorort> soptsestidh.
+  </p>
+    <p type="title">
+Njammaovleme
+  </p>
+    <p>
+Njammaovleme maahta sjïdtedh jis ij jahtseldahkem jallh domhpes mielhkieåerieh båehtjerdh, jïh/ jallh <errorort correct="bakterijh" errtype="vowc" pos="noun">baakterijh</errorort> saejrine jïh raajsine båetieh <errorort correct="njammavaahterisnie" errtype="vowc" pos="noun">njammavahterisnie</errorort>. Njamma maahta garres, bankes, sååjrehke, baahkes jïh <errorort correct="rööpses" errtype="ascii" pos="adj">røøpses</errorort> sjïdtedh. Datne jolle vaejliem åadtjoeh jïh skïemtjine domth. Såemies nyjsenæjjah maehtieh hijven vihth sjïdtedh akten dygnen mænngan jis buhtjieh (njammehtidh, gïetine buhtjedh jallh pumpadidh) fïerhten mubpien tæjmoen biejjege jïh <errorort correct="göökth" errtype="ascii" pos="num">gøøkth</errorort> <errorort correct="jïjjen" errtype="ascii" pos="noun">jijjen</errorort>. Jis ih datne buerebe sjïdth, <errorort correct="byörh" errtype="ascii" pos="verb">byørh</errorort> dåakteren gåajkoe. <errorort correct="Kaanne" errtype="vowc" pos="x">Kanne</errorort> datne antibiotikam daarpesjh edtjh tjarres sjïdtedh. <errorort correct="Lïegkedh" errtype="ascii" pos="verb">Liegkedh</errorort> jïh jïjnjem åerieh, jïh baajh naan jeatjebh maanam sujhtedh. Vijsies ohtje <errorort correct="mielhkiepryövem" errtype="ascii" pos="noun">mielhkiepryøvem</errorort> <errorort correct="dåaktarasse" errtype="svow" pos="noun">dåakterasse</errorort> vaeltedh.
+  </p>
+    <p>
+Naemhtie <errorort correct="mielhkiepryövoem" errtype="mix" pos="noun">mielhkiepryøvem</errorort> vaaltah:
+  </p>
+    <list>
+      <p type="listitem"><errorort correct="Bïssh" errtype="ascii" pos="verb">Bissh</errorort> gïetide jïh njammam voestegh
+    
+
+   </p>
+      <p type="listitem">
+
+    
+Skreejrehth guktie mielhkie aalka galkedh
+    
+
+   </p>
+      <p type="listitem"><errorort correct="Sleengkh" errtype="con" pos="verb">Sleenghkh</errorort> doh voestes <errorort correct="njöörehtassh" errtype="ascii" pos="noun">njøørehtassh</errorort></p>
+      <p type="listitem">
+
+    
+Nuhtjh aktem onne raajnes klaasem/ <errorort correct="gadtjepryövoeklaasem" errtype="mix" pos="noun">gadtjepryøveklaasem</errorort> jïh sjåavkelh naan <errorort correct="millimeeterh" errtype="con" pos="noun">millimeeter</errorort> mielhkeste klaasen <errorort correct="sïjse" errtype="ascii" pos="pp">sijse</errorort>.
+    
+
+   </p>
+    </list>
+    <p type="title" xml:lang="ger">
+Tsapkeme
+  </p>
+    <p>
+Gosse maana edtja njammine tsapkedh, die hijven dam soejmetjilaakan darjodh ollh jahtseldahkem åadtjoeh. Orrijieh aktine maalestahkine naan biejjiej gaskem, seamma aejkien goh datne maalestahkide åenebe darjoeh edtjh vaenebe jïh vaenebe mielhkiem njammeste vaeltedh. Naemhtie sæjhta vaenebe mielhkie sjïdtedh. <errorort correct="Jieniebidie" errtype="svow" pos="adj">Jienebidie</errorort> sæjhta medtie 14 biejjieh <errorort correct="ryöhkedh" errtype="ascii" pos="verb">ryøhkedh</errorort> maanam tsapkelidh, bene daate naa sjïere fïereguhtese.
+  </p>
+    <p type="title">
+Njammedh jïh rïevhkestidh
+  </p>
+    <p>
+Jïjnjh dejstie dilhkesijstie <errorort correct="sigaredtine" errtype="con" pos="noun">sigarettine</errorort> ietnienmealhkan båetieh. Dan dïehre ih <errorort correct="byörh" errtype="ascii" pos="verb">byørh</errorort> rïevhkestidh dan guhkiem datne njammehteminie. Mænngan datne rïevhkestamme dïhte veahka jollemes. Rïevhkestidh maahta darjodh guktie vaenebe mielhkie sjædta, jïh doh maanah dejstie rïevhkestimmie <errorort correct="tjidtjiebijstie" errtype="svow" pos="nooun">tjidtjebijstie</errorort> daamtajåbpoe tjåejjiebaaktjesem åadtjoeh enn jeatjebh. Jalhts datne rïevhkesth dellie <errorort correct="byörh" errtype="ascii" pos="verb">byørh</errorort> læjhkan njammehtidh, ihke ietnienmielhkie dan hijven. Datne <errorort correct="byörh" errtype="ascii" pos="verb">byørh</errorort> rïevhkestidh dan vaenie goh gåarede jïh rïevhkestidh gosse njammehtamme, guktie jïjnjh dejstie dilhkesijstie mielhkiem laahpeme åvtelen edtjh vihth njammehtidh. Aellieh rïevhkesth seamma <errorort correct="tjïehtjelisnie" errtype="mix" pos="noun">tjiehtjielisnie</errorort> gusnie maana.
+  </p>
+    <p type="title">
+Njammedh jïh <errorort correct="alkohovle" errtype="con" pos="noun">alkohole</errorort>/ ruvsevierhtieh
+  </p>
+    <p><errorort correct="Alkohovle" errtype="con" pos="noun">Alkohole</errorort> ietnienmealhkan båata jïh mealhkan seamma <errorort correct="alkohovleveahkam" errtype="con" pos="noun">alkoholeveahkam</errorort> vadta maam datne <errorort correct="vïrresne" errtype="ascii" pos="noun">virresne</errorort> åtnah. Akte aadtjen reakadamme maana <errorort correct="alkohovlem" errtype="con" pos="noun">alkoholem</errorort> buerebelaakan damta enn akte geerve, jïh ij dam vuelege raastem <errorort correct="skaarasevtiedæmman" errtype="con" pos="noun">skaaratsevtiedæmman</errorort> daejrieh. Datne <errorort correct="byörh" errtype="ascii" pos="verb">byørh</errorort> dan åvteste dan vaenie <errorort correct="alkohovlem" errtype="con" pos="noun">alkoholem</errorort> jovkedh goh gåarede. Dov mielhkesne seamma promille goh dov <errorort correct="vïrresne" errtype="ascii" pos="noun">virresne</errorort>.
+  </p>
+    <p>
+Gosse promille ij leah dov <errorort correct="vïrresne" errtype="ascii" pos="noun">virresne</errorort> vielie jïh datne maahtah <errorort correct="bïjlem" errtype="ascii" pos="noun">bijlem</errorort> vuejedh, dellie mielhkeste aaj jåhteme jïh datne maahtah njammehtidh. Aellieh jeatjah ruvsevierhtieh nuhtjh.
+  </p>
+    <p type="title">
+Njammedh jïh dalhketjh nuhtjedh
+  </p>
+    <p>
+Gaajhkh dalhketjh ietnienmealhkan båetieh stuerebe- jallh unnebelaakan. Jïjnjh dalhketjh maahta nuhtjedh gosse njammehteminie. Tjuara vuartasjidh man hijven ietnienmielhkie lea jïh dam <errorort correct="vïekesjidh" errtype="ascii" pos="verb">viekesjidh</errorort> dalhketji nåakevoeti <errorort correct="vööste" errtype="ascii" pos="pp">vøøste</errorort> jis ij sïjhth njammehtidh. Jïjnjh bïevnesh gååvnese dalhketji jïh njammemen bïjre. Gaskesadth dan åvteste starnebarkijh mah maehtieh dam <errorort correct="lïhkebe" errtype="ascii" pos="adj">lihkebe</errorort> <errorort correct="gïehtjedidh" errtype="ascii" pos="verb">giehtjedidh</errorort>. Jis datne daarpesjh leahpanamhtah dalhketjh provhkedh, lohkh iktegisth tjaalegem mij lea paahken sisnie mejtie maahtah njammehtidh. Datne <errorort correct="byörh" errtype="ascii" pos="verb">byørh</errorort> aaj dov <errorort correct="dåaktarinie" errtype="svow" pos="noun">dåakterinie</errorort> raeriestidh jis jueriedisnie mejtie maahtah njammehtidh.
+  </p>
+    <p type="title">
+Aehtjien sijjie
+  </p>
+    <p>
+Aehtjine dov <errorort correct="jïjnjh" errtype="mix" pos="adj">jiïnjh</errorort> vihkeles barkoeh <errorort correct="tïjjen" errtype="ascii" pos="noun">tijjen</errorort> åvtese. Tjidtjie raeffiem jïh <errorort correct="lïegkedimmiem" errtype="ascii" pos="noun">liegkedimmiem</errorort> daarpesje reakadimmien mænngan. Daate vihkeles, jis tjidtjebe jïh maanebe edtjijægan njammeminie læhkadidh. Aavodh tjidtjine gosse njammeme hijvenlaakan jåhta, sijjeste vaajtelidh datne maahteme maanam <errorort correct="bïepmehtidh" errtype="ascii" pos="verb">biepmehtidh</errorort>. Murredh maanine jïh årroeh maanine gosse maana ij tjidtjien njammam daarpesjh. Naemhtie datne lïerh maam maana sæjhta dan varki goh gåarede. Datne tjoerh jååhkesjidh njammeme lea maanan jïh tjidtjien eatneme. Årroeh desnie dejgujmie, jïh viehkehth gåetiebarkojne jïh stuerebe maanajgujmie. Mujhtieh datne leah tjidtjien jïh maanan <errorort correct="vihkielommes" errtype="svow" pos="adj">vihkelommes</errorort> <errorort correct="dåarjelimmie" errtype="vow" pos="noun">dåarjoelimmie</errorort>.
+  </p>
+    <p type="title">
+Njammemeviehkie
+  </p>
+    <p>
+Njammemeviehkesne <errorort correct="tjidtjieh" errtype="x" pos="noun">tjidjtieh</errorort> <errorort correct="jïjtsinie" errtype="ascii" pos="refl">jijtsinie</errorort> njammemedååjrehtimmine jïh mah <errorort correct="ööhpehtimmiem" errtype="ascii" pos="noun">øøhpehtimmiem</errorort> utnieh njammemen bïjre. Mijjen viehkie namhtah. Ij leah mijjen naan <errorort correct="gaahpoehtïjjh" errtype="ascii" pos="noun">gaahpoehtijjh</errorort>, bene viehkiem mijjen <errorort correct="hïejmijste" errtype="ascii" pos="noun">hiejmijste</errorort> vedtebe eejehtallemisnie. Hijven jis datne ih mijjese <errorort correct="jïjjen" errtype="ascii" pos="noun">jijjen</errorort> ringkh. Jis ibie buektehth datnem viehkiehtidh, maahtah akten jeatjabasse læstosne ringkedh. Jis datne raerieh daarpesjh njammemen bïjre, maahtah mijjem gaskesadtedh <errorort correct="telefovnesne" errtype="con" pos="noun">tellefovnesne</errorort> jallh e-påastesne. Mijjen nummerh gaavnh mijjen nedtesæjrosne www.ammehjelpen.no jïh tjaaleginie mah reakadimmiesijjine åadtjoeh.
+  </p>
+    <p>
+Jis datne sïjhth <errorort correct="lïhtsegelohkem" errtype="ascii" pos="noun">lihtsegelohkem</errorort> sjïdtedh, gaskesadth mijjen <errorort correct="tjaelijesijjiem" errtype="vow" pos="noun">tjaelijesijjem</errorort> <errorort correct="telefovnesne" errtype="con" pos="noun">tellefovnesne</errorort>: 62 45 52 51 jallh e-påaste ammehjelpen@ammehjelpen.no, dle vielie bïevnesh åadtjoeh.
+  </p>
+    <p type="title">
+      <errorort correct="Litteratuvre" errtype="conc" pos="noun">Lidteratuvre</errorort>
+    </p>
+    <list>
+      <p type="listitem" xml:lang="nob">
+
+    
+”Telefonhandbok for ammespørsmål”, Sandra Jolley jïh Ellen Phillips-Angeles, Ammehjelpen
+    
+
+   </p>
+      <p type="listitem" xml:lang="nob">
+
+    
+”Mamma for første gang”, Gro Nylander
+    
+
+   </p>
+      <p type="listitem" xml:lang="nob">
+
+    
+”Håndbog i vellykket amming – en vejleder til sundhedspersonale”, Sundhedsstyrelsen i Danmark
+    
+
+   </p>
+      <p type="listitem" xml:lang="nob">
+
+    
+”Amming”, Elisabet Helsing jïh Anne Bærug, Kolibri forlag
+    
+
+   </p>
+      <p type="listitem">
+
+    
+Hvordan du ammer ditt barn, <errorort correct="Sosijaale-" errtype="vow" pos="adj">Sosijale-</errorort> jïh <errorort correct="Starnedirektoraate" errtype="mix" pos="noun">Starnedirektovrate</errorort> 2005
+    
+
+   </p>
+    </list>
+    <p>
+Gilda Bjørnson jïh Anita S. Schrøder daam Njammemeviehkien tjaalegem dorjeme
+  </p>
+    <p xml:lang="sme">
+Anne Brenneng guvvide dorjeme.
+  </p>
+    <p>
+Golken 2005
+  </p>
+  </body>
+</document>

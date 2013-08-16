@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document id="no_id" xml:lang="sma">
+  <header>
+    <title></title>
+    <genre/>
+    <author>
+      <person born="" firstname="" lastname="Sissel Jåma" nationality="en_US" sex="unknown"/>
+    </author>
+    <year>2012</year>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 48460 $; </version>
+  </header>
+  <body>
+    <p type="title">
+Jaepietjåanghkoe 2010
+  </p>
+    <p type="title">
+Buerie Båateme Sáminuorran <errorort correct="Jaepietjåanghkose" errtype="mix" pos="noun">Jaepietjåangkoese</errorort></p>
+    <p>
+Daelie <errorort correct="vihth" errtype="mix" pos="adv">vidt</errorort> aejkie Sáminuorran <errorsyn correct="jaepietjåanghkose" errtype="x" pos="noun">jaepie <errorort correct="tjåanghkose" errtype="mix" pos="noun">tjåangkoemasse</errorort></errorsyn>! Dan jaepien <errorort correct="böörestidh" errtype="mix" pos="verb">bböörstidh</errorort> dijjen <errorort correct="Geavtsejaavran" errtype="vow" pos="prop">Geavtsjaavran</errorort> suehpeden 7-9 b. Suehpeden <errorort correct="dïhte" errtype="ascii" pos="dem">dihte</errorort> aske goh aaltoe <errorort correct="miesiem" errtype="suf" pos="noun">miesim</errorort> njååle. Maahta <errorort correct="sån" errtype="vowc" pos="x">son</errorort> daam joe daajra. Bene lea ussjedamme guktie <errormorphsyn cat="sg2prs" const="x" correct="datne dam daajrah" errtype="x" orig="sg3prs" pos="verb">datne daam daajra</errormorphsyn>? <errorortreal correct="Maahta" errtype="vowc" pos="verb">Mahta</errorortreal> <errorort correct="sån" errtype="vowc" pos="x">son</errorort> ahte aahkedh gie daam <errorort correct="soptsestamme" errtype="con" pos="verb">soptstamme</errorort>, <errorortreal correct="maahta" errtype="vowc" pos="verb">mahta</errorortreal> aaj ahte <errorort correct="jïjtje" errtype="mix" pos="refl">jiejtje</errorort> rööpsesmieside vuejneme <errorort correct="gïjregen" errtype="ascii" pos="adv">gijregen</errorort> goh dah svååjpeldin?  Lea ussjedamme maam jeeneh <errormorphsyn cat="sg2prd" const="x" correct="datne joe daajrah" errtype="x" orig="sg3prs" pos="verb">datne joe daajra</errormorphsyn> <errorsyn correct="saemie-eatnemen" errtype="x" pos="noun">saemie <errorort correct="eatnemen" errtype="vow" pos="noun">eatnamen</errorort></errorsyn> <errorort correct="bïjre" errtype="ascii" pos="pp">bijre</errorort>. Jallh maam jeeneh <errorort correct="aahtjedh" errtype="vowc" pos="x">aehtjedh</errorort>, aahkedh jallh dov voelph deejrin <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> meehtin? Lea goh <errorort correct="gie" errtype="vow" pos="x">gij</errorort> akt soptsestamme maam dovres <errorort correct="dïhte" errtype="ascii" pos="dem">dihte</errorort> <errorort correct="maahtoe" errtype="conc" pos="noun">maahoe</errorort> lea?
+  </p>
+    <p>
+Mijjen eatneme
+  </p>
+    <p>
+Dan jaepien <errorort correct="sïjhtebe" errtype="ascii" pos="verb">sijhtebe</errorort> dutnjan <errorort correct="soptsestidh" errtype="mix" pos="verb">soptstidh</errorort>, noere saaman, man stoerre <errorort correct="vyörtegs" errtype="con" pos="adj">vyörtegks</errorort> dov jielemevuekie, <errorort correct="åssjalommes" errtype="con" pos="noun">åssjalomme</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> maahtoe lea. Mijjen <errorort correct="aamhtese" errtype="vow" pos="noun">aamhtse</errorort> dan jaepien lea mijjen <errorort correct="eatneme" errtype="vow" pos="noun">eatname</errorort>, mijjen <errorort correct="gåetie" errtype="mix" pos="noun">gåadtie</errorort>. Mij <errorort correct="deahpede" errtype="vow" pos="verb">deahpade</errorort> goh mijjen eatneme <errorort correct="jeatjahtåvva" errtype="mix" pos="verb">jaetjahtovva</errorort>? Goh <errorort correct="vearelde" errtype="mix" pos="noun">vaeralhte</errorort> ij lea numhtie goh orreme, <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> goh mijjen <errorort correct="eatneme" errtype="vow" pos="noun">eatname</errorort> <errorort correct="gaertjebe" errtype="vowc" pos="adj">gärtjebe</errorort> <errorort correct="sjïdteme" errtype="ascii" pos="verb">sjidteme</errorort>. Maam <errorort correct="mijjieh" errtype="vow" pos="pers">mijjeh</errorort> aerebi <errorort correct="skraavrome" errtype="vow" pos="verb">skraavroeme</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> maam maehtebe <errorort correct="båetije aejkesne" errtype="mix" pos="mix">båatieaejkiesne</errorort> veanhtadidh? Maam <errorort correct="veareldevyrhteme" errtype="mix" pos="noun">vearaldevyrhte</errorort> <errorort correct="noerhtedajven" errtype="vowc" pos="noun">noerhtedaajven</errorort> <errorort correct="almetjidie" errtype="suf" pos="noun">almetjidi</errorort> maaksa? Guktie edtja Saminuorra byjremegyhtjelassine barkedh? Workshopijne edtjebe damtehtidh <errorort correct="almetjigujmie" errtype="mix" pos="noun">almetjijgyjmie</errorort> mah barkeme <errorort correct="byjresegyhtjelassigujmie" errtype="mix" pos="noun">byjresegyhtjelasgyjmie</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> saemie <errorort correct="eerpememaahtojne" errtype="mix" pos="noun">eerpeme-maahtoejne</errorort>.
+  </p>
+    <p xml:lang="sme">
+Sohppar
+  </p>
+    <p><errormorphsyn cat="sg2prs" const="x" correct="Ij leah" errtype="x" orig="sg3prs" pos="verb">Ij lea</errormorphsyn> barre <errorort correct="sijjienomme" errtype="vow" pos="noun">sijjenomme</errorort> <errorort correct="Noerhte-Saepmesne" errtype="mix" pos="prop">noertesaapmesne</errorort> Sveerjenbealesne, bene aaj <errorort correct="dejpeli" errtype="mix" pos="adv">deejpele</errorort> <errorort correct="noerhtesaemien" errtype="conc" pos="noun">noertesaemien</errorort> nomme <errorort correct="gaavnesjimmiesijjese" errtype="x" pos="noun">gaavnesjimmie-sijjese</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="latjkestallemasse" errtype="vow" pos="noun">latjkestallamasse</errorort>. Dan jaepien njaahtoehtin <errorort correct="jeatjahtehtedh" errtype="vow" pos="verb">jeatjahtohtedh</errorort> mijjen <errorort correct="tjåanghkoevuekiem" errtype="mix" pos="noun">tjåangkoe-vuekiem</errorort>. Åvtelen <errorort correct="mijjieh" errtype="vow" pos="pers">mijjeh</errorort> <errorort correct="jillie-eatnemen" errtype="vow" pos="noun">jillie-eatnamen</errorort> vuekide <errorort correct="dåeriedamme" errtype="vow" pos="verb">dåariedamme</errorort>, <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="dorjeme" errtype="mix" pos="verb">darjoeme</errorort> numhtie goh dah ööhpehtamme <errorort correct="saemide" errtype="suf" pos="noun">saemiede</errorort> guktie staaran lea. Daelie <errorort correct="sïjhtebe" errtype="ascii" pos="verb">sijhtebe</errorort> saemien vuekien mietie barkedh. <errorort correct="Mijjieh" errtype="vow" pos="pers">Mijjeh</errorort> edtjebe raeriehtalledh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <span type="quote" xml:lang="sme">“sohppardalledh”</span>. <errorortreal correct="Mijjieh" errtype="mix" pos="pers">Mijje</errorortreal> edtjebe <errorort correct="soptsestalledh" errtype="con" pos="verb">soptsesdalledh</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="sïemes" errtype="vow" pos="adj">sïemies</errorort> <errorort correct="sjïdtedh" errtype="ascii" pos="verb">sjidtedh</errorort>. Nåennieh <errorort correct="dïhte" errtype="ascii" pos="dem">dihte</errorort> vadta nuepieh dutnjan <errorort correct="lïhtseginie" errtype="ascii" pos="noun">lihtseginie</errorort> <errorort correct="tsevtsedh Sáminuorran" errtype="x" pos="mix">tsevtsedhSáminuorran</errorort> <errorort correct="darjomes" errtype="svow" pos="noun">darjoemes</errorort>! <errormorphsyn cat="gensg" const="x" correct="Saemien noerh Nöörjeste" errtype="x" orig="nomsg" pos="noun">Saemie noerh Nöörjeste</errormorphsyn>, <errorort correct="Såevmeste" errtype="con" pos="prop">Svåavmeste</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="Russlaanteste" errtype="mix" pos="prop">Rysslanteste</errorort> aaj bööresovveme <errorort correct="tjåanghkose" errtype="mix" pos="noun">tjåangkoese</errorort>, <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> dellie <errorort correct="fihkebe" errtype="con" pos="verb">fijhkebe</errorort> <errorort correct="raajoej" errtype="vow" pos="noun">raajij</errorort> <errorortreal correct="rastah" errtype="mix" pos="pp"><errorort correct="raaste" errtype="mix" pos="noun">raste</errorort></errorortreal> aaj barkedh. Dan jaepien <errorort correct="fihkin" errtype="con" pos="verb">fijhkin</errorort> jeenemes 100 <errorort correct="lïhtsegh" errtype="ascii" pos="noun">lihtsegh</errorort> <errorort correct="tjåanghkose" errtype="mix" pos="noun">tjåangkoese</errorort>. <errorort correct="Bïevnesh" errtype="ascii" pos="noun">Bievnesh</errorort> <errorort correct="jïjtje" errtype="mix" pos="refl">jiejties</errorort> dan varki goh maahta! Minngemes biejjie bievnestidh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="jïjtje" errtype="mix" pos="refl">jiejties</errorort> soejkesjem buektedh lea voerhtjen 27 b. <errorort correct="Bïevneseåasa" errtype="mix" pos="noun">Bievnesh-åasa</errorort> lea 100 kråvnoeh <errorort correct="lïhtsegidie" errtype="ascii" pos="noun">lihtsegidie</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> 500 kråvnoeh <errorort correct="båatsoedajvide" errtype="mix" pos="noun">båatsoe-daajvide</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="siebride" errtype="ï" pos="noun">sïebride</errorort>. Daan <errormorphsyn cat="gensg" const="pph" correct="åesien åvteste" errtype="x" orig="illsg" pos="noun">åasan <errorort correct="åvteste" errtype="vow" pos="pp">åvteseste</errorort></errormorphsyn> <errorort correct="fihkh" errtype="con" pos="verb">fijhkh</errorort> fealadidh Sáminuorran <errorort correct="bussi" errtype="suf" pos="noun">bussij</errorort> mietie, <errorort correct="orremesijjiem" errtype="mix" pos="noun">orreme-sijjem</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> beapmoe. Hïelje lea <errorort correct="hævvi" errtype="mix" pos="c">hävvie</errorort> <errorort correct="alkohovlen namhtah" errtype="mix" pos="mix">alkoholegamta</errorort>.
+  </p>
+    <p xml:lang="nob">
+Vaajmoste heelsegh!
+  </p>
+    <p><errorort correct="Åejvie" errtype="vowc" pos="noun">Åajvie</errorort> Helena Omma <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> Sáminuorran <errorort correct="ståvroen" errtype="vowc" pos="noun">stovroen</errorort> luvhtie 
+  </p>
+    <p xml:lang="smj"><errorort correct="Bïevnesh" errtype="ascii" pos="noun">Bievnesh</errorort> Sáminuorran <errorort correct="kansellijese" errtype="mix" pos="noun">kanseliese</errorort>. 
+  </p>
+    <p xml:lang="nob">
+E-påaste: <em type="italic">saminuorra@same.net</em> Tel: 0980-82147
+  </p>
+    <p type="title">
+Jaepietjåanghkoe 2011
+  </p>
+    <p type="title">
+Buerie båateme Sáminuorran <errorort correct="jaepietjåanghkose" errtype="mix" pos="noun">jaepietjåangkoese</errorort></p>
+    <p>
+Ussjedh, jis DATNE noere saemie <errorort correct="fihkeme" errtype="con" pos="verb">fijhkeme</errorort> mearadidh guktie Saepmie edtja <errorort correct="årrodh" errtype="vowc" pos="verb">arredh</errorort> 2025, guktie dov <errorort correct="båetije" errtype="vowc" pos="noun">båatije</errorort> aejkie <errorort correct="orreme" errtype="vowc" pos="verb">arreme</errorort>? Lea goh <errorort correct="gåessie" errtype="vowc" pos="x">gåassie</errorort> doesteme dam nïekedidh?
+  </p>
+    <p>
+Mov nïekedasse <errorort correct="naemhtie" errtype="conc" pos="adv">naemtie</errorort>: Jaepie 2025 <errormorphsyn cat="pl3prs" const="x" correct="gaajhkh saemien noerh åajsoeh buerielaakan" errtype="x" orig="du1prs" pos="verb">gaajhkh saemien noerh <errorort correct="åajsoen" errtype="vow" pos="verb">åajsien</errorort> buerielaakan</errormorphsyn>, <errormorphsyn cat="acksg" const="x" correct="dah maehtieh jïjtjesh jielemem veeljedh" errtype="x" orig="gensg" pos="noun"><errormorphsyn cat="x" const="x" correct="dah maehtieh jïjtjesh" errtype="x" orig="x" pos="refl"><errormorphsyn cat="pl3prs" const="x" correct="dah maehtieh" errtype="x" orig="du1prs" pos="verb">dah maehtien</errormorphsyn> jïjtjese</errormorphsyn> jielemen veeljedh</errormorphsyn> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> idtjin <errorort correct="daarpesjh" errtype="con" pos="verb">daarpesh</errorort> båasaridh jis <errorort correct="buektiehtin" errtype="con" pos="verb">buektiedin</errorort> ståaradidh saemien <errorort correct="jielieminie" errtype="suf" pos="noun">jielemeninie</errorort>, maanah mah <errorort correct="20-taalesne" errtype="mix" pos="noun">20-tallesne</errorort> veasoeh <errorort correct="fihkieh" errtype="con" pos="verb">fijhkieh</errorort> lïeredh saemien dovne <errorortreal correct="gåetine" errtype="vowc" pos="noun">gåatine</errorortreal> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> skuvline, Saepmie lea <errorort correct="dajve" errtype="vowc" pos="noun">daajve</errorort> gusnie dovne <errorort correct="båeries" errtype="vowc" pos="adj">båaries</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> orre jieleme <errorort correct="övtieduvvien" errtype="mix" pos="verb">öövtiedovvien</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errormorphsyn cat="sg3prs" const="x" correct="Sveerjen staateåejvie ringkie" errtype="x" orig="pl3prs" pos="verb">Sveerjen <errorort correct="staateåejvie" errtype="mix" pos="noun">staate-åajvie</errorort> ringkieh</errormorphsyn> Sáminuorran åvtehkasse gosse raeriem daarpesje goh edtja <errorort correct="nænnoestidh" errtype="ascii" pos="verb">nännoestidh</errorort> maam akt mij saemie noeride doehtede.
+  </p>
+    <p>
+Leam åajaldamme maam? <errorort correct="Hævvi" errtype="mix" pos="x">Hävvie</errorort> leam. Bene lea luhpie nïekedidh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="visjoneeredh" errtype="mix" pos="verb">visioneredh</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> jis ibie mijjieh <errorort correct="daejrieh" errtype="con" pos="verb">daejrie</errorort> maam <errorort correct="sïjhtebe" errtype="ascii" pos="verb">sijhtebe</errorort> dle <errorort correct="sjædta" errtype="vowc" pos="verb">sjadta</errorort> <errorort correct="geerve" errtype="vowc" pos="adj">gerve</errorort> uvtedidh. Goh daejrebe <errorort correct="maam" errtype="con" pos="x">maab</errorort> <errorort correct="sïjhtebe" errtype="ascii" pos="verb">sijhtebe</errorort> dle maehtebe gaavnedh <errorort correct="strategijem" errtype="con" pos="noun">strategiem</errorort> <errorort correct="dohka" errtype="con" pos="dem">dovhka</errorort> <errorort correct="jaksedh" errtype="vowc" pos="verb">jaaksedh</errorort>!
+  </p>
+    <p><errormorphsyn cat="gensg" const="x" correct="Dan jaepien" errtype="x" orig="acksg" pos="noun">Dan jaepiem</errormorphsyn> <errorort correct="aamhtese" errtype="vow" pos="noun">aamhtse</errorort> lea ektine åvtese
+  </p>
+    <p><errorort correct="Åssjalommes" errtype="con" pos="noun">Åssjalomme</errorort> lea <errormorphsyn cat="gensg" const="x" correct="mijjieh saemien noerh" errtype="x" orig="nomsg" pos="noun">mijjieh saemie noerh</errormorphsyn> edtjebe <errorort correct="årrodh" errtype="mix" pos="verb">arredh</errorort> pro-aktijve. <errorort correct="Årrodh" errtype="mix" pos="verb">Arredh</errorort> pro-aktijve lea eajhnadovvede guktie <errorort correct="mijjem" errtype="suf" pos="pers">mijjiem</errorort> <errorort correct="båetije" errtype="vowc" pos="adj">båatije</errorort> aejkie edtja <errorort correct="årrodh" errtype="mix" pos="verb">arredh</errorort>. Mijjieh <errorort correct="vïssjehtovveme" errtype="con" pos="verb">vïssjestovveme</errorort> jeatjah almetjh <errorort correct="iktesth" errtype="mix" pos="adv">ikts</errorort> mearadin <errorort correct="mijjem" errtype="suf" pos="pers">mijjiem</errorort> jielemen bïjre <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> mijjieh utnebe barre nuepie <errorort correct="mænngan" errtype="mix" pos="pp">mängan</errorort> seahkaridh.
+  </p>
+    <p>
+Voelpijste, almetjijstie <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> aalkoealmetjijstie <errorort correct="åahpenh" errtype="con" pos="verb">åahpedh</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> inspirasjovnem veedtjedh guktie <errormorphsyn cat="pl3prs" const="x" correct="mijjieh saemieh maehtieh" errtype="x" orig="du1prs" pos="verb">mijjieh saemieh maehtien</errormorphsyn> <errorort correct="evtiedidh" errtype="vowc" pos="verb">uvtiedidh</errorort> <errorort correct="mijjen" errtype="suf" pos="pers">mijjien</errorort> <errorort correct="siebriedahkem" errtype="vow" pos="noun">siebredahkem</errorort>. <errorort correct="Dannasinie" errtype="con" pos="adv">Dannasinnie</errorort> mijjieh <errormorphsyn cat="gensg" const="x" correct="dan jaepien" errtype="x" orig="acksg" pos="noun">dan jaepiem</errormorphsyn> bööreme <errorort correct="vearelden" errtype="vow" pos="noun">vearalden</errorort> aalkoealmetjidie <errorsyn correct="saadthalmetjh" errtype="x" pos="x">saadth almetjh</errorsyn> diekie, govledh sijjen <errorort correct="gæmhpoem" errtype="ascii" pos="noun">gämpoem</errorort> <errorort correct="værhtoedimmien" errtype="mix" pos="noun">värrhtoedimien</errorort> åvteste. Mijjieh edtjebe aaj abpe <errorort correct="vaajmojne" errtype="suf" pos="noun">vaajmoejne</errorort> <errorort correct="laavlodh" errtype="vow" pos="verb">laavloedh</errorort>, slow-dejtedh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> aaj <errorort correct="mïeledh" errtype="ascii" pos="verb">mieledh</errorort> what’s up Saepmesne.
+  </p>
+    <p>
+Daan jaepien gaavnedibie Tjiehtelisnie!
+  </p>
+    <p xml:lang="nob">
+Vaajmoste heelsegh! 
+  </p>
+    <p><errorort correct="Åejvie" errtype="vowc" pos="noun">Åajvie</errorort> Helena Omma <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> Sáminuorran <errorort correct="ståvroen" errtype="vowc" pos="noun">stovroen</errorort> luvhtie
+  </p>
+    <p><errorort correct="Bïeljele" errtype="ascii" pos="verb">Bieljele</errorort> <errorort correct="jïjtje" errtype="mix" pos="refl">jiejtjes</errorort> <errorort correct="minngemes" errtype="con" pos="adv">mingemes</errorort> suehpeden 6 <errorort correct="biejjiem" errtype="vow" pos="noun">biejjem</errorort></p>
+    <p xml:lang="sme">
+ info@saminuorra.org
+  </p>
+    <p>
+070-2488847
+  </p>
+    <p>
+Vuartasjidie <errorort correct="mijjen" errtype="suf" pos="pers">mijjien</errorort> <errorort correct="hïejmesijjiem" errtype="mix" pos="noun">hiejmesijjem</errorort>:
+  </p>
+    <p xml:lang="sme">
+www.saminuorra.org 
+  </p>
+    <p><errorort correct="Jïh" errtype="ascii" pos="cc">Jih</errorort> bloggem:
+  </p>
+    <p xml:lang="swe">
+www.saminuorra.wordpress.com
+  </p>
+  </body>
+</document>

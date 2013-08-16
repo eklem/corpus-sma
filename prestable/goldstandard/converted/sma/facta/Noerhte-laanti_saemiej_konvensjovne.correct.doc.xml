@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document id="no_id" xml:lang="sma">
+  <header>
+    <title></title>
+    <genre/>
+    <author>
+      <person born="" firstname="" lastname="Sissel Jåma" nationality="en_US" sex="unknown"/>
+    </author>
+    <year>2012</year>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 48460 $; </version>
+  </header>
+  <body>
+    <p type="title"><errorort correct="Noerhtelaanti" errtype="x" pos="noun">Noerhte-laanti</errorort> saemiej konvensjovne
+  </p>
+    <p>
+Reerenassh <errorort correct="Nöörjesne" errtype="ascii" pos="prop">Nøørjesne</errorort>, Finlaantesne <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> Sveerjesne
+  </p>
+    <p>
+nænnoestieh
+  </p>
+    <list>
+      <p type="listitem">
+
+    
+saemieh dah <errorort correct="aalkoealmetjh" errtype="x" pos="noun">aalkoe-almetjh</errorort> daej golme laantine
+    
+
+   </p>
+      <p type="listitem">
+
+    
+saemieh leah <errorort correct="tjïerte" errtype="ascii" pos="noun">tjierte</errorort> jalhts ovmese laantine årroeminie
+    
+
+   </p>
+      <p type="listitem">
+
+    
+saemiej leah <errorort correct="sjïere" errtype="ascii" pos="adj">sjiere</errorort> kultuvre <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="ektesvuekiejieleme" errtype="x" pos="noun">ektesvuekie-jieleme</errorort>, tradisjovnh,<errorort correct="gïelh" errtype="ascii" pos="noun">gielh</errorort>, veasomh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort></p>
+      <p type="listitem">
+
+    
+båetije <errorort correct="biejjiej" errtype="suf" pos="noun">biejjij</errorort> vååjnesassh
+    
+
+   </p>
+      <p type="listitem">
+
+    
+dej golme staati leah <errorort correct="nasjonaale" errtype="mix" pos="adj">naasjovnale</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="internasjonaale" errtype="mix" pos="adj">internaasjovnale</errorort> <errorort correct="dïedte" errtype="ascii" pos="noun">diedte</errorort> saemien kultuvrese <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort></p>
+      <p type="listitem"><errorort correct="jieliemasse" errtype="svow" pos="noun">jielemasse</errorort> nuepiem vedtedh <errorort correct="övtiedimmiem" errtype="ascii" pos="noun">øvtiedimmiem</errorort> juhtiehtidh
+    
+
+   </p>
+      <p type="listitem">
+
+    
+saemien almetjidie leah reaktah <errorort correct="jïjtjedh" errtype="ascii" pos="refl">jijtjedh</errorort>  reerenasse
+    
+
+   </p>
+      <p type="listitem">
+
+    
+saemien kultuvre <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="jieliemasse" errtype="svow" pos="noun">jielemasse</errorort> laanten kultuvrese lissine båata <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> nimhtie dam bijjiebasse lutnjie
+    
+
+   </p>
+      <p type="listitem">
+
+    
+saemiej leah daerpiesvoete <errorort correct="sjïere" errtype="ascii" pos="adj">sjiere</errorort> <errorort correct="raasti" errtype="vowc" pos="noun">rasti</errorort> namhtah jielemem <errorort correct="övtiedidh" errtype="ascii" pos="verb">øvtiedidh</errorort></p>
+      <p type="listitem">
+
+    
+saemide laante <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> tjaetsie daerpies  kultuvren <errorort correct="sjïekenasse" errtype="mix" pos="x">sjiekenassen</errorort> gaavhtan
+    
+
+   </p>
+      <p type="listitem">
+
+    
+gosse saemiej reaktasvoete edtja <errorort correct="tseegkesovvedh" errtype="conc" pos="verb">tseegesovvedh</errorort>, dellie daerpies mujhtedh guktie saemieh aerebi <errorort correct="aejhtemen" errtype="conc" pos="noun">aejtemen</errorort> nuelesne orreme  <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> nimhtie ovreaktam dååsteme
+    
+
+   </p>
+    </list>
+    <p>
+saemiedigkieh dej golme laantine <errorort correct="sjïekenasse" errtype="mix" pos="x">sjiekenassen</errorort> mietie <errorort correct="naemhtie" errtype="con" pos="adv">naemhtieh</errorort> tjoeverieh vierhtiedieh
+  </p>
+    <list>
+      <p type="listitem">
+
+    
+sijhtieh saemiej jielemem <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> kultuvren båetije biejjide bueriedidh
+    
+
+   </p>
+      <p type="listitem"><errormorphsyn cat="x" const="x" correct="eah edtjh" errtype="x" orig="x" pos="verb">eah edtjieh</errormorphsyn> <errorort correct="raasth" errtype="vowc" pos="noun">rasth</errorort> <errorort correct="saemiej" errtype="suf" pos="noun">saemij</errorort> <errorort correct="almetji" errtype="suf" pos="noun">almetjij</errorort> jallh <errorort correct="aajne" errtype="vowc" pos="x">ajne</errorort> saemiej <errorort correct="ektievuekiejielemem" errtype="x" pos="noun">ektievuekie-jielemem</errorort> jeeredh
+    
+
+   </p>
+      <p type="listitem">
+
+    
+vuejnedh guktie orre saemien konvensjovne maahta reaktide mah aerebi Lappekodisillesne 1751 tjåadtjoejin, orrestehtedh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="övtiedidh" errtype="ascii" pos="verb">øvtiedidh</errorort></p>
+      <p type="listitem">
+
+    
+vuesiehtidh guktie saemiej reaktah <errorort correct="jïjtjedh" errtype="ascii" pos="refl">jijtjedh</errorort> reerenasse <errorort correct="våajnose" errtype="vowc" pos="noun">vååjnose</errorort> båetieh, <errorort correct="krööhkestimmien" errtype="ascii" pos="noun">krøøhkestimmien</errorort> nuelesne
+    
+
+   </p>
+      <p type="listitem"><errorort correct="saemiej" errtype="suf" pos="noun">saemij</errorort> reaktah laantese <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> tjaatsan goerkese <errorort correct="bïejedh" errtype="ascii" pos="verb">biejedh</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> nimhtie vuesiehtidh  <errorort correct="saemieh" errtype="vowc" pos="noun">samieh</errorort> dah aalkoealmetjh daej <errorort correct="sjïere" errtype="ascii" pos="adj">sjiere</errorort> laantine
+    
+
+   </p>
+      <p type="listitem">
+
+    
+vuesiehtidh guktie saemiej <errorort correct="sjïere" errtype="ascii" pos="adj">sjiere</errorort> maahtoeh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="kultuvredïejvesh" errtype="mix" pos="noun">kultuvre-diejvesh</errorort> vihkeles, <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort>  pråvhkeme eatnemen maelmijste lea leahtah saemien kultuvreste
+    
+
+   </p>
+      <p type="listitem">
+
+    
+moenedh guktie saemiej nyjsenæjjaj vuekieh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> barkoeh maehtieh ektievoetesne bijjiebasse lutnjesovvedh, juktie aaj nimhtie maehtieh buerebe vuesiehtæmman båetedh ovmese <errorort correct="organisasjovnine" errtype="vowc" pos="noun">åårganisasjovnine</errorort></p>
+      <p type="listitem">
+
+    
+sijhtieh edtjieh saemieh ektesne veasodh goh akte <errorort correct="åålmehtjïerte" errtype="mix" pos="noun">ålme-tjierte</errorort> daej golme laantine
+    
+
+   </p>
+      <p type="listitem">
+
+    
+vuesiehtidh saemiej vaajtelimmieh, væljoeh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> reaktah <errorort correct="jïjtje" errtype="ascii" pos="refl">jijtje</errorort> <errorort correct="dïedtem" errtype="ascii" pos="noun">diedtem</errorort> guedtedh
+    
+
+   </p>
+      <p type="listitem"><errorort correct="övtiedimmien" errtype="ascii" pos="noun">øvtiedimmien</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> båetije <errorort correct="biejjiej" errtype="suf" pos="noun">bijjej</errorort> gaavhtan
+    
+
+   </p>
+      <p type="listitem">
+
+    
+sijhtieh aaj vuesiehtidh saemiej reaktah <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="jïjtjereereme" errtype="mix" pos="noun">jijtjh-reereme</errorort> leah veadtaldihkie <errorort correct="internasjonaale" errtype="mix" pos="adj">internaasjovnale</errorort> <errorort correct="almetjereaktide" errtype="mix" pos="noun">almetji-reaktide</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> aaj dan daamts <errorort correct="almetjereaktese" errtype="x" pos="noun">almetje-reaktese</errorort></p>
+    </list>
+    <p>
+Daate konvensjovne lea tjaalasovveme saemiej ektine guhth <errorort correct="muenieh" errtype="vowc" pos="verb">munieh</errorort> vihkeles daate aerebi goh staate daam <errorort correct="ratifiseerie" errtype="vow" pos="verb">ratifiserie</errorort>,
+  </p>
+    <p>
+lea <errorort correct="dåhkasjehtemem" errtype="vowc" pos="noun">dååhkasjehtemem</errorort> dejstie golme saemiedigkijste dååsteme.
+  </p>
+    <p>
+dah tjuerieh duvtiem saemide båetije bijjiej vedtedh guktie daate konvensjovne faala.
+  </p>
+    <p></p>
+    <p type="title">
+Voestes <errorort correct="kapihtele" errtype="con" pos="noun">kapittele</errorort> I
+  </p>
+    <p type="title">
+Saemiej <errorort correct="sjïere" errtype="ascii" pos="adj">sjiere</errorort> reaktah
+  </p>
+    <p type="title">
+Voestes tjaalege Man gaavhtan konvensjovne
+  </p>
+    <p>
+Daan konvensjovnen aarvoe leah reaktide jååhkesjidh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> nænnoestidh  guktie saemieh <errorsyn correct="vihtieslaakan" errtype="x" pos="adv">vihties laakan</errorsyn> maehtieh sijjen <errorortreal correct="gïelide" errtype="ascii" pos="noun">gielide</errorortreal> <errorort correct="övtiedidh" errtype="ascii" pos="verb">øvtiedidh</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> aaj kultuvrem , <errorort correct="jieliemidie" errtype="svow" pos="noun">jielemidie</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="ektievoetide" errtype="x" pos="noun">ektie-voetide</errorort> vaarjelidh guktie vaenemes tsagkesh laanti <errorort correct="gaskemsh" errtype="con" pos="pp">gaskems</errorort> sjidtieh.
+  </p>
+    <p></p>
+    <p type="title">
+Mubpie tjaalege
+  </p>
+    <p type="title">
+Saemieh goh aalkoealmetjh
+  </p>
+    <p>
+Saemieh leah aalkoealmetjh Finlaantesne, <errorort correct="Nöörjesne" errtype="ascii" pos="prop">Nøørjesne</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> Sveerjesne.
+  </p>
+    <p></p>
+    <p type="title">
+Gåalmede tjaalege
+  </p>
+    <p type="title">
+Reaktah <errorort correct="jïjtjereeremasse" errtype="mix" pos="noun">jijtjh-reerenasse</errorort></p>
+    <p>
+Saemiej leah reaktah <errorort correct="jïjtjereeremasse" errtype="mix" pos="noun">jijtjh-reerenasse</errorort> nimhtie guktie <errorortreal correct="åålmehreaktah" errtype="mix" pos="noun"><errorort correct="ålmareaktah" errtype="x" pos="noun">ålma-reaktah</errorort></errorortreal> jiehtieh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> aaj nænnoestimmieh daennie konvensjovnesne. Guktie dah reaktah <errorort correct="muenieh" errtype="vowc" pos="verb">munieh</errorort>, dellie saemieh <errorort correct="jïjtje" errtype="ascii" pos="refl">jijtje</errorort> tjoeverieh åadtjodh eavadidh guktie  <errorort correct="beetnehvierhtide" errtype="x" pos="noun">beetneh-vierhtide</errorort> stuvredh, guktie jeatja almetji ektine dåemiedidh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> aaj guktie <errorort correct="dïhte" errtype="ascii" pos="dem">dihte</errorort> <errorsyn correct="kultuvreövtiedimmie" errtype="x" pos="noun">kultuvre- <errorort correct="övtiedimmie" errtype="ascii" pos="noun">øvtiedimmie</errorort></errorsyn> edtja juhtedh. Nimhtie aaj vihkeles åadtjodh <errorort correct="jïjtjedh" errtype="ascii" pos="refl">jijtjedh</errorort> <errorort correct="aamhtesidie" errtype="mix" pos="noun">aamhtside</errorort> stuvredh mah eatnemen maelmide veadtaldihkie.
+  </p>
+    <p></p>
+    <p type="title">
+Njealjede tjaalege
+  </p>
+    <p type="title">
+Almetjh guhth konvensjovnen nualan båetieh
+  </p>
+    <p>
+Konvensjovne dijpieh dejtie guhth Finlaantesne, <errorort correct="Nöörjesne" errtype="ascii" pos="prop">Nøørjesne</errorort> jallh Sveerjesne årroeminie <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="jïjtje" errtype="ascii" pos="refl">jijtje</errorort> <errorort correct="demtieh" errtype="vowc" pos="verb">damtieh</errorort> goh saemieh, <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> aaj
+  </p>
+    <list>
+      <p type="listitem">
+
+    
+saemien <errorort correct="gïelem" errtype="ascii" pos="noun">gielem</errorort> gåetesne <errorort correct="pruvhkieh" errtype="conc" pos="verb">pruvkieh</errorort>  jallh vaenemes akte eejhtegijstie jallh aahka/aajja leah saemien <errorort correct="gïelem" errtype="ascii" pos="noun">gielem</errorort> gåetesne <errorort correct="provhkeme" errtype="mix" pos="verb">pruvkeme</errorort>; jallh
+    
+
+   </p>
+      <p type="listitem">
+
+    
+luhpiem utnieh <errorort correct="båatsoejielieminie" errtype="mix" pos="noun">båatsoe-jieleminie</errorort> <errorort correct="gïehtelidh" errtype="ascii" pos="verb">giehtelidh</errorort> <errorort correct="Nöörjesne" errtype="ascii" pos="prop">Nøørjesne</errorort> jallh Sveerjesne ; jallh
+    
+
+   </p>
+      <p type="listitem"><errorort correct="luhpiem" errtype="conc" pos="noun">lupiem</errorort> utnieh <errorort correct="saemiedigkieveeljemisnie" errtype="x" pos="noun">saemiedigkie-veeljemisnie</errorort> meatan <errorort correct="Nöörjesne" errtype="ascii" pos="prop">Nøørjesne</errorort> jallh Sveerjesne; jallh
+    
+
+   </p>
+      <p type="listitem">
+
+    
+jis maanah dejstie guhth  1,2 jallh 3 mieriej nualan båetieh.
+    
+
+   </p>
+    </list>
+    <p></p>
+    <p type="title"><errorort correct="Vïjhtede" errtype="ascii" pos="num">Vijhtede</errorort> tjaalege
+  </p>
+    <p type="title" xml:lang="ger">
+Man stoerre staaten <errorort correct="dïedte" errtype="ascii" pos="noun">diedte</errorort></p>
+    <p>
+Gaajhkh staati <errorort correct="orgaanh" errtype="vowc" pos="noun">åårgaanh</errorort>, dovne <errorort correct="nasjonaale" errtype="mix" pos="adj">naasjovnale</errorort>,<errorort correct="regionaale" errtype="mix" pos="adj">regiovnale</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="lïhkemes" errtype="ascii" pos="adj">lihkemes</errorort> <errorsyn correct="byjresen, dïedth" errtype="x" pos="mix">byjresen,<errorort correct="dïedth" errtype="ascii" pos="noun">diedth</errorort></errorsyn> utnieh daan konvensjovnese. Jeatja <errorort correct="orgaanh" errtype="vowc" pos="noun">åårganh</errorort>  mah <errorort correct="byögkeles" errtype="ascii" pos="adj">byøgkeles</errorort> reeremisnie <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="byögkeles" errtype="ascii" pos="adj">byøgkeles</errorort> vyrtehkisnie  aaj tjoeverieh <errorort correct="dïedtem" errtype="ascii" pos="noun">diedtem</errorort> vuesiehtidh. Daate aaj faalegem vadta <errorort correct="privaate" errtype="vow" pos="noun">private</errorort> <errorort correct="orgaanide" errtype="vowc" pos="noun">åårganide</errorort> mah leah barkeminie byjjes faamoeladtje <errorort correct="aamhtesigujmie" errtype="vow" pos="noun">aamhtsigujmie</errorort>  jallh jeatja <errorort correct="sjïere" errtype="ascii" pos="adj">sjiere</errorort> byjjes laavenjassh <errorort correct="juhtehteminie" errtype="vow" pos="verb">juhtiehteminie</errorort>.
+  </p>
+    <p>
+Gosse daam konvensjovnem åtnose vaalteme, dellie eah edtjh saemiedigkieh jallh dah jeatja saemien <errorort correct="orgaanh" errtype="mix" pos="noun">åårganh</errorort> ovjearohks sijjen <errorort correct="nasjonaale" errtype="mix" pos="adj">naasjovnale</errorort> jallh <errorort correct="internasjonaale" errtype="mix" pos="adj">internaasjovnale</errorort> reaktijste, nommem vaeltedh goh staate jis eah leah <errorort correct="aamhtesigujmie" errtype="vow" pos="noun">aamhtsigujmie</errorort> <errorort correct="byjjesraerine" errtype="x" pos="noun">byjjes-raerine</errorort> barkeminie.
+  </p>
+    <p></p>
+    <p type="title">
+Govhtede tjaalege
+  </p>
+    <p type="title">
+Magkeres råajvarimmieh staateste saemide
+  </p>
+    <p>
+Dah golme staath tjoeverieh <errorsyn correct="radtjoeslaakan" errtype="x" pos="adv">radtjoes laakan</errorsyn> barkedh guktie saemieh maehtieh <errorsyn correct="eensilaakan" errtype="x" pos="adv">eensi laakan</errorsyn> <errorort correct="gïelem" errtype="ascii" pos="noun">gielem</errorort> <errorort correct="övtiedidh" errtype="ascii" pos="verb">øvtiedidh</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> gorredidh, kultuvrem vaarjelidh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> jielemem <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> ektievoetem bijjiebasse lutnjedh.
+  </p>
+    <p>
+Staath edtjieh aaj <errorsyn correct="buerielaakan" errtype="x" pos="adv">buerie laakan</errorsyn> barkedh guktie saemiej byjrese maahta <errorsyn correct="stinkeslaakan" errtype="x" pos="adv"><errorort correct="stinkes" errtype="vow" pos="adj">stinks</errorort> laakan</errorsyn> tjåadtjodh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> buerie <errorort correct="övtiedimmie" errtype="ascii" pos="noun">øvtiedimmie</errorort> vijriebasse juhtiehtidh.
+  </p>
+    <p>
+Daate konvensjovne aaj staateste <errorort correct="krïebpesje" errtype="ascii" pos="verb">kriebpesje</errorort> <errorort correct="dïedtem" errtype="ascii" pos="noun">diedtem</errorort> utnedh saemide mah leah <errorort correct="sïejhme" errtype="mix" pos="adj">siejme</errorort> saemiej voengi bæjngolen <errorort correct="årroeminie" errtype="suf" pos="verb">årroemine</errorort>.
+  </p>
+    <p></p>
+    <p type="title"><errorort correct="Tjïjhtjede" errtype="ascii" pos="num">Tjijhtjede</errorort> tjaalege
+  </p>
+    <p type="title"><errorort correct="Namhtegh" errtype="conc" pos="x">Namtegh</errorort> diskriminering   - <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="sjïere" errtype="ascii" pos="adj">sjiere</errorort> råajvarimmieh tseagkodh
+  </p>
+    <p>
+Saemien almetjh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="aajne" errtype="vowc" pos="x">ajne</errorort> saemie edtjieh vaarjelimmesne årrodh guktie eah <errorort correct="jeatjhlaaketje" errtype="x" pos="adv">jeatjh-laaketje</errorort> vuajnoen (diskriminering) nualan båetieh. Gosse saemiej reaktah daan konvensjovnen mietie vedtedh,dellie staate tjoevere <errorort correct="sjïere" errtype="ascii" pos="adj">sjiere</errorort> råajvarimmieh tseagkodh.
+  </p>
+    <p></p>
+    <p type="title">
+Gaaktsede tjaalege
+  </p>
+    <p type="title">
+Vaenemes reaktah
+  </p>
+    <p>
+Reaktah mah daan konvensjovnese <errorort correct="veadtaldihkie" errtype="conc" pos="adj">veadaldihkie</errorort>, leah <span type="quote">"vaenemes reaktah"</span>(minsterettigheter). Juktie nimhtie <errorort correct="sjïere" errtype="ascii" pos="adj">sjiere</errorort> staath maehtieh reaktide vijriedidh jallh buerebe råajvarimmieh faaledh. Daerpies lea læjhkan daejredh ij leah nuepie reaktide mah joe gååvnesieh <errorort correct="gaertjiedidh" errtype="vowc" pos="verb">gærtjiedidh</errorort>.
+  </p>
+    <p></p>
+    <p type="title">
+Åktsede tjaalege
+  </p>
+    <p type="title">
+Saemiej vuekieh
+  </p>
+    <p>
+Staath edtjieh saemiej <errorort correct="reaktajsisvegh" errtype="x" pos="noun">reaktaj-sisvegh</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="reaktajvuekieh" errtype="x" pos="noun">reaktaj-vuekieh</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> pråvhkoeh <errorort correct="krööhkestidh" errtype="ascii" pos="verb">krøøhkestidh</errorort>.
+  </p>
+    <p>
+Guktie voestes raajese vuesehte, dellie edtjieh staath gosse orre reaktah buektedh dajvide gusnie maahtah <errorort correct="saemiej" errtype="suf" pos="noun">saemij</errorort> <errorort correct="mojhtesh" errtype="vow" pos="noun">mojhtsh</errorort> gååvnesidh, tjilkedh mejtie daerpies sijjide vaarjelidh jallh <errorsyn correct="jeatjhlaakan" errtype="x" pos="adv">jeatjh laakan</errorsyn> viehkiem vedtedh laaken <errorortreal correct="tjïrrh" errtype="ascii" pos="pp">tjirrh</errorortreal>. <errorort correct="Reaktaåtnosne" errtype="x" pos="noun">Reakta-åtnosne</errorort> edtjieh aaj saemiej vuekieh bæjjese lutnjesovvedh.
+  </p>
+    <p></p>
+    <p type="title">
+Låhkede tjaalege
+  </p>
+    <p type="title"><errorort correct="Reaktanjoelkedassi" errtype="mix" pos="noun">Reakta-njolkedassi</errorort> <errorort correct="sjïehtesjimmie" errtype="ascii" pos="noun">sjiehtesjimmie</errorort></p>
+    <p>
+Staath edtjieh <errorort correct="saemiedigkiej" errtype="mix" pos="noun">saemiedigij</errorort> ektine  laakide <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> aaj jeatja <errorort correct="aamhtesidie" errtype="mix" pos="noun">aamhtside</errorort> mah daerpies, <errorort correct="sjïehtesjadtedh" errtype="mix" pos="verb">sjiehtesjedtedh</errorort> guktie saemide laanti <errorort correct="raasti" errtype="vowc" pos="noun">rasti</errorort> gåabpegh bielesne <errorort correct="bööremes" errtype="ascii" pos="adj">bøøremes</errorort> sjædta.
+  </p>
+    <p></p>
+    <p type="title"><errorort correct="Luhkievoestes" errtype="x" pos="num">Luhkie-voestes</errorort> tjaalege
+  </p>
+    <p>
+      <em type="italic"><errorort correct="Ektesvuekiebarkoe" errtype="mix" pos="noun">Ektes-vuekiebarkoe</errorort> kultuvren -<errorort correct="-jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="jielemesjïehtesjimmien" errtype="ascii" pos="noun">jielemesjiehtesjimmien</errorort> gaavhtan</em>
+    </p>
+    <p><errorort correct="Staath" errtype="suf" pos="noun">Staat</errorort> edtjieh råajvarimmieh tseagkodh guktie aelhkebe saemide <errorortreal correct="jielemebarkojne" errtype="mix" pos="noun"><errorort correct="jïelebarkojne" errtype="ascii" pos="noun">jielebarkojne</errorort></errorortreal> <errorort correct="gïehtelidh" errtype="ascii" pos="verb">giehtelidh</errorort> laanti <errorort correct="gaskemsh" errtype="con" pos="pp">gaskems</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> aaj buerielaakan kultuvre-daerpiesvoetide tseagkodh. Nimhtie aaj staath tjoeverieh barkedh guktie gaajhkh tsagkesh mah saemiej <errorort correct="jielemebarkose" errtype="x" pos="noun">jieleme-barkose</errorort> <errorort correct="veadtaldihkie" errtype="suf" pos="adv">veadtaldihke</errorort>  <errorort correct="såenieh" errtype="vowc" pos="verb">suenieh</errorort> .  Daate tjoevere <errorort correct="deahpadidh" errtype="vowc" pos="verb">daeahpadidh</errorort> seamma gusnie saemiej årromesijjieh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> magkeres laantesne. Seamma reaktam aaj <errorort correct="saemide" errtype="suf" pos="noun">saemiede</errorort> vedtedh guktie <errorort correct="dïhte" errtype="ascii" pos="dem">dihte</errorort> <errorsyn correct="kultuvrefaaleldahke" errtype="x" pos="noun">kultuvre- faaleldahke</errorsyn> <errorort correct="bööremes" errtype="ascii" pos="adj">bøøremes</errorort> <errorort correct="sjædta" errtype="vowc" pos="verb">sjeadta</errorort> seamma magkeres laantesne jielieminie.                                               
+  </p>
+    <p></p>
+    <p type="title">
+Luhkie mubpie tjaalege
+  </p>
+    <p>
+      <em type="italic"><errorort correct="Ektesvuekiebarkoe" errtype="mix" pos="noun">Ektesvuekie-barkoe</errorort> <errorort correct="ööhpehtimmien" errtype="ascii" pos="noun">øøhpehtimmien</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="tryjjejielemen" errtype="x" pos="noun">tryjje-jielemen</errorort>  gaavhtan</em>
+    </p>
+    <p>
+Staath edtjieh råajvarimmieh tseagkodh  guktie saemieh maehtieh viehkiem åadtjodh <errorort correct="ööhpehtæmman" errtype="x" pos="noun">øøhpehtæmman</errorort>, healsose <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="sïemesvoetese" errtype="mix" pos="noun">siemes-voetese</errorort> laantesne gusnie <errorort correct="bööremes" errtype="ascii" pos="adj">bøøremes</errorort>.                                                        
+  </p>
+    <p></p>
+    <p type="title">
+Luhkie gåalmede tjaalege
+  </p>
+    <p type="title">
+Saemiej symbovlh
+  </p>
+    <p>
+Staath edtjieh saemiej reaktam <errorort correct="krööhkestidh" errtype="ascii" pos="verb">krøøhkestidh</errorort> saevegem pruvhkedh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> aaj jeatja <errorort correct="nasjonaale" errtype="mix" pos="adj">naasjovnale</errorort> symbolh. Dah edtjieh aaj <errorort correct="saemiedigkine" errtype="suf" pos="noun">saemiedigkijne</errorort> <errorort correct="aktivyöki" errtype="mix" pos="x">ekti-vøøki</errorort> barkedh guktie saemiej symbovlh <errorort correct="våajnose" errtype="vowc" pos="noun">vååjnose</errorort> båetieh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> vuesiehtieh saemieh leah <errorort correct="sjïere" errtype="ascii" pos="adj">sjiere</errorort> <errorort correct="tjïerte" errtype="ascii" pos="adj">tjierte</errorort> dej golme laantine.
+  </p>
+    <p></p>
+    <p type="title">
+Mubpie <errorort correct="Kapihtele" errtype="con" pos="noun">Kapittele</errorort> II
+  </p>
+    <p type="title">
+Saemiej <errorort correct="jïjtjh" errtype="ascii" pos="refl">jijtjh</errorort> - reereme
+  </p>
+    <p type="title">
+Luhkie njealjede tjaalege
+  </p>
+    <p type="title">
+Saemiedigkieh
+  </p>
+    <p><errormorphsyn cat="x" const="x" correct="Saemiedigkieh edtjieh gaajhkine golme laantine gååvnesidh" errtype="x" orig="x" pos="x">Saemiedigkieh edtjieh gaajhki golme laantine gååvnesidh</errormorphsyn>. <errorort correct="Dïhte" errtype="ascii" pos="dem">Dihte</errorort> saemiej jillemes <errorort correct="orgaane" errtype="vowc" pos="noun">åårgaane</errorort>. Saemiedigkieh berkieh guktie <errorort correct="bööremes" errtype="ascii" pos="adj">bøøremes</errorort> saemide <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> almetjh <errorort correct="dïsse" errtype="ascii" pos="dem">disse</errorort> veeljesuvvieh <errorsyn correct="veeljemereaktan" errtype="x" pos="noun">veeljeme –reaktan</errorsyn> mietie abpe laanteste.
+  </p>
+    <p><errorsyn correct="Veeljemereaktah" errtype="x" pos="noun">Veeljeme- reaktah</errorsyn> saemiedægkan båetieh laaken <errorortreal correct="tjïrrh" errtype="ascii" pos="pp">tjirrh</errorortreal>. Dah <errorort correct="moenesuvvieh" errtype="suf" pos="verb">moenesovvieh</errorort> barkoen <errorortreal correct="tjïrrh" errtype="ascii" pos="pp">tjirrh</errorortreal> <errorort correct="saemiedigkine" errtype="suf" pos="noun">saemiedigkijne</errorort>, tjaalege 16.
+  </p>
+    <p>
+Saemiedigkieh edtjieh dagkeres laavenjassh utnedh guktie maahta <errorsyn correct="radtjoeslaakan" errtype="x" pos="adv">radtjoes laakan</errorsyn> barkedh guktie saemiej <errorort correct="jïjtjereereme" errtype="mix" pos="noun">jijtjh-reereme</errorort> reaktah bæjjese <errorort correct="lutnjesuvvieh" errtype="suf" pos="verb">lutjnesovvieh</errorort> daan konvensjovnen aarvoen mietie. Nænnoestimmieh <errorort correct="saemiedigkiej" errtype="suf" pos="noun">saemiedigkij</errorort> <errorort correct="faamojste" errtype="con" pos="noun">faamojse</errorort> laaken <errorortreal correct="tjïrrh" errtype="ascii" pos="cc">tjirrh</errorortreal> båetieh.
+  </p>
+    <p>
+Saemiedigkieh råajverieh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> jiehtesh buektieh <errorort correct="aamhtesidie" errtype="mix" pos="noun">aamhtsidie</errorort> mejtie daerpies.
+  </p>
+    <p></p>
+    <p type="title">
+Luhkie <errorort correct="vïjhtede" errtype="ascii" pos="num">vijhtede</errorort> tjaalege
+  </p>
+    <p type="title">
+Saemiedigkien <errorort correct="jïjtjereereme" errtype="mix" pos="noun">jijtjh-reereme</errorort> <errorort correct="njoelkedassh" errtype="vowc" pos="noun">njolkedassh</errorort></p>
+    <p><errorort correct="Saemiedigkiej" errtype="suf" pos="noun">Saemiedigkij</errorort> <errorort correct="jïjtjereereme" errtype="mix" pos="noun">jijtjh-reereme</errorort> nænnoestimmieh gyhtjelasside buektieh <errorort correct="nasjonaale" errtype="mix" pos="adj">nasjovnale</errorort> jallh <errorort correct="internasjonaale" errtype="mix" pos="noun">internasjovnale</errorort> reaktaj <errorortreal correct="tjïrrh" errtype="ascii" pos="pp">tjirrh</errorortreal>.
+  </p>
+    <p>
+Saemiedigkieh aaj maehtieh mååhtedimmieh <errorort correct="nasjonaale" errtype="mix" pos="adj">nasjovnale</errorort>, <errorort correct="regionaale" errtype="mix" pos="adj">regiovnale</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> byjrese <errorort correct="ektievoeti" errtype="suf" pos="noun">ektievoetij</errorort> <errorortreal correct="tjïrrh" errtype="ascii" pos="pp">tjirrh</errorortreal> buektedh jis daerpies saemiej kultuvrem <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="ektievoetejielemem" errtype="x" pos="noun">ektievoete-jielemem</errorort> nænnoestidh.
+  </p>
+    <p></p>
+    <p type="title">
+Luhkie govhtede tjaalege
+  </p>
+    <p type="title">
+Saemiedigkien reaktah <errorort correct="gïehtelæmman" errtype="mix" pos="noun">gietelæmman</errorort></p>
+    <p>
+Gosse vihkeles gyhtjelassh saemide, dellie edtjieh saemiedigkieh voestegh <errorort correct="aamhtesidie" errtype="mix" pos="noun">aamhtside</errorort> <errorort correct="gïetedalledh" errtype="ascii" pos="verb">gietedalledh</errorort> aerebi goh nænnoestimmie byjjes reeremistie båata. Dagkeres digkiedimmieh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> nænnoestimmieh tjoeverieh nimhtie juhtedh guktie saemiedigkieh maehtieh <errorort correct="aamhtesejuhtemem" errtype="mix" pos="noun">aamhtse-juhtemem</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="darjomen" errtype="vow" pos="noun">darjoemen</errorort> tsevtsiehtidh.
+  </p>
+    <p><errormorphsyn cat="x" const="x" correct="Eah edtjh staath nænnoestidh" errtype="x" orig="x" pos="verb">Eah edtjieh staath nænnoestidh</errormorphsyn> jallh luhpiem vedtedh dagkeres råajvarimmide mah maehtieh <errorort correct="goerpedidh" errtype="con" pos="verb">goerpehtidh</errorort> <errorort correct="maadthkrïebpesjimmide" errtype="mix" pos="noun">maadth-kriebpesjide</errorort> saemien kultuvrese, saemiej <errorort correct="jieliemidie" errtype="svow" pos="noun">jielemidie</errorort> jallh saemiej <errorort correct="ektievoetejieliemasse" errtype="mix" pos="noun">ektievoete-jielemasse</errorort> jis eah saemiedigkieh <errorort correct="dïsse" errtype="ascii" pos="dem">disse</errorort> <errorort correct="seamedh" errtype="mix" pos="verb">siemedh</errorort>.
+  </p>
+    <p></p>
+    <p type="title">
+Luhkie <errorort correct="tjïjhtjede" errtype="ascii" pos="num">tjijhtjede</errorort> tjaalege
+  </p>
+    <p type="title"><errorort correct="Saemiedigkiej" errtype="suf" pos="noun">Saemiedigkij</errorort> reaktah jeatja <errorort correct="aamhteseryöjredimmesne" errtype="mix" pos="noun">aamhtse-ryøjredimmesne</errorort></p>
+    <p>
+Saemiedigkieh reaktah utnieh meatan årrodh byjjes <errorort correct="raerine" errtype="suf" pos="noun">raerijne</errorort> gosse <errorort correct="aamhtesi" errtype="vow" pos="noun">aamhtsi</errorort> <errorort correct="bïjre" errtype="ascii" pos="pp">bijre</errorort> digkiedidh mah saemide dijpieh.
+  </p>
+    <p>
+Saemiedigkieh edtjieh saemien <errorort correct="aamhtesidie" errtype="mix" pos="noun">aamhtside</errorort> <errorort correct="gïehtjedidh" errtype="ascii" pos="verb">giehtjedidh</errorort> aerebi goh byjjes raerieh dejtie nænnoestieh.
+  </p>
+    <p>
+Staath edtjieh <errorort correct="daerpiesvoetide" errtype="x" pos="noun">daerpies-voetide</errorort> tjilkedh gosse raeriestimmieh saemiedigkijste båata. Daate tjoevere deahpadidh <errorort correct="låångkegh" errtype="mix" pos="adv">låångkh</errorort> aerebi guktie saemiedigkieh maehtieh tsevtsiehtidh <errorort correct="aamhtesejuhtemem" errtype="mix" pos="noun">aamhtse-juhtemem</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> vaestiedimmiem.
+  </p>
+    <p>
+Saemiedigkieh <errorort correct="åvtelbodti" errtype="vow" pos="adv">åvtelbodtieh</errorort> vaestiedieh mejtie sijhtieh <errorort correct="lïhtsegh" errtype="ascii" pos="noun">lihtsegh</errorort> meatan jallh <errorort correct="lahtestimmieh" errtype="vow" pos="noun">laahtestimmieh</errorort> <errorort correct="aamhteseryöjredæmman" errtype="mix" pos="noun">aamhtse-ryøjredæmman</errorort> vedtedh.
+  </p>
+    <p></p>
+    <p type="title">
+Luhkie <errorort correct="gaaktsede" errtype="conc" pos="num">gaaksede</errorort> tjaalege
+  </p>
+    <p type="title">
+Tjåådtjh-sijjie <errorort correct="nasjonaaletjåanghkojde" errtype="mix" pos="noun">nasjovnale-tjåangkojde</errorort></p>
+    <p>
+Staati <errorort correct="nasjonaale" errtype="mix" pos="noun">nasjovnale</errorort> <errorort correct="tjåanghkoeh" errtype="conc" pos="noun">tjåangkoeh</errorort> jallh dej moenehtsh edtjieh sijjiem darjodh guktie <errorort correct="lïhtsegh" errtype="ascii" pos="noun">lihtsegh</errorort> saemiedigkijste maehtieh meatan <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> buerkiestidh <errorort correct="aamhtesi" errtype="vow" pos="noun">aamhtsi</errorort> <errorort correct="bïjre" errtype="ascii" pos="pp">bijre</errorort> mah saemide vihkeles.
+  </p>
+    <p>
+Gosse <errorort correct="aamhtesh" errtype="vow" pos="noun">aamhtsh</errorort> <errorort correct="saemiej" errtype="suf" pos="noun">saemij</errorort> <errorort correct="bïjre" errtype="ascii" pos="pp">bijre</errorort> <errorort correct="gïehtelimmesne" errtype="mix" pos="noun">gietelimmesne</errorort>, dellie edtjieh byjjes ståvroeh nuepiem saemiedigkide vedtedh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> dejtie goltelidh.
+  </p>
+    <p>
+Dah <errorort correct="sjïere" errtype="ascii" pos="adj">sjiere</errorort> laanti <errorort correct="nasjonaale" errtype="ascii" pos="noun">nasjovnale</errorort> <errorort correct="tjåanghkoeh" errtype="conc" pos="noun">tjåangkoeh</errorort> edtjieh <errorort correct="njoelkedassh" errtype="vowc" pos="noun">njolkedassh</errorort> <errorort correct="aamhtesi" errtype="vow" pos="noun">aamhtsi</errorort> <errorort correct="bïjre" errtype="ascii" pos="pp">bijre</errorort> vedtedh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> guktie dej gujmie <errorort correct="gïehtelidh" errtype="ascii" pos="verb">giehtelidh</errorort>.
+  </p>
+    <p></p>
+    <p type="title">
+Luhkie åktsede tjaalege
+  </p>
+    <p type="title">
+Saemieh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="internasjonaale" errtype="mix" pos="adj">internasjovnale</errorort> representasjovnh
+  </p>
+    <p>
+Saemiedigkieh edtjieh <errorort correct="saemiej" errtype="suf" pos="noun">saemij</errorort> digkiedimmide meatan vaeltedh gosse gaskestaati <errorort correct="tjåanghkoeh" errtype="conc" pos="noun">tjåangkoeh</errorort>.
+  </p>
+    <p>
+Staath edtjieh aaj saemide eevtjedh goh <errorort correct="lïhtsegh" errtype="ascii" pos="noun">lihtsegh</errorort> <errorort correct="internasjonaale" errtype="mix" pos="adj">internasjovnale</errorort> institusjovnine <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> aaj stilledh meatan goh <errorort correct="håalenïere" errtype="ascii" pos="noun">håaleniere</errorort> <errorort correct="internasjonaale" errtype="mix" pos="adj">internasjovnale</errorort> <errorort correct="tjåanghkojne" errtype="conc" pos="noun">tjåangkojne</errorort>.
+  </p>
+    <p></p>
+    <p type="title"><errorort correct="Göökte" errtype="ascii" pos="num">Gøøkte</errorort> låhkede tjaalege
+  </p>
+    <p type="title"><errorort correct="Sïejhme" errtype="ascii" pos="adj">Siejme</errorort> saemiej <errorort correct="organisasjovnh" errtype="mix" pos="noun">åårganisasjovnh</errorort></p>
+    <p>
+Saemiedigkieh maehtieh <errorort correct="sïejhme" errtype="mix" pos="adj">siejme</errorort> <errorort correct="organisasjovnh" errtype="vowc" pos="noun">åårganisasjovnh</errorort> tseegkedh.<errorort correct="tseegkedh. Staath" errtype="x" pos="mix">Staath</errorort> edtjieh, gosse daerpies, <errorort correct="saemiedigkiej" errtype="suf" pos="noun">saemiedigkij</errorort> ektine barkedh guktie byjjes faaleldahkh dagkaridie <errorort correct="organisasjovnide" errtype="vow" pos="noun">åårganisasjovnide</errorort> båetieh.
+  </p>
+    <p></p>
+    <p type="title"><errorort correct="Göökte" errtype="ascii" pos="num">Gøøkte</errorort> luhkie voestes tjaalege
+  </p>
+    <p type="title">
+Jeatja saemien gaskebarkoeh
+  </p>
+    <p>
+Staath edtjieh <errorort correct="krööhkestidh" errtype="ascii" pos="verb">krøøhkestidh</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> gosse daerpies soptsestalledh <errorort correct="saemiejstaari" errtype="x" pos="noun">saemiej-staari</errorort>, <errorlex correct="sïjti" origpos="w" pos="noun">siidaj</errorlex>, <errorort correct="båatsoeburriemoenehtsigujmie" errtype="mix" pos="noun">båatsoeburrieh-moenehtsigujmie</errorort>  <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> aaj <span type="quote" xml:lang="nob">"skoltesamenes byastæmmine"</span> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> aaj væjkeles saemiej <errorort correct="lïhtsegigujmie" errtype="mix" pos="noun">lihtsegigyjmie</errorort> byjresisnie .
+  </p>
+    <p></p>
+    <p type="title"><errorort correct="Göökte" errtype="ascii" pos="num">Gøøkte</errorort> luhkie mubpie tjaalege
+  </p>
+    <p type="title"><errorort correct="Saemiej" errtype="suf" pos="noun">Saemij</errorort> <errorort correct="regijovne" errtype="con" pos="noun">regiovne</errorort></p>
+    <p>
+Staath edtjieh <errorsyn correct="eadtjohkelaakan" errtype="x" pos="adv">eadtjohke laakan</errorsyn> barkedh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="övtiedidh" errtype="ascii" pos="verb">øvtiedidh</errorort> dajvide guktie saemieh maehtieh gorredidh <errorort correct="sjïere" errtype="ascii" pos="adj">sjiere</errorort> reaktah daan <errorort correct="konvensjovnen" errtype="con" pos="noun">konvesjovnen</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> laanti laaki mietie.
+  </p>
+    <p></p>
+    <p type="title" xml:lang="smj">
+Gåalmede <errorort correct="kapihtele" errtype="conc" pos="noun">kapittele</errorort> III
+  </p>
+    <p type="title">
+Saemien <errorort correct="gïele" errtype="ascii" pos="noun">giele</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> kultuvre
+  </p>
+    <p type="title">
+Luhkie gåalmede tjaalege
+  </p>
+    <p type="title">
+Saemiej <errorort correct="gïelereaktah" errtype="mix" pos="noun">giele-reaktah</errorort></p>
+    <p>
+Saemiej leah reaktah nuhtjedh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="övtiedidh" errtype="ascii" pos="verb">øvtiedidh</errorort> <errorort correct="gïelem" errtype="ascii" pos="noun">gielem</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> vuekide båetije <errorort correct="slïektide" errtype="ascii" pos="noun">sliektide</errorort>. Dejtie aaj reaktah barkedh guktie maahtoeh saemien <errorort correct="gïelen" errtype="ascii" pos="noun">gielen</errorort> <errorort correct="bïjre" errtype="ascii" pos="pp">bijre</errorort>  maahta vadtasovvedh dejtie guhth geerve <errorortreal correct="gïeline" errtype="ascii" pos="noun">gieline</errorortreal> <errorort correct="gïehtelidh" errtype="ascii" pos="verb">giehtelidh</errorort>.
+  </p>
+    <p>
+Saemieh edtjieh reaktam utnedh jiehtedh, steeredh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> goerkesem åadtjodh <errorort correct="jïjtse" errtype="ascii" pos="refl">jijtse</errorort> nommide <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort>  aaj nommide ovmese dajvine.
+  </p>
+    <p></p>
+    <p type="title"><errorort correct="Göökte" errtype="ascii" pos="num">Gøøkte</errorort> luhkie <errorort correct="vïjhtede" errtype="ascii" pos="num">vijhtede</errorort> tjaalege
+  </p>
+    <p type="title">
+Staaten <errorort correct="dïedte" errtype="ascii" pos="noun">diedte</errorort> <errorortreal correct="gïelide" errtype="ascii" pos="noun">gielide</errorortreal> <errorort correct="övtiedidh" errtype="ascii" pos="verb">øvtiedidh</errorort></p>
+    <p>
+Staath edtjieh saemide nuepieh vedtedh <errorortreal correct="gïelide" errtype="ascii" pos="noun">gielide</errorortreal> gorredidh, <errorort correct="övtiedidh" errtype="ascii" pos="verb">øvtiedidh</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> vijriebasse guedtedh. Staath edtjieh darjoemisnie vuesiehtidh guktie <errorort correct="alfabeete" errtype="vowc" pos="noun">aalfabeete</errorort> maahta eevtjeme-laakan provhkesovvedh daan <errorort correct="sjïeken" errtype="mix" pos="noun">sjiehken</errorort>.
+  </p>
+    <p>
+Saemien <errorort correct="gïele" errtype="ascii" pos="noun">giele</errorort> edtja maehtedh <errorsyn correct="radtjoeslaakan" errtype="x" pos="adv">radtjoes laakan</errorsyn> provhkesovvedh <errorort correct="dööpmemeraerine" errtype="mix" pos="noun">døøpmeme-raerine</errorort>, <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> aaj byjjes raerine saemiej dajvine. Nimhtie edtja aaj <errorort correct="gïele" errtype="ascii" pos="noun">giele</errorort> maehtedh provhkesovvedh bæjngolen dej saemiej dajvh jis ovmese <errorort correct="aamhtesh" errtype="vow" pos="noun">aamhtsh</errorort> voestegh  leah <errorort correct="gïetedallemisnie" errtype="ascii" pos="noun">gietedallemisnie</errorort> orreme <errorort correct="saemiej" errtype="suf" pos="noun">saemij</errorort> dajvine jallh <errorort correct="jeatjhlaakan" errtype="x" pos="adv">jeatjh-laakan</errorort> dejtie dajvide veadtaldihkie.
+  </p>
+    <p>
+Staath edtjieh aaj <errorort correct="litteratuvrh" errtype="conc" pos="noun">lidteratuvrh</errorort> saemien <errorortreal correct="gïelesne" errtype="ascii" pos="noun">gielesne</errorortreal> skåårvedh.
+  </p>
+    <p><errorort correct="Dïhte" errtype="ascii" pos="dem">Dihte</errorort> mij daennie <errorort correct="tjaalegisnie" errtype="suf" pos="noun">tjaalegesne</errorort> tjåådtje edtja aaj dejtie unnemes <errorort correct="saemiengïelide" errtype="mix" pos="noun">saemien-gielide</errorort> dijpedh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> gorredidh.
+  </p>
+    <p></p>
+    <p type="title"><errorort correct="Göökte" errtype="ascii" pos="num">Gøøkte</errorort> luhkie <errorort correct="vïjhtede" errtype="ascii" pos="num">vijhtede</errorort> tjaalege
+  </p>
+    <p type="title">
+Saemiej <errorort correct="meediah" errtype="mix" pos="noun">medijah</errorort></p>
+    <p>
+         Staath edtja nuepiem vedtedh guktie saemieh <errorort correct="jïjtje" errtype="ascii" pos="refl">jijtje</errorort> åadtjoeh <errorort correct="jïjtjereereme" errtype="mix" pos="noun">jijtjh-reereme</errorort> <errorort correct="mediapolitihkem" errtype="mix" pos="noun">media-politikkem</errorort> juhtiehtidh guktie saemieh <errorort correct="bööremeslaaketje" errtype="ascii" pos="adv">bøøremeslaaketje</errorort> råajvarimmieh, saerniestimmieh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="aarvoedïejvesh" errtype="mix" pos="noun">aarvoe-diejvesh</errorort>  åadtjoeh digkiedidh gyhtjelassi <errorort correct="bïjre" errtype="ascii" pos="pp">bijre</errorort> mah <errorort correct="gaajhkesidie" errtype="vow" pos="indef">gaajhksidie</errorort> vihkeles.
+  </p>
+    <p>
+         Staath edtjieh barkedh guktie <errorort correct="programmh" errtype="con" pos="noun">provgramh</errorort> <errorort correct="radijovesne" errtype="con" pos="noun">radiovesne</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="TV:sne" errtype="suf" pos="acr">Tv-esne</errorort> saemien <errorortreal correct="gïelesne" errtype="ascii" pos="noun">gielesne</errorortreal> båetieh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> aaj barkedh guktie plaerieh  maehtieh saemien <errorort correct="gïelem" errtype="ascii" pos="noun">gielem</errorort> nænnoestidh. Saemiedigkieh edtjieh ektesvuekie barkedh  <errorort correct="raasti" errtype="vow" pos="noun">rasti</errorort> bijjelen guktie <errorort correct="mediainstitusjovnh" errtype="mix" pos="noun">media-intstitusjovnh</errorort> <errorort correct="programmh" errtype="mix" pos="noun">provgramh</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> tjaalegh buektieh mah saemien <errorortreal correct="gïelese" errtype="ascii" pos="noun">gielese</errorortreal> vihkeles. Jiehtegh daesnie aaj unnemes <errorortreal correct="gïelide" errtype="ascii" pos="noun">gielide</errorortreal> dijpieh.
+  </p>
+    <p></p>
+    <p></p>
+    <p type="title"><errorort correct="Göökte" errtype="ascii" pos="num">Gøøkte</errorort> luhkie govhtede tjaalege
+  </p>
+    <p type="title">
+Saemien <errorort correct="ööhpehtimmie" errtype="ascii" pos="noun">øøhpehtimmie</errorort></p>
+    <p>
+         Saemieh saemien dajvine edtjieh nuepiem utnedh <errorort correct="jïjtse" errtype="ascii" pos="refl">jijtse</errorort> <errorort correct="gïelem" errtype="ascii" pos="noun">gielem</errorort> <errorort correct="lïeredh" errtype="ascii" pos="verb">lieredh</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> aaj <errorort correct="ööhpehtimmiem" errtype="ascii" pos="noun">øøhpehtimmiem</errorort> saemien <errorortreal correct="gïelesne" errtype="ascii" pos="noun">gielesne</errorortreal> <errorort correct="åadtjodh. Ööhpehtimmieh" errtype="mix" pos="mix">åadtjodh.Øøhpehtimmieh</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> vierhtiemaaksoeh tjoeverieh <errorort correct="sjïehtesovvedh" errtype="ascii" pos="verb">sjiehtesovvedh</errorort> <errorort correct="fïere" errtype="ascii" pos="adv">fiere</errorort> guhten duakan. Nimhtie <errorort correct="ööhpehtimmie" errtype="ascii" pos="noun">øøhpehtimmie</errorort> nuepiem vadta guktie <errorort correct="gaajhkesh" errtype="vow" pos="indef">gaajhks</errorort> guhth sijhtieh maehtieh lohkedh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> vijriebasse <errorortreal correct="gïeline" errtype="ascii" pos="noun">gieline</errorortreal> ovmese daltesinie båetedh,  aaj maehtieh saemiej <errorort correct="jielemevuekiejgujmie" errtype="vow" pos="noun">jielemevuekijgujmie</errorort> barkedh. <errorort correct="Beetnehvierhtieh" errtype="x" pos="noun">Beetneh-vierhtieh</errorort> edtjieh <errorort correct="nimhtie" errtype="conc" pos="adv">nimtie</errorort> <errorort correct="bïejesovvedh" errtype="ascii" pos="verb">biejesovvedh</errorort> guktie aelhkie jillebem saemien <errorort correct="ööhpehtimmiem" errtype="ascii" pos="noun">øøhpehtimmiem</errorort> jaksedh.
+  </p>
+    <p>
+         Saemien maanah <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> noerh mah  <errorort correct="årroeminie" errtype="suf" pos="verb">årroemienie</errorort> bæjngolen saemiej dajvh edtjieh nuepiem saemien <errorort correct="ööhpehtæmman" errtype="ascii" pos="noun">øøhpehtæmman</errorort> åadtjodh  <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> aaj <errorort correct="ööhpehtimmiem" errtype="ascii" pos="noun">øøhpehtimmiem</errorort> saemien <errorortreal correct="gïelesne" errtype="ascii" pos="noun">gielesne</errorortreal> jis nuepie <errorort correct="dïsse" errtype="ascii" pos="dem">disse</errorort>. Daerpies lea <errorort correct="ööhpehtimmiem" errtype="ascii" pos="noun">øøhpehtimmiem</errorort> <errorort correct="sjïehtesjehtedh" errtype="ascii" pos="verb">sjiehtesjehtedh</errorort> duekien mietie guktie <errorort correct="bööremes" errtype="ascii" pos="adj">bøøremes</errorort> dejtie.
+  </p>
+    <p>
+         Daerpies leah aaj dejtie <errorort correct="nasjonaale" errtype="mix" pos="adj">nasjovnale</errorort> <errorort correct="learoeplaanide" errtype="x" pos="noun">learoe-plaanide</errorort> <errorort correct="saemiedigkiej" errtype="mix" pos="noun">saemiedikij</errorort> ektine <errorort correct="sjïehtesjehtedh" errtype="ascii" pos="verb">sjiehtesjehtedh</errorort> guktie maanah <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> dah noerh maehtieh  jieledh guktie saemien kultuvre vuesehte.
+  </p>
+    <p></p>
+    <p type="title"><errorort correct="Göökte" errtype="ascii" pos="num">Gøøkte</errorort> luhkie <errorort correct="tjïjhtjede" errtype="ascii" pos="num">tjijhtjede</errorort> tjaalege
+  </p>
+    <p type="title">
+      <errorort correct="Gïehtjedimmie" errtype="ascii" pos="noun">Giehtjedimmie</errorort>
+    </p>
+    <p>
+         Staath edtjieh saemiedigkiej ektine barkedh <errorort correct="gïehtjedimmieh" errtype="ascii" pos="noun">giehtjedimmieh</errorort> aalkoetseahkan <errorort correct="bïejedh" errtype="ascii" pos="verb">biejedh</errorort> guktie maehtieh bigkesovvedh <errorort correct="maahtoedaerpiesvoetese" errtype="x" pos="noun">maahtoe-daerpiesvoetese</errorort> saemiej ektievoetesne. Nimhtie aaj vihkeles saemieh maehtieh åadtjoeh <errorort correct="gïehtjedimmiejgujmie" errtype="ascii" pos="noun">giehtjedimmiejgujmie</errorort> <errorort correct="gïehtelidh" errtype="ascii" pos="verb">giehtelidh</errorort>. Vihkeles aaj  <errorort correct="ryöjredimmesne" errtype="ascii" pos="noun">ryøjredimmesne</errorort> jååhkesjidh guktie <errorort correct="gïele" errtype="ascii" pos="noun">giele</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> kultuvre saemiej ektievoetesne jarngese båata.
+  </p>
+    <p>
+         Staath edtjieh <errorort correct="saemiedigkiej" errtype="suf" pos="noun">saemiedigkij</errorort> ektine <errorort correct="ektesvuekiebarkoem" errtype="x" pos="noun">ektesvuekie-barkoem</errorort> saemiej <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> jeatja <errorort correct="gïehtjedimmieinstitusjovnh" errtype="mix" pos="noun">giehtjedimmie-instusjovni</errorort> <errorort correct="gaskemsh" errtype="con" pos="pp">gaskems</errorort> <errorort correct="freemmedh" errtype="conc" pos="verb">freemedh</errorort> dovne <errorort correct="sjïere" errtype="ascii" pos="adj">sjiere</errorort> laantine mohte aaj <errorort correct="raasti" errtype="vowc" pos="noun">rasti</errorort> bijjelen. Daerpies aaj <errorort correct="gïehtjedimmieinstitusjovnide" errtype="mix" pos="noun">giehtjedimmie-institusjovnide</errorort> nænnoestidh guktie voestes sæjjan båetieh, <errorort correct="vuartesjh" errtype="mix" pos="verb">vuaertsjh</errorort> voestes <errorort correct="lïhtsem" errtype="ascii" pos="noun">lihtsem</errorort>.
+  </p>
+    <p>
+         Vihkeles aaj <errorort correct="gïehtjedimmiem" errtype="ascii" pos="noun">giehtjedimmiem</errorort> <errorort correct="sjïehtesjehtedh" errtype="ascii" pos="verb">sjiehtesjehtedh</errorort> saemide goh aalkoealmetjh  <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="krööhkestidh" errtype="ascii" pos="verb">krøøhkestidh</errorort> <errorort correct="krïebpesjimmide" errtype="mix" pos="noun">kriebpesjimmmide</errorort> mah destie båetieh.
+  </p>
+    <p></p>
+    <p type="title"><errorort correct="Göökte" errtype="ascii" pos="num">Gøøkte</errorort> luhkie gaaktsede tjaalege
+  </p>
+    <p type="title"><errorort correct="Ööhpehtimmieh" errtype="ascii" pos="noun">Øøhpehtimmieh</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> saerniestimmieh saemiej <errorort correct="bïjre" errtype="ascii" pos="pp">bijre</errorort></p>
+    <p>
+               Reaktah <errorort correct="jïjtsh" errtype="mix" pos="refl">jiehtsh</errorort> saemiej kultuvren <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> ektievoeti <errorort correct="bïjre" errtype="ascii" pos="pp">bijre</errorort> tjoeverieh aaj <errorort correct="ööhpehtimmesne" errtype="ascii" pos="noun">øøhpehtimmesne</errorort> saemiej dajvi bæjngolen båetedh. <errorort correct="Dagkeres" errtype="conc" pos="x">Dageres</errorort> <errorort correct="ööhpehtimmie" errtype="ascii" pos="noun">øøhpehtimmie</errorort> edtja <errorort correct="vihtieslaakan" errtype="x" pos="adv">vihties laakan</errorort> maahtoem soptsestimmesne vedtedh saemiej <errorort correct="bïjre" errtype="ascii" pos="pp">bijre</errorort> goh laanten <errorort correct="aalkoealmetjh" errtype="x" pos="noun">aalkoe-almetjh</errorort>. Staath, <errorort correct="saemiedigkiej" errtype="suf" pos="noun">saemiedigkij</errorort> ektine, tjoeverieh <errorort correct="ööhpehtimmiem" errtype="ascii" pos="noun">øøhpehtimmiem</errorort> saemien kultuvren <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> ektievoeten <errorort correct="bïjre" errtype="ascii" pos="pp">bijre</errorort> faaledh almetjidie mah edtjieh saemiej dajvine barkedh.
+  </p>
+    <p>
+               Staath <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> saemiedigkieh tjoeverieh <errorort correct="sïejhme" errtype="mix" pos="adj">siejme</errorort> almetjidie staeries saerniestimmieh saemien kultuvren <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorsyn correct="ektievoetejielemen" errtype="x" pos="noun">ektievoete jielemen</errorsyn> <errorort correct="bïjre" errtype="ascii" pos="pp">bijre</errorort> vedtedh .
+  </p>
+    <p></p>
+    <p type="title"><errorort correct="Göökte" errtype="ascii" pos="num">Gøøkte</errorort> luhkie åktsede tjaalege
+  </p>
+    <p type="title"><errorort correct="Healsoe- jïh" errtype="mix" pos="mix">Healsoe-jih</errorort> <errorsyn correct="ektievoetetsiehkie" errtype="x" pos="noun">ektievoete tsiehkie</errorsyn></p>
+    <p>
+               Staath edtjieh <errorort correct="saemiedigkiej" errtype="suf" pos="noun">saemiedigkij</errorort> ektine barkedh guktie <errorort correct="healsoe- jïh" errtype="mix" pos="mix">healsoe-jih</errorort> ektievoete tsiehkien faaleldahkh saemide <errorort correct="bööremes" errtype="ascii" pos="adj">bøøremes</errorort> sjidtieh.  Faaleldahkh tjoeverieh <errorort correct="sjïehtesovvedh" errtype="ascii" pos="verb">sjiehtesovvedh</errorort> guktie <errorort correct="gïele- jïh" errtype="mix" pos="mix">giele-jih</errorort> kultuvre <errorort correct="krïebpesje" errtype="ascii" pos="verb">kriebpesje</errorort>.
+  </p>
+    <p>
+               Bæjngolen dej saemiej dajvh edtjieh aaj <errorort correct="healsoe- jïh" errtype="mix" pos="mix">healsoe-jih</errorort> <errorort correct="ektievoetetsiehkie" errtype="x" pos="noun">ektievoete-tsiehkie</errorort> <errorort correct="dåarjelidh" errtype="vowc" pos="verb">dåårjelidh</errorort> guktie saemiej kultuvre <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="gïele" errtype="ascii" pos="noun">giele</errorort> jarngese båetieh  <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="gïetedalleme" errtype="ascii" pos="verb">gietedalleme</errorort> almetjidie <errorort correct="bööremes" errtype="ascii" pos="adj">bøøremes</errorort> sjædta.
+  </p>
+    <p></p>
+    <p type="title">
+Golme luhkie tjaalege
+  </p>
+    <p type="title"><errorort correct="Saemiej" errtype="suf" pos="noun">Saemij</errorort> maanah <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> noerh
+  </p>
+    <p><errorort correct="Saemiej" errtype="mix" pos="noun">Samiej</errorort> maanah <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> noerh reaktam utnieh saemien kultuvrem vååjnesasse buektedh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> saemien <errorort correct="identiteetem" errtype="vowc" pos="noun">identitetem</errorort> gorredidh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="övtiedidh" errtype="ascii" pos="verb">øvtiedidh</errorort>.
+  </p>
+    <p></p>
+    <p type="title">
+Golme luhkie voestes tjaalege
+  </p>
+    <p type="title">
+Vuekiej maahtoe <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> kultuvren <errorort correct="jiehtesh" errtype="vow" pos="noun">jiehtsh</errorort></p>
+    <p>
+               Staath edtjieh <errorort correct="krööhkestidh" errtype="ascii" pos="verb">krøøhkestidh</errorort> saemiej reaktam maahtoeh- <errorort correct="maahtoevuekide" errtype="mix" pos="noun">vuekide</errorort> vaarjelidh  <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> aaj <errorort correct="jiehtesekultuvren" errtype="mix" pos="noun">jiehtsh-kultuvren</errorort> vuekide gorredidh. Saemiej edtjieh åadtjodh  reaktide gorredidh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="övtiedidh" errtype="ascii" pos="verb">øvtiedidh</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> dejtie  noere gaedtside guedtedh.
+  </p>
+    <p>
+               Staath edtjieh aaj barkedh  <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> saemide viehkiem vedtedh gosse daaroeh sijhtieh saemien kultuvrem åtnose vaeltieh, <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> jis destie <errorort correct="beetnehvierhtieh" errtype="x" pos="noun">beetneh-vierhtieh</errorort> båetieh, dellie vihkeles saemieh aaj måedtiem  vierhtijste åadtjoeh dåastodh. Saemien kultuvre <errorort correct="tjoevere" errtype="vowc" pos="verb">tjovere</errorort> vaarjelimmien nualan båetedh guktie eah <errorort correct="kultuvredarjomh" errtype="x" pos="noun">kultuvre-darjomh</errorort> båajhtode laakan saemiej maadtoem vuesehth.
+  </p>
+    <p>
+               Staath edtjieh barkedh guktie saemiej <errorort correct="maahtoekultuvre" errtype="x" pos="noun">maahtoe-kultuvre</errorort> vaarjelæmman båata gosse edtjieh nænnoestimmieh saemiej  jielemen <errorort correct="bïjre" errtype="ascii" pos="pp">bijre</errorort> tseegkedh.
+  </p>
+    <p></p>
+    <p type="title">
+Golme luhkie mubpie tjaalege
+  </p>
+    <p type="title">
+Saemiej kultuvre <errorort correct="mojhtesh" errtype="vow" pos="noun">mojhtsh</errorort></p>
+    <p>
+               Saemiej <errorort correct="kultuvremojhtesh" errtype="mix" pos="noun">kultuvre-mojhtsh</errorort> edtjieh laaken mietie saemiedigkien nuelesne vaarjelsovvedh jallh jeatja institusjovni nuelesne mah saemiedægkan veadtaldihkie.
+  </p>
+    <p>
+               Staath edtjieh råajvarimmieh tseagkodh ektie <errorort correct="vyöki" errtype="ascii" pos="x">vøøki</errorort> barkojne dej jeatja laantine  <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> nimhtie <errorort correct="vïhtesjidh" errtype="ascii" pos="verb">vihtesjidh</errorort>, vaarjelidh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> dejtie saemiej <errorort correct="kultuvremojhtesidie" errtype="mix" pos="noun">kultuvre-mojhtsidie</errorort> reeremen nualan <errorort correct="bïejedh" errtype="ascii" pos="verb">biejedh</errorort>.
+  </p>
+    <p>
+               Staath edtjieh aaj viehkiehtidh gosse <errorort correct="kultuvremojhtesh" errtype="mix" pos="noun">kultuvre-mojhtsh</errorort> leah vaaltasovveme <errorort correct="saemiej" errtype="suf" pos="noun">saemij</errorort> dajvijste <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> jis dah  <errorort correct="sjïere" errtype="ascii" pos="adj">sjiere</errorort> laakan saemiej kultuvrese <errorort correct="veadtaldihkie" errtype="conc" pos="adv">veadaldihkie</errorort>, dellie edtjieh dah <errorort correct="museeumidie" errtype="mix" pos="noun">museeide</errorort> <errorort correct="bïejesovvedh" errtype="ascii" pos="verb">biejesovvedh</errorort> jallh jeatja <errorort correct="kultuvreinstitusjovnide" errtype="x" pos="noun">kultuvre-institusjovnide</errorort> gosse <errorort correct="saemiedigkie" errtype="conc" pos="noun">saemiedidkie</errorort> dam jååhkesjamme.
+  </p>
+    <p></p>
+    <p type="title">
+Golme luhkie <errorort correct="gåalmede" errtype="vow" pos="num">gåalmode</errorort> tjaalege
+  </p>
+    <p type="title">
+Kultuvren våarome
+  </p>
+    <p>
+               Staati <errorort correct="dïedth" errtype="ascii" pos="noun">diedth</errorort> kultuvren gaavhtan aaj  vihteles <errorort correct="kultuvrevåaromem" errtype="mix" pos="noun">kultuvre-våaroemem</errorort> dijpieh guktie saemieh <errorort correct="jieleme- jïh" errtype="mix" pos="mix">jieleme-jih</errorort> <errorort correct="vierhtieviehkieh" errtype="x" pos="noun">vierhtie-viehkieh</errorort> åadtjoeh mij daerpies gosse kultuvrem <errorort correct="övtiedidh" errtype="ascii" pos="verb">øvtiedidh</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> vihties laakan gorredidh.
+  </p>
+    <p></p>
+    <p type="title">
+Njealjede <errorort correct="kapihtele" errtype="conc" pos="noun">kapittele</errorort> IV
+  </p>
+    <p type="title">
+Saemiej reaktah laantese <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> tjaatsan
+  </p>
+    <p></p>
+    <p type="title">
+Golme luhkie njealjede tjaalege
+  </p>
+    <p type="title">
+Guktie laantem <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> tjaetsiem <errorort correct="vuekiej" errtype="suf" pos="noun">vuekij</errorort> mietie provhkedh
+  </p>
+    <p><errorort correct="Låångke" errtype="vow" pos="adv">Låångk</errorort> daan åvtelen leah saemien vuekie orreme tjaetside <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> laantide provhkedh guktie dah <errorort correct="sjïdteme" errtype="ascii" pos="verb">sjidteme</errorort> goh eeke <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> aerpie dejtie. Nimhtie <errorort correct="dïhte" errtype="ascii" pos="dem">dihte</errorort>  vuesehte guktie dah <errorort correct="nasjonaale" errtype="mix" pos="adj">nasjovnale</errorort>- <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="internasjonaale" errtype="mix" pos="adj">internasjovnale</errorort> reaktah  verviestieh dejtie njoelkedasside mah dååjrehtsi mietie reaktam saemide laantese <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="tjaatsan" errtype="vow" pos="noun">tjaatasan</errorort> vedtieh.
+  </p>
+    <p>
+               Jalhts saemieh eah leah aajhterh dagkeres dajvide mah tjaatsan <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> laantide veadtaldihkie, mohte aerebi dajvide provhkeme <errorort correct="båatsoejieliemasse" errtype="mix" pos="noun">båatsoe-jielemasse</errorort>, <errorort correct="göölemasse" errtype="ascii" pos="noun">gøølemasse</errorort> jallh <errorsyn correct="jeatjhlaakan" errtype="x" pos="adv">jeatjh laakan</errorsyn>, dellie edtjieh saemieh daelie aaj reaktam utnedh daejtie dajvide provhkedh goh aerebi. Jis daaroeh aaj dajvide pruvhkieh saemiej ektine, dellie edtjieh <errorort correct="gaajhkesh" errtype="vow" pos="indef">gaajhks</errorort> dovnesh voerkelimmesne dåemiedidh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> vuartasjidh guktie dah ovmese reaktah <errorort correct="rïektes" errtype="ascii" pos="adj">riektes</errorort> sæjjan båetieh.<errorort correct="båetieh. Sjïere" errtype="mix" pos="mix">Sjiere</errorort> reaktah daerpies båatsoeburrie almetjidie. Jalhts reaktah vaenebh goh aerebi, læjhkan daerpies provhkemem <errorort correct="sjïehtesjehtedh" errtype="ascii" pos="verb">sjiehtesjehtedh</errorort> guktie maahta <errorort correct="övtiedimmiem" errtype="ascii" pos="noun">øvtiedimmiem</errorort> <errorort correct="teknihken" errtype="con" pos="noun">teknigken</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> vierhtiedimmien gaavhtan juhtiehtidh.
+  </p>
+    <p><errorort correct="Vïhtesjimmieh" errtype="ascii" pos="noun">Vihtesjimmieh</errorort> guktie saemiej pråvkoe ovmese dajvide daan njoelkedassen mietie,  edtja våaromen mietie <errorort correct="mïetesovvedh" errtype="mix" pos="verb">mietiesovvedh</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> vuesiehtidh guktie saemieh aerebi laantide <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> tjaetside åtnose vaalteme. Daajroes lea aaj saemieh eah leah naan væhtah eatnamasse laahpeme mah vååjnoes.
+  </p>
+    <p>
+               Jiehtegh daennie tjaalegisnie eah leah naan tsagkesh jis saemieh sijhtieh sijjen <errorort correct="eekereaktide" errtype="x" pos="noun">eeke-reaktide</errorort> bååstide vaeltedh jis <errorort correct="nasjonaale" errtype="mix" pos="adj">nasjovnale</errorort> jallh <errorort correct="internasjonaale" errtype="mix" pos="adj">internasjovnale</errorort> reaktah luhpiem vedtieh <errorort correct="dïsse" errtype="ascii" pos="dem">disse</errorort>.
+  </p>
+    <p></p>
+    <p type="title">
+Golme luhkie <errorort correct="vïjhtede" errtype="ascii" pos="num">vijhtede</errorort> tjaalege
+  </p>
+    <p type="title">
+Guktie saemiej reaktide laantide <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> tjaetside vaarjelidh
+  </p>
+    <p>
+               Staath edtjieh daerpies råajvarimmieh tseagkodh guktie saemiej reaktah <errorsyn correct="eensilaakan" errtype="x" pos="adv">eensi laakan</errorsyn> vaarjelimmien nualan båetieh, <errorort correct="vuartesjh" errtype="vow" pos="verb">vuartsjh</errorort> tjaalegem 34.
+  </p>
+    <p>
+               Eeremes edtjieh staath <errorsyn correct="eensilaakan" errtype="x" pos="adv">eensi laakan</errorsyn> <errorort correct="gïehtjedidh" errtype="ascii" pos="verb">giehtjedidh</errorort> dejtie <errorort correct="laante- jïh" errtype="x" pos="noun">laante-jih</errorort> tjaetsiedajvide mejtie saemieh vuekien mietie pruvhkeme. <errorort correct="Sjïere" errtype="ascii" pos="adj">Sjiere</errorort> <errorort correct="öörnegh" errtype="ascii" pos="noun">øørnegh</errorort> edtjieh gååvnesidh <errorort correct="nasjonaale" errtype="mix" pos="adj">nasjovnale</errorort> reaktesne guktie nuepie gyhtjelasside <errorort correct="gïehtjedidh" errtype="ascii" pos="verb">giehtjedidh</errorort> saemiej reaktaj <errorort correct="bïjre" errtype="ascii" pos="pp">bijre</errorort> laantese <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> tjaatsan. Jis dåeriesmoerh <errorsyn correct="dööpmemeraerine" errtype="x" pos="noun"><errorort correct="dööpmeme" errtype="mix" pos="verb">døøpmege</errorort> -raerine</errorsyn> reaktaj <errorort correct="bïjre" errtype="ascii" pos="pp">bijre</errorort>, dellie edtjieh <errorort correct="beetnehvierhtieh" errtype="mix" pos="noun">beetne-vierhtieh</errorort> vadtasovvedh guktie <errorort correct="aamhtesidie" errtype="mix" pos="noun">aamhtside</errorort> maehtieh vijriebasse juhtiehtidh.
+  </p>
+    <p></p>
+    <p type="title">
+Golme luhkie govhtede tjaalege
+  </p>
+    <p type="title">
+Guktie eatnemen maelmide provhkedh
+  </p>
+    <p>
+               Saemiej reaktah eatnemen maelmide <errorort correct="laante- jïh" errtype="mix" pos="mix">laante-jih</errorort> <errorort correct="tjaetsiedajvine" errtype="x" pos="noun">tjaetsie-dajvine</errorort> mah <errorort correct="neebnesuvvieh" errtype="mix" pos="verb">nebnesovvieh</errorort> tjaalegisnie 34, edtjieh <errorort correct="sjïere" errtype="ascii" pos="adj">sjiere</errorort> vaarjelimmien nualan båetedh. Eeremes lea vihkeles daejredh gosse daejtie reaktide aaj båetije biejjiej provhkedh, dellie nuepieh saemiej <errorort correct="vuekiemaahtoeh" errtype="x" pos="noun">vuekie-maahtoeh</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="kultuvrejiehtesidie" errtype="mix" pos="noun">kultuvre-jiehteside</errorort> gorredidh.
+  </p>
+    <p>
+               Aerebi goh byjjes reereme luhpiem vadta <errorort correct="gïehtjedæmman" errtype="ascii" pos="noun">giehtjedæmman</errorort> jallh aaj <errorort correct="vïedtjemasse" errtype="ascii" pos="noun">viedtjemasse</errorort> <errorort correct="mineraalijste" errtype="vowc" pos="noun">mineralijste</errorort> jallh jeatja maelmijste laanteste jallh <errorort correct="tjaetseste" errtype="con" pos="noun">tjaeteste</errorort> mah leah saemiej eekh  jallh dejstie provhkesovveme, dellie edtja digkiedimmie saemiejgujmie årrodh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort>  aaj <errorort correct="saemiedigkine" errtype="suf" pos="noun">saemiedigkijne</errorort> guktie  tjaalege 16 vuesehte.
+  </p>
+    <p>
+               Jis <errorort correct="saemide" errtype="suf" pos="noun">saemiede</errorort> tsagkesh sjidtieh jallh geerve barkedh dej dajvine goh aerebi, dellie eah edtjieh luhpieh vadtasovvedh <errorort correct="gïehtjedæmman" errtype="ascii" pos="noun">giehtjedæmman</errorort> jallh <errorort correct="vïedtjemasse" errtype="ascii" pos="noun">viedtjemasse</errorort> eatnemen maelmijste jis daate  saemiej kultuvrem sturrieh. Saemiedigkieh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="sjïere" errtype="ascii" pos="adj">sjiere</errorort> saemieh tjoeverieh <errorort correct="sïemes" errtype="ascii" pos="adj">siemes</errorort> årrodh jis dagkeres barkoeh edtjieh åtnose båetedh.
+  </p>
+    <p><errorort correct="Dïhte" errtype="ascii" pos="dem">Dihte</errorort> mij daennie tjaalegisnie tjåådtje, aaj dijpieh jeatja goerpemem eatnamisnie jallh <errorort correct="pråvhkoem" errtype="vowc" pos="noun">pråavhkoem</errorort> eatnamistie mij tjaalegisnie 34 tjåådtje. Daesnie  aaj  <errorort correct="skåajjesnjidtjeme" errtype="mix" pos="noun">skåajje-snidtjeme</errorort> båata, <errorort correct="tjaetsie-" errtype="vowc" pos="noun">tjatsie-</errorort> jallh <errorsyn correct="bïegkefaamoebigkeme" errtype="x" pos="noun"><errorort correct="bïegkefaamoe" errtype="mix" pos="noun">biegke-faamoe</errorort> bigkeme</errorsyn>, geajnoebigkeme <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> hæhtjoeh, <errorort correct="militæære" errtype="vowc" pos="noun">militære</errorort> <errorort correct="lïerehtimmiesijjieh" errtype="ascii" pos="noun">lierehtimmie-sijjieh</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> staeries sijjieh <errorort correct="militæærese" errtype="vowc" pos="noun">militærese</errorort>.
+  </p>
+    <p></p>
+    <p type="title">
+Golme luhkie <errorort correct="tjïjhtjede" errtype="ascii" pos="num">tjijhtede</errorort> tjaalege
+  </p>
+    <p type="title">
+Goerpemaaksoeh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="leahtah" errtype="vowc" pos="noun">læhtah</errorort> vierhtijste
+  </p>
+    <p>
+               Saemieh edtjieh goerpemaaksoem gaajhki <errorort correct="urhtsehtallemi" errtype="con" pos="noun">urhtsetallemi</errorort>  åvteste åadtjodh jis dagkeres darjome sjædta mij tjaalegisnie 36, mubpien <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> njieljeden boelhkesne tjåådtje. Gosse <errorort correct="nasjonaale" errtype="mix" pos="noun">nasjovnale</errorort> laake <errorort correct="krïebpesje" errtype="ascii" pos="verb">kriebpesje</errorort> dejstie guhth luhpiem åådtjeme eatnemen maelmijste vaeltedh, dellie edtjieh våarome-aajhteridie vierhtieh maeksedh jallh <errorort correct="dïenestistie" errtype="mix" pos="noun">dienesjisti</errorort> leahtam vedtedh. Nimhtie aaj seamma reaktah saemide guhth leah dajvide provhkeme, maaksoem dåastodh.
+  </p>
+    <p><errorsyn correct="Seammalaakan" errtype="x" pos="adv">Seamma laakan</errorsyn> aaj daate sjædta maaksoem dåastodh jis <errorort correct="internasjonaale" errtype="mix" pos="adj">internasjovnale</errorort> reaktaj mietie eatnemen maelmieh <errorort correct="vaaltasuvvieh" errtype="vow" pos="verb">vaaltasovvieh</errorort>. 
+  </p>
+    <p></p>
+    <p type="title">
+Golme luhkie gaaktsede tjaalege
+  </p>
+    <p type="title">
+Duvvege <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> fealadimmie duvvene( fjorder og kystfarvann)
+  </p>
+    <p>
+               Reaktah tjaetside <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> provhkeme dejstie  mij tjaalasovveme <errorort correct="artihkelisnie" errtype="con" pos="noun">artikkelisnie</errorort> 34-37 aaj sjeahta gosse saemiej <errorort correct="göölemem" errtype="ascii" pos="noun">gøølemem</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> jeatja pråvhkoem saelhteste <errorort correct="neebnedh" errtype="ascii" pos="verb">nebnedh</errorort>.
+  </p>
+    <p>
+               Gosse juekedh <errorort correct="vïjremepaarhth" errtype="mix" pos="noun">vijremepaart</errorort> <errorort correct="göölemasse" errtype="ascii" pos="noun">gøølemasse</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> jeatja saelhtien maelmide , dellie vihkeles saemiej reaktide steeredh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> vuartasjidh man vierhtege daate saemiej byjres ektievoetese.<errorort correct="ektievoetese. Daate" errtype="x" pos="mix">Daate</errorort> edtja deahpadidh jalhts pråvhkoe lea åananamme jallh raakte gaarvanamme  juktie jeatja <errorort correct="öörnegh" errtype="ascii" pos="noun">øørnegh</errorort> leah båateme <errorort correct="göölemasse" errtype="ascii" pos="noun">gøølemasse</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="maelmiepråvhkose" errtype="x" pos="noun">maelmie-pråvhkose</errorort> daej dajvine. Seamma aaj sjædta jis pråvhkoeh åananamme jallh <errorort correct="gaarvanamme" errtype="vowc" pos="verb">garvanamme</errorort> juktie saelhtien maelmieh vaananamme daej dajvine.
+  </p>
+    <p></p>
+    <p type="title">
+Golme luhkie åktseden tjaalege
+  </p>
+    <p type="title"><errorort correct="Dajve- jïh" errtype="mix" pos="mix">Dajve-jih</errorort> <errorort correct="maelmievierhtiedimmie" errtype="x" pos="noun">maelmie-vierhtiedimmie</errorort></p>
+    <p>
+               Reaktaj baalte mah vuesiehtieh saemiej <errorort correct="eekereaktah" errtype="x" pos="noun">eeke-reaktah</errorort> jallh <errorort correct="pråvhkemereaktah" errtype="x" pos="noun">pråvhkeme-reaktah</errorort>, desnie edtjieh aaj saemiedigkieh mååhtedimmieh utnedh guktie tjaalege 16 vuesehte <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> aaj  byjjes <errorort correct="vierhtiedimmiej" errtype="suf" pos="noun">vierhtiedimmij</errorort> <errorort correct="bïjre" errtype="ascii" pos="pp">bijre</errorort> dajvine, tjaalegisnie, 34 <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> 38.
+  </p>
+    <p></p>
+    <p type="title"><errorort correct="Vïjhte" errtype="ascii" pos="num">Vijhte</errorort> luhkien tjaalege
+  </p>
+    <p type="title">
+Byjres -vaarjelimmie <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> byjres vierhtiedimmie
+  </p>
+    <p>
+               Staath tjoeverieh <errorort correct="saemiedigkiej" errtype="suf" pos="noun">saemiedigkij</errorort> ektine barkedh guktie eensi byjres vaarjelimmieh <errorort correct="tseegkesuvvieh" errtype="vow" pos="verb">tsegkesovvieh</errorort> guktie reaktah <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="övtiedimmieh" errtype="ascii" pos="noun">øvtiedimmieh</errorort> saemiej <errorort correct="laante- jïh" errtype="mix" pos="mix">laante-jih</errorort> tjaetsiedajvine stinkes sjædta, tjaalege 34 <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> 38.
+  </p>
+    <p>
+               Saemiedigkieh edtjieh reaktam utnedh reeremasse , tjaalege 16, guktie byjres vierhtiedimmiem daej dajvine maehtieh <errorort correct="tsevtsiehtidh" errtype="conc" pos="verb">tsevsiehtidh</errorort> .
+  </p>
+    <p></p>
+    <p type="title"><errorort correct="Vïjhtede" errtype="ascii" pos="num">Vijhtede</errorort> <errorort correct="kapihtele" errtype="conc" pos="noun">kapittele</errorort> V
+  </p>
+    <p type="title">
+Saemiej jieleme
+  </p>
+    <p type="title"><errorort correct="Vïjhte" errtype="ascii" pos="num">Vijhte</errorort> luhkie voestes tjaalege
+  </p>
+    <p type="title">
+Guktie saemiej <errorort correct="jieliemidie" errtype="svow" pos="noun">jielemidie</errorort> vaarjelidh
+  </p>
+    <p>
+              Saemiej jielemh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> saemieh <errorort correct="maelmievierhtiedimmieh" errtype="x" pos="noun">maelmie-vierhtiedimmieh</errorort> edtjieh <errorort correct="sjïere" errtype="ascii" pos="adj">sjiere</errorort> laakan vaarjelimmien nualan båetedh. Daate lea daerpies <errorort correct="reaktaj- jïh" errtype="mix" pos="mix">reaktaj-jih</errorort> vierhtiej råajvarimmiej gaavhtan gosse <errorsyn correct="vihtieslaakan" errtype="x" pos="adv">vihties laakan</errorsyn>  <errorort correct="kultuvrevåaroemasse" errtype="x" pos="noun">kultuvre-våaroemasse</errorort> veadtaldihkie.
+  </p>
+    <p>
+               Saemiej jieleme <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="maelmievierhtiedimmie" errtype="x" pos="noun">maelmie-vierhtiedimmie</errorort>  leah vihkeles gosse saemiej voenge edtja tjåadtjodh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="övtiedimmesne" errtype="mix" pos="noun">øvtiedimmisne</errorort> årrodh.
+  </p>
+    <p></p>
+    <p type="title"><errorort correct="Vïjhte" errtype="ascii" pos="num">Vijhte</errorort> luhkie mubpie tjaalege
+  </p>
+    <p type="title">
+Saemiej båatsoejieleme
+  </p>
+    <p>
+               Båatsoejieleme lea saemiej  vihties <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="sïejhme" errtype="ascii" pos="adj">siejme</errorort> vuekie <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> dan gaavhtan daerpies <errorort correct="dïsse" errtype="ascii" pos="dem">disse</errorort> <errorort correct="sjïere" errtype="ascii" pos="adj">sjiere</errorort> reaktah viedtedh.
+  </p>
+    <p>
+               Nimhtie edtjieh Sveerje <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="Nöörje" errtype="ascii" pos="prop">Nøørje</errorort> båatsoejielemem vaarjelidh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="övtiedidh" errtype="ascii" pos="verb">øvtiedidh</errorort>  goh <errorort correct="sjïere" errtype="ascii" pos="adj">sjiere</errorort> reaktah saemide båatsoeburriedajvine.
+  </p>
+    <p>
+               Saemieh goh aalkoealmetjh aaj vååjnesasse båetieh tjaalegisnie <errorort correct="protokollen" errtype="con" pos="noun">provtokollen</errorort> nuelesne nr.3 europeiske <errorort correct="unijovnesne" errtype="con" pos="noun">uniovnesne</errorort>, gusnie Finlaante aaj  tjirkie sæjhta saemiej båatsoejielemem nænnoestidh.
+  </p>
+    <p></p>
+    <p type="title">
+Njielje luhkie gåalmede tjaalege
+  </p>
+    <p type="title"><errorort correct="Båatsoejieleme" errtype="x" pos="noun">Båatsoe-jieleme</errorort> <errorort correct="raasti" errtype="vowc" pos="noun">rasti</errorort> bijjelen
+  </p>
+    <p>
+               Saemiej reaktah <errorort correct="raasti" errtype="vowc" pos="noun">rasti</errorort> <errorort correct="gåabpatjahki" errtype="conc" pos="x">gåabatjahki</errorort> bieline gåatoehtidh, lea daerpies vuekien mietie.
+  </p>
+    <p>
+               Jis mååhtedimmieh saemiej dajvine, <errorlex correct="sïjti" origpos="w" pos="noun"><errorort correct="siidaj" errtype="vow" pos="noun">sidaj-</errorort></errorlex> jallh bovtsegåatome moenehtsi <errorort correct="gaskemsh" errtype="con" pos="pp">gaskems</errorort>, <errorort correct="raasti" errtype="vowc" pos="noun">rasti</errorort> gåabpegh bielesne gåatoehtidh, dellie edtjieh dah mååhtedimmieh dååjredh. Jis <errorort correct="tsagkesh" errtype="conc" pos="noun">tsagesh</errorort> pråvhkoen jallh <errorort correct="goerkesen" errtype="diph" pos="noun">guarkesen</errorort> gaavhtan dagkeres mååhtedæmman, dellie edtja akte dejstie mij tsællosne, maehtedh tsælloem <errorort correct="sjïere" errtype="ascii" pos="adj">sjiere</errorort> moenehtsasse guedtedh.<errorort correct="guedtedh. Njoelkedassh" errtype="x" pos="mix">Njoelkedassh</errorort>  guktie dagkeres <errorort correct="tsælloemoenehtse" errtype="x" pos="noun">tsælloe-moenehtse</errorort> edtja <errorort correct="tjåanghkan" errtype="conc" pos="adv">tjåangkan</errorort> <errorort correct="bïejesovvedh" errtype="ascii" pos="verb">biejesovvedh</errorort>, edtjieh saemiedigkieh dej golme laantine nænnoestidh. Jis akte dejstie <errorort correct="partijijste" errtype="vowc" pos="noun">paartijste</errorort> ovnukte guktie <errorort correct="tsælloemoenehtse" errtype="x" pos="noun">tsælloe-moenehtse</errorort> <errorort correct="dööpmeme" errtype="ascii" pos="verb">døøpmeme</errorort>, dellie nuepie <errorort correct="aamhtesem" errtype="vow" pos="noun">aamhtsem</errorort> juhtiehtidh <errorort correct="dööpmemeraaran" errtype="mix" pos="noun">døøpmeme-raaran</errorort> seamma laantesne gusnie <errorort correct="båatsoedajve" errtype="x" pos="noun">båatsoe-dajve</errorort>.
+  </p>
+    <p>
+               Jis eah dagkeres mååhtedimmieh saemie-<errorort correct="saemiedajvi-" errtype="x" pos="noun">dajvi-</errorort> <errorlex correct="sïjti" origpos="w" pos="noun"><errorort correct="siidaj" errtype="vowc" pos="noun">sidaj</errorort></errorlex> <errorort correct="jallh" errtype="x" pos="cc">jaalh</errorort> <errorort correct="bovtsegåatomemoenehtsi" errtype="x" pos="noun">bovtsegåatome-moenehtsi</errorort> <errorort correct="gaskemsh" errtype="con" pos="pp">gaskems</errorort> gååvnesh, mohte ajve <errorort correct="gaskestaati" errtype="x" pos="noun">gaske-staati</errorort> latjkeme <errorort correct="gåatomedajvide" errtype="x" pos="noun">gåatome-dajvide</errorort>,dellie edtja daate latjkeme <errorort correct="våajnose" errtype="vowc" pos="noun">vååjnose</errorort> båetedh. Jis naaken muenieh stuerebe reaktam utnedh dagkeres dajvide, dellie edtjieh <errorort correct="namhtegh" errtype="conc" pos="adv">namtegh</errorort> heaptoeh maehtedh <errorort correct="krïebpesjimmide" errtype="ascii" pos="noun">kriebpesjimmide</errorort> <errorort correct="dööpmemeraaran" errtype="mix" pos="noun">døøpmege-raaran</errorort> juhtiehtidh dennie laantesne gusnie båatsoedajvh.
+  </p>
+    <p></p>
+    <p type="title" xml:lang="smj">
+Govhtede <errorort correct="kapihtele" errtype="conc" pos="noun">kapittele</errorort> VI
+  </p>
+    <p type="title">
+Guktie daam konvensjovnem juhtiehtidh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="övtiedidh" errtype="ascii" pos="verb">øvtiedidh</errorort></p>
+    <p type="title">
+Njielje luhkie njealjede tjaalege
+  </p>
+    <p>
+      <em type="italic">Ektesvuekiebarkoe saemiej <errorort correct="ministeri-" errtype="x" pos="noun">ministri-</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> saemiedigkiej <errorort correct="lïhtsegi" errtype="ascii" pos="noun">lihtsegi</errorort> <errorort correct="gaskemsh" errtype="con" pos="pp">gaskems</errorort></em>
+    </p>
+    <p>
+               Ministerh Finlaanteste, <errorort correct="Nöörjeste" errtype="ascii" pos="prop">Nøørjeste</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> Sveerjeste <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorsyn correct="saemiedigkiepresideenth" errtype="x" pos="noun">saemiedigkie- presidenth</errorsyn> dej golme laantine, tjoeverieh abpe <errorort correct="tïjjen" errtype="ascii" pos="noun">tijjen</errorort> <errorortreal correct="tjïrrh" errtype="ascii" pos="pp">tjirrh</errorortreal> <errorort correct="tjåanghkojne" errtype="mix" pos="noun">tjåangkojsne</errorort> gaavnedidh.                                       
+  </p>
+    <p><errorort correct="Dagkeres" errtype="vow" pos="x">Dagkers</errorort> ektesvuekiebarkoe edtja vuepside daennie <errorort correct="konvensjovnesne" errtype="suf" pos="noun">konvensjovsne</errorort> vijriebasse guedtedh, guktie voestes  <errorort correct="tjaalegisnie" errtype="suf" pos="noun">tjaalegijsnie</errorort> tjåådtje. <errorort correct="Tjåanghkojne" errtype="conc" pos="noun">Tjåangkojne</errorort> edtjieh barkedh saemiej vihkeles <errorort correct="aamhtesigujmie" errtype="vow" pos="noun">aamhtsigujmie</errorort> mah <errorort correct="gaajhkesidie" errtype="vow" pos="indef">gaajhksidie</errorort> dijpieh.
+  </p>
+    <p></p>
+    <p type="title">
+Njielje luhkie <errorort correct="vïjhtede" errtype="ascii" pos="num">vijhtede</errorort> tjaalege
+  </p>
+    <p type="title">
+Konvensjovnen moenehtse
+  </p>
+    <p>
+               Noerhte <errorort correct="konvensjovnemoenehtse" errtype="x" pos="noun">konvensjovne-moenehtse</errorort> <errorort correct="edtja" errtype="conc" pos="verb">edja</errorort> tseegkesovvedh mij maahta <errorort correct="gïehtjedidh" errtype="ascii" pos="verb">giehtjedidh</errorort> guktie daate konvensjovne jåhta. Moenehtsisnie edtjieh govhte <errorort correct="lïhtsegh" errtype="ascii" pos="noun">lihtsegh</errorort> guhth <errorort correct="sinsitneste" errtype="suf" pos="resip">sinsitnijstie</errorort> ovjearohks, tjahkasjidh. Dah golme staath <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> saemiedigkieh <errorort correct="fïere" errtype="ascii" pos="adv">fiere</errorort> guhte <errorort correct="lïhtsegem" errtype="ascii" pos="noun">lihtsegem</errorort> muenieh.
+  </p>
+    <p>
+               Dah edtjieh <errorort correct="vïjhte" errtype="ascii" pos="num">vijhte</errorort> jaepieh desnie tjahkasjidh. Moenehtse edtja <errorort correct="bïevnesh" errtype="ascii" pos="noun">bievnesh</errorort> dejtie golme staati <errorort correct="reerenasside" errtype="con" pos="noun">reeremasside</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="saemiedigkide" errtype="con" pos="noun">saemiedigide</errorort> vedtedh .Moenehtse aaj maahta råajvarimmieh laanti <errorort correct="reerenasside" errtype="con" pos="noun">reeremasside</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> saemiedigkide vedtedh mah <errorort correct="maehtieh" errtype="conc" pos="verb">maetieh</errorort> daam konvensjovnem nænnoestidh. Moenehtse aaj maahta <errorort correct="jiehtesh" errtype="vow" pos="noun">jiehtsh</errorort> buektedh jis gyhtjelassh  gill-akt almetjijstie jallh <errorort correct="tjïertijste" errtype="ascii" pos="noun">tjiertijste</errorort>.
+  </p>
+    <p></p>
+    <p type="title">
+Njielje luhkie govhtede tjaalege
+  </p>
+    <p type="title" xml:lang="sme"><errorort correct="Nasjonaale" errtype="mix" pos="adj">Nasjovnale</errorort> darjomh
+  </p>
+    <p>
+               Jis daate konvensjovne edtja <errorsyn correct="vihtieslaakan" errtype="x" pos="adv">vihties laakan</errorsyn> vååjnesasse båetedh, dellie vihkeles staath jiehtesigujmie båetieh mah <errorort correct="nasjonaale" errtype="mix" pos="adj">nasjovnale</errorort> laaken nualan <errorort correct="bïejesuvvieh" errtype="mix" pos="verb">biejesovvieh</errorort>.
+  </p>
+    <p></p>
+    <p type="title">
+Njielje luhkie <errorort correct="tjïjhtjede" errtype="ascii" pos="num">tjijhtjede</errorort> tjaalege
+  </p>
+    <p type="title">
+      <errorort correct="Vierhtiemieriedimmie" errtype="x" pos="noun">Vierhtie-mieriedimmie</errorort>
+    </p>
+    <p>
+               Staati <errorort correct="dïedth" errtype="ascii" pos="noun">diedth</errorort> leah <errorort correct="beetnehvierhtieh" errtype="mix" pos="noun">beetne-vierhtieh</errorort> skåårvedh jis daate konvensjovne edtja juhtiemasse båetedh. Ikte mierie laajkoeh laanti <errorort correct="gaskemsh" errtype="con" pos="pp">gaskems</errorort> edtja juakasovvedh vuejniemisnie man gellie saemieh dej ovmese laantine årroeminie.
+  </p>
+    <p>
+               Baalte daej væjkoej mah daennie <errorort correct="tjaalegisnie 35" errtype="x" pos="mix">tjaalegisnie35</errorort>,mubpien tsiehkesne <errorort correct="neebnesuvvieh" errtype="mix" pos="verb">nebnesovvieh</errorort>, edtjieh aaj saemieh <errorort correct="vierhtieviehkiem" errtype="x" pos="noun">vierhtie-viehkiem</errorort> åadtjodh jis daerpies gyhtjelassi reaktaj <errorort correct="bïjre" errtype="ascii" pos="pp">bijre</errorort> <errorort correct="dööpmemeraerine" errtype="mix" pos="noun">døøpmege-raerine</errorort> juhtiehtidh.
+  </p>
+    <p></p>
+    <p type="title"><errorort correct="Tjïjhtjede" errtype="mix" pos="num">Tjiehtjede</errorort> <errorort correct="kapihtele" errtype="conc" pos="noun">kapittele</errorort> VII
+  </p>
+    <p type="title">
+      <errorort correct="Orrijimmiejiehtesh" errtype="mix" pos="noun">Orrejimmie-jiehtsh</errorort>
+    </p>
+    <p></p>
+    <p type="title">
+Njielje luhkie gaaktsede tjaalege
+  </p>
+    <p type="title">
+Saemiedigkiej <errorort correct="dåhkasjehteme" errtype="vowc" pos="verb">dååhkasjehteme</errorort></p>
+    <p>
+               Daate konvensjovne edtja <errorort correct="nuelietjaalegen" errtype="x" pos="noun">nuelie-tjaalegen</errorort> mænngan <errorort correct="dåhkasjehtemem" errtype="vowc" pos="noun">dååhkasjehtemem</errorort> dejstie golme saemiedigkijste <errorort correct="vïedtjedh" errtype="ascii" pos="verb">viedtjedh</errorort>.
+  </p>
+    <p></p>
+    <p type="title">
+Njielje luhkie <errorort correct="åktsede" errtype="con" pos="num">åksede</errorort> tjaalege
+  </p>
+    <p type="title" xml:lang="nob">
+                                                                Ratifikasjovne
+  </p>
+    <p>
+               Daate konvensjovne edtja ratifikasjovnen nualan. Daate maahta voestegh <errorort correct="deahpadidh" errtype="conc" pos="verb">deapadidh</errorort> gosse dah golme saemiedigkieh leah daam <errorort correct="dåhkasjehteme" errtype="vowc" pos="verb">dååhkasjehtamme</errorort> guktie tjaalege 48 vuesehte.
+  </p>
+    <p></p>
+    <p type="title"><errorort correct="Vïjhte" errtype="ascii" pos="num">Vijhte</errorort> luhkien tjaalege
+  </p>
+    <p type="title">
+Gåessie daejnie aelhkiehtidh
+  </p>
+    <p>
+               Konvensjovne staeries sjædta golme luhkie biejjiej mænngan <errorort correct="ratifikasjovnetjaalegh" errtype="x" pos="noun">ratifikasjovne-tjaalegh</errorort> leah <errorort correct="våarhkose" errtype="conc" pos="noun">våarkose</errorort> <errorort correct="nöörjen" errtype="ascii" pos="prop">nøørjen</errorort> <errorort correct="ålkoeraerie" errtype="x" pos="noun">ålkoe-raerie</errorort> <errorort correct="departemeentese" errtype="vow" pos="noun">departementese</errorort> båateme.
+  </p>
+    <p><errorort correct="Nöörjen" errtype="ascii" pos="prop">Nøørjen</errorort> <errorort correct="ålkoeraeriedepartemeente" errtype="mix" pos="noun">ålkoeraerie-departemente</errorort> Finlaantese , Sveerjese  dejtie golme saemiedigkide <errorort correct="bïeljele" errtype="ascii" pos="verb">bieljele</errorort> <errorort correct="ratifikasjovnen" errtype="con" pos="noun">ratifikasjonen</errorort> tjaalegi <errorort correct="våarhkoen" errtype="conc" pos="noun">våarkoen</errorort> <errorort correct="bïjre" errtype="ascii" pos="pp">bijre</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> aaj man mierien konvensjovne edtja aelkedh juhtedh.
+  </p>
+    <p><errorort correct="Dïhte" errtype="ascii" pos="dem">Dihte</errorort> <errorort correct="originaale" errtype="mix" pos="adj">åårginale</errorort> tjaalege edtja <errorort correct="vöörhkelimmesne" errtype="ascii" pos="noun">vøørhkelimmesne</errorort> <errorort correct="nöörjen" errtype="ascii" pos="prop">nøørjen</errorort> <errorort correct="ålkoeraeriedepartemeentesne" errtype="mix" pos="noun">ålkoeraerie-departementesne</errorort> årrodh. <errorort correct="Dïhte" errtype="ascii" pos="dem">Dihte</errorort> edtja aaj <errorsyn correct="vihtieslaakan" errtype="x" pos="adv">vihties laakan</errorsyn> <errorort correct="öörnedh" errtype="ascii" pos="verb">øørnedh</errorort> guktie Finlaante, Sveerje <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> dah golme saemiedigkieh staeries <errorort correct="kopijem" errtype="con" pos="noun">kovpijem</errorort> åadtjoeh.
+  </p>
+    <p></p>
+    <p type="title"><errorort correct="Vïjhte" errtype="ascii" pos="num">Vijhte</errorort> luhkie voestes tjaalege
+  </p>
+    <p type="title"><errorort correct="Værhtoedimmieh" errtype="con" pos="noun">Værrhtoedimmieh</errorort> konvensjovnesne
+  </p>
+    <p><errorort correct="Værhtoedimmieh" errtype="con" pos="noun">Værrhtoedimmieh</errorort> daennie konvensjovnesne edtja <errorort correct="ektesevyöki" errtype="mix" pos="x">ektesvøøki</errorort> barkoe årrodh saemiedigkiej <errorort correct="gaskemsh" errtype="con" pos="pp">gaskems</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="jiehtesi" errtype="suf" pos="noun">jiehtesij</errorort>  tjaalegisnie 48.
+  </p>
+    <p><errorort correct="Værhtoedimmieh" errtype="con" pos="noun">Værrhtoedimmieh</errorort> daennie konvensjovnesne aelhkiedæmman båata golme luhkie biejjiej mænngan gosse <errorort correct="mååhtedimmielïhtsegh" errtype="mix" pos="noun">mååhtedimmie-lihtsegh</errorort> <errorort correct="nöörjen" errtype="ascii" pos="prop">nøørjen</errorort> ålkoeraerie <errorort correct="departemeentese" errtype="vow" pos="noun">departementese</errorort> <errorort correct="bïeljelamme" errtype="ascii" pos="verb">bieljelamme</errorort> <errorort correct="dåhkasjehtemen" errtype="mix" pos="noun">dååhkesjehtemen</errorort> <errorort correct="bïjre" errtype="ascii" pos="pp">bijre</errorort>.
+  </p>
+    <p><errorort correct="Dåhkasjehtemelïhtsegh" errtype="mix" pos="noun">Dååhkesjehteme-lihtsegh</errorort> leah <errorort correct="jååhkesjehteme" errtype="mix" pos="verb">jååhkesjehtamme</errorort> daam konvensjovnem.
+  </p>
+    <p>
+               Daate <errorort correct="deahpadi" errtype="vow" pos="verb">deahpedi</errorort> .......................  _____  ._______n   20......  akten tjaaleginie <errorort correct="nöörjen" errtype="ascii" pos="prop">nøørjen</errorort>, finlaanten, sveerjen <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> saemien <errorortreal correct="gïelesne" errtype="ascii" pos="noun">gielesne</errorortreal>. Gaajhkh tjaalegh seamma <errorort correct="vierhtiedaltesisnie" errtype="x" pos="noun">vierhtie-daltesisnie</errorort> tjåadtjoeminie.
+  </p>
+    <p>
+Veedtjeme(27.02.2012) sæjroste:
+  </p>
+    <p xml:lang="nob">
+http://www.regjeringen.no/Upload/AID/temadokumenter/sami/sami_samekonv_sorsamisk.pdf
+  </p>
+  </body>
+</document>

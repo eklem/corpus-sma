@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document id="no_id" xml:lang="sma">
+  <header>
+    <title></title>
+    <genre/>
+    <author>
+      <person born="" firstname="" lastname="Sissel Jåma" nationality="en_US" sex="unknown"/>
+    </author>
+    <year>2012</year>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 48460 $; </version>
+  </header>
+  <body>
+    <p type="title">
+Healsoeveeljeme Dalarnesne
+  </p>
+    <p type="title">
+Dutnjien mij lea <errorort correct="Dalarnan" errtype="suf" pos="prop">Dalarnen</errorort> leenesne tjaalasovveme
+  </p>
+    <p>
+Daesnie <errorort correct="bïevnesh" errtype="ascii" pos="noun">bievnesh</errorort> dutnjien Laantedigkie Dalarneste båata <errorsyn correct="dan Healsoeveeljemen bïjre Dalarnesne" errtype="wo" pos="pp">dan Healsoeveeljemem Dalarnesne <errorort correct="bïjre" errtype="ascii" pos="pp">bijre</errorort></errorsyn>. Healsoeveeljeme Dalarnese maahtah datne goh <errorort correct="pasiente" errtype="vow" pos="noun">paasiente</errorort> veeljedh mejtie <errorort correct="sïjhth" errtype="ascii" pos="verb">sijhth</errorort> <errorort correct="mïnnedh" errtype="ascii" pos="verb">minnedh</errorort> dennie byjjes- jallh <errorort correct="privaate" errtype="vow" pos="noun">private</errorort> håksoejarngesne. Datne maahtah naemhtie veeljedh:
+  </p>
+    <list>
+      <p type="listitem"><errorort correct="kontovem" errtype="con" pos="noun">kontoem</errorort>  stealladidh  ” Mina vårdkontakter” ( Mov håksoegaskesh) <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> dam dov veeljemem darjodh  laantedigkie <errorort correct="Dalarnan" errtype="suf" pos="prop">Dalarnanen</errorort> åejvie/ <errorort correct="hïejmebielesne" errtype="ascii" pos="noun">hiejmebielesne</errorort>: www.ltdalarna.se/minavardkontakter
+    
+
+   </p>
+      <p type="listitem">
+
+    
+veeljemepaehperem dievhtedh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> dam håksoejarngesne vedtedh gusnie <errorort correct="sïjhth" errtype="ascii" pos="verb">sijhth</errorort> <errorort correct="pasiente" errtype="vow" pos="noun">paasiente</errorort> årrodh.
+    
+
+   </p>
+      <p type="listitem">
+
+    
+Veeljemepaehperem dievhtedh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="Healsoeveeljemekansellijese" errtype="con" pos="noun">Healsoeveeljemekanselijese</errorort> seedtedh. <errorort correct="Bïevnesh" errtype="ascii" pos="noun">Bievnesh</errorort> healsoeveeljemen <errorort correct="bïjre" errtype="ascii" pos="pp">bijre</errorort> Dalarnesne lea jeatjah <errorortreal correct="gïeline" errtype="ascii" pos="noun">gieline</errorortreal> jarkoestamme, aelhkies daaroen <errorortreal correct="gïelesne" errtype="ascii" pos="noun">gielesne</errorortreal> mij daennie bielesne gååvnese. <em type="italic">www.ltdalarna.se/halsoval</em> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> aaj tsiehkieh tjaaleginie mij maahtah Healsoeveeljeme <errorort correct="kansellijen" errtype="con" pos="noun">kanselijen</errorort> <errorortreal correct="tjïrrh" errtype="ascii" pos="pp">tjirrh</errorortreal> dangkodh.
+    
+
+   </p>
+    </list>
+    <p>
+Vielie <errorort correct="bïevnesh" errtype="ascii" pos="noun">bievnesh</errorort> Healsoeveeljemen <errorort correct="bïjre" errtype="ascii" pos="pp">bijre</errorort> Dalarnesne gååvnese, dennie <errorort correct="Dalarnan" errtype="suf" pos="prop">Dalarnen</errorort> Laantedigkien åejviebielesne: <em type="italic">www.ltdalarna.se/halsoval</em></p>
+    <p>
+Mejtie gyhtjelassh åtnah- <errorort correct="bïeljelh" errtype="ascii" pos="verb">bieljelh</errorort> <errorort correct="Healsoekansellijem" errtype="con" pos="noun">Healsoekanselijem</errorort> <errorort correct="Falunisnie" errtype="suf" pos="prop">Falunsne</errorort> Tjaalesijjie: Hälsovalskansliet, Box 712, 791 29 Falun e-påaste: <em type="italic">halsovalskansliet@ltdalarna.se</em> Teel: 023-49 00 52 Faxe: 023-49 02 20
+  </p>
+    <p><errorort correct="Bïevnesh" errtype="ascii" pos="noun">Bievnesh</errorort> håksoejarngeveeljemen <errorort correct="bïjre-" errtype="ascii" pos="pp">bijre-</errorort> Healsoeveeljeme Dalarnesne
+  </p>
+    <p type="title"><errorort correct="Sïejhme" errtype="mix" pos="adj">Siejmhe</errorort> <errorort correct="bïevnesh" errtype="ascii" pos="noun">bievnesh</errorort></p>
+    <p>
+Daelie gaajhkh håksoejarngh Sveerjesne <errorort correct="håksoeveeljemesysteemem" errtype="vow" pos="noun">håksoeveeljemesystemem</errorort>  daajroehtamme. Dalarnesne dle håksoeveeljeme gåhtjobe-  Healsoeveeljeme Dalarnesne. Gaajhkh mah <errorort correct="Dalarnan" errtype="suf" pos="prop">Dalarnen</errorort> leenesne tjaalasovveme maehtieh veeljedh byjjes  <errorort correct="dåhkasjehteme" errtype="vowc" pos="verb">dååhkasjehteme</errorort>  laantedigkie jallh håksoejarnge leenesne.
+  </p>
+    <p type="title"><errorort correct="Eadtjohkelaakan" errtype="x" pos="adv">Eadjohke-laakan</errorort> veeljeme.
+  </p>
+    <p><errorort correct="Sïjhth" errtype="ascii" pos="verb">Sijhth</errorort> <errorort correct="eadtjohkelaakan" errtype="x" pos="adv">eadtjohke-laakan</errorort> veeljemem darjodh, dle maahtah naan daejstie tsiehkijste darjodh:
+  </p>
+    <list>
+      <p type="listitem"><errorort correct="mænngan" errtype="ascii" pos="adv">männgan</errorort> kontovem stealladamme ”Mina vårdkontakter” ( Mov håksoegaskesh) bielesne, nuepiem åtnah daennie bielesne veeljedh: <em type="italic">www.ltdalarna.se/minavardkontakter</em></p>
+      <p type="listitem">
+
+    
+Vedtieh dam veeljemepaehperem dan håksoejarngese gusnie <errorort correct="sïjhth" errtype="ascii" pos="verb">sijhth</errorort> vaedtsedh.
+    
+
+   </p>
+      <p type="listitem">
+
+    
+dievhtieh dam veeljemepaehperem, seedth paehperem <errorort correct="Healsoeveeljemekansellijese" errtype="con" pos="noun">Healsoeveeljemekanselijese</errorort>. Jis ih <errorort correct="bïeljelh" errtype="ascii" pos="verb">bieljelh</errorort> magkeres håksoejarngem <errorort correct="sïjhth" errtype="ascii" pos="verb">sijhth</errorort> utnedh, dle dam <errorort correct="lïhkemes" errtype="ascii" pos="adj">lihkemes</errorort> håksoejarngem åadtjoeh, gusnie lea tjaalasovveme. 
+    
+
+   </p>
+    </list>
+    <p type="title">
+Daamhtah håksoeteame <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> håksoegaskese
+  </p>
+    <p>
+Dej håksoebarkiji ektine viehkiem åadtjoeh veeljedh magkeres håksoeteamem <errorort correct="daarpesjh" errtype="vowc" pos="verb">darpesjh</errorort>. Jis <errorort correct="daarpesjh" errtype="vowc" pos="verb">darpesjh</errorort> daamhtah håksoegaskesem dah maehtieh dejnie aaj viehkiehtidh.
+  </p>
+    <p type="title">
+Veeljeme <errorort correct="tjaalasåvva" errtype="vow" pos="verb">tjaalasovva</errorort></p>
+    <p><errorort correct="Mænngan" errtype="ascii" pos="adv">Männgan</errorort> håksoejarngem veeljeme dle medtie göökte våhkoeh vaalta eannan tjaalasovvh dennie dov håksoejarngesne maam leah vaalteme. 
+  </p>
+    <p type="title">
+      <errorort correct="Saadthalmetje" errtype="x" pos="noun">Saadth-almetje</errorort>
+    </p>
+    <p>
+Maanah <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> noerh nuerebe goh 18 jaepien båeries mah sijhtieh veeljedh jallh målsodh,  dle eejhtegh tjuerieh paehperen nualan tjaeledh. Jis gåabpatjahkh eejhtegh håksoem utnieh, dle gåabpatjahkh tjuerieh nualan tjaeledh. Jis veeljeme <errorort correct="saadthalmetjen" errtype="x" pos="noun">saadth-almetjen</errorort> <errorortreal correct="tjïrrh" errtype="ascii" pos="pp">tjirrh</errorortreal>, dle edtja <errorort correct="dïhte" errtype="ascii" pos="dem">dihte</errorort> <errorort correct="paehpierisnie" errtype="svow" pos="noun">paehperisnie</errorort> tjåadtjodh.
+  </p>
+    <p type="title">
+E- barkoe Mov håksoegaskesne
+  </p>
+    <p>
+Mov håksoegaskesh lea webbebarkoe desnie <errorort correct="dïhte" errtype="ascii" pos="dem">dihte</errorort> nuhtjije maahta <errorort correct="aelhkieslaakan" errtype="x" pos="adv">aelhkies-laakan</errorort> håksoem jaksedh <errorlex correct="gaskeviermien" origpos="w" pos="noun">internedten</errorlex> <errorortreal correct="tjïrrh" errtype="ascii" pos="pp">tjirrh</errorortreal>. Kontovem stealladidh ”mov håksoegaskesne” maahtah aaj healsoeveeljemem <errorlex correct="gaskeviermien" origpos="w" pos="noun">internedten</errorlex> <errorortreal correct="tjïrrh" errtype="ascii" pos="pp">tjirrh</errorortreal> darjodh. Stealledh nuhtjijekontovem Laantedigkie <errorort correct="Dalarnan" errtype="suf" pos="prop">Dalarnen</errorort> åejviebielesne: <em type="italic">www.ltdalarna.se/minavardkontakter</em></p>
+    <p><errorort correct="Fulkh" errtype="con" pos="verb">Fulhkh</errorort> tsiehkide, öörnh nuhtjijekontovem Mov håksoegaskesne. Maahtah dejnie sov <errorort correct="almetjenummerinie" errtype="vowc" pos="noun">almetjenommerinie</errorort>  kontovem stealladidh, dle baahtsemebaakoe påastesne båata eannan naan gille biejjieh vaaseme. <errorort correct="Jïh" errtype="ascii" pos="cc">Jih</errorort> veeljh kontovem stealladidh dejnie <errorsyn correct="e-legitimasjovnine" errtype="x" pos="noun">e- legitimasjovnine</errorsyn> maahtah dallegh barkojne aelkedh.
+  </p>
+    <p type="title">
+Vielie <errorort correct="bïevnesh" errtype="ascii" pos="noun">bievnesh</errorort></p>
+    <p><errorort correct="Bïevnesh" errtype="ascii" pos="noun">Bievnesh</errorort> Healsoeveeljemen <errorort correct="bïjre" errtype="ascii" pos="pp">bijre</errorort> Dalarnesne, daesnie gååvnese: <em type="italic">www.ltdalarna.se/halsoval</em></p>
+    <p type="title" xml:lang="nob">
+      <errorort correct="Healsoekansellije" errtype="con" pos="noun">Healsoekanselije</errorort>
+    </p>
+    <p>
+Gyhtjelassh Healsoeveeljemen <errorort correct="bïjre" errtype="ascii" pos="pp">bijre</errorort> Dalarnesne <errorort correct="bïeljelh" errtype="ascii" pos="verb">bieljelh</errorort> <errorort correct="Healsoekansellijem" errtype="ascii" pos="noun">Healsoekanselijem</errorort> e-påasten <errorort correct="tjïrrh" errtype="ascii" pos="pp">tjirrh</errorort>: <em type="italic">halsovalskansliet@ltdalarna.se</em> <errorort correct="Telefovne" errtype="vow" pos="noun">Teelefovne</errorort>: 023-490052 jallh <errorort correct="faakse" errtype="mix" pos="noun">faxe</errorort> 023-490220. 
+  </p>
+    <p type="title">
+Datne håksoejarngem veeljh
+  </p>
+    <p>
+Daelie lea Healsoeveeljeme Dalarnesne daajroehtamme <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> datne maahtah <errorort correct="jïjtje" errtype="ascii" pos="refl">jijtje</errorort> veeljedh magkeres håksoejarngesne <errorort correct="sïjhth" errtype="ascii" pos="verb">sijhth</errorort> utnedh. Gosse leah håksoejarngem veeljeme, dle medtie göökte våhkoeh vaalta tjaalasovvedh dennie håksoejarngesne maam leah veeljeme.  Daesnie dah håksoejarngh <errorort correct="Dalarnan" errtype="suf" pos="prop">Dalarnen</errorort> leenesne maam maahtah veeljedh.
+  </p>
+    <p type="title">
+Jis <errorort correct="skïemtje" errtype="ascii" pos="adj">skiemtje</errorort> <errorort correct="sjïdth" errtype="ascii" pos="verb">sjidth</errorort></p>
+    <p><errorort correct="Biejjege" errtype="x" pos="adv">Biejjegen</errorort> gaskoeh ts. 08.00-17.00, <errorort correct="bïeljelh" errtype="ascii" pos="verb">bieljelh</errorort> håksoejarngem hiejmetjieltesne.<errorort correct="hïejmetjïeltesne. Telefovnenummere" errtype="mix" pos="mix">Teelefovnenommere</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> tjaalesijjie webbebielesne gååvnese. <errorort correct="Dïhte" errtype="ascii" pos="dem">Dihte</errorort> länke gaajhkh håksoejarngide lea  <em type="italic">www.ltdalarna.se/templates/Base____213.aspx</em>. Diedtieh dam dov <errorort correct="hïejmetjïeltem" errtype="ascii" pos="noun">hiejmetjieltem</errorort> gårra bielesne.
+  </p>
+    <p><errorort correct="Mænngan" errtype="ascii" pos="adv">Männgan</errorort> ts 17.00, laavadahken <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> aejlegen, gosse håksoejarnge lea steegkeldahkesne. Ringkh dle <errorort correct="skïemtjehåksoen" errtype="ascii" pos="noun">skiemtjehåksoen</errorort> <errorort correct="raeriestæjjam" errtype="ascii" pos="noun">raeriestäjjam</errorort>, teel. 1177.
+  </p>
+    <p>
+Jis itjmie <errorort correct="skïemtje" errtype="ascii" pos="adj">skiemtje</errorort> jallh tjarki laarhkenamme  dle maahtah dan <errorort correct="lïhkemes" errtype="ascii" pos="adj">lihkemes</errorort> dåastomesijjese <errorort correct="skïemtjegåetesne" errtype="ascii" pos="noun">skiemtjegåetesne</errorort> vuelkedh. Laantedigkie <errorort correct="Dalarnesne" errtype="suf" pos="prop">Dalarnasne</errorort> nieljie <errorort correct="skïemtjegåetieh" errtype="ascii" pos="noun">skiemtjegåetieh</errorort>. <errormorphsyn cat="pl3prs" const="x" correct="Dah Avestesne, Ludvikesne, Moresne jïh Falunisnie gååvnesieh" errtype="x" orig="sg3prs" pos="verb">Dah <errorort correct="Avestesne" errtype="suf" pos="prop">Avestaesne</errorort>, <errorort correct="Ludvikesne" errtype="mix" pos="prop">Ludikesne</errorort>, <errorort correct="Moresne" errtype="suf" pos="prop">Morasne</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="Falunisnie" errtype="suf" pos="prop">Falunsne</errorort> gååvnese</errormorphsyn>.
+  </p>
+    <p>
+Jis neavroe <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> jielemeaejhteme, ringkh dle 112, mij lea <errorort correct="dïhte" errtype="ascii" pos="dem">dihte</errorort> <errorort correct="nasjonaale" errtype="mix" pos="adj">nasjovnale</errorort> <errorort correct="neavroenummere" errtype="vow" pos="noun">neavroenommere</errorort>.
+  </p>
+    <p type="title">
+Naemhtie laantedigkie stuvresåvva
+  </p>
+    <p>
+Laantedigkie Dalarna lea akte politihken <errorort correct="ståvroeorganisasjovne" errtype="vow" pos="noun">ståvroeåårganisasjovne</errorort> mij lea  2010 raejeste, <errorort correct="sosialdemokraateste" errtype="mix" pos="x">socialdemokrateste</errorort>, <errorort correct="Vänsterpartijeste" errtype="cap" pos="x">vänsterpartijeste</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="Miljöpartijeste" errtype="cap" pos="x">miljöpartijeste</errorort> stuvresåvva.
+  </p>
+    <p>
+Laantedigkien <errorort correct="jollemes" errtype="vow" pos="adj">jullemes</errorort> <errorort correct="nænnoestimmieorgaane" errtype="vow" pos="noun">nænnoestimmieåårgane</errorort> lea <errorort correct="dïhte" errtype="ascii" pos="dem">dihte</errorort> laantedigkiefullmektige. Daesnie 83 <errorort correct="lïhtsegh" errtype="ascii" pos="noun">lihtsegh</errorort> uktsie krirrijste: <errorort correct="sosialdemokraateste" errtype="mix" pos="noun">socialdemokrateste</errorort>, <errorort correct="Moderaterneste" errtype="cap" pos="x">moderaterneste</errorort>, <errorort correct="Centerpartijeste" errtype="cap" pos="x">centerpartijeste</errorort>, <errorort correct="Vänsterpartijeste" errtype="cap" pos="x">vänsterpartijeste</errorort>, <errorort correct="kristdemokraatijste" errtype="vow" pos="noun">kristdemokratijste</errorort>, <errorort correct="Folkpartijeste" errtype="cap" pos="x">folkpartijeste</errorort>, <errorort correct="Miljöpartijeste" errtype="cap" pos="x">miljöpartijeste</errorort>, Dalarnas sjukvårdspartijeste <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="sverigedemokraatijste" errtype="vow" pos="noun">sverigedemokratijste</errorort>.
+  </p>
+    <p>
+Laantedigkien fullmektigen nuelesne leeneståvroe mij fullmektigen nænnoestimmide nænnoste. Laantedigkieståvrosne 15 <errorort correct="lïhtsegh" errtype="ascii" pos="noun">lihtsegh</errorort>.
+  </p>
+    <p type="title">
+Maam laantedigkie <errorort correct="daajra" errtype="meta" pos="verb">daarja</errorort>?
+  </p>
+    <p>
+Laantedigkie Dalarnesne darjomh abpe leenesne, Idreste noerhtene <errorort correct="Krylboese" errtype="suf" pos="prop">Krylbose</errorort> åarjene. Mijjen <errorort correct="åejviedïedte" errtype="ascii" pos="noun">åejviediedte</errorort> lea <errorort correct="gaajhkide" errtype="conc" pos="indef">gaajkide</errorort> mah  årroeminie jallh guessine Dalarnesne edtjieh hijven healsoe- <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="skïemtjehåksoem" errtype="ascii" pos="noun">skiemtjehåksoem</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> baeniehåksoem åadtjodh.
+  </p>
+    <p>
+Mijjen aaj <errorort correct="dïedte" errtype="ascii" pos="noun">diedte</errorort> <errorort correct="gïehtjedidh" errtype="ascii" pos="verb">giehtjedidh</errorort> Dalarna kultuvresne, maahtoe- <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="byjresisnie" errtype="suf" pos="noun">byjresne</errorort> <errorort correct="övtede" errtype="vowc" pos="verb">öövtede</errorort>. Dannasinie mijjieh joekehth dåarjomh <errorort correct="regionaaleövtiedæmman" errtype="mix" pos="noun">regijovnaleöövtiedimmese</errorort> vedtebe goh kultuvre, ööhpehtimmie <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="kollektijvetrafihke" errtype="conc" pos="noun">kollektijvetrafigke</errorort>.
+  </p>
+    <p type="title">
+”Akte <errorort correct="vihkeles" errtype="vow" pos="adj">viehkeles</errorort> <errorort correct="gïete" errtype="ascii" pos="noun">giete</errorort>”
+  </p>
+    <p>
+Akte geografijen dajve mahte seamma stoerre goh <errorort correct="Belgian" errtype="suf" pos="prop">Belgien</errorort> laante,  Laantedigkie Dalarnesne <errorortreal correct="vierhkiedajvem" errtype="vow" pos="noun">vierhkedajvem</errorortreal> åtna. Mijjen <errorortreal correct="vierhkie" errtype="vow" pos="noun">vierhke</errorortreal> abpe leenesne, Idreste noerhtene <errorort correct="Krylboese" errtype="vow" pos="prop">Krylbose</errorort> åarjene. Mijjen <errorort correct="dïedte" errtype="ascii" pos="noun">diedte</errorort> lea almetjidie mah daesnie årroeminie jallh  guessieh daebpene edtjieh seamma hijven healsoe- <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="skïemtjehåksoem" errtype="ascii" pos="noun">skiemtjehåksoem</errorort> åadtjodh.  <errorort correct="Åenehkslaakan" errtype="x" pos="adv">Åenehks-laakan</errorort> maehtebe jiehtedh laantedigkien barkoe lea årrodh goh akte <errorort correct="vihkeles" errtype="vow" pos="adj">viehkeles</errorort> <errorort correct="gïete" errtype="ascii" pos="noun">giete</errorort> dejtie mah daennie dajvesne tjaalasovveme.
+  </p>
+    <p type="title">
+Healsoe- <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="skïemtjehåksoe" errtype="ascii" pos="noun">skiemtjehåksoe</errorort></p>
+    <p>
+Guktie tjåådtje dle laantedigkie <errorort correct="dïedtem" errtype="ascii" pos="noun">diedtem</errorort> åtna dejtie mah daebpene tjaalasovveme <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> håksoem dejtie vedtedh gåessie <errorort correct="skïemtje" errtype="ascii" pos="adj">skiemtje</errorort> sjidtieh.
+  </p>
+    <p>
+Jienebh jienebh håksoem daarpesjieh. Almetjh båarasåbpoe sjidtieh mearan <errorort correct="dïhte" errtype="ascii" pos="dem">dihte</errorort> <errorort correct="dotkeme" errtype="conc" pos="noun">dodtkeme</errorort> buerebe sjædta <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> dah <errorort correct="båehtjierdimmievuekieh" errtype="con" pos="noun">båehtjiedimmieivuekieh</errorort> <errorort correct="övtede" errtype="vowv" pos="verb">öövtede</errorort>. Jienebh jienebh <errorort correct="skïemtjh" errtype="ascii" pos="noun">skiemtjh</errorort> mij dej beeli jaamedahkh, lea daelie hijven <errorort correct="båehtjierdimmieh" errtype="con" pos="noun">båehtjiedimmieh</errorort> <errorort correct="sjïdteme" errtype="ascii" pos="verb">sjidteme</errorort>. 
+  </p>
+    <p>
+Jienebh beetnehviertieh <errorort correct="medisijnen" errtype="mix" pos="noun">medisihken</errorort> teknihkese.  Laantedigkien barkoe aaj ålmahealsoebarkoeh, juktie  edtja vaenebe <errorsyn correct="daerpiesvoete" errtype="mix" pos="noun">daerpies- voete</errorsyn>  <errorort correct="skïemtjehåksojste" errtype="ascii" pos="noun">skiemtjehåksojste</errorort> <errorort correct="sjïdtedh" errtype="ascii" pos="verb">sjidtedh</errorort>. 
+  </p>
+    <p type="title">
+Primärhåksoe- <errorort correct="dïhte" errtype="ascii" pos="dem">dihte</errorort> <errorort correct="lïhke" errtype="ascii" pos="adj">lihke</errorort> gaskese
+  </p>
+    <p><errorort correct="Primæærehåksoe" errtype="vow" pos="noun">Primærehåksoe</errorort> <errorort correct="vijrieslaakan" errtype="x" pos="adv">vijries-laakan</errorort> barka. <errorort correct="Distriktedåaktere" errtype="mix" pos="noun">Distriktedåaktore</errorort> dejnie håksoemaadtojne  <errorort correct="dïedtem" errtype="ascii" pos="noun">diedtem</errorort> <errorort correct="tjidtjhåksojste" errtype="con" pos="noun">tjidtjhhåksojste</errorort>, <errorort correct="hïejmeskïemtjehåksojste" errtype="mix" pos="noun">hiejmeskiemtjehåksojste</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> dovne jeatjah darjomh åtna.
+  </p>
+    <p>
+Daelie <errorort correct="skïemtjehåksoe" errtype="ascii" pos="noun">skiemtjehåksoe</errorort> gaahpoeh hammosne, <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> dan gaavhtan dah <errorort correct="sjïere" errtype="ascii" pos="adj">sjiere</errorort> spesialistefunksjovnh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> barkoes <errorort correct="håksoebåehtjierdimmieh" errtype="con" pos="noun">håksoebåehtjiedimmieh</errorort> maahta unnebe sijjine aaj årrodh.
+  </p>
+    <p><errorort correct="Dïhte" errtype="ascii" pos="dem">Dihte</errorort> <errorort correct="primæærehåksoe" errtype="vow" pos="noun">primærehåksoe</errorort> <errorort correct="radtjoeslaakan" errtype="x" pos="adv">radtjoes-laakan</errorort>  håksoem faala, <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="nuhtjijidie" errtype="mix" pos="noun">nuhtjedäjjide</errorort> spesialisthåksosne bihkede <errorort correct="gåessie" errtype="vow" pos="x">gåssie</errorort> <errorort correct="jïjtsh" errtype="ascii" pos="refl">jijtsh</errorort> vierhtieh nåhkeme.
+  </p>
+    <p type="title"><errorort correct="Skïemtjegåetie" errtype="ascii" pos="noun">Skiemtjegåetie</errorort> <errorortreal correct="vïjhte" errtype="mix" pos="num">vihte</errorortreal> dajvine
+  </p>
+    <p>
+Dah <errorort correct="skïemtjegåetieh" errtype="ascii" pos="noun">skiemtjegåetieh</errorort> mah <errorort correct="gïehtelieh" errtype="ascii" pos="verb">giehtelieh</errorort> somatihken håksojne <errorortreal correct="vïjhte" errtype="mix" pos="num">vihte</errorortreal> dajvine Dalarnesne gååvnese : <errorort correct="Avestesne" errtype="suf" pos="prop">Avestasne</errorort>, <errorort correct="Borlängesne" errtype="con" pos="prop">Bolängesne</errorort>, <errorort correct="Falunisnie" errtype="suf" pos="prop">Falunsne</errorort>, <errorort correct="Moresne" errtype="suf" pos="prop">Morasne</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> Ludvikesne. <errorort correct="Säteren" errtype="suf" pos="prop">Sätereren</errorort> <errorort correct="skïemtjegåetesne" errtype="ascii" pos="noun">skiemtjegåetesne</errorort> <errorort correct="psykiatrijen" errtype="mix" pos="noun">psykatrihken</errorort> <errorort correct="skïemtjehåksojne" errtype="ascii" pos="noun">skiemtjehåksojne</errorort> <errorort correct="gïehtele" errtype="ascii" pos="verb">giehtele</errorort>.
+  </p>
+    <p type="title">
+Maanahealsoehåksoe
+  </p>
+    <p>
+Maanahealsoehåksoe Sveerjesne lea joekoen hijven. Lea åesehts maanide nuerebe goh 19 jaepien båeries <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> båetije tjidtjide. Joekoen hijven <errorort correct="kvaliteete" errtype="vow" pos="noun">kvalitete</errorort>. <errorort correct="Healsoegïehtjedimmieh" errtype="ascii" pos="noun">Healsoegiehtjedimmieh</errorort> dam veasojem goerehtalla goske <errorort correct="studeenteeksaamenem" errtype="mix" pos="noun">studeenteeeksamenem</errorort>  vaalteme <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> dam baeniehåksoem aaj. Baeniehåksoe lea <errorortreal correct="Åålmehbaeniehåksosne" errtype="mix" pos="noun">Ålmabaeniehåksosne</errorortreal> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> lea åesehts goske 20 jaepieh illeme.
+  </p>
+    <p>
+Menh Laantedigkie Dalarnesne aaj <errorort correct="dïedtem" errtype="ascii" pos="noun">diedtem</errorort> åtna dan <errorort correct="regionaaleövtiedimmiem" errtype="mix" pos="noun">regijovnaleöövtiedimmiem</errorort> <errorort correct="övtiedidh" errtype="vowc" pos="verb">öövtiedidh</errorort>,  ööhpehtimmien-, kultuvren <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="kollektijvetrafihken" errtype="conc" pos="noun">kollektijvetrafigken</errorort> <errorortreal correct="tjïrrh" errtype="ascii" pos="pp">tjirrh</errorortreal>. Joekehth laakan libie meatan leenem dåarjedidh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="övtiedidh" errtype="vowc" pos="verb">öövtiedidh</errorort>.
+  </p>
+    <p type="title">
+      <errorortreal correct="Åålmehbaeniehåksoe" errtype="mix" pos="noun">Ålmabaeniehåksoe</errorortreal>
+    </p>
+    <p>
+Gaajhkesh <errorort correct="dovnesh" errtype="con" pos="x">dovnes</errorort> mah Dalarnesne <errorort correct="jielieminie" errtype="svow" pos="verb">jieleminie</errorort> <errorort correct="faaleldahkem" errtype="mix" pos="noun">faaladahkem</errorort> hijven baeniehåksoem åadtjoeh. Daate <errorort correct="dïedte" errtype="ascii" pos="noun">diedte</errorort> leenedigkie åtna. <errorort correct="Dïedte" errtype="ascii" pos="noun">Diedte</errorort> dennie <errorort correct="jïjtjehke" errtype="ascii" pos="noun">jijtjehke</errorort> <errorortreal correct="Åålmehbaeniehåksosne" errtype="mix" pos="noun">Ålmabaeniehåksosne</errorortreal> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="privaatebaeniehåksosne" errtype="vowc" pos="noun">privatebaeniehåksosne</errorort>.
+  </p>
+    <p>
+Baeniehealsoe Dalarnesne lea gaajh hijven geervide goh maanide, dannasinie guhkies barkoeh orreme baenide <errorort correct="nænnoestidh" errtype="ascii" pos="verb">nännoestidh</errorort>.
+  </p>
+    <p type="title" xml:lang="smj">
+Kultuvre
+  </p>
+    <p>
+Laantedigkie lea åejvie <errorort correct="beetnehvierhtieh" errtype="x" pos="noun">beetneh-vierhtieh</errorort> vedtije dejtie kultuvreinstitusjovnide <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> stoerre <errorort correct="dïedtem" errtype="ascii" pos="noun">diedtem</errorort> åtna leenen <errorort correct="tjïelth" errtype="ascii" pos="noun">tjielth</errorort>,  <errorort correct="siebrieh" errtype="vowc" pos="noun">sibrieh</errorort> <errorort correct="jih" errtype="ascii" pos="cc">jih</errorort> kultuvrebarkijh ektiedidh, <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="Dalarnan" errtype="suf" pos="prop">Dalarnen</errorort> kultuvrem <errorort correct="övtiedidh" errtype="vowc" pos="verb">öövtiedidh</errorort>.
+  </p>
+    <p><errorort correct="Dïhte" errtype="ascii" pos="dem">Dihte</errorort> <errorort correct="regionaale" errtype="mix" pos="adj">regijovnale</errorort> kultuvre edtja leenen veasojh kultuvrem vedtedh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="regionaalen" errtype="mix" pos="adj">regijovnalen</errorort> <errorort correct="övtiedimmieh" errtype="vowc" pos="noun">öövtedimmieh</errorort> <errorort correct="övtiedidh" errtype="vowc" pos="verb">öövtiedidh</errorort>.
+  </p>
+    <p>
+Laantedigkie <errorort correct="distrikteorganisasjovnide" errtype="mix" pos="noun">distrikteåårganisasjovnide</errorort> dåarjegh vedtieh, kultuvreprijsh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="beetnehvierhtieh" errtype="x" pos="noun">beetneh-vierhtieh</errorort> vedtieh, <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="tjiehpiesvætnoej" errtype="ascii" pos="noun">tjiehpiesvätnoej</errorort> gujmie hööltedh.
+  </p>
+    <p type="title">
+Ööhpehtimmie
+  </p>
+    <p>
+Akte vihkeles tsiehkie laantedigkien vierhkesne lea ööhpehtimmieh, <errorort correct="jåarhke-" errtype="vowc" pos="noun">jåerhke-</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> geerveööhpehtimmieh laanteburresne <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> musihkesne.
+  </p>
+    <p>
+Laantedigkie ööhpehtimmieh åtna golme <errorort correct="jïjtsh" errtype="ascii" pos="refl">jijtsh</errorort> <errorortreal correct="åålmehjïlleskuvline" errtype="vow" pos="noun">ålmajillieskuvline</errorortreal>, <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> leenen ålmaeakeds <errorortreal correct="åålmehjïlleskuvlide" errtype="vow" pos="noun">ålmajillieskuvlide</errorortreal> dåarjegh vedtieh.
+  </p>
+  </body>
+</document>
