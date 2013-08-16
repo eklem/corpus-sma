@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="sma">
+<document xml:lang="sma" id="no_id">
   <header>
-    <title></title>
-    <genre/>
+    <title/>
+    <genre code="facta"/>
     <author>
-      <person born="" firstname="" lastname="Sissel Jåma" nationality="en_US" sex="unknown"/>
+      <person firstname="" lastname="Sissel JŒma" sex="unknown" born="" nationality="en_US"/>
     </author>
     <year>2012</year>
     <availability>
@@ -15,20 +13,31 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 48460 $; </version>
+    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
-    <p type="title" xml:lang="sme">
-Ole <errorort correct="Vigen" errtype="suf" pos="prop">Vig-en</errorort> bïjre
-  </p>
-    <p>
-Ole Vig <errorsyn correct="jåarhkeskuvle" errtype="x" pos="noun">jåarhke skuvle</errorsyn> (OVVS) lea goh stoerre, aktels skuvle naa orre. Dïhte lea Noerhte-Trøndelagen mubpie stööremes skuvle, man lea medtie 230 barkijh jïh medtie 1220 learohkh jïh lohkijh <errorort correct="daan" errtype="vowc" pos="dem">daen</errorort> skuvlejaepien.   Gosse golme jåarhkeskuvlh jaepien 1997 ektiedamme lij vihkeles faktovre juktie orre skuvle galka goh aktine ektievoetine jåhta. Abpe skuvlekomplekse staaren jarngesne lea ektiedamme jïh skuvlen orre reeremegåetie, kantijne jïh <errorort correct="auditovrije" errtype="mix" pos="noun">auditorijue</errorort>. Skuvlen goevtese Sutterøyesne, gusnie transportfaage, <errorort correct="barkoemaskijnh" errtype="mix" pos="noun">barkoemasjinjh</errorort> jïh <errorort correct="vuejijeööhpehtimmie" errtype="vowc" pos="noun">vuajijeööhpehtimmie</errorort>, lea læjhkan joe dusnie juktie desnie sijjie.   Stuerebe <errorort correct="bigkemeprogramme" errtype="ï" pos="noun">bïgkemeprogramme</errorort> lea nænnoestamme dej <errorort correct="båetije" errtype="con" pos="noun">båetiej</errorort> jaepiej, gusnie voestes boelhken mierien lea 130 millijovnh kråvnah. Dan sisnie orre gåetiem bigkedh <errorort correct="auditovrijen" errtype="mix" pos="noun">auditorijen</errorort> luvlelen. Desnie realfaagh, molsehth ööhpehtimmien sijjie jïh skuvlereeremen jïh <errorort correct="kontovrebarkiji" errtype="suf" pos="noun">kontovrebarkij</errorort> orre kontovrh. Desnie aaj dajven <errorort correct="baeniestarnedïeneste" errtype="con" pos="noun">baeniestarnedïenesje</errorort> (3. laptesne). Bigkeme eelki ryöjrehtimmine goeven 2008 jïh lij riejries jaepiemålsomen 2009/10. Jaepien 2009 kantijnem jïh restauranten jïh beapmoefaagen sijjiem bigkin. <errorort correct="Jåarhke" errtype="vowc" pos="noun">Jåerhke</errorort> dïsse jaepeste 2010 jïh dellie sijjieh musihke jïh draama jïh service jïh samferdsel, mah maehtieh <errorort correct="areaalh" errtype="vow" pos="noun">arealh</errorort> åadtjodh gusnie realfaage jïh molsehth ööhpehtimmie orreme.  Orre gaarsjelimmiegåetiem aalka tjaktjen 2010 bigkedh jïh galka riejries årrodh jaepien 2011 mietie. Skuvle galka tjïelten gåetiem åtna jïh skuvlese ektie tåarjine tjatna.  Skuvlen nomme vihkeles. Ole Vig, <errorort correct="Vikmaarhkeste" errtype="con" pos="prop">Vikmaarkeste</errorort> Stjørdaelesne, lij skuvle- jïh åålmehööhpehtsalma, jïh ööhpehtimmine gaajhkide barki. Dïhte Stjørdaelesne reakasovvi jaepien 1824. Ole <errorort correct="Vigen" errtype="suf" pos="prop">Vig-en</errorort> sijjesne Reeremegåetien lïhke statuem dan haemesne, gusnie <errorort correct="seejemealma" errtype="mix" pos="noun">seejjeme-alma</errorort>, maahtojste.   Daesnie Stjørdaelesne mijjen leah guhkies histovrijen tradisjovnh, jïh Stjørdaelie lea jienebh tåvsenh jaepiej faamoejarngem orreme Tråanten mearoegaedtesne. Ij jeatjah sijjie Nordenisnie maehtieh seamma jïjnjh heallatjaaleh vuesiehtidh bronseaejkeste. Dan gaavhtan aaj golme almetjh bronseaejkien heallatjaalijste Lerfaldesne Hegresne veeljeme goh skuvlen logojne.   Ole Vig jåarhkeskuvlen leah tjïelkes ambisjovnh buerie skuvle årrodh dovne <errorort correct="learoehkidie" errtype="svow" pos="noun">learohkidie</errorort>, barkijidie jïh abpe <errorort correct="regijovnese" errtype="vow" pos="noun">regiojovnese</errorort>.  Dejnie sov <errorort correct="gelliebielienvoete" errtype="vow" pos="noun">gelliebielenvoete</errorort> skuvle vaajtele lïhkesvoete fïerhtide vadta jïh aaj sijjie <errorort correct="joekehtsidie" errtype="conc" pos="noun">joeketsidie</errorort> jïh orre <errorort correct="åssjelidie" errtype="vow" pos="noun">åssjalidie</errorort>. Skuvlen visjovne ”<errorort correct="skaepiedidh" errtype="vow" pos="verb">skaepedidh</errorort> jïh juekedh, sjïjledh jïh jieledh” dam vaajtelimmiem vuesehte. OVVS skreejrehte learohkedemokratijese jïh jïjnjh jïh hijven <errorort correct="internasjonaalen" errtype="mix" pos="adj">internasjovnellen</errorort> gaskesadtemh åtna. 
-  </p>
-    <p>
+
+  <p type="title" xml:lang="nno"> Ole <errorort correct="Vigen" errorinfo="prop,suf">Vig-en</errorort> bïjre   </p>
+
+  
+
+  <p> Ole Vig <errorsyn correct="jåarhkeskuvle" errorinfo="noun,x">jåarhke skuvle</errorsyn> (OVVS) lea goh stoerre, aktels skuvle naa orre. Dïhte lea Noerhte-Trøndelagen mubpie stööremes skuvle, man lea medtie 230 barkijh jïh medtie 1220 learohkh jïh lohkijh <errorort correct="daan" errorinfo="dem,vowc">daen</errorort> skuvlejaepien.   Gosse golme jåarhkeskuvlh jaepien 1997 ektiedamme lij vihkeles faktovre juktie orre skuvle galka goh aktine ektievoetine jåhta. Abpe skuvlekomplekse staaren jarngesne lea ektiedamme jïh skuvlen orre reeremegåetie, kantijne jïh <errorort correct="auditovrije" errorinfo="noun,mix">auditorijue</errorort>. Skuvlen goevtese Sutterøyesne, gusnie transportfaage, <errorort correct="barkoemaskijnh" errorinfo="noun,mix">barkoemasjinjh</errorort> jïh <errorort correct="vuejijeööhpehtimmie" errorinfo="noun,vowc">vuajijeööhpehtimmie</errorort>, lea læjhkan joe dusnie juktie desnie sijjie.   Stuerebe <errorort correct="bigkemeprogramme" errorinfo="noun,ï">bïgkemeprogramme</errorort> lea nænnoestamme dej <errorort correct="båetije" errorinfo="noun,con">båetiej</errorort> jaepiej, gusnie voestes boelhken mierien lea 130 millijovnh kråvnah. Dan sisnie orre gåetiem bigkedh <errorort correct="auditovrijen" errorinfo="noun,mix">auditorijen</errorort> luvlelen. Desnie realfaagh, molsehth ööhpehtimmien sijjie jïh skuvlereeremen jïh <errorort correct="kontovrebarkiji" errorinfo="noun,suf">kontovrebarkij</errorort> orre kontovrh. Desnie aaj dajven <errorort correct="baeniestarnedïeneste" errorinfo="noun,con">baeniestarnedïenesje</errorort> (3. laptesne). Bigkeme eelki ryöjrehtimmine goeven 2008 jïh lij riejries jaepiemålsomen 2009/10. Jaepien 2009 kantijnem jïh restauranten jïh beapmoefaagen sijjiem bigkin. <errorort correct="Jåarhke" errorinfo="noun,vowc">Jåerhke</errorort> dïsse jaepeste 2010 jïh dellie sijjieh musihke jïh draama jïh service jïh samferdsel, mah maehtieh <errorort correct="areaalh" errorinfo="noun,vow">arealh</errorort> åadtjodh gusnie realfaage jïh molsehth ööhpehtimmie orreme.  Orre gaarsjelimmiegåetiem aalka tjaktjen 2010 bigkedh jïh galka riejries årrodh jaepien 2011 mietie. Skuvle galka tjïelten gåetiem åtna jïh skuvlese ektie tåarjine tjatna.  Skuvlen nomme vihkeles. Ole Vig, <errorort correct="Vikmaarhkeste" errorinfo="prop,con">Vikmaarkeste</errorort> Stjørdaelesne, lij skuvle- jïh åålmehööhpehtsalma, jïh ööhpehtimmine gaajhkide barki. Dïhte Stjørdaelesne reakasovvi jaepien 1824. Ole <errorort correct="Vigen" errorinfo="prop,suf">Vig-en</errorort> sijjesne Reeremegåetien lïhke statuem dan haemesne, gusnie <errorort correct="seejemealma" errorinfo="noun,mix">seejjeme-alma</errorort>, maahtojste.   Daesnie Stjørdaelesne mijjen leah guhkies histovrijen tradisjovnh, jïh Stjørdaelie lea jienebh tåvsenh jaepiej faamoejarngem orreme Tråanten mearoegaedtesne. Ij jeatjah sijjie Nordenisnie maehtieh seamma jïjnjh heallatjaaleh vuesiehtidh bronseaejkeste. Dan gaavhtan aaj golme almetjh bronseaejkien heallatjaalijste Lerfaldesne Hegresne veeljeme goh skuvlen logojne.   Ole Vig jåarhkeskuvlen leah tjïelkes ambisjovnh buerie skuvle årrodh dovne <errorort correct="learoehkidie" errorinfo="noun,svow">learohkidie</errorort>, barkijidie jïh abpe <errorort correct="regijovnese" errorinfo="noun,vow">regiojovnese</errorort>.  Dejnie sov <errorort correct="gelliebielienvoete" errorinfo="noun,vow">gelliebielenvoete</errorort> skuvle vaajtele lïhkesvoete fïerhtide vadta jïh aaj sijjie <errorort correct="joekehtsidie" errorinfo="noun,conc">joeketsidie</errorort> jïh orre <errorort correct="åssjelidie" errorinfo="noun,vow">åssjalidie</errorort>. Skuvlen visjovne ”<errorort correct="skaepiedidh" errorinfo="verb,vow">skaepedidh</errorort> jïh juekedh, sjïjledh jïh jieledh” dam vaajtelimmiem vuesehte. OVVS skreejrehte learohkedemokratijese jïh jïjnjh jïh hijven <errorort correct="internasjonaalen" errorinfo="adj,mix">internasjovnellen</errorort> gaskesadtemh åtna.    </p>
+
+  
+
+  
+
+  
+
+  
+
+  <p>
 Veedtjeme (20.04.2012) daehtie sæjroste:
   </p>
-    <p xml:lang="sme">
+
+  <p xml:lang="sme">
 http://ole-vig.vgs.no/
   </p>
-  </body>
+
+ </body>
 </document>

@@ -1,13 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="sma">
+<document xml:lang="sma" id="no_id">
   <header>
-    <title></title>
-    <genre/>
+    <title/>
+    <genre code="facta"/>
     <author>
-      <person born="" firstname="" lastname="Sissel Jåma" nationality="en_US" sex="unknown"/>
+      <person firstname="" lastname="Sissel JŒma" sex="unknown" born="" nationality="en_US"/>
     </author>
-    <year>2012</year>
+    <year>2013</year>
     <availability>
       <license type="standard"/>
     </availability>
@@ -15,66 +13,65 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 48460 $; </version>
+    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
-    <p type="title" xml:lang="kal">
+
+  <p type="title" xml:lang="nob">
 Saavreme
   </p>
-    <p><errorort correct="Fïerhten" errtype="ascii" pos="indef">Fierhten</errorort> jaepien saemien gaahtjemem daelvege <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> giesege öörnieh. Dovne <errorort correct="regiovneles" errtype="mix" pos="adj">reegijovneles</errorort> gaahtjemh öörnieh; tjengkerem <errorort correct="tjïektjedidh" errtype="ascii" pos="verb">tjiektjedidh</errorort>, <errorort correct="vuejemeråantjoejgujmie" errtype="mix" pos="noun">vuejeme-råantjojgujmie</errorort> gaahtjedh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> jeatjah darjomh.
-  </p>
-    <p type="title">
+
+  
+
+  <p> <errorort correct="Fïerhten" errorinfo="vowc,i-ï">Fierhten</errorort> jaepien saemien gaahtjemem daelvege <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> giesege öörnieh. Dovne <errorort correct="regijovneles" errorinfo="vowc,ee-e">reegijovneles</errorort> gaahtjemh öörnieh; tjengkerem <errorort correct="tjïektjedidh" errorinfo="vowc,i-ï">tjiektjedidh</errorort>, <errorort correct="vuejemeråantjoejgujmie" errorinfo="hyph-0">vuejeme-råantjojgujmie</errorort> gaahtjedh <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> jeatjah darjomh.   </p>
+
+  <p type="title" xml:lang="nno">
 SÁMIID VALÁŠTALLANLIHTTU- NORGA (SVL-N)/ SAEMIEJ SAAVREMESIEBRIE – NÖÖRJESNE 
   </p>
-    <p>
- SVL-N tseegkesovvi 1990 Saemiej <errorort correct="Rïjhkesaervien" errtype="ascii" pos="noun">Rijhkesaervien</errorort> nualan.<errorort correct="nualan. Dïhte" errtype="mix" pos="mix">Dihte</errorort> lea ektese-<errorort correct="ektesevyökisiebrie" errtype="mix" pos="noun">vyøki-siebrie</errorort> Nöörjen, Sveerjen <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> Såevmien <errorort correct="gaskemsh" errtype="con" pos="pp">gaskems</errorort> Saemiej saavremen gaavhtan. Saemiej Saavremesiebrien leah 46 saervieh meatan govhte fylhkine gusnie 2000 <errorort correct="lïhtsegh" errtype="ascii" pos="noun">lihtsegh</errorort>.  <em type="italic">Ulmie</em>  SVL-<errorort correct="SVL-N:n" errtype="suf" pos="acr">N-n</errorort> ulmie gaajhkh maanah, noerh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> geerve almetjh edtjieh <errorort correct="tjåanghkenidh" errtype="mix" pos="verb">tjåangkanidh</errorort> saavredh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> kultuvrem darjomi vieken övtiedidh. <errormorphsyn cat="x" const="x" correct="Galka aaj saemien gïelem, kultuvrem jïh identiteetem övtiedidh" errtype="x" orig="x" pos="verb">Galka aaj saemien gïelem, kultuvrem <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="identiteetem" errtype="vow" pos="noun">ideentitetem</errorort> övtiedih</errormorphsyn> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> nænnoestidh.  Saavreme Saemiej Saavremesiebrien saavremesuerkieh naemhtie öörneme; Tjoejkedh, tjoejkedh/ soehpenjinie <errorort correct="åådtjedidh" errtype="mix" pos="verb">åedtjiedidh</errorort>, roehtedh, soehpenjinie <errorort correct="åådtjedidh" errtype="vowc" pos="verb">åedtjedidh</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="vuejemeråantjoej" errtype="x" pos="noun">vuejeme-råantjoej</errorort> gujmie gaahtjedh.
-  </p>
-    <p type="title" xml:lang="sme">
+
+  <p>  SVL-N tseegkesovvi 1990 Saemiej <errorort correct="Rïjhkesaervien" errorinfo="vowc,i-ï">Rijhkesaervien</errorort> nualan. <errorort correct="Dïhte" errorinfo="vowc,i-ï">Dihte</errorort> lea ektese-<errorort correct="ektesevyökisiebrie" errorinfo="hyph-0;hyph-0">vyøki-siebrie</errorort> Nöörjen, Sveerjen <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> Såevmien <errorort correct="gaskemsh" errorinfo="pp,con">gaskems</errorort> Saemiej saavremen gaavhtan. Saemiej Saavremesiebrien leah 46 saervieh meatan govhte fylhkine gusnie 2000 <errorort correct="lïhtsegh" errorinfo="vowc,i-ï">lihtsegh</errorort>.  <em type="italic">Ulmie</em>  SVL-<errorort correct="SVL-N:n" errorinfo="acr,suf">N-n</errorort> ulmie gaajhkh maanah, noerh <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> geerve almetjh edtjieh <errorort correct="tjåanghkenidh" errorinfo="conc,gk-ghk;vpwlat,a-e">tjåangkanidh</errorort> saavredh <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> kultuvrem darjomi vieken övtiedidh. Galka aaj saemien gïelem, kultuvrem <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> <errorort correct="identiteetem" errorinfo="vowc,ee-e;vowlat,e-ee">ideentitetem</errorort> övtiedih <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> nænnoestidh.  Saavreme Saemiej Saavremesiebrien saavremesuerkieh naemhtie öörneme; Tjoejkedh, tjoejkedh/ soehpenjinie <errorort correct="åådtjedidh" errorinfo="vowc,åe-åå,vowlat,ie-e">åedtjiedidh</errorort>, roehtedh, soehpenjinie <errorort correct="åådtjedidh" errorinfo="vowc,åe-åå,vowlat,ie-e">åedtjedidh</errorort> <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> <errorort correct="vuejemeråantjoej" errorinfo="hyph-0">vuejeme-råantjoej</errorort> gujmie gaahtjedh.   </p>
+
+  <p type="title" xml:lang="nob">
 Darjomh  
   </p>
-    <p>
-SVL-N <errorort correct="regiovneles" errtype="mix" pos="adj">reegijovneles</errorort> gaahtjemh gusnie gaahtjeminie tjoejkedh. Dan raajan gaahtjemh Finnmarhkesne, Romssesne <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> Noerhte-Novrlaantesne orreme. Giesege dah saervieh ånnetji jeatjhlaakan öörneme; <errorort correct="saavremetjåanghkojne" errtype="conc" pos="noun">saavremetjåangkojne</errorort>, gaahtjeminie jallh <errorort correct="Cupine" errtype="x" pos="x">Cup-ine</errorort>.   
-  </p>
-    <p type="title" xml:lang="kal">
+
+  <p> SVL-N <errorort correct="regijovneles" errorinfo="vowc,ee-e">reegijovneles</errorort> gaahtjemh gusnie gaahtjeminie tjoejkedh. Dan raajan gaahtjemh Finnmarhkesne, Romssesne <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> <errorort correct="Nordlaantesne" errorinfo="conc,vr-rd">Noerhte-Novrlaantesne</errorort> orreme. Giesege dah saervieh ånnetji jeatjhlaakan öörneme; <errorort correct="saavremetjåanghkojne" errorinfo="conc,gk-ghk">saavremetjåangkojne</errorort>, gaahtjeminie jallh <errorort correct="Cupine" errorinfo="hyph-0">Cup-ine</errorort>.      </p>
+
+  <p type="title">
 Öörnegh  
   </p>
-    <p>
-Saemien gaahtjeme (SM)   <errorort correct="Fïerhten" errtype="ascii" pos="indef">Fierhten</errorort> jaepien saemien gaahtjemem giesege <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> daelvege öörnieh. Nöörje, Sveerje <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> Såevmie låtnoehtieh dam gaahtjemem öörnedh.    Arctic Winter Games (AWG) SVL-N lea dovne meatan <errorort correct="AWG:sne" errtype="suf" pos="acr">AWG-esne</errorort>, maam noeride mejtie 13-19 jaepien båeries öörnieh. Barkeminie lea aaj <errorort correct="lïhtseginie" errtype="ascii" pos="noun">lihtseginie</errorort> <errorort correct="AWG:n" errtype="suf" pos="acr">AWG-n</errorort> siebresne sjïdtedh. Dam siebriem tseegkesovvi juhkoe åssjele aalkoealmetjh arktigke dajvine maehtieh daelvege <errorort correct="tjåanghkenidh" errtype="conc" pos="verb">tjåangkenidh</errorort> <errorort correct="saavredh" errtype="vowc" pos="verb">saaavredh</errorort>. <errorort correct="Fïerhten" errtype="ascii" pos="indef">Fierhten</errorort> mubpien jaepien Alaska(USA), Kaanada, Russlaante, <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> Kruanaeatneme(Danmarhke) låtnoehtieh gaahtjemem öörnedh.  
+
+  <p> Saemien gaahtjeme (SM)   <errorort correct="Fïerhten" errorinfo="vowc,i-ï">Fierhten</errorort> jaepien saemien gaahtjemem giesege <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> daelvege öörnieh. Nöörje, Sveerje <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> Såevmie låtnoehtieh dam gaahtjemem öörnedh.    Arctic Winter Games (AWG) SVL-N lea dovne meatan <errorort correct="AWG:sne" errorinfo="acr,suf">AWG-esne</errorort>, maam noeride mejtie 13-19 jaepien båeries öörnieh. Barkeminie lea aaj <errorort correct="lïhtseginie" errorinfo="vowc,i-ï">lihtseginie</errorort> <errorort correct="AWG:n" errorinfo="acr,suf">AWG-n</errorort> siebresne sjïdtedh. Dam siebriem tseegkesovvi juhkoe åssjele aalkoealmetjh <errorort correct="arktihken" errorinfo="infl,sgnom-sggen;conc,gk-hk">arktigke</errorort> dajvine maehtieh daelvege <errorort correct="tjåanghkenidh" errorinfo="conc,gk-ghk;vpwlat,a-e">tjåangkenidh</errorort> <errorort correct="saavredh" errorinfo="vowc,aaa-aa">saaavredh</errorort>. <errorort correct="Fïerhten" errorinfo="vowc,i-ï">Fierhten</errorort> mubpien jaepien Alaska(USA), Kaanada, Russlaante, <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> Kruanaeatneme(Danmarhke) låtnoehtieh gaahtjemem öörnedh.     </p>
+
+  <p type="title"> <errorort correct="Vuejemeråantjoejgujmie" errorinfo="cmp,2-1">Vuejemeråantjoej gujmie</errorort> gaahtjedh     </p>
+
+  <p> Såevmie <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> Sveerje ektesne gaahtjemem <errorort correct="öörnijægan" errorinfo="vowlat,e-i">öörnejægan</errorort>  gosse <errorort correct="vuejemeråantjoejgujmie" errorinfo="hyph-0">vuejeme-råantjoejgujmie</errorort> gaahtjedh. Aalkeme leah ööhpehtidh guktie dalkedh, guktie nimhtie jienebh <errorort correct="saavremasse" errorinfo="typos">saavermasse</errorort> tjaengieh. Annjebodts ij Nöörjesne <errorort correct="vuejemeråantjoejgujmie" errorinfo="hyph-0">vuejeme-råantjoejgujmie</errorort> gaahtjedieh. Såevmesne <errorort correct="dïhte" errorinfo="vowc,i-ï">dihte</errorort> byögkeles saavreme, <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> ulmie seamma daltesasse Nöörjesne båetedh.   <em type="italic">Jeatjah darjomh</em>  <errorort correct="Noeretjåanghkoeh" errorinfo="conc,gk-ghk">Noeretjåangkoeh</errorort> giesien 2004 Snåasesne öörnedh. Noeretjåanghkojne galka saavredh <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> <errorlex correct="ummese" errorinfo="xxx">joekehtsh</errorlex> <errorort correct="kulturelle" errorinfo="conc,vr-r">kultuvrelle</errorort> darjomh årrodh. Ulmie lea saemien <errorort correct="saavremeïedtjem" errorinfo="hyph-0">saavreme-ïedtjem</errorort> bijjiedidh <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> viermiem saemiej <errorort correct="gaskemsh" errorinfo="fin,s-sh">gaskems</errorort> åarjelsaemien dajvesne tseegkedh.  SVL-<errorort correct="SVL-N:n" errorinfo="acr,suf">N-n</errorort> noeremoenehtse aaj jeatjah <errorort correct="prosjeektigujmie" errorinfo="typos">proosjektigujmie</errorort> maanide <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> noeride berkieh, vuesiehtæmman; Games of the world, vuejeme-råantjoejgujmie gaahtjedh nïejtide, dåarjegh, j.n.v.    </p>
+
+  <p> Vielie bïevnesh, <errorort correct="bïeljelh" errorinfo="vowc,i-ï">bieljeldh</errorort>:  Råajvarimmieh maana – noeride : Janne Murberg Spaun – Mobijle: +(47) 99 22 48 22  Jeatjah bïevnesh Saemiej saavremesiebrien <errorort correct="bïjre" errorinfo="vowc,i-ï">bijre</errorort> : Britt Somby – Mobijle +(47) 41 50 36 03   </p>
+
+  <p xml:lang="smj">
+ 
   </p>
-    <p type="title">
-Vuejemeråantjoej gujmie gaahtjedh  
-  </p>
-    <p>
-Såevmie <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> Sveerje ektesne gaahtjemem <errorort correct="öörnijægan" errtype="suf" pos="verb">öörnejægan</errorort>  gosse <errorort correct="vuejemeråantjoejgujmie" errtype="x" pos="noun">vuejeme-råantjoejgujmie</errorort> gaahtjedh. Aalkeme leah ööhpehtidh guktie dalkedh, guktie nimhtie jienebh <errorort correct="saavremasse" errtype="meta" pos="noun">saavermasse</errorort> tjaengieh. Annjebodts ij Nöörjesne <errorort correct="vuejemeråantjoejgujmie" errtype="x" pos="noun">vuejeme-råantjoejgujmie</errorort> gaahtjedieh. Såevmesne <errorort correct="dïhte" errtype="ascii" pos="dem">dihte</errorort> byögkeles saavreme, <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> ulmie seamma daltesasse Nöörjesne båetedh.   <em type="italic">Jeatjah darjomh</em>  <errorort correct="Noeretjåanghkoeh" errtype="conc" pos="noun">Noeretjåangkoeh</errorort> giesien 2004 Snåasesne öörnedh. Noeretjåanghkojne galka saavredh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> joekehtsh <errorort correct="kulturelle" errtype="con" pos="adj">kultuvrelle</errorort> darjomh årrodh. Ulmie lea saemien <errorort correct="saavremeïedtjem" errtype="x" pos="noun">saavreme-ïedtjem</errorort> bijjiedidh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> viermiem saemiej <errorort correct="gaskemsh" errtype="con" pos="pp">gaskems</errorort> åarjelsaemien dajvesne tseegkedh.  SVL-<errorort correct="SVL-N:n" errtype="suf" pos="acr">N-n</errorort> noeremoenehtse aaj jeatjah <errorort correct="prosjeektigujmie" errtype="mix" pos="noun">proosjektigujmie</errorort> maanide <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> noeride berkieh, vuesiehtæmman; Games of the world, vuejeme-råantjoejgujmie gaahtjedh nïejtide, dåarjegh, j.n.v. 
-  </p>
-    <p>
-Vielie bïevnesh, <errorort correct="bïeljelh" errtype="mix" pos="verb">bieljeldh</errorort>:  Råajvarimmieh maana – noeride : Janne Murberg Spaun – Mobijle: +(47) 99 22 48 22  Jeatjah bïevnesh Saemiej saavremesiebrien <errorort correct="bïjre" errtype="ascii" pos="pp">bijre</errorort> : Britt Somby – Mobijle +(47) 41 50 36 03
-  </p>
-    <p></p>
-    <p type="title">
-SÁMI SPÁBBÁČIEKČANLIHTTU (SSL) / SAEMIEN <errorort correct="JUELKIETJENGKERESIEBRIE" errtype="x" pos="noun">JUELKIETJENGKERE-SIEBRIE</errorort></p>
-    <p>
-Saemien <errorort correct="juelkietjengkeresiebrie" errtype="x" pos="noun">juelkietjengkere-siebrie</errorort> tseegkesovvi golken 18. biejjien 2003 Saemiej saavremesiebrien nualan (SSL)- Nöörjesne. Dan leah <errorort correct="göökte" errtype="ascii" pos="num">gøøkte</errorort> saadthalmetjh SVL’<errorort correct="SVL:n" errtype="suf" pos="acr">n</errorort> ståvrosne. 
-  </p>
-    <p>
-  Åejvieulmie:  Maadtegem tseegkedh guktie Saemien <errorort correct="juelkietjengkeresiebrie" errtype="x" pos="noun">juelkietjengkere-siebrie</errorort> båetije biejjide nænnoes <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> stinkes sjædta, gusnie saavremen <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> reeremen <errorort correct="bïjre" errtype="ascii" pos="pp">bijre</errorort> ussjedalleminie.  Bielieulmieh: 
-  </p>
-    <p>
-· Saemiej <errorort correct="ektiedomtesem" errtype="x" pos="noun">ektie-domtesem</errorort> nænnoestidh.
-  </p>
-    <p>
- · Saemiej <errorort correct="ektievoetem" errtype="x" pos="noun">ektie-voetem</errorort> nænnoestidh .
-  </p>
-    <p>
- · (Juelkietjengkere- <errorsyn correct="Juelkietjengkeresaavremem" errtype="x" pos="noun">saavremem</errorsyn> saemide <errorort correct="dåhkasjehtedh" errtype="vowc" pos="verb">dååhkasjehtedh</errorort> – maanide, nyjsenæjjide <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> ålmide –dovne byjreskisnie, <errorort correct="regiovneles" errtype="mix" pos="adj">reegijovneles</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> gaskenasjovneles. 
-  </p>
-    <p>
- · Saemien eatnemem juelkietjengkeren tjïrrh buerebe åehpiedehtedh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> vuesiehtidh  guktie almetjh saemide <errorort correct="åålmegetjïertine" errtype="x" pos="noun">åålmege-tjïertine</errorort> <errorort correct="vuavkesjieh" errtype="vow" pos="verb">vuavkasjieh</errorort>, staatusinie <errorort correct="aalkoeåålmeginie" errtype="vowc" pos="noun">alkoeåålmeginie</errorort> abpe eatnamisnie   
-  </p>
-    <p>
-Saemien <errorort correct="juelkietjengkeresiebrie" errtype="x" pos="noun">juelkietjengkere-siebrie</errorort> sæjhta båetije <errorort correct="biejjide" errtype="suf" pos="noun">biejjiede</errorort> <errorort correct="dïedtem" errtype="ascii" pos="noun">diedtem</errorort> utnedh saemien <errorort correct="juelkietjengkeresaavremem" errtype="x" pos="noun">juelkietjengkere-saavremem</errorort> vaarjelidh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> övtiedidh – dovne <errorort correct="regiovneles" errtype="mix" pos="adj">reegijovneles</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> gaskenasjovneles.   <errorort correct="Regiovneles" errtype="mix" pos="adj">Reegijovneles</errorort>, saemien <errorort correct="Cupem" errtype="mix" pos="x">Cup-m</errorort> viehkiehtidh öörnedh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> barkedh guktie jienebh Saemien <errorort correct="juelkietjengkeresaavremasse" errtype="x" pos="noun">juelkietjengkere-saavremasse</errorort> tjaengieh. Gaskenasjovneles – saemien <errorort correct="jïjtsh" errtype="ascii" pos="refl">jijtsh</errorort> juelkietjengkere- saerviem tseegkedh – dovne Nyjsenæjjide <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> ålmide.  Båetije biejjide sæjhta <errorort correct="lïhtsegidie" errtype="ascii" pos="noun">lihtseginie</errorort> jillemes daltesisnie <errorort correct="FIFA:n" errtype="suf" pos="acr">FIFA-n</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="UEFA:n" errtype="suf" pos="acr">UEFA-n</errorort> öörnegisnie sjïdtedh. Sæjhta aaj <errorort correct="saerviejgujmie" errtype="suf" pos="noun">saervigujmie</errorort> laavenjostedh mah <errorort correct="FIFA:n" errtype="suf" pos="acr">FIFA-n</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="UEFA:n" errtype="suf" pos="acr">UEFA-n</errorort> bæjngoebielesne tjåadtjoeh. SSL lea daelie NF-<errorort correct="NF-Boarden" errtype="suf" pos="x">Board-n</errorort> siebresne. NF-Board stuvrieh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> öörnieh gosse laanth,  mah eah <errorort correct="lïhtseginie" errtype="ascii" pos="noun">lihtsegine</errorort> <errorort correct="FIFA:sne" errtype="suf" pos="acr">FIFA-sne</errorort>, spealadieh.    
-  </p>
-    <p><em type="italic">Vielie bïevnesh:</em>  Sámi Spábbáčiekčanlihttu / Saemiej <errorort correct="juelkietjengkeresiebrie" errtype="mix" pos="noun">juelkietjengkeresïebre</errorort>   Suomaluodda 1 9520 Guovdageaidnu <errorort correct="Telefovne" errtype="conc" pos="noun">Tellefovne</errorort>: +(47) 78 48 68 11, Barkoe + (47) 78 48 61 08  Gåetide  +(47) 909 80 383   
-  </p>
-  </body>
+
+  <p type="title" xml:lang="nno"> SÁMI SPÁBBÁČIEKČANLIHTTU (SSL) / SAEMIEN <errorort correct="JUELKIETJENGKERESIEBRIE" errorinfo="hyph-0">JUELKIETJENGKERE-SIEBRIE</errorort>     </p>
+
+  <p> Saemien <errorort correct="juelkietjengkeresiebrie" errorinfo="hyph-0">juelkietjengkere-siebrie</errorort> tseegkesovvi golken 18. biejjien 2003 Saemiej saavremesiebrien nualan (SSL)- Nöörjesne. Dan leah <errorort correct="göökte" errorinfo="vowc,øø-öö">gøøkte</errorort> saadthalmetjh SVL’<errorort correct="SVL:n" errorinfo="acr,suf">n</errorort> ståvrosne.    </p>
+
+  <p>   Åejvieulmie:  Maadtegem tseegkedh guktie Saemien <errorort correct="juelkietjengkeresiebrie" errorinfo="hyph-0">juelkietjengkere-siebrie</errorort> båetije biejjide nænnoes <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> stinkes sjædta, gusnie saavremen <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> reeremen <errorort correct="bïjre" errorinfo="vowc,i-ï">bijre</errorort> ussjedalleminie.  Bielieulmieh:    </p>
+
+  <p> · Saemiej <errorort correct="ektiedomtesem" errorinfo="hyph-0">ektie-domtesem</errorort> nænnoestidh.   </p>
+
+  <p>  · Saemiej <errorort correct="ektievoetem" errorinfo="hyph-0">ektie-voetem</errorort> nænnoestidh .   </p>
+
+  <p>  · (Juelkietjengkere- <errorsyn correct="Juelkietjengkeresaavremem" errorinfo="hyph-0">saavremem</errorsyn> saemide <errorort correct="dåhkasjehtedh" errorinfo="vowc,åå-å">dååhkasjehtedh</errorort> – maanide, nyjsenæjjide <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> ålmide –dovne byjreskisnie, <errorort correct="regijovneles" errorinfo="vowc,ee-e">reegijovneles</errorort> <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> gaskenasjovneles.    </p>
+
+  <p>  · Saemien eatnemem juelkietjengkeren tjïrrh buerebe åehpiedehtedh <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> vuesiehtidh  guktie almetjh saemide <errorort correct="åålmegetjïertine" errorinfo="cmp,ege-eh">åålmege-tjïertine</errorort> <errorort correct="vuavkesjieh" errorinfo="vowc,a-e">vuavkasjieh</errorort>, staatusinie <errorort correct="aalkoeåålmeginie" errorinfo="vowc,aa-a">alkoeåålmeginie</errorort> abpe eatnamisnie      </p>
+
+  <p> Saemien <errorort correct="juelkietjengkeresiebrie" errorinfo="hyph-0">juelkietjengkere-siebrie</errorort> sæjhta båetije <errorort correct="biejjide" errorinfo="typos">biejjiede</errorort> <errorort correct="dïedtem" errorinfo="vowc,i-ï">diedtem</errorort> utnedh saemien <errorort correct="juelkietjengkeresaavremem" errorinfo="hyph-0">juelkietjengkere-saavremem</errorort> vaarjelidh <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> övtiedidh – dovne <errorort correct="regijovneles" errorinfo="vowc,ee-e">reegijovneles</errorort> <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> gaskenasjovneles.   <errorort correct="regijovneles" errorinfo="vowc,ee-e">Reegijovneles</errorort>, saemien <errorort correct="Cupem" errorinfo="hyph-0">Cup-m</errorort> viehkiehtidh öörnedh <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> barkedh guktie jienebh Saemien <errorort correct="juelkietjengkeresaavremasse" errorinfo="hyph-0">juelkietjengkere-saavremasse</errorort> tjaengieh. Gaskenasjovneles – saemien <errorort correct="jïjtsh" errorinfo="vowc,i-ï">jijtsh</errorort> <errorort correct="juelkietjengkeresaerviem" errorinfo="hyph-0">juelkietjengkere-saerviem</errorort> tseegkedh – dovne Nyjsenæjjide <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> ålmide.  Båetije biejjide sæjhta <errorort correct="lïhtseginie" errorinfo="vowc,i-ï">lihtseginie</errorort> jillemes daltesisnie <errorort correct="FIFA:n" errorinfo="acr,suf">FIFA-n</errorort> <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> <errorort correct="UEFA:n" errorinfo="acr,suf">UEFA-n</errorort> öörnegisnie sjïdtedh. Sæjhta aaj <errorort correct="saerviejgujmie" errorinfo="fin,i-iej">saervigujmie</errorort> laavenjostedh mah <errorort correct="FIFA:n" errorinfo="acr,suf">FIFA-n</errorort> <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> <errorort correct="UEFA:n" errorinfo="acr,suf">UEFA-n</errorort> bæjngoebielesne tjåadtjoeh. SSL lea daelie NF-<errorort correct="NF-Boarden" errorinfo="prop,suf">Board-n</errorort> siebresne. NF-Board stuvrieh <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> öörnieh gosse laanth,  mah eah <errorort correct="lïhtseginie" errorinfo="vowc,i-ï">lihtsegine</errorort> <errorort correct="FIFA:sne" errorinfo="acr,suf">FIFA-sne</errorort>, spealadieh.       </p>
+
+  <p type="title"> Vielie bïevnesh:  Sámi Spábbáčiekčanlihttu / Saemiej <errorort correct="juelkietjengkeresiebrie" errorinfo="vowc,ïe-ie,fin,e-ie">juelkietjengkeresïebre</errorort>   Suomaluodda 1 9520 Guovdageaidnu Tellefovne: +(47) 78 48 68 11, Barkoe + (47) 78 48 61 08  Gåetide  +(47) 909 80 383      </p>
+
+  
+
+ </body>
 </document>

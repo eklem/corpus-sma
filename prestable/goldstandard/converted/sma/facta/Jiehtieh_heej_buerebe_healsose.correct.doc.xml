@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="sma">
+<document xml:lang="sma" id="no_id">
   <header>
-    <title></title>
-    <genre/>
+    <title/>
+    <genre code="facta"/>
     <author>
-      <person born="" firstname="" lastname="Marit M Fjellheim" nationality="en_US" sex="unknown"/>
+      <person firstname="" lastname="Marit M Fjellheim" sex="unknown" born="" nationality="en_US"/>
     </author>
     <year>2012</year>
     <availability>
@@ -15,57 +13,84 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 48460 $; </version>
+    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
-    <p xml:lang="nob">
+
+  <p xml:lang="nob">
 Fra internettsiden:
   </p>
-    <p>
+
+  <p xml:lang="dan">
 http://www.halsa2020.se/OtherLanguages/Pages/Aarjelsaemien.ept
   </p>
-    <p xml:lang="smj">
+
+  <p xml:lang="nno">
 Lastet ned 23.02.2012
   </p>
-    <p type="title">
+
+  
+
+  
+
+  <p type="title">
 Jiehtieh heej buerebe healsose!
   </p>
-    <p>
-Västerbottenen leenen laantedigkien lea visjovne mij bijjie <errormorphsyn cat="x" const="x" correct="visjovne mij bæjjese siktie" errtype="x" orig="x" pos="x">siktie</errormorphsyn>. Jaepien 2020 lea <errorort correct="Västerbottenen" errtype="con" pos="prop">Västerbotenen</errorort> veartenen bööremes healsoe jïh veartenen vervesne åålmege. Bööremes dejnie visjovnine lea gaajhkesh leenesne dæjpa jïh gaajhkesh maehtieh meatan årrodh jïh dam haemiedidh. Gaajhkesh vitnieh aaj gosse dejnie berkieh.
-  </p>
-    <p><errorort correct="Portaalen" errtype="vow" pos="noun">Portalen</errorort> ulmie lea <errorort correct="skreejredh" errtype="x" pos="verb">skreejreredh</errorort> jïh maahtoem buerebe healsose vadta. Mijjieh vedtebe våaromen <errorort correct="praktihkeles" errtype="con" pos="adj">praktijhkeles</errorort> raerieh jïh gyhtjelassh gihtjebe maam lea <errorort correct="nuhteges" errtype="vow" pos="adj">nuhtegs</errorort> dan bïjre ussjedidh. Maam edtjebe darjodh guktie vervesne årrodh lea joekehts almetjistie almetjasse. Akte almetje buerebe jïh <errorort correct="healsoes" errtype="mix" pos="adj">healsojis</errorort> beapmoeh byöpmedidh mohte mubpie sov lïhkemes fuelhkiem råaka.
-  </p>
-    <p>
+
+  <p> Västerbottenen leenen laantedigkien lea visjovne mij bijjie <errormorphsyn correct="visjovne mij bæjjese siktie" errorinfo="x,x,x,x,x">siktie</errormorphsyn>. Jaepien 2020 lea <errorort correct="Västerbottenen" errorinfo="prop,con">Västerbotenen</errorort> veartenen bööremes healsoe jïh veartenen vervesne åålmege. Bööremes dejnie visjovnine lea gaajhkesh leenesne dæjpa jïh gaajhkesh maehtieh meatan årrodh jïh dam haemiedidh. Gaajhkesh vitnieh aaj gosse dejnie berkieh.   </p>
+
+  
+
+  <p> <errorort correct="Portaalen" errorinfo="noun,vow">Portalen</errorort> ulmie lea <errorort correct="skreejredh" errorinfo="verb,x">skreejreredh</errorort> jïh maahtoem buerebe healsose vadta. Mijjieh vedtebe våaromen <errorort correct="praktihkeles" errorinfo="adj,con">praktijhkeles</errorort> raerieh jïh gyhtjelassh gihtjebe maam lea <errorort correct="nuhteges" errorinfo="adj,vow">nuhtegs</errorort> dan bïjre ussjedidh. Maam edtjebe darjodh guktie vervesne årrodh lea joekehts almetjistie almetjasse. Akte almetje buerebe jïh <errorort correct="healsoes" errorinfo="adj,mix">healsojis</errorort> beapmoeh byöpmedidh mohte mubpie sov lïhkemes fuelhkiem råaka.   </p>
+
+  
+
+  <p>
 Gaajhkesh maehtieh sov healsoem buaranidh. Dïhte dan bïjre maahta dan hijven veasodh goh nööredh destie mah leah mov bïjre. Juktie ovmessie bielieh healsoem dijpieh gååvnesieh muvhth mestie datne aalkah buerebe veasodh. Vaeltieh haestemem: Jiehtieh heej buerebe healsose!
   </p>
-    <p>
-Mijjieh sïjhtebe datne edtjh bööremes <errorort correct="veartanisnie" errtype="mix" pos="noun">veartensisnie</errorort> veasodh.
-  </p>
-    <p type="title">
+
+  
+
+  <p> Mijjieh sïjhtebe datne edtjh bööremes <errorort correct="veartanisnie" errorinfo="noun,mix">veartensisnie</errorort> veasodh.   </p>
+
+  
+
+  <p type="title">
 Dan duekesne
   </p>
-    <p>
-Joe 1984 Västerbottenen leenen laantedigkie <errorort correct="nænnoesti" errtype="svow" pos="verb">nænnosti</errorort> sveerjen vuekiem <errorort correct="åvtene" errtype="vow" pos="adv">åvtane</errorort> <errorort correct="preventijveles" errtype="x" pos="adj">preventijven</errorort> healsoebarkoen åvteste. Dan ulmie lij <errorort correct="healsoes" errtype="mix" pos="adj">healsojes</errorort> jielemevuekieh dåarjodh guktie vihkeles fåantoeh tsevtsedh mejstie  <errorort correct="infaarkte" errtype="mix" pos="noun">infarkth</errorort>, jaamedahke jïh <errorort correct="diabeetese" errtype="vow" pos="noun">diabetese</errorort> båetieh. Haemiem, maam Norsjöesne uvtedi, lea åvtese barkedh  jïh healsoem <errorort correct="evtedeminie" errtype="mix" pos="verb">eevtiedeminie</errorort>. <errorort correct="Västerbotten" errtype="x" pos="prop">Västerbottene</errorort> lea ennje joekoen laantesne juktie <errorort correct=" healsoegïehtjedimmiem" errtype="x" pos="noun">healsoe-gïehtjedimmiem</errorort> gaajhkide <errorort correct="gïeh" errtype="ascii" pos="refl">gieh</errorort> leah 40, 50 jïh 60 jaepien båeries faala.
-  </p>
-    <p>
-Åvtemiereste buerebe sjïdti, dam maahta statistihkeste lohkedh 1980-låhkosne <errorort correct="vuesiehti" errtype="svow" pos="verb">vuesehti</errorort> Västerbottenen lij dïhte leene mij lij nåekies gosse <errorort correct="infarktjaamemem" errtype="x" pos="noun">infarkt-jaamemem</errorort> jïh jaamedahkem dejtie <errorort correct="gïeh" errtype="ascii" pos="refl">gieh</errorort> lih nuerebe goh 75 vuartasji. <errorort correct="Daan" errtype="vowc" pos="dem">Daen</errorort> biejjien lea Västerbotten bijjemes. Dah <errorort correct="gïeh" errtype="ascii" pos="refl">gieh</errorort> Västerbottenisnie årroeminie vaenemes rïjhkesne soevestieh, jïh dah <errorort correct="jïlle" errtype="ascii" pos="adj">jille</errorort> kolesterolvierhtieh lea unniedamme jïh vïrretrygke mængkoe.
-  </p>
-    <p type="title">
+
+  <p> Joe 1984 Västerbottenen leenen laantedigkie <errorort correct="nænnoesti" errorinfo="verb,svow">nænnosti</errorort> sveerjen vuekiem <errorort correct="åvtene" errorinfo="adv,vow">åvtane</errorort> <errorort correct="preventijveles" errorinfo="adj,x">preventijven</errorort> healsoebarkoen åvteste. Dan ulmie lij <errorort correct="healsoes" errorinfo="adj,mix">healsojes</errorort> jielemevuekieh dåarjodh guktie vihkeles fåantoeh tsevtsedh mejstie  <errorort correct="infaarkte" errorinfo="noun,mix">infarkth</errorort>, jaamedahke jïh <errorort correct="diabeetese" errorinfo="noun,vow">diabetese</errorort> båetieh. Haemiem, maam Norsjöesne uvtedi, lea åvtese barkedh  jïh healsoem <errorort correct="evtedeminie" errorinfo="verb,mix">eevtiedeminie</errorort>. <errorort correct="Västerbotten" errorinfo="prop,x">Västerbottene</errorort> lea ennje joekoen laantesne juktie <errorort correct=" healsoegïehtjedimmiem" errorinfo="noun,x">healsoe-gïehtjedimmiem</errorort> gaajhkide <errorort correct="gïeh" errorinfo="refl,ascii">gieh</errorort> leah 40, 50 jïh 60 jaepien båeries faala.   </p>
+
+  
+
+  <p> Åvtemiereste buerebe sjïdti, dam maahta statistihkeste lohkedh 1980-låhkosne <errorort correct="vuesiehti" errorinfo="verb,svow">vuesehti</errorort> Västerbottenen lij dïhte leene mij lij nåekies gosse <errorort correct="infarktjaamemem" errorinfo="noun,x">infarkt-jaamemem</errorort> jïh jaamedahkem dejtie <errorort correct="gïeh" errorinfo="refl,ascii">gieh</errorort> lih nuerebe goh 75 vuartasji. <errorort correct="Daan" errorinfo="dem,vowc">Daen</errorort> biejjien lea Västerbotten bijjemes. Dah <errorort correct="gïeh" errorinfo="refl,ascii">gieh</errorort> Västerbottenisnie årroeminie vaenemes rïjhkesne soevestieh, jïh dah <errorort correct="jïlle" errorinfo="adj,ascii">jille</errorort> kolesterolvierhtieh lea unniedamme jïh vïrretrygke mængkoe.   </p>
+
+  
+
+  <p type="title">
 Eadtjohkåbpoe barkoe
   </p>
-    <p>
-Jaepien 2000 laantedigkieståvroe <errorort correct="nænnoesti" errtype="svow" pos="verb">nænnosti</errorort> visjovnem ”Jaepie 2020 lea <errorort correct="Västerbottenen" errtype="con" pos="prop">Västebottenen</errorort> veartenen bööremes healsoe jïh veartenen vervesne åålmege”. Jaepien 2008 <errorort correct="politihkerh" errtype="con" pos="noun">politijhkerh</errorort> <errorort correct="nænnoestin" errtype="svow" pos="verb">nænnostin</errorort> joekoen barkoem darjodh visjovneste, dïhte Hälsa 2020-prosesse, mestie båata orre <errorsyn correct="healsoeevtiedimmiebarkoem" errtype="x" pos="noun"><errorort correct="healsoeevtiedimmie" errtype="vow" pos="noun">healsoeeevtiedimmie</errorort> barkoem</errorsyn> meehti tjïrrehtidh jïh dah mah juhtieh maehtieh eadtjohkåbpoe barkedh.
-  </p>
-    <p type="title">
+
+  <p> Jaepien 2000 laantedigkieståvroe <errorort correct="nænnoesti" errorinfo="verb,svow">nænnosti</errorort> visjovnem ”Jaepie 2020 lea <errorort correct="Västerbottenen" errorinfo="prop,con">Västebottenen</errorort> veartenen bööremes healsoe jïh veartenen vervesne åålmege”. Jaepien 2008 <errorort correct="politihkerh" errorinfo="noun,con">politijhkerh</errorort> <errorort correct="nænnoestin" errorinfo="verb,svow">nænnostin</errorort> joekoen barkoem darjodh visjovneste, dïhte Hälsa 2020-prosesse, mestie båata orre <errorsyn correct="healsoeevtiedimmiebarkoem" errorinfo="noun,x"><errorort correct="healsoeevtiedimmie" errorinfo="noun,vow">healsoeeevtiedimmie</errorort> barkoem</errorsyn> meehti tjïrrehtidh jïh dah mah juhtieh maehtieh eadtjohkåbpoe barkedh.   </p>
+
+  
+
+  <p type="title">
 Jïjnji dïedte
   </p>
-    <p>
-Laantedigkien stoerre dïedte healsoe- jïh <errorort correct="starnesåjhtoem" errtype="vow" pos="noun">starnesåajhtoem</errorort> barkosne gosse lea healsoem buaranidh, tjeahpastalledh jïh barkedh guktie eah skïemtjijh. Bene guktie årrobe, mah nuepieh mijjen leah barkose jïh ööhpehtæmman, mijjen <errorort correct="ealoeladtje" errtype="con" pos="adj">ealoemadtje</errorort>, mijjen nuepieh åeredh jïh eejehtidh, relasjovnh, <errorort correct="kulturellen" errtype="con" pos="adv">kultuvrellen</errorort> darjomh j.n.v. aaj dijpieh.
-  </p>
-    <p>
+
+  <p> Laantedigkien stoerre dïedte healsoe- jïh <errorort correct="starnesåjhtoem" errorinfo="noun,vow">starnesåajhtoem</errorort> barkosne gosse lea healsoem buaranidh, tjeahpastalledh jïh barkedh guktie eah skïemtjijh. Bene guktie årrobe, mah nuepieh mijjen leah barkose jïh ööhpehtæmman, mijjen <errorort correct="ealoeladtje" errorinfo="adj,con">ealoemadtje</errorort>, mijjen nuepieh åeredh jïh eejehtidh, relasjovnh, <errorort correct="kulturellen" errorinfo="adv,con">kultuvrellen</errorort> darjomh j.n.v. aaj dijpieh.   </p>
+
+  <p>
 Dan gaavhtan mijjieh libie jeenjesh mah tjuerieh barkedh faktovrh jïh byjreskh buaranidh mah healsoem dæjpa positijveles vuekine.
   </p>
-    <p><em type="italic">www.hälsa2020.se</em> lea <errorort correct="Västerbottenen" errtype="con" pos="prop">Västebottenen</errorort> leenen laantedigkie åvtanimmie, jeatjah leenen <errorort correct="siebriedahkenaktöörigujmie" errtype="mix" pos="noun">sïebredahkenaktöörigujmie</errorort> jïh lea sïlle geajnosne visjovnem tjïrrehtidh jaepien 2020 lea <errorort correct="Västerbottenen" errtype="con" pos="prop">Västebottenen</errorort> veartenen bööremes healsoe jïh veartenen <errorort correct="friskemes" errtype="vow" pos="adj">frïeskemes</errorort> åålmege.
-  </p>
-  </body>
+
+  
+
+  <p>
+<em type="italic">www.hälsa2020.se</em> lea <errorort correct="Västerbottenen" errorinfo="prop,con">Västebottenen</errorort> leenen laantedigkie åvtanimmie, jeatjah leenen <errorort correct="siebriedahkenaktöörigujmie" errorinfo="noun,mix">sïebredahkenaktöörigujmie</errorort> jïh lea sïlle geajnosne visjovnem tjïrrehtidh jaepien 2020 lea <errorort correct="Västerbottenen" errorinfo="prop,con">Västebottenen</errorort> veartenen bööremes healsoe jïh veartenen <errorort correct="friskemes" errorinfo="adj,vow">frïeskemes</errorort> åålmege.   </p>
+
+  
+
+ </body>
 </document>

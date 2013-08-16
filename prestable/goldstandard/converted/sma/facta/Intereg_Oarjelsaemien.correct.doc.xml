@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="sma">
+<document xml:lang="sma" id="no_id">
   <header>
-    <title></title>
-    <genre/>
+    <title/>
+    <genre code="facta"/>
     <author>
-      <person born="" firstname="" lastname="Sissel Jåma" nationality="en_US" sex="unknown"/>
+      <person firstname="" lastname="Sissel JŒma" sex="unknown" born="" nationality="en_US"/>
     </author>
     <year>2012</year>
     <availability>
@@ -15,20 +13,25 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 48460 $; </version>
+    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
-    <p>
+
+  <p>
 Intereg Åarjelsaemien
   </p>
-    <p>
-Saerniestimmie dan stoerre ektesvuekie <errorort correct="barkoeprosjeekten" errtype="vow" pos="noun">barkoeprosjekten</errorort> <errorort correct="bïjre" errtype="ascii" pos="pp">bijre</errorort>, mestie båata, barkoesijjieh, aatjmehkh, <errorort correct="jïlleskåvloeh" errtype="ascii" pos="noun">jilleskåvloeh</errorort>/<errorort correct="universiteeth" errtype="vow" pos="noun">universiteth</errorort>, <errorort correct="hammoedimmieh" errtype="mix" pos="noun">haamoedimmieh</errorort>/<errorort correct="organisasjovnh" errtype="vowc" pos="noun">årganisasjovnh</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> byjjes <errorort correct="viehkiedïrregh" errtype="ascii" pos="noun">viehkiedirregh</errorort> <errorort correct="Jïemhtesne" errtype="ascii" pos="prop">Jiemhtesne</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> dovne <errorort correct="Trøndelagen" errtype="mix" pos="prop">Trøødelagen</errorort> fylhkine <errorort correct="maehtieh" errtype="suf" pos="verb">maehtie</errorort> dåarjegem <errorort correct="jïjnjide" errtype="ascii" pos="indef">jijnjide</errorort> råajvarimmide åadtjodh <errorort correct="1996:n" errtype="suf" pos="num">1996-n</errorort> raejeste <errorort correct="1999:n" errtype="suf" pos="num">1999-n</errorort> raajan.
-  </p>
-    <p>
-Guktie daajroes, Sveerje lea <errorort correct="lïhtseginie" errtype="mix" pos="noun">liihtseginie</errorort> <errorort correct="EE:sne" errtype="suf" pos="acr">EE-esne</errorort> (Europa Ektiedimmesne) <errorort correct="sjïdteme" errtype="ascii" pos="verb">sjidteme</errorort>, mij beetnegh dåajvohte, ektievoetejielemem <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> barkoem unijovnen raastebealah skreejrehtidh. <errorort correct="Trönderidie" errtype="mix" pos="noun">Trøøderidie</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> dovne <errorort correct="jïemhtide" errtype="ascii" pos="noun">jiemhtide</errorort> gåabpegh bielesne lea gujht buerine gosse buektiehtibie <errorort correct="jillie- jïh" errtype="mix" pos="mix">jillie-jih</errorort> luvliebielesne <errorort correct="eensilaakan" errtype="con" pos="adv">eensilaahkan</errorort> ektesne barkedh, nimhtie dam <errorort correct="Nöörje" errtype="ascii" pos="prop">Nøørje</errorort> <errorort correct="jïjtse" errtype="ascii" pos="refl">jijtse</errorort> <errorort correct="bieleste" errtype="suf" pos="noun">bielaste</errorort> seamma <errorort correct="jïjnjem" errtype="ascii" pos="indef">jijnjem</errorort> dåajvohte!
-  </p>
-    <p>
-Iktemearan leah daaj <errorort correct="jïjnjh" errtype="mix" pos="indef">jinjh</errorort> beetnegh, medtie 180 <errorort correct="millijovnh" errtype="con" pos="noun">millionvnh</errorort> tjåervieh <errorort correct="1996:n" errtype="suf" pos="num">1996-n</errorort> raejeste <errorort correct="1999:n" errtype="suf" pos="num">1999-n</errorort> raajan. Dennie mieresne lea vuertiemisnie edtjieh saatnan gielteges eajhnah <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="prosjeekth" errtype="vow" pos="noun">prosjekth</errorort> jijhtedh mah <errorort correct="Jïemhten" errtype="mix" pos="prop">Jiemthen</errorort> <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> <errorort correct="Tröndelaagen" errtype="mix" pos="prop">Trøøndelaagen</errorort> fylhki gaskesem <errorort correct="maehtieh" errtype="suf" pos="verb">maehtie</errorort> övtiedidh. Jielemevuekie, <errorort correct="gïehtjedimmie" errtype="ascii" pos="noun">giehtjedimmie</errorort>, <errorort correct="ööhpehtimmie" errtype="mix" pos="noun">ööpehtimmie</errorort>, kultuvre, byjrese <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> eeremes - orre barkoesijjieh leah <errorort correct="vihkeles" errtype="vow" pos="adj">viehkeles</errorort> <errorortreal correct="tsiehkiebaakoe" errtype="conc" pos="noun">tsiehkiebaahkoe</errorortreal>. Barkoesijjieh, <errorort correct="tjïelth" errtype="ascii" pos="noun">tjielth</errorort>, institusjovnh <errorort correct="jïh" errtype="ascii" pos="cc">jih</errorort> såemies almetjh sih joe maehtieh <errorort correct="gïjkije" errtype="ascii" pos="noun">gijkije</errorort> eajhnaj gujmie tjahkan, mohte eah giem <errorort correct="Jïemhtesne" errtype="ascii" pos="prop">Jiemhtesne</errorort> <errorort correct="dabth" errtype="con" pos="verb">dabpth</errorort>? Dovne <errorort correct="gaskeseövtiedæmman" errtype="vow" pos="noun">gaskeseövtiedamman</errorort> <errorort correct="maehtiejibie" errtype="suf" pos="verb">maehtiejjibie</errorort> debpelen dahkoe dåarjegem vedtedh!
-  </p>
-  </body>
+
+  
+
+  <p> Saerniestimmie dan stoerre ektesvuekie <errorort correct="barkoeprosjeekten" errorinfo="noun,vow">barkoeprosjekten</errorort> <errorort correct="bïjre" errorinfo="pp,ascii">bijre</errorort>, mestie båata, barkoesijjieh, aatjmehkh, <errorort correct="jïlleskåvloeh" errorinfo="noun,ascii">jilleskåvloeh</errorort>/<errorort correct="universiteeth" errorinfo="noun,vow">universiteth</errorort>, <errorort correct="hammoedimmieh" errorinfo="noun,mix">haamoedimmieh</errorort>/<errorort correct="organisasjovnh" errorinfo="noun,vowc">årganisasjovnh</errorort> <errorort correct="jïh" errorinfo="cc,ascii">jih</errorort> byjjes <errorort correct="viehkiedïrregh" errorinfo="noun,ascii">viehkiedirregh</errorort> <errorort correct="Jïemhtesne" errorinfo="prop,ascii">Jiemhtesne</errorort> <errorort correct="jïh" errorinfo="cc,ascii">jih</errorort> dovne <errorort correct="Trøndelaagen" errorinfo="prop,mix">Trøødelagen</errorort> fylhkine <errorort correct="maehtieh" errorinfo="verb,suf">maehtie</errorort> dåarjegem <errorort correct="jïjnjide" errorinfo="indef,ascii">jijnjide</errorort> råajvarimmide åadtjodh <errorort correct="1996:n" errorinfo="num,suf">1996-n</errorort> raejeste <errorort correct="1999:n" errorinfo="num,suf">1999-n</errorort> raajan.   </p>
+
+  
+
+  <p> Guktie daajroes, Sveerje lea <errorort correct="lïhtseginie" errorinfo="noun,mix">liihtseginie</errorort> <errorort correct="EE:sne" errorinfo="acr,suf">EE-esne</errorort> (Europa Ektiedimmesne) <errorort correct="sjïdteme" errorinfo="verb,ascii">sjidteme</errorort>, mij beetnegh dåajvohte, ektievoetejielemem <errorort correct="jïh" errorinfo="cc,ascii">jih</errorort> barkoem unijovnen raastebealah skreejrehtidh. <errorort correct="Trönderidie" errorinfo="noun,mix">Trøøderidie</errorort> <errorort correct="jïh" errorinfo="cc,ascii">jih</errorort> dovne <errorort correct="jïemhtide" errorinfo="noun,ascii">jiemhtide</errorort> gåabpegh bielesne lea gujht buerine gosse buektiehtibie <errorort correct="jillie- jïh" errorinfo="mix,mix">jillie-jih</errorort> luvliebielesne <errorort correct="eensilaakan" errorinfo="adv,con">eensilaahkan</errorort> ektesne barkedh, nimhtie dam <errorort correct="Nöörje" errorinfo="prop,ascii">Nøørje</errorort> <errorort correct="jïjtse" errorinfo="refl,ascii">jijtse</errorort> <errorort correct="bieleste" errorinfo="noun,suf">bielaste</errorort> seamma <errorort correct="jïjnjem" errorinfo="indef,ascii">jijnjem</errorort> dåajvohte!   </p>
+
+  
+
+  <p> Iktemearan leah daaj <errorort correct="jïjnjh" errorinfo="indef,mix">jinjh</errorort> beetnegh, medtie 180 <errorort correct="millijovnh" errorinfo="noun,con">millionvnh</errorort> tjåervieh <errorort correct="1996:n" errorinfo="num,suf">1996-n</errorort> raejeste <errorort correct="1999:n" errorinfo="num,suf">1999-n</errorort> raajan. Dennie mieresne lea vuertiemisnie edtjieh saatnan gielteges eajhnah <errorort correct="jïh" errorinfo="cc,ascii">jih</errorort> <errorort correct="prosjeekth" errorinfo="noun,vow">prosjekth</errorort> jijhtedh mah <errorort correct="Jïemhten" errorinfo="prop,mix">Jiemthen</errorort> <errorort correct="jïh" errorinfo="cc,ascii">jih</errorort> <errorort correct="Tröndelaagen" errorinfo="prop,mix">Trøøndelaagen</errorort> fylhki gaskesem <errorort correct="maehtieh" errorinfo="verb,suf">maehtie</errorort> övtiedidh. Jielemevuekie, <errorort correct="gïehtjedimmie" errorinfo="noun,ascii">giehtjedimmie</errorort>, <errorort correct="ööhpehtimmie" errorinfo="noun,mix">ööpehtimmie</errorort>, kultuvre, byjrese <errorort correct="jïh" errorinfo="cc,ascii">jih</errorort> eeremes - orre barkoesijjieh leah <errorort correct="vihkeles" errorinfo="adj,vow">viehkeles</errorort> <errorortreal correct="tsiehkiebaakoe" errorinfo="noun,conc">tsiehkiebaahkoe</errorortreal>. Barkoesijjieh, <errorort correct="tjïelth" errorinfo="noun,ascii">tjielth</errorort>, institusjovnh <errorort correct="jïh" errorinfo="cc,ascii">jih</errorort> såemies almetjh sih joe maehtieh <errorort correct="gïjkije" errorinfo="noun,ascii">gijkije</errorort> eajhnaj gujmie tjahkan, mohte eah giem <errorort correct="Jïemhtesne" errorinfo="prop,ascii">Jiemhtesne</errorort> <errorort correct="dabth" errorinfo="verb,con">dabpth</errorort>? Dovne <errorort correct="gaskeseövtiedæmman" errorinfo="noun,vow">gaskeseövtiedamman</errorort> <errorort correct="maehtiejibie" errorinfo="verb,suf">maehtiejjibie</errorort> debpelen dahkoe dåarjegem vedtedh!   </p>
+
+ </body>
 </document>
