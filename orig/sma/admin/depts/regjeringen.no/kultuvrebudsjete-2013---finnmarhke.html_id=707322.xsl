@@ -64,6 +64,8 @@
 <xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
 <xsl:variable name="multilingual" select="''"/> <!--this is default-->
 
+<xsl:variable name="parallel_texts" select="''"/>
+
 <!-- Select the potential langugages by adding the number "1" in the -->
 <!-- selection frame. If no languages are selected, the document is -->
 <!-- checked for all the languages below. -->
@@ -86,23 +88,6 @@
 
 <!-- If the document has parallel texts, select "1" for parallel_texts -->
 <!-- Add the locations of the parallel files to the variables-->
-<xsl:variable name="parallel_texts" select="'1'"/>
-<xsl:variable name="para_dan" select="''"/>
-<xsl:variable name="para_eng" select="'norwegian-frigate-to-lead-nato-maritime-.html_id=704821'"/>
-<xsl:variable name="para_fin" select="''"/>
-<xsl:variable name="para_fkv" select="''"/>
-<xsl:variable name="para_ger" select="''"/>
-<xsl:variable name="para_isl" select="''"/>
-<xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'onsker-innspill-til-evalueringen-av-gald.html_id=704187'"/>
-<xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'badjel-logi-proseantta-lassaneapmi-biras.html_id=704168'"/>
-<xsl:variable name="para_smj" select="'digitala-balvalusat-assiide-ovdal-2015.html_id=706691'"/>
-<xsl:variable name="para_swe" select="''"/>
-<xsl:variable name="para_kpv" select="''"/>
-<xsl:variable name="para_rus" select="''"/>
-
 
 <!-- Tag the specified elements with the specified language: -->
 <xsl:variable name="danlang" select="'dan'"/>
