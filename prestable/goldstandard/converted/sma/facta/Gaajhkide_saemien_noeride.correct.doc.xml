@@ -23,17 +23,17 @@ Gaajhkide saemien noeride
 
   
 
-  <p> <errorort correct="Bööreme" errorinfo="vowc,øø-öö">Bøøreme</errorort> <errorort correct="aelkiehtehtedh" errorinfo="verb,mix">aelkiedaehtedh</errorort> <errorort correct="saemien" errorinfo="vowc, a-ae">samien</errorort> noeri <errorort correct="noeriorganisasjovnem" errorinfo="conc,vven-vn;typos,nm-nem">organisasjovenm</errorort>!   </p>
+  <p> <errorort correct="Bööreme" errorinfo="vowc,øø-öö">Bøøreme</errorort> <errorort correct="aelkiehtehtedh" errorinfo="verb,mix">aelkiedaehtedh</errorort> <errorort correct="saemien" errorinfo="vowc, a-ae">samien</errorort> noeri <errorort correct="noeresiebriem" errorinfo="conc,vven-vn;typos,nm-nem;foreign">organisasjovenm</errorort>!   </p>
 
   
 
-  <p> <errorort correct="Sïjhth" errorinfo="vowc,i-ï">Sijhth</errorort> dåeriedidh maam <errorort correct="historihkeles" errorinfo="adj,mix">historjesadtem</errorort>? Dåeredh <errorort correct="aelkedh" errorinfo="verb,x">aelkedhdh</errorort> <errorort correct="ovgårreldh" errorinfo="hyph-0">ov-gårreldh</errorort> <errorort correct="abperïjhken" errorinfo="hyph-0,vowc,i-ï">abpe-rijhken</errorort> siebriem saemien noeride? Golken 16.-18. <errorort correct="Biejjiej" errorinfo="fin,i-iej">Biejji</errorort> aalkoetjåanghkoe Romsesne, <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> <errorort correct="mijjieh" errorinfo="fin,eh,ieh">mijjeh</errorort> <errorort correct="sïjhtebe" errorinfo="vowc,i-ï">sijhtebe</errorort> datne aaj edtjh dåeriedidh.   </p>
+  <p> <errorort correct="Sïjhth" errorinfo="vowc,i-ï">Sijhth</errorort> dåeriedidh maam <errorort correct="historihkeles" errorinfo="adj,mix">historjesadtem</errorort>? Dåeredh <errorort correct="aelkiehtehtedh" errorinfo="verb,">aelkedhdh</errorort> <errorort correct="ovgårreldh" errorinfo="hyph-0">ov-gårreldh</errorort> <errorort correct="abperïjhken" errorinfo="hyph-0,vowc,i-ï">abpe-rijhken</errorort> siebriem saemien noeride? Golken 16.-18. <errorort correct="Biejjiej" errorinfo="fin,i-iej">Biejji</errorort> aalkoetjåanghkoe Romsesne, <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> <errorort correct="mijjieh" errorinfo="fin,eh,ieh">mijjeh</errorort> <errorort correct="sïjhtebe" errorinfo="vowc,i-ï">sijhtebe</errorort> datne aaj edtjh dåeriedidh.   </p>
 
   <p xml:lang="ger"> <errorlex correct="man åvteste" errorinfo="xxx">Mannasinie</errorlex>?   </p>
 
-  <p> Saemien noereh veasoeminie abpe <errorort correct="Nöörjesne" errorinfo="infl,sggen-sgine">Nøøren</errorort> <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> daelie ij gååvnesh naaken <errorort correct="råakesjimmiesijjie" errorinfo="hyph-0">råakesjimmie-sijjie</errorort> mijjide <errormorphsyn correct="mij politihken jïh jaahkoen dåaresth" errorinfo="noun,x,gensg,acksg,x">mij <errorort correct="politihkem" errorinfo="noun,con">politikem</errorort> <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> jaahkoen <errorort correct="dåaresth" errorinfo="pp,vowc">dåeresth</errorort></errormorphsyn>. Gellien aejkien lin noereh <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> geervealmetjh ohtselamme juste dagkeres siebriem, <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> aaj <errorort correct="Nöörjesne" errorinfo="vowc,øø-öö">Nøørjesne</errorort> saemien <errorort correct="rïjhkesiebrie" errorinfo="vowc,i-ï">rijhkesiebrie</errorort> noeride daerpies. Daam edtjebe daelie darjodh!   </p>
+  <p> <errorortreal correct="Saemien noereh abpe Nöörjesne veasoeminie" errorinfo="wo">Saemien noereh veasoeminie abpe <errorort correct="Nöörjesne" errorinfo="infl,sggen-sgine">Nøøren</errorort></errorortreal> <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> daelie ij gååvnesh naaken <errorort correct="råakesjimmiesijjie" errorinfo="hyph-0">råakesjimmie-sijjie</errorort> mijjide <errormorphsyn correct="mij politihken jïh jaahkoen dåaresth" errorinfo="noun,x,gensg,acksg,x">mij <errorort correct="politihkem" errorinfo="noun,con">politikem</errorort> <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> jaahkoen <errorort correct="dåaresth" errorinfo="pp,vowc">dåeresth</errorort></errormorphsyn>. Gellien aejkien <errorsyn correct="0">lin</errorsyn> noereh <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> geervealmetjh ohtselamme <errorsyn correct="0">juste</errorsyn> dagkeres siebriem, <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> aaj <errorort correct="Nöörjesne" errorinfo="vowc,øø-öö">Nøørjesne</errorort> saemien <errorort correct="rïjhkesiebrie" errorinfo="vowc,i-ï">rijhkesiebrie</errorort> noeride daerpies. Daam edtjebe daelie darjodh!   </p>
 
-  <p xml:lang="dan"> <errorlex correct="gåessie" errorinfo="xxx">Aejkie</errorlex>: Golken 16.-18. <errorort correct="Biejjie" errorinfo="fin,e-ie">Biejje</errorort>   </p>
+  <p xml:lang="dan"> <errorlex correct="gåessie" errorinfo="xxx">Aejkie</errorlex>: Golken 16.-18. <errorort correct="Mij Biejjide" errorinfo="fin,e-ie">Biejje</errorort>   </p>
 
   <p>  <errorort correct="Sijjieh" errorinfo="fin,e-ie">Sijjeh</errorort>: Kvaløya bydelshus, Romsesne Tjåanghkoe tjïervehts   </p>
 
@@ -53,9 +53,9 @@ Gaajhkide saemien noeride
 Vaajtele
   </p>
 
-  <p> <errorort correct="Barkoedåehkieh" errorinfo="noun,vowc">Baarkoedåehkieh</errorort> saemien noerisiebriem aelkiedidh, <errorort correct="åejviem" errorinfo="noun,vowc">åajviem</errorort> Susanne Amalie Andersen baaktoe.  telefovne:  (+47) 92835649 e-påaste: susanneamalie@gmail.com   </p>
+  <p> <errorort correct="Barkoedåehkieh" errorinfo="vowc,aa-a">Baarkoedåehkieh</errorort> saemien noerisiebriem aelkiedidh, <errorort correct="åejviem" errorinfo="vowc,åa-åe">åajviem</errorort> Susanne Amalie Andersen baaktoe.  telefovne:  (+47) 92835649 e-påaste: susanneamalie@gmail.com   </p>
 
-  <p>www.nuora.blogg.no jallh Facebook-dåehkiem ?stiftelse av samisk ungdomsorganisasjon? juktie orre <errorort correct="bïevnesh" errorinfo="vowc,i-ï">bievnesh</errorort> <errormorphsyn correct="tjåanghkoen bïjre" errorinfo="infl,sgacc-sggen">tjåanghkoem <errorort correct="bïjre" errorinfo="vowc,i-ï">bijre</errorort></errormorphsyn> åådtje.   </p>
+  <p>www.nuora.blogg.<errorlang correct="url">no</errorlang> jallh <errorort correct="facebookdåehkiem" errorinfo="hyph-0">Facebook-dåehkiem</errorort> ?stiftelse av samisk ungdomsorganisasjon? juktie orre <errorort correct="bïevnesh" errorinfo="vowc,i-ï">bievnesh</errorort> <errormorphsyn correct="tjåanghkoen bïjre" errorinfo="infl,sgacc-sggen">tjåanghkoem <errorort correct="bïjre" errorinfo="vowc,i-ï">bijre</errorort></errormorphsyn> åådtje.   </p>
 
   
 
