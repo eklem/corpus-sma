@@ -21,9 +21,7 @@
 Fra internettsiden:
   </p>
 
-  <p xml:lang="sme">
-http://....
-  </p>
+  <p xml:lang="sme"> <errorlang correct="url">http://....</errorlang>   </p>
 
   <p xml:lang="nno">
 Lastet ned 26.04.2012
@@ -355,11 +353,11 @@ Aehtjien sijjie
 
   <p type="title"> <errorlex correct="njammehtimmieviehkie" errorinfo="der,0-caus">Njammemeviehkie</errorlex>   </p>
 
-  <p type="title"> <errorlex correct="njammehtimmieviehkesne" errorinfo="der,0-caus">Njammemeviehkesne</errorlex>  <errorort correct="tjidtjieh" errorinfo="noun,x">tjidjtieh</errorort> <errorort correct="jïjtsinie" errorinfo="refl,ascii">jijtsinie</errorort> njammemedååjrehtimmine jïh mah <errorort correct="ööhpehtimmiem" errorinfo="vowc,øø-öö">øøhpehtimmiem</errorort> utnieh njammemen bïjre. Mijjen viehkie namhtah. Ij leah mijjen naan <errorort correct="gaahpoehtïjjh" errorinfo="vowc,øø-öö">gaahpoehtijjh</errorort>, bene viehkiem mijjen <errorort correct="hïejmijste" errorinfo="vowc,i-ï">hiejmijste</errorort> vedtebe eejehtallemisnie. Hijven jis datne ih mijjese <errorort correct="jïjjen" errorinfo="vowc,i-ï">jijjen</errorort> ringkh. Jis ibie buektehth datnem viehkiehtidh, maahtah akten <errorortreal correct="jeatjah" errorinfo="xxx">jeatjabasse</errorortreal> <errorortreal correct="læstose" errorinfo="infl,ine-ill">læstosne</errorortreal> ringkedh. Jis datne raerieh daarpesjh <errorlex correct="njammehtimmien" errorinfo="der,0-caus">njammemen</errorlex>  bïjre, maahtah mijjem gaskesadtedh <errorort correct="telefovnesne" errorinfo="conc,ll-l">tellefovnesne</errorort> jallh e-påastesne. Mijjen nummerh gaavnh mijjen nedtesæjrosne www.ammehjelpen.no jïh tjaaleginie mah reakadimmiesijjine åadtjoeh.   </p>
+  <p type="title"> <errorlex correct="njammehtimmieviehkesne" errorinfo="der,0-caus">Njammemeviehkesne</errorlex>  <errorort correct="tjidtjieh" errorinfo="noun,x">tjidjtieh</errorort> <errorort correct="jïjtsinie" errorinfo="refl,ascii">jijtsinie</errorort> njammemedååjrehtimmine jïh mah <errorort correct="ööhpehtimmiem" errorinfo="vowc,øø-öö">øøhpehtimmiem</errorort> utnieh njammemen bïjre. Mijjen viehkie namhtah. Ij leah mijjen naan <errorort correct="gaahpoehtïjjh" errorinfo="vowc,øø-öö">gaahpoehtijjh</errorort>, bene viehkiem mijjen <errorort correct="hïejmijste" errorinfo="vowc,i-ï">hiejmijste</errorort> vedtebe eejehtallemisnie. Hijven jis datne ih mijjese <errorort correct="jïjjen" errorinfo="vowc,i-ï">jijjen</errorort> ringkh. Jis ibie buektehth datnem viehkiehtidh, maahtah akten <errorortreal correct="jeatjah" errorinfo="xxx">jeatjabasse</errorortreal> <errorortreal correct="læstose" errorinfo="infl,ine-ill">læstosne</errorortreal> ringkedh. Jis datne raerieh daarpesjh <errorlex correct="njammehtimmien" errorinfo="der,0-caus">njammemen</errorlex>  bïjre, maahtah mijjem gaskesadtedh <errorort correct="telefovnesne" errorinfo="conc,ll-l">tellefovnesne</errorort> jallh e-påastesne. Mijjen nummerh gaavnh mijjen nedtesæjrosne <errorlang correct="url">www.ammehjelpen.no</errorlang> jïh tjaaleginie mah reakadimmiesijjine åadtjoeh.   </p>
 
   
 
-  <p> Jis <errorsyn correct="0">datne</errorsyn> sïjhth (<errorortreal correct="lïhtseginie sjïdtedh" errorinfo="infl,ack-ess,agr"><errorort correct="lïhtsege" errorinfo="vowc,i-ï;fin,lohkem-0">lihtsegelohkem</errorort> sjïdtedh</errorortreal>), gaskesadth mijjen <errorort correct="tjaelijesijjiem" errorinfo="noun,vow">tjaelijesijjem</errorort> <errorort correct="telefovnesne" errorinfo="conc,ll-l">tellefovnesne</errorort>: 62 45 52 51 jallh e-påaste ammehjelpen@ammehjelpen.no, dle vielie bïevnesh åadtjoeh.   </p>
+  <p> Jis <errorsyn correct="0">datne</errorsyn> sïjhth (<errorortreal correct="lïhtseginie sjïdtedh" errorinfo="infl,ack-ess,agr"><errorort correct="lïhtsege" errorinfo="vowc,i-ï;fin,lohkem-0">lihtsegelohkem</errorort> sjïdtedh</errorortreal>), gaskesadth mijjen <errorort correct="tjaelijesijjiem" errorinfo="noun,vow">tjaelijesijjem</errorort> <errorort correct="telefovnesne" errorinfo="conc,ll-l">tellefovnesne</errorort>: 62 45 52 51 jallh e-påaste <errorlang correct="url,">ammehjelpen@ammehjelpen.no</errorlang> dle vielie bïevnesh åadtjoeh.   </p>
 
   
 

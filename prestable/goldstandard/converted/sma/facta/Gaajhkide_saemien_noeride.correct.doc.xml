@@ -23,7 +23,7 @@ Gaajhkide saemien noeride
 
   
 
-  <p> <errorort correct="Bööreme" errorinfo="vowc,øø-öö">Bøøreme</errorort> <errorort correct="aelkiehtehtedh" errorinfo="verb,mix">aelkiedaehtedh</errorort> <errorort correct="saemien" errorinfo="vowc, a-ae">samien</errorort> noeri <errorort correct="noeresiebriem" errorinfo="conc,vven-vn;typos,nm-nem;foreign">organisasjovenm</errorort>!   </p>
+  <p> <errorort correct="Bööreme" errorinfo="vowc,øø-öö">Bøøreme</errorort> <errorort correct="aelkiehtehtedh" errorinfo="conc,d-ht">aelkiedaehtedh</errorort> <errorort correct="saemien" errorinfo="vowc, a-ae">samien</errorort> noeri <errorort correct="noeresiebriem" errorinfo="conc,vven-vn;typos,nm-nem;foreign">organisasjovenm</errorort>!   </p>
 
   
 
@@ -53,7 +53,7 @@ Gaajhkide saemien noeride
 Vaajtele
   </p>
 
-  <p> <errorort correct="Barkoedåehkieh" errorinfo="vowc,aa-a">Baarkoedåehkieh</errorort> saemien noerisiebriem aelkiedidh, <errorort correct="åejviem" errorinfo="vowc,åa-åe">åajviem</errorort> Susanne Amalie Andersen baaktoe.  telefovne:  (+47) 92835649 e-påaste: susanneamalie@gmail.com   </p>
+  <p> <errorort correct="Barkoedåehkieh" errorinfo="vowc,aa-a">Baarkoedåehkieh</errorort> saemien noerisiebriem aelkiedidh, <errorort correct="åejviem" errorinfo="vowc,åa-åe">åajviem</errorort> Susanne Amalie Andersen baaktoe.  telefovne:  (+47) 92835649 e-påaste: susanneamalie@gmail.<errorlang correct="url">com</errorlang>   </p>
 
   <p>www.nuora.blogg.<errorlang correct="url">no</errorlang> jallh <errorort correct="facebookdåehkiem" errorinfo="hyph-0">Facebook-dåehkiem</errorort> ?stiftelse av samisk ungdomsorganisasjon? juktie orre <errorort correct="bïevnesh" errorinfo="vowc,i-ï">bievnesh</errorort> <errormorphsyn correct="tjåanghkoen bïjre" errorinfo="infl,sgacc-sggen">tjåanghkoem <errorort correct="bïjre" errorinfo="vowc,i-ï">bijre</errorort></errormorphsyn> åådtje.   </p>
 
