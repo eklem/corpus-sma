@@ -5,6 +5,7 @@
     <author>
       <unknown/>
     </author>
+    <wordcount>166</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
@@ -28,10 +29,10 @@
     <p>Aejlegen: Gåatan <errorort correct="vihth" errorinfo="typos">vidh</errorort> vuelkedh</p>
     <p>Håhkesjibie <errorort correct="buektiehtibie" errorinfo="vowlat,e-ie">buektedibie</errorort> <errorort correct="göökte" errorinfo="vowc,øø- öö">gøøkte</errorort> <errorort correct="bussh" errorinfo="vowlat,a-0">bussah</errorort> mah <errorort correct="vuejieh" errorinfo="infl,xxx">vuejiejægan</errorort> Romsese, akte Gærhkoenjaarkeste <errorort correct="jïh" errorinfo="vowc,i-ï">jih</errorort> mubpie Tråanteste. Jis <errorort correct="minngemes" errorinfo="conc,ng-nng">mingemes</errorort> <errorort correct="beetnehvierhtiem" errorinfo="cmp,ege- eh">beetnegeviertiem</errorort> maam vuertieminie åadtjoejibie.</p>
     <p><errorort correct="Sïjhth" errorinfo="vowc,i-ï">Sijhth</errorort> dåeriedidh? <errorortreal correct="Soptsesth" errorinfo="conc,sh-sth">Soptsesh</errorortreal> <errorort correct="susanneamalie@gmail.com:ese" errorinfo="typos">susanneamalie@gmail.com`ese</errorort> <errorlex correct="aarebi" errorinfo="w"><errorort correct="åvtelen" errorinfo="vowc,åå-å">ååvtelen</errorort></errorlex> Golken mubpien <errorort correct="biejjien" errorinfo="fin,en-ien">biejjen</errorort>, <errorlex correct="guktie" errorinfo="w">juktie</errorlex> nuekies <errorort correct="beapmoeh" errorinfo="conc,oh-oeh">beapmoh</errorort> <errorlex correct="gaajhkesidie" errorinfo="w">gaajhkide</errorlex>!</p>
-    <p xml:lang="fkv">Vaajtele</p>
+    <p xml:lang="fin">Vaajtele</p>
     <p><errorort correct="Barkoedåehkieh" errorinfo="vowc,aa-a">Baarkoedåehkieh</errorort> saemien noerisiebriem aelkiedidh, <errorort correct="åejviem" errorinfo="vowc,åa-åe">åajviem</errorort> Susanne Amalie Andersen baaktoe.</p>
-    <p xml:lang="sme">telefovne:  (+47) 92835649 e-påaste: <errorlang correct="url">susanneamalie@gmail.com</errorlang></p>
+    <p xml:lang="romanian">telefovne:  (+47) 92835649 e-påaste: <errorlang correct="url">susanneamalie@gmail.com</errorlang></p>
     <p><errorlang correct="url">www.nuora.blogg.no</errorlang> jallh Facebook- <errorort correct="facebookdåehkiem" errorinfo="hyph-0">dåehkiem</errorort> ?stiftelse av samisk ungdomsorganisasjon? juktie orre <errorort correct="bïevnesh" errorinfo="vowc,i-ï">bievnesh</errorort> <errormorphsyn correct="tjåanghkoen bïjre" errorinfo="infl,sgacc-sggen">tjåanghkoem <errorort correct="bïjre" errorinfo="vowc,i-ï">bijre</errorort></errormorphsyn> åådtje.</p>
-    <p xml:lang="nno">Veedtjeme (10.05.12) sæjroste www.nuora.blogg.no</p>
+    <p xml:lang="romanian">Veedtjeme (10.05.12) sæjroste www.nuora.blogg.no</p>
   </body>
 </document>
