@@ -58,7 +58,7 @@
 <xsl:variable name="note" select="''"/>
 
 <!-- The main language of the document -->
-<xsl:variable name="mainlang" select="'smj'"/>
+<xsl:variable name="mainlang" select="'sma'"/>
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
@@ -97,8 +97,10 @@
 <xsl:variable name="para_nob" select="'videreforer-satsing-pa-sorsamisk-sprak.html_id=682459'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="'ain-doarjut-mattasamegiela.html_id=682459'"/>
-<xsl:variable name="para_smj" select="''"/>
+<xsl:variable name="para_smj" select="'ain-doarjut-mattasamegiela.html_id=682459'"/>
 <xsl:variable name="para_swe" select="''"/>
+<xsl:variable name="para_sme" select="'ain-doarjut-mattasamegiela.html_id=682459'"/>
+
 
 
 <!-- Tag the specified elements with the specified language: -->
