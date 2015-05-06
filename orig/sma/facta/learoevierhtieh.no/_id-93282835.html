@@ -1,0 +1,285 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//NO" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<!-- WIPS START HEAD ATTACHMENT
+                             ''
+        ('''' .|''|, '||''|  ||   '''|.
+         `'') ||..||  ||     ||  .|''||
+        `...' `|...  .||.   .||. `|..||.
+-->
+
+<script type='text/javascript'>
+<!---
+	window.onbeforeprint = pagefunc_printable_doPrint;
+	window.onafterprint = pagefunc_printable_finishPrint;
+	var pagefunc_printable_keepBody;
+	function pagefunc_printable_doPrint()
+	{
+		pagefunc_printable_keepBody = document.body.innerHTML;
+		var printarea = "" + document.getElementById('WIPSMAINCONTENTS').innerHTML + "";
+		document.body.innerHTML = printarea;
+	}
+	function pagefunc_printable_finishPrint()
+	{
+		document.body.innerHTML = pagefunc_printable_keepBody;
+	}
+-->
+</script>
+
+<style type="text/css">
+	.wordDefinitionContainer {
+		border: 1px solid black;
+		background-color: #ffffff;
+		color: #000000;
+	}
+
+	.wordDefinitionWord {
+		border-bottom: 1px dotted #0000ff;
+		cursor: default;
+	}
+		
+</style>
+<script type="text/javascript" src="/js/swfobject.js"></script>
+<script type="text/javascript" src="/js/imgToFLV.js"></script>
+<script type="text/javascript" src="/js/ajax.js"></script>
+
+<script type="text/javascript">
+	function showDefinition(id, e) {
+		var ow;
+		if (document.getElementById('wordDefinition')) {
+			ow = document.getElementById('wordDefinition');
+		} else {
+			ow = document.createElement('div');
+			ow.className = 'wordDefinitionContainer';
+			ow.id = 'wordDefinition';
+		}
+
+		ow.style.position = 'absolute';
+		ow.style.padding = '10px';
+		ow.innerHTML = '';
+		ow.style.width = '40px';
+		ow.style.height = '10px';
+		ow.style.overflow = 'hidden';
+		ow.style.top = (e.y + document.body.scrollTop) + 'px';
+		ow.style.left = (e.x + document.body.scrollLeft) + 'px';
+		ow.style.display='block';
+		document.body.appendChild(ow);
+		ajaxRequest('/admin/globalSettings/wordDefinitionOutput.php?id=' + id, definitionRecieved);
+	}
+
+	function hideDefinition() {
+		var ow = document.getElementById('wordDefinition');
+		if (ow) ow.style.display='none';
+	}
+
+	function definitionRecieved(definition) {
+		if (definition) {
+			var ow = document.getElementById('wordDefinition');
+			ow.innerHTML = definition;
+			ow.style.width = '';
+			ow.style.height = '';
+		}
+	}
+
+</script>
+<script type='text/javascript' src='/js/fastLoginX.js'></script>
+<!-- WIPS STOP HEAD ATTACHMENT -->
+
+	<title>Buerie båeteme</title>	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<link rel="stylesheet" type="text/css" href="/sites/l/learoevierhtieh.no/designs/default/style.css">
+</head>
+
+<body>
+<TABLE cellpadding=0 cellspacing=0 align="center" style="width: 775px; height: 500px; border: 1px solid black;">
+	<TR>
+		<TD colspan=2 valign="top" style="vertical-align: top; height: 109px; width: 775px;">
+			<DIV style="position: absolute; height: 109px; width: 773px;"><div style='display: inline; display: inline;' id='WIPSELEMENT_HEADING'>
+<DIV style="height: 109px; background-image: url('/sites/l/learoevierhtieh.no/files/259563721.jpg'); background-repeat: no-repeat; background-position: top center;">
+	<DIV style="width: 320px;"><small>
+<SCRIPT language="javascript">
+	words = Array();
+words[0] = "Latjkes sealoeh sinsitnide demhtieh.";
+words[1] = "Dihte guhte nïekedasside jaahka jïjtje soejvenem dåålvede.";
+words[2] = "Gogkoe giedtie vuelemes, gaajhksh voejhkelieh bijjelen.";
+words[3] = "Gaamegapth geerve baahtsedh.";
+words[4] = "Ij ledtie viesjies såajajgujmie bijjene haelehth.";
+words[5] = "Dihte guhte vaeniem såvka, viesjies gïeth åådtje.";
+words[6] = "Ij aktine aajrojne rïekte sovkh.";
+words[7] = "Gaahtoe aaj guelieh sæjhta jalhts ij sijhth gadtside lovvehtidh.";
+
+	speed = 20;
+	onPause = 1;
+	offPause = 500;
+
+	setTimeout("fade()",1000);
+	function fade() {
+		document.getElementById('headingText').style.color = '#CFC681';
+		document.getElementById('headingText').style.left = Math.floor(Math.random()*400) + "px";
+		document.getElementById('headingText').style.top = Math.floor(Math.random()*5) + "px";
+		document.getElementById('headingText').innerHTML = words[Math.floor(Math.random()*words.length)];
+		fadeIn();
+	}
+	step = 0;
+	function fadeIn() {
+		step++;
+		r = 207-step;
+		g = 198-step;
+		b = 129;
+		document.getElementById('headingText').style.color = "rgb(" + r + ", " + g + ", " + b + ")";
+		if (g != 0) setTimeout("fadeIn()", speed);
+		else setTimeout("fadeOut()", onPause);
+	}
+
+	function fadeOut() {
+		step--;
+		r = 207-step;
+		g = 198-step;
+		b = 129;
+		document.getElementById('headingText').style.color = "rgb(" + r + ", " + g + ", " + b + ")";
+		if (g != 198) setTimeout("fadeOut()", speed);
+		else {
+			document.getElementById('headingText').innerHTML = "";
+			setTimeout("fade()", offPause);
+		}
+	}
+
+</SCRIPT>
+<DIV id="headingText" style="width: 100%; position: absolute; font-family: courier new; font-weight: none; font-size: x-small; "></DIV></small></DIV>
+	<DIV style="margin-left: 360px; padding-top: 8px; position: relative;">
+		<TABLE cellspacing=0 cellpadding=0>
+			<TR>
+				<TD style="height: 100px; width: 70px;" valign="bottom"><DIV style="height: 44px; width: 44px; border: 1px solid #5C6A33; padding: 2px; margin: 2px;"><IMG src="/custom/learoevierhtieh.no/admin/files/1780852819/thumbnailHeading.gif" style="border: 0px;" onMouseOver="document.getElementById('tdLargeImage').style.backgroundImage='url(/custom/learoevierhtieh.no/admin/files/1780852819/thumbnailHeadingLarge.gif)'"></DIV></TD>
+				<TD style="height: 100px; width: 70px;" valign="bottom"><DIV style="height: 44px; width: 44px; border: 1px solid #5C6A33; padding: 2px; margin: 2px;"><IMG src="/custom/learoevierhtieh.no/admin/files/394964143/thumbnailHeading.gif" style="border: 0px;" onMouseOver="document.getElementById('tdLargeImage').style.backgroundImage='url(/custom/learoevierhtieh.no/admin/files/394964143/thumbnailHeadingLarge.gif)'"></DIV></TD>
+				<TD style="height: 100px; width: 70px;" valign="bottom"><DIV style="height: 44px; width: 44px; border: 1px solid #5C6A33; padding: 2px; margin: 2px;"><IMG src="/custom/learoevierhtieh.no/admin/files/1688801059/thumbnailHeading.gif" style="border: 0px;" onMouseOver="document.getElementById('tdLargeImage').style.backgroundImage='url(/custom/learoevierhtieh.no/admin/files/1688801059/thumbnailHeadingLarge.gif)'"></DIV></TD>
+				<TD style="height: 100px; width: 70px;" valign="bottom"><DIV style="height: 44px; width: 44px; border: 1px solid #5C6A33; padding: 2px; margin: 2px;"><IMG src="/custom/learoevierhtieh.no/admin/files/33538166/thumbnailHeading.gif" style="border: 0px;" onMouseOver="document.getElementById('tdLargeImage').style.backgroundImage='url(/custom/learoevierhtieh.no/admin/files/33538166/thumbnailHeadingLarge.gif)'"></DIV></TD>
+				<TD style="padding-bottom: 2px; height: 100px; width: 60px;" valign="bottom">
+					<DIV id="tdLargeImage" style="width: 110px; height: 109px; background-position: center center; background-image: url('/custom/learoevierhtieh.no/admin/files/1780852819/thumbnailHeadingLarge.gif'); background-repeat: no-repeat;">
+						<DIV style="border: 1px solid #5C6A33; width: 110px; height: 109px;">&nbsp;</DIV>
+					</DIV>
+				</TD>
+			</TR>
+		</TABLE>
+	</DIV>
+</DIV></div></DIV>
+		</TD>
+	</TR>
+	<TR>
+		<TD colspan=2 valign="top" style="height: 18px; font-size: 20px; width: 775px;">&nbsp;Buerie båeteme</TD>
+	</TR>
+	<TR>
+		<TD valign="top" style="height: 400px; background-image: url('/sites/l/learoevierhtieh.no/designs/default/images/leftRepeat.jpg'); background-color: #C3C26E;width: 218px;"><TABLE style="width: 100% height: 100%; background-image: url('/sites/l/learoevierhtieh.no/designs/default/images/left.jpg'); background-repeat: no-repeat;"><TR><TD style="height: 100% width: 100%;"><div style='display: inline; display: inline;' id='WIPSELEMENT_MENU'><TABLE style='margin-top: 15px;margin-left: 5px;'>
+<TR>
+<TD valign="top" style="height: 25px;"><IMG src="/sites/l/learoevierhtieh.no/files/305465205.gif" style="border: 1px solid #5C6A33;"></TD>
+<TD><A href="/wips/93282835/" style="text-decoration:none; color: #8D0F0F;font-weight: bold;"> <DIV style="margin-top: 6px;"><span>Buerie båeteme</span></DIV></A>
+</TD>
+</TR>
+
+<TR>
+<TD style="height: 25px;"><IMG style="border: 1px solid #5C6A33;" src="/sites/l/learoevierhtieh.no/files/775287257.gif"></TD>
+<TD><A href="/wips/42708607/" style="text-decoration:none; color: #8D0F0F;"> <span>Saemien learoesoejkesjh maadth-skåvlose</span></A>
+
+</TD>
+</TR>
+
+<TR>
+<TD style="height: 25px;"><IMG style="border: 1px solid #5C6A33;" src="/sites/l/learoevierhtieh.no/files/1166637824.gif"></TD>
+<TD><A href="/wips/2017248111/" style="text-decoration:none; color: #8D0F0F;"> <span>Maajeh-ööhpehtimmie</span></A>
+
+</TD>
+</TR>
+
+<TR>
+<TD style="height: 25px;"><IMG style="border: 1px solid #5C6A33;" src="/sites/l/learoevierhtieh.no/files/307945941.gif"></TD>
+<TD><A href="/wips/1056524229/" style="text-decoration:none; color: #8D0F0F;"> <span>Prosjeekth</span></A>
+
+</TD>
+</TR>
+
+<TR>
+<TD style="height: 25px;"><IMG style="border: 1px solid #5C6A33;" src="/sites/l/learoevierhtieh.no/files/244344364.gif"></TD>
+<TD><A href="/wips/1765730103/" style="text-decoration:none; color: #8D0F0F;"> <span>Learoevierhtieh</span></A>
+
+</TD>
+</TR>
+
+<TR>
+<TD style="height: 25px;"><IMG style="border: 1px solid #5C6A33;" src="/sites/l/learoevierhtieh.no/files/305465205.gif"></TD>
+<TD><A href="/wips/524883037/" style="text-decoration:none; color: #8D0F0F;"> <span>Svaalhtesh</span></A>
+
+</TD>
+</TR>
+
+<TR>
+<TD style="height: 25px;"><IMG style="border: 1px solid #5C6A33;" src="/sites/l/learoevierhtieh.no/files/775287257.gif"></TD>
+<TD><A href="/wips/1331700651/" style="text-decoration:none; color: #8D0F0F;"> <span>Laavenjesgujmieh</span></A>
+
+</TD>
+</TR>
+</TABLE></div><BR><BR><SPAN style="margin-left: 13px;"><div style='display: inline; display: inline;' id='WIPSELEMENT_SEARCH'><form style='margins: 0px; padding: 0px; borders: 0px; display: inline;' action='/' id='searchForm'><input type='hidden' name='id' value='93282835'><input id='searchsimplefield' class='searchsimplefield' value='' name='ssq' type='text' onfocus='this.select();'><input id='searchsimplebutton' class='searchsimplebutton' type='button' onclick='document.getElementById("searchForm").submit();' value='S&oslash;k'></form></div></SPAN><BR><BR>&nbsp;&nbsp;<A href="/custom/learoevierhtieh.no/?func=login">Logg inn i Learoevierhtieh</A><BR>&nbsp;&nbsp;<A href="http://gorredh.nettlaering.com/" target="_TOP">Gorredh gïelem</A><BR><BR><DIV style="margin-left: 10px;"><div style='display: inline; display: inline;' id='WIPSELEMENT_CALENDAR'><A id="calendar"></A><TABLE cellspacing=0 cellpadding=0 style="width: 193px;">
+<TR><TD style="width: 11px;"><A href="/wips/93282835/month/4/year/2015/#calendar"><IMG src="/sites/l/learoevierhtieh.no/designs/default/images/arrowLeft.gif" style="border: 0px;"></A></TD><TD style="text-align: center; font-size: 9px;">Mai</TD><TD style="width: 11px;"><A href="/wips/93282835/month/6/year/2015/#calendar"><IMG src="/sites/l/learoevierhtieh.no/designs/default/images/arrowRight.gif" style="border: 0px;"></A></TD>
+<TD style="width: 8px;">&nbsp;</TD>
+<TD style="width: 11px;"><A href="/wips/93282835/month/5/year/2014/#calendar"><IMG src="/sites/l/learoevierhtieh.no/designs/default/images/arrowLeft.gif" style="border: 0px;"></A></TD><TD style="width: 28px; text-align: center; font-size: 9px;">2015</TD><TD style="width: 11px;"><A href="/wips/93282835/month/5/year/2016/#calendar"><IMG src="/sites/l/learoevierhtieh.no/designs/default/images/arrowRight.gif" style="border: 0px;"></A></TD>
+</TR></TABLE><TABLE cellspacing=0 cellpadding=0 style="border: 2px solid #8D0F0F;"><TR><TD style="font-size: 9px;color: #FF836A; background-color: #8D0F0F; color: white; text-align: right;">uke</TD>
+<TD style="font-size: 9px; background-color: #8D0F0F; color: white; text-align: right;">m</TD>
+<TD style="font-size: 9px; background-color: #8D0F0F; color: white; text-align: right;">t</TD>
+<TD style="font-size: 9px; background-color: #8D0F0F; color: white; text-align: right;">o</TD>
+<TD style="font-size: 9px; background-color: #8D0F0F; color: white; text-align: right;">t</TD>
+<TD style="font-size: 9px; background-color: #8D0F0F; color: white; text-align: right;">f</TD>
+<TD style="font-size: 9px; background-color: #8D0F0F; color: white; text-align: right;">l</TD>
+<TD style="font-size: 9px; background-color: #8D0F0F; color: white; text-align: right;">s</TD>
+</TR><TR><TD style="margin: 0px; padding: 0px; width: 18px; height: 17px; background-color: white; color: #FF836A; border: 1px solid #8D0F0F; font-size: 11px; text-align: right; vertical-align: bottom;">18</TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;</SPAN></TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;</SPAN></TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;</SPAN></TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;</SPAN></TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;1</SPAN></TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;2</SPAN></TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;3</TD></TR><TR><TD style="margin: 0px; padding: 0px; width: 18px; height: 17px; background-color: white; color: #FF836A; border: 1px solid #8D0F0F; font-size: 11px; text-align: right; vertical-align: bottom;">19</TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;4</SPAN></TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;5</SPAN></TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;<B>6</B></TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;7</SPAN></TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;8</SPAN></TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;9</SPAN></TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;10</TD></TR><TR><TD style="margin: 0px; padding: 0px; width: 18px; height: 17px; background-color: white; color: #FF836A; border: 1px solid #8D0F0F; font-size: 11px; text-align: right; vertical-align: bottom;">20</TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;11</SPAN></TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;12</SPAN></TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;13</SPAN></TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;14</SPAN></TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;15</SPAN></TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;16</SPAN></TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;17</TD></TR><TR><TD style="margin: 0px; padding: 0px; width: 18px; height: 17px; background-color: white; color: #FF836A; border: 1px solid #8D0F0F; font-size: 11px; text-align: right; vertical-align: bottom;">21</TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;18</SPAN></TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;19</SPAN></TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;20</SPAN></TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;21</SPAN></TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;22</SPAN></TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;23</SPAN></TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;24</TD></TR><TR><TD style="margin: 0px; padding: 0px; width: 18px; height: 17px; background-color: white; color: #FF836A; border: 1px solid #8D0F0F; font-size: 11px; text-align: right; vertical-align: bottom;">22</TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;25</SPAN></TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;26</SPAN></TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;27</SPAN></TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;28</SPAN></TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;29</SPAN></TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;30</SPAN></TD><TD style="margin: 0px; padding: 0px; width: 15px; height: 17px; background-color: white; border: 1px solid #8D0F0F; font-size: 11px; vertical-align: bottom; text-align: right;">&nbsp;31</TD></TR></TABLE></div><div style='display: inline; display: inline;' id='WIPSELEMENT_NEWS'><b><BR>Nyheter<BR></b><br><a href='http://www.nordlys.no/nyheter/article2461774.ece' target='_blank'><strong>Smink deg på samisk</strong></a><br>Foto: Bent Johansen<br><small><i>Nordlys 11.12.2006 12:08:29</i></small><br><br><a href='http://www.altaposten.no/nyheter/article65320.ece' target='_blank'><strong>«Postkortene» filmes</strong></a><br><small><i>Altaposten 11.12.2006 11:13:09</i></small><br><br><a href='http://pub.tv2.no/nettavisen/verden/article829893.ece' target='_blank'><strong>Halvt norske nordmenn</strong></a><br>Norske aner er spredt rundt om i verden. Her er et knippe halvnordmenn du kan være stolte av. Eller ikke.<br><small><i>TV 2 Nettavisen 10.12.2006 11:47:19</i></small><br><br><a href='http://www.aftenposten.no/nyheter/miljo/article1561688.ece' target='_blank'><strong>Nye kjempeparker</strong></a><br><small><i>Aftenposten 8.12.2006 01:07:25</i></small><br><br><a href='http://www.dagbladet.no/kultur/2006/12/07/485243.html' target='_blank'><strong>Kvinner på topp! - Dagbladet.no</strong></a><br><small><i>Dagbladet 7.12.2006 06:09:08</i></small><br><br><a href='http://www.ht.no/incoming/article64489.ece' target='_blank'><strong>Skuffet over Sametinget</strong></a><br>Det er arrogant av flertallet på Sametinget å si nei til å bruke 100.000,- kroner på et samarbeid med kvenene, mener Willy Ørnebakk (Ap).<br><small><i>Harstad Tidene 5.12.2006 13:06:26</i></small><br><br><a href='http://www.dagsavisen.no/innenriks/article2450353.ece' target='_blank'><strong>Urfolk snytt for bistandsmidler</strong></a><br>Bare 19 prosent av 935 millioner kroner som regjeringen skulle gi til urfolk, er brukt til formålet.<br><small><i>Dagsavisen 5.12.2006 09:10:38</i></small><br><br><a href='http://www.vg.no/pub/vgart.hbs?artid=159215' target='_blank'><strong>Kritiserer norsk bistand til urfolk</strong></a><br>Bare en liten del av pengene regjeringen skryter av at Norge gir til verdens urbefolkning går dit det blir hevdet. Nå krever Regnskogfondet en umiddelbar gransking.<br><small><i>VG 5.12.2006 07:06:10</i></small><br><br><a href='http://www.dagbladet.no/nyheter/2006/12/05/485031.html' target='_blank'><strong>Lyver om hjelp til urfolkbistand - Dagbladet.no</strong></a><br><small><i>Dagbladet 5.12.2006 07:01:27</i></small><br><br><a href='http://www.altaposten.no/nyheter/article64329.ece' target='_blank'><strong>– Visste hva de gikk til</strong></a><br><small><i>Altaposten 4.12.2006 15:20:43</i></small><br><br></div></DIV></TD></TR></TABLE></TD>
+		<TD valign="top" style="height: 400px; background-image: url('/sites/l/learoevierhtieh.no/designs/default/images/right.jpg'); background-color: #CECDA0; width: 557px;"><DIV style="overflow-x: hidden; width: 537px; padding-left: 10px; padding-right: 10px; padding-bottom: 40px;"><div style='display: inline; display: inline;' id='WIPSELEMENT_MENURIGHT'><DIV style='margin-top: 15px;'></DIV></div><div style='display: inline;' id='WIPSMAINCONTENTS' ><P></P>
+<H1><A href="/wips/10146668/"><IMG alt="" src="/sites/l/learoevierhtieh.no/files/1615647595.gif" align=right border=0 originalHeight="22" originalWidth="30"></A>Buerie båeteme…</H1>
+<P><IMG style="HEIGHT: 150px" alt="" src="/sites/l/learoevierhtieh.no/files/1054491387_skalert113x152.jpg?resize=112x150" align=right border=0 originalHeight="153" originalWidth="113" originalSrc="/sites/l/learoevierhtieh.no/files/1054491387.jpg">Åarjelsaemien gïele lea gaarvaneminie. Eah dan jïjnjesh åarjelsaemien&nbsp;dajvesne gieh saemesth. *[1] Åarjelsaemien dajvesne gellie dåeriesmoeri uvte tjåadtjoejibie gosse edtjijibie gïelem gorredidh jih evtiedidh. Akte dejstie dåeriesmoerijste vaenie learoevierhtieh leah. Daajroes maaje dïhte daerpies åarjelsaemien ööhpehtæmman gosse åejvieulmide saemien ööhpehtimmie-soejkesjesne eevtjijibie jaksedh. Akte dejstie åejvieulmijstie lea guektien-gïeleguedtijinie sjïdtedh.&nbsp;*[2] </P>
+<P>Åarjelsaemieh vaenesh leah jih bårrode årroeminie. Göökte saemien-skåvloeh åarjelsaemien dajvesne, Gaske- Nöörjen saemien-skuvle, Aarportesne mubpie jis Åarjelsaemiej skuvle, Snåasesne. Dah minngemes jaepieh eah dan jïjnjesh gieh jïjtsh maanah saemienskåvlojde jih internaatide seedtieh. Utnieh buerebe maanah gåetesne utnedh. Ööhpehtimmielaake mïetsken 1.-s biejjie 1999 jeatjahtehti. Gaajhkh saemien maanah gieh&nbsp; maadth-skåvlosne jih jåarhke-skåvlosne vaedtsieh edtjieh reaktah ööhpehtimmiem saemiengïelesne Nöörjesne åadtjodh. *[3]&nbsp;&nbsp; </P>
+<P><IMG style="WIDTH: 115px; HEIGHT: 153px" alt="" src="/sites/l/learoevierhtieh.no/files/695101364_skalert117x155.JPG?resize=115x153" align=left border=0 originalHeight="156" originalWidth="117" originalSrc="/sites/l/learoevierhtieh.no/files/695101364.JPG"></P>
+<P>Laake dåeriesmoerine åajvalatjide sjïdti. Guktie edtjieh åarjelsaemien ööhpehtimmiem maadtskåvlosne&nbsp; jih jåarhkeskåvlosne öörnedh duejtie saemien learoehkidie guhth tjïeltine årroeh. Ööhpehtimmie -jih gïehtjedimmie-departemeente (UFD) ovtetje Staaten ööhpehtimmien kontovrem Nordlaantesne, daelie Nordlaanten fylhkeålma, byjjehtimmie jih ööhpehtimmiegoevtesem stilli prosjeektem 2000 tseegkedh, gusnie edtjieh voejhkelidh ööhpehtimmiem öörnedh åarjelsaemien maanide gieh tjïeltine årroeh. Harald Balto lea åejvieprosjeektem 2000 –2004 juhtiehtamme. </P>
+<P><BR><FONT color=#000000><FONT size=1 wips="true"><FONT color=#000000><FONT size=1 wips="true">*[1]<FONT wips="true"> SEG : Sami Ealahus-ja Guorahallanguovddas – Samisk Nærings- og Utredningssenter; <EM>Undersøkelse om&nbsp;</EM></FONT></FONT></FONT><EM>bruken&nbsp; av samisk språk<BR></EM></FONT></FONT><FONT color=#000000><FONT size=1>*[2]<FONT wips="true"> KUF, Kirke-, utdannings, - og forskningsdepartement-(1997) : <I>Det samiske læreplanverk for den 10- årige</I></FONT></FONT></FONT><FONT size=1><I><FONT wips="true"><FONT color=#000000> grunnskole&nbsp;&nbsp; <BR></FONT></FONT></I><FONT color=#000000>*[3] KRD, kommunal- regional departement- (2001): <I>Stortingsmelding nr.55; Om samepolitikken</I>&nbsp;</FONT></FONT></P>
+<P>Prosjeekte ”Åarjelsaemien ööhpehtimmie gåetie-skåvlosne” golme suerkij mietie juakasovveme. Daan vuelelen vuesehte guktie sjïehtesjadteme: <BR></P>
+<H2 align=left>Åarjelsaemien ööhpehtimmie</H2>
+<P><IMG style="WIDTH: 534px; HEIGHT: 178px" alt="" src="/sites/l/learoevierhtieh.no/files/1531733270_skalert536x180.gif" border=0 originalHeight="179" originalWidth="536" originalSrc="/sites/l/learoevierhtieh.no/files/1531733270.gif"></P>
+<P>Prosjeekten tjïrrh ”Åarjelsaemien ööhpehtimmie gåetie-skåvlosne” guajhtsadin daerpies eensi learoevierhtieh utnedh. Dan gaavhtan Nordlaanten fylhkeålma, byjjehtimmie jih ööhpehtimmiegoevtese learoevierhtie-prosjeektem tseegki:&nbsp; </P>
+<UL>
+<LI>Learoevierhtieh evtiedidh jih sjïehtesjidh elegktronigken ööhpehtæmman.</LI></UL>
+<P>Maja Lisa Kappfjell lea dam prosjeektem 2002 – 2004 juhtiehtamme. Dah göökte voestes jaepieh 50 % prosjeektine berki. Minngemes jaepie 100 % prosjeektine barkeme. Åejvie-ulmie daennie prosjeektesne lij:&nbsp; </P>
+<P align=center><EM><IMG style="WIDTH: 156px; HEIGHT: 201px" alt="" src="/sites/l/learoevierhtieh.no/files/792459867_skalert156x201.JPG?resize=156x201" align=right border=0 originalHeight="201" originalWidth="156" originalSrc="/sites/l/learoevierhtieh.no/files/792459867.JPG">"learoevierhtieh sïiehtesjidh guktie lohkehtæjjah buerebe dejtie jeksieh jih&nbsp;learoevierhtieh duejtie daltasidie jih aamhteside evtiedidh gusnie daerpies.”</EM></P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P><BR>Prosjeekte edtji learoevierhtieh maadth-skåvlose darjodh. </P>
+<P>Prosjeektense naemhtie berkibh. Voestegh vuartasjamme magkerh learoevierhtieh joe leah. Daejriejibie lohkehtæjjah jïjtjh learoevierhtieh jïjtsh ööhpehtæmman darjoeh. Prosjeekte lea naan dejstie tjöönghkeme jih aktene daatabasese Gaske-vearman buakteme. Svaalhtese dan bealan lea:&nbsp; <A href="">www.learoevierhtieh.no</A>. Lohkehtæjjah edtjieh nimhtie varki learoevierhtide jaksedh, Gaske-viermeste vïedtjedh, jïjtsh learoehkidie sjïehtesjidh seamma saahth ööhpehtimmiem utnieh – maajehvååjnesen tjïrrh jallh ööhpehtimmie gusnie lohkehtæjja learohkigujmie ektine lea.&nbsp; <BR>&nbsp;<BR>Jilhts learoevierhtieh joe daennie daatabasesne, mijjen håhkoe lohkehtæjjah edtjieh viehkiehtidh jïjtsh learoevierhtiejgujmie lissiehtidh jih aaj mijjine rååresjidh guktie åarjelsaemien learoevierhtieh darjodh jih evtiedidh. Vaejtie lea Gaske-viermiebielie jih daatabase edtjieh naemhtie sjïdtedh jih aaj tïjjejuhteles årrodh. Viehkiem dellie daarpesjibie åarjelsaemien lohkehtæjjijste.&nbsp;&nbsp;&nbsp;&nbsp; </P>
+<P>Vuartasjamme libie magkerh learoevierhtieh mah joe leah jih aaj åådtjeme daejredh åarjelsaemien lohkehtæjjijste jih Saemiedigkeste magkaridie daltesidie tjoeveribh orre learoevierhtieh darjodh. </P>
+<P>Saemiedigkie jih lohkehtæjjajgujmie ektine goerkesibh varki tjoeveribh aelkedh learoevierhtieh sjïehtesjidh jih darjodh noere daltasidie, åarjelsaemien mubpine gïeline, jilhts åarjelsaemien dajvesne maanah mah&nbsp; åarjelsaemien voestesgïeline jih aaj maanah mah gïele-kultuvrefaagem skåvlosne veeljieh. Jeenemes learoehkijstie åarjelsaemien mubpine gïeline veeljieh.</P>
+<P>Mijjieh dellie beetneh-vierhtiej mietie eelkibh ohtsedh.&nbsp; Daejtie prosjeektide beetneh-vierhtieh åadtjoejibh: “Learoegærjah” 8.-den klaassese” darjodh maam galka learoegærjah „Åarjelsaemien 1-6“-ijstie&nbsp; jåerhkedh. Jaahkenelkien Aannan learoevierhtieh gaske-vearman bïejedh jih daataprovgrammem Magnimaster Gold åarjelsaemien gïelese jarkoestidh. </P>
+<P><BR>Båvroeh aaj åarjelsaemien skåvlojste aaj daaletje aamhtsh vïedtjedh mejtie maanah jih noerh utnieh luste jih dejtie gïeleööhpehtæmman sjïehtesjidh. Vaejtiem aaj govleme Åarjelsaemien-Daaroen/ Daaroen- Åarjelsaemien baakoegærjam Gaske-vearman bïejedh guktie learohkh maehtieh varki lahtsh daaroengïeleste saemiengïelese, saemiengïeleste daaroengïelese ohtsedidh. Ibie Åarjelsaemien-Daaroen /Daaroen-Åarjelsaemien baakoegærjam jaakseme guktie libie maahteme dam Gaske-vearman sjïehtesjidh.&nbsp;&nbsp; </P>
+<P>Beetneh-vierhtiej mietie libie ohtseme, Tjïelte-jih reegijovnen departemeenteste(KRD), Gïehtjedimmie-jih ööhpehtimmie departementeeste(UFD), Learoejarngeste jih Saemiedigkeste. Dåeriesmoereh daesnie lij nuekies beetneh-vierhtieh dej åarjelsaemien learoevierhtie-prosjeektide åadtjodh. Mubpie guktie dejtie learoevierhtie-prosjeektide öörnedh, gosse dan vaenie åarjelsaemien lohkehtæjjah jih dah aaj dan vihkeles sijjen skåvlojne. Ajve 8-12 åarjelsaemien lohkehtæjjah åarjelsaemien dajvesne. </P>
+<P>Gåalmede dåeriesmoere guktie learoevierhtide Gaske-vearman darjodh gosse dan jïjnjh dåajvoeh guktie learoevierhtide Gaske-vearman hammoedidh. (4)&nbsp; Dan åvteste libie bieliem <A href="">www.learoevierhtieh.no</A> gaske-viermesne tseegkeme gusnie åarjelsaemien learoevierhtieh jih bïevnesh ööhpehtimmien bïjre leah. Gaske-viermiebielien nualan libie aaj daatabaasem tseegkeme gosse learoevierhtieh tjöönghkesovveme. Learoevierhtiem ”gorredh gïelem” learoehkidie libie aaj dan seamma gaske-viermiebielien nualan bïejeme. Daesnie jïjnjh joekehth lustes aamhtesh mïsse laavenjassh jih tjoejefijlh mah noerh utnieh luste. Learohkh edtjieh dellie ”brukernavn” jih ”passord” åadtjodh guktie dan Gaske-viermiesæjjan åadtjoeh tjaangedh. </P>
+<P>Learoegærjah 8.klaassese, åarjelssaemien mubpine gïeline aaj dorjeme. – Dovne lohkemegærja jih barkoegærja&nbsp; - jilhts ganne jeenemes åarjelsaemien ööhpehtimmijste maajehvååjnesen jih Gaske-viermien tjïrrh leah, daerpies gærjah aaj utnedh. </P>
+<P>Mijjieh libie aaj pedagogihke provgrammem Magnimaster Gold åarjelsaemien gïelese jarkoestamme jih sjïehtesjamme. </P>
+<P>Saemien skåvloeh Sveerjesne, Nöörjesne, Såevmesne joekehth learoesoejkesjh utnieh. Destie joekehth learoevierhtieh aaj sjidtieh. Eah saemien skåvloeh buektehth jeatja saemien skåvloste jeatja laanteste learoevierhtieh åtnose vaeltedh. </P>
+<P>Nöörjen bielesne lea sjïere saemien learoesoejkesje. Seamma Sveerjesne jih Såevmesne. Guktie Russlaantesne, ibie daejrieh. Daelie orre learoesoejkesjh darjoeminie. Learoesoejkesje saemien mubpine gïeline aaj darjoeminie, mah skåvloeh edtjieh joe tjaktjen 2005 åtnosne utnedh. Nordlaanten fylhkeålma lea aaj meatan daennie vihkeles jih lustes barkojne. <BR>&nbsp; <BR>Gosse saemiej rijhki leah joekehts learoesoejksjh dellie akte vielie dåeriesmoere jæjhta. Saemiengïele måedtien haaran öövtede gelline lehkine Saepmesne. Daerpies seamma termonolovgijem utnedh, guktie nimhtie buerebe learoevierhtide låtnodh. Badth daerpies aaj sinsitniej smaaretjïertide buerebe guarkedh, jih aaj baajedh saemien dajvh sijjen lahtsh jïjtsh saemien gïelesne utnedh. Nimhtie saemien smaaretjiertide jih dïhte gellielaaketje saemien siebredahkem vaarjele jih evtede.&nbsp;&nbsp; </P>
+<P>Nordlaanten fylhkenålma, byjjehtimmie- jih ööhpehtimmiegovtese åtna gajhkh råajvarimmieh daerpies mah saemiengïelem gorredieh jih evtedieh. Nordlaanten fylhkeålma lea jïjtse learoevierhtie-prosjeekten tjïrrh Saemiedigkine ektine barkeme.</P>
+<P>Vuejnijibie daerpies institusjovni ektine barkedh giej sjïere dïedte gïelem jih saemien ööhpehtimmiem gorredidh jis edtjijibie buektiehtidh åarjelsaemien gïelem gorredidh.&nbsp; Daesnie moenijibie Saemien Jïlleskuvle, Tromsøen Unviversitete jih Jïlleskuvle Noerhte- Trööndelagesne jih Jïlleskuvle Nordlaantesne Nesnesne.&nbsp; </P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp; –&nbsp; Kanne sagki vihkielåbpoe laavenjostedh gosse dan gellie dåeriesmoeri åvtelen gïeleöövtiedimmesne åarjelsaemien raedtesne tjåadtjoejibie. </P>
+<P>&nbsp;</P>
+<H3>Tjaaleldahken læstoe&nbsp; </H3>
+<UL>
+<LI><A href="http://odin.dep.no/ufd/norsk/dok/dok/veiledninger/014005-991133/dok-bn.html" target=_blank>KUF - Det kongelige kirke-, utdannings- og forskningsdepartement – (1997) : Det samiske læreplanverk for den 10-årige grunnskolen.</A> 
+<LI>SEG - Sami Ealahus-ja Guorahallanguovddas – Samisk Nærings- og Utredningssenter – (2000) : Undersøkelse om bruken&nbsp; av samisk språk.&nbsp; 
+<LI>KRD - Det kongelige kommunal- regional departement – (2001) : Stortingsmelding nr.55; Om samepolitikken</LI></UL>
+<H3>Nyttige nettsteder </H3>
+<UL>
+<LI>SOFF, Sentralorganet for fleksibel læring i høgere utdanning. Side med pekere til ulike artikler og sider om fleksibel læring i høyere utdanning. 
+<LI><A href="http://www.soff.no">www.soff.no</A> 
+<LI><A href="http://www.soff.uit.no">www.soff.uit.no</A> </LI></UL>v</div></DIV></TD>
+	</TR>
+
+</TABLE>
+<CENTER><SMALL>
+        <a href='http://www.fmno.no'>Fylkesmannen i Nordland &copy; 2005</a>
+         -
+        <a href='http://www.seria.no'>Design og løsning &copy; Seria</a>
+</SMALL></CENTER>
+
+<script type='text/javascript' src='/js/aX.js'></script><script type='text/javascript' src='/js/ajax.js'></script><script type='text/javascript' src='/js/ajaxSite.js'></script></body>
+</html>
