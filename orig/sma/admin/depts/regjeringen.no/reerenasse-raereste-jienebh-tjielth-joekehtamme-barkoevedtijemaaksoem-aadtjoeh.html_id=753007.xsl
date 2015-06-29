@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Format query results for display -->
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
@@ -89,9 +90,9 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="til-Kautokeino.html_id=753403" xml:lang="nno"/>
-	<parallel_text location="Regjeringen-foreslar-at-flere-kommuner-far-differensiert-arbeidsgiveravgift-.html_id=753007" xml:lang="nob"/>
-	<parallel_text location="Nussir-ja-Gumpenjuni-regulerenplana.html_id=753353" xml:lang="sme"/>
+	<parallel_text location="til-kautokeino.html_id=753403" xml:lang="nno"/>
+	<parallel_text location="reguleringsplan-for-nussir-og-ulveryggen.html_id=753353" xml:lang="nob"/>
+	<parallel_text location="nussir-ja-gumpenjuni-regulerenplana.html_id=753353" xml:lang="sme"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X           -->
