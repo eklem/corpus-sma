@@ -88,7 +88,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="gravferdsavgiftsutvalet-overleverte-si-utredning_id_752365.html" xml:lang="nno"/>
-	<parallel_text xml:lang="sme" location="havdadandivatlavdegoddi-geigii-ieas-ielggadeami.html_id=752365"/>
+	<parallel_text xml:lang="sme" location="havdadandivatlavdegoddi-geigii-ieas-ielggadeami_id_752365.html"/>
 	<parallel_text xml:lang="smj" location="havdadandivatlavdegoddi-geigii-ieas-ielggadeami_id_752365.html"/>
 </xsl:variable>
 

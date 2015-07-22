@@ -91,7 +91,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="norge-lager-oversikt-om-oppfolgingen-av-_id_682549.html" xml:lang="nob"/>
-	<parallel_text location="raehus-rahkada-ollislavuoa-vardosa-dan-h.html_id=682549" xml:lang="sme"/>
+	<parallel_text location="raehus-rahkada-ollislavuoa-vardosa-dan-h_id_682549.html" xml:lang="sme"/>
 	<parallel_text location="raehus-rahkada-ollislavuoa-vardosa-dan-h_id_682549.html" xml:lang="smj"/>
 </xsl:variable>
 

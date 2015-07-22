@@ -91,7 +91,7 @@
 <xsl:variable name="parallels">
 	<parallel_text location="til-kautokeino_id_753403.html" xml:lang="nno"/>
 	<parallel_text location="regjeringen-foreslar-at-flere-kommuner-far-differensiert-arbeidsgiveravgift-_id_753007.html" xml:lang="nob"/>
-	<parallel_text location="nussir-ja-gumpenjuni-regulerenplana.html_id=753353" xml:lang="sme"/>
+	<parallel_text location="nussir-ja-gumpenjuni-regulerenplana_id_753353.html" xml:lang="sme"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X           -->
