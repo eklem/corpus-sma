@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
@@ -90,7 +90,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="bjorn-olav-megard-to-lead-the-department.html_id=681004" xml:lang="eng"/>
+	<parallel_text location="bjorn-olav-megard-to-lead-the-department_id_681004.html" xml:lang="eng"/>
 	<parallel_text location="bjorn-olav-megard-skal-lede-same--og-min.html_id=681004" xml:lang="nob"/>
 	<parallel_text location="bjorn-olav-megard-nammaduvvon-joihit-sam.html_id=681004" xml:lang="sme"/>
 	<parallel_text location="bjorn-olav-megard-nammaduvvon-joihit-sam.html_id=681004" xml:lang="smj"/>
