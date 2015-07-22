@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
@@ -89,7 +89,7 @@
 <xsl:variable name="parallels">
 	<parallel_text location="okt-stotte-til-de-mest-utsatte-samiske-s.html_id=637816" xml:lang="nob"/>
 	<parallel_text location="eanet-doarjja-eanemusat-aitojuvvon-sameg.html_id=637816" xml:lang="sme"/>
-	<parallel_text location="eanet-doarjja-eanemusat-aitojuvvon-sameg.html_id=637816" xml:lang="smj"/>
+	<parallel_text location="eanet-doarjja-eanemusat-aitojuvvon-sameg_id_637816.html" xml:lang="smj"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X-->

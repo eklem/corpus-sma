@@ -93,7 +93,7 @@
 	<parallel_text location="bjorn-olav-megard-to-lead-the-department_id_681004.html" xml:lang="eng"/>
 	<parallel_text location="bjorn-olav-megard-skal-lede-same--og-min.html_id=681004" xml:lang="nob"/>
 	<parallel_text location="bjorn-olav-megard-nammaduvvon-joihit-sam.html_id=681004" xml:lang="sme"/>
-	<parallel_text location="bjorn-olav-megard-nammaduvvon-joihit-sam.html_id=681004" xml:lang="smj"/>
+	<parallel_text location="bjorn-olav-megard-nammaduvvon-joihit-sam_id_681004.html" xml:lang="smj"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X           -->

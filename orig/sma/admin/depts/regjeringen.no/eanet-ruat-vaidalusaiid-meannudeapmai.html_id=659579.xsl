@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
@@ -91,7 +91,7 @@
 <xsl:variable name="parallels">
 	<parallel_text location="mer-penger-til-behandling-av-klagesaker.html_id=659579" xml:lang="nob"/>
 	<parallel_text location="eanet-ruat-vaidalusaiid-meannudeapmai.html_id=659579" xml:lang="sme"/>
-	<parallel_text location="eanet-ruat-vaidalusaiid-meannudeapmai.html_id=659579" xml:lang="smj"/>
+	<parallel_text location="eanet-ruat-vaidalusaiid-meannudeapmai_id_659579.html" xml:lang="smj"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X           -->
