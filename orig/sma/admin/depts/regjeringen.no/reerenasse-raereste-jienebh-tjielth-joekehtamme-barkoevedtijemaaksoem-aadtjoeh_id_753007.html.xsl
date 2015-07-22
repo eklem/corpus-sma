@@ -1,13 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/se/dep/kud/preassaguovdda/Preassadieahus/2012/kultuvrebudsjete-2013---finnmarhke.html?id=707322'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/se/dep/kmd/preassaguovdda/preassadieahusat/2014/Reerenasse-raereste-jienebh-tjielth-joekehtamme-barkoevedtijemaaksoem-aadtjoeh.html?id=753007'"/>
 <xsl:variable name="text_encoding" select="''"/>
-<xsl:variable name="title" select="'Kultuvrebudsjete 2013 - Finnmarhke - regjeringen.no'"/>
+<xsl:variable name="title" select="'Reerenasse raereste jienebh tjïelth joekehtamme barkoevedtijemaaksoem åadtjoeh - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -30,7 +30,7 @@
 <xsl:variable name="author4_born" select="''"/>
 <xsl:variable name="publisher" select="''"/>
 <xsl:variable name="publChannel" select="'http://regjeringen.no'"/>
-<xsl:variable name="year" select="'2012'"/>
+<xsl:variable name="year" select="'2014'"/>
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
 <xsl:variable name="place" select="''"/>
@@ -46,7 +46,7 @@
 <xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="''"/>
 <xsl:variable name="sub_email" select="'divvun@samediggi.no'"/>
-<xsl:variable name="wordcount" select="'277'"/>
+<xsl:variable name="wordcount" select="'1361'"/>
 <!-- Set this variable to 1 if the source for this doc is OCR -->
 <!-- Those docs typically contain lots of orthographic errors and need special treatment -->
 <xsl:variable name="ocr" select="''"/>
@@ -72,9 +72,27 @@
      then the document is checked for all supported languages.
 -->
 <xsl:variable name="mlangs">
-	</xsl:variable>
+	<language xml:lang="sma"/>
+	<language xml:lang="smj"/>
+</xsl:variable>
 
 <!-- Add the locations of the parallel files to the variables-->
+
+
+<!-- If the document has parallel texts, uncomment the right languages
+     (or add new lines with the right ISO-639-3 language codes) and
+     add the filename of the parallel files to the 'location'
+     variables.
+
+     Don't write the full directory; we expect the file to be in the
+     same directory as this file, with only the language code and
+     filename changed.
+     -->
+<xsl:variable name="parallels">
+	<parallel_text location="til-kautokeino.html_id=753403" xml:lang="nno"/>
+	<parallel_text location="regjeringen-foreslar-at-flere-kommuner-far-differensiert-arbeidsgiveravgift-.html_id=753007" xml:lang="nob"/>
+	<parallel_text location="nussir-ja-gumpenjuni-regulerenplana.html_id=753353" xml:lang="sme"/>
+</xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X           -->
 <!-- Uncomment the following and add the paths, for example:  -->

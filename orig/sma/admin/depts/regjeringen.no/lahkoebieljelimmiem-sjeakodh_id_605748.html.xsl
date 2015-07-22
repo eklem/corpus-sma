@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/se/dep/krd/Preassaguovdda/Preassadieahusat/2010/Arromelastoeviertieh-prosjektasse-Iedtjeles-noereraerieh-Finnmarkesne.html?id=610385'"/>
-<xsl:variable name="title" select="'Årromelastoeviertieh prosjektasse ”Iedtjeles noereraerieh Finnmarkesne” - regjeringen.no'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/se/dep/fd/Aigeguovdil/Oasat/2010/Lahkoebieljelimmiem-sjeakodh.html?id=605748'"/>
+<xsl:variable name="title" select="'Låhkoebïeljelimmiem sjeakodh - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -29,7 +29,7 @@
 <xsl:variable name="author4_born" select="''"/>
 <xsl:variable name="publisher" select="''"/>
 <xsl:variable name="publChannel" select="'http://regjeringen.no'"/>
-<xsl:variable name="year" select="'2010'"/>
+<xsl:variable name="year" select="''"/>
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
 <xsl:variable name="place" select="''"/>
@@ -45,7 +45,7 @@
 <xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="''"/>
 <xsl:variable name="sub_email" select="'divvun@samediggi.no'"/>
-<xsl:variable name="wordcount" select="'393'"/>
+<xsl:variable name="wordcount" select="'441'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="'$Revision$'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
@@ -83,7 +83,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="bulystmidlar-til-prosjektet-aktive-ungdomsrad-i-finnmark.html_id=610385" xml:lang="nno"/>
+	<parallel_text location="rydder-opp-i-registerrapportering.html_id=605748" xml:lang="nob"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X-->

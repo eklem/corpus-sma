@@ -1,13 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/se/dep/lmd/Aigeguovdil/Oasat/2010/okt-10/beapmoe-fer-lihties.html?id=621010'"/>
-<xsl:variable name="text_encoding" select="''"/>
-<xsl:variable name="title" select="'Beapmoe fer lihties - regjeringen.no'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/se/dep/krd/Preassaguovdda/Preassadieahusat/2010/Arromelastoeviertieh-prosjektasse--Laavlomefaamoe-Berlevagesne.html?id=609232'"/>
+<xsl:variable name="title" select="'Årromelastoeviertieh prosjektasse ” Laavlomefaamoe Berlevågesne” - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -36,7 +35,7 @@
 <xsl:variable name="place" select="''"/>
 <xsl:variable name="genre" select="'admin'"/>
 <xsl:variable name="collection" select="''"/>
-<xsl:variable name="translated_from" select="''"/>
+<xsl:variable name="translated_from" select="'nob'"/>
 <xsl:variable name="translator_fn" select="''"/>
 <xsl:variable name="translator_ln" select="''"/>
 <xsl:variable name="translator_gender" select="'unknown'"/>
@@ -46,9 +45,9 @@
 <xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="''"/>
 <xsl:variable name="sub_email" select="'divvun@samediggi.no'"/>
-<xsl:variable name="wordcount" select="'291'"/>
+<xsl:variable name="wordcount" select="'378'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
-<xsl:variable name="template_version" select="'$Revision: 34357 $'"/>
+<xsl:variable name="template_version" select="'$Revision$'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
@@ -69,8 +68,7 @@
      then the document is checked for all supported languages.
 -->
 <xsl:variable name="mlangs">
-	<language xml:lang="nob"/>
-</xsl:variable>
+	</xsl:variable>
 
 <!-- Add the locations of the parallel files to the variables-->
 
@@ -85,7 +83,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="format.html_id=621010" xml:lang="nob"/>
+	<parallel_text location="bulystmidlar-til-prosjektet-sangkraft-i-berlevag.html_id=609232" xml:lang="nno"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X-->

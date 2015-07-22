@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/se/dep/fd/Aigeguovdil/Oasat/2010/Vaarjelimmiesuerkie-tjarke-byjreskeoffensivine.html?id=611114'"/>
-<xsl:variable name="title" select="'Vaarjelimmiesuerkie tjarke byjreskeoffensivine - regjeringen.no'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/se/dep/krd/Preassaguovdda/Preassadieahusat/2010/Arromelastoeviertieh-prosjektasse-Iedtjeles-noereraerieh-Finnmarkesne.html?id=610385'"/>
+<xsl:variable name="title" select="'Årromelastoeviertieh prosjektasse ”Iedtjeles noereraerieh Finnmarkesne” - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -45,7 +45,7 @@
 <xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="''"/>
 <xsl:variable name="sub_email" select="'divvun@samediggi.no'"/>
-<xsl:variable name="wordcount" select="'546'"/>
+<xsl:variable name="wordcount" select="'393'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="'$Revision$'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
@@ -83,7 +83,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="forsvarssektoren-med-malretta-miljooffen.html_id=611114" xml:lang="nno"/>
+	<parallel_text location="bulystmidlar-til-prosjektet-aktive-ungdomsrad-i-finnmark.html_id=610385" xml:lang="nno"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X-->
