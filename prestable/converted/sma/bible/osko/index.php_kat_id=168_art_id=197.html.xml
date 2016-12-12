@@ -1,0 +1,54 @@
+<document xml:lang="sma" id="no_id">
+  <header>
+    <title>JAAHKOE</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>184</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual/>
+    <origFileName>http://www.osko.no/index.php?kat_id=168&amp;art_id=197</origFileName>
+    <parallel_text location="index.php_kat_id=168_art_id=197.html" xml:lang="nob"/>
+    <parallel_text location="index.php_kat_id=168_art_id=197.html" xml:lang="sme"/>
+    <parallel_text location="index.php_kat_id=168_art_id=197.html" xml:lang="smj"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Lïerh: Tjaetsie</p>
+    <p type="title">Dïjre Maarjese</p>
+    <p>Ussjedh voestegh daan bïjre:</p>
+    <p>Ž Guktie vïenhth lea eejhteginie sjïdtedh gosse ennje noere lea?</p>
+    <p>Ž Mij lea stööremes dåeriesmoere gosse eejhteginie sjædta gosse ennje noere lea?</p>
+    <p>Ž Guktie vïenhth lea nåajsan sjïdtedh gosse ij naan mïelehke desnie?</p>
+    <p>Lohkh Maarjan bïjre Lukasen vaentjielisnie:  <em type="italic">Lukas 1, 26-38. </em>  </p>
+    <p>Ž   Man bïjre daate teekste såårne?</p>
+    <p>Ž Guktie daan teeksten aamhtese?</p>
+    <p>Ž Maam tuhtjh dennie teekstesne viehkielommes?</p>
+    <p>Ž Giejtie daennie teekstesne gaavnedibie?</p>
+    <p>Ž Maam åadtjobe Maarjan bïjre daejredh? Maam åadtjobe eengkele Gabrielen bïjre daejredh?</p>
+    <p>Ž Guktie Maarjine gosse eengkele dan gåajkoe båata?     Ž Maam eengkele Maarjese jeahta?</p>
+    <p>Ž Mestie Maarja tjoeperde gosse eengkele soptsestamme?</p>
+    <p>Ž Maam eengkele jeahta Jupmelen bïjre?</p>
+    <p>Ž Gïeh daelie dååjrehtieh maam Josefe gonnoeh Maarjah dååjrehtigan?</p>
+    <p>Ž Maam daaletje noere nïejth dååjrehtieh gosse nåajsan sjidtieh?</p>
+    <p>Ž Maam datne ussjedh daan bïjre: noere nïejtide eevtjieh maanam boerne-gåetesne jamhkelidh?</p>
+    <p>Ž Maam datne tuhtjh, guktie edtjebe dåemiedidh gosse noerh eejhtegh sjïdteminie?</p>
+    <p>Lohkh saerniem ikth vielie jïh ussjedh daan bïjre:</p>
+    <p>Ž Guktie maehtebe noere almetjidie viehkiehtidh gïeh eejhtegh sjidtieh?</p>
+    <p>Ž Guktie edtjieh noere eejhtegh damtedh Jupmele dej luvnie lea, seammalaakan goh Josefe gonnoeh Maarjah?</p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+  </body>
+</document>

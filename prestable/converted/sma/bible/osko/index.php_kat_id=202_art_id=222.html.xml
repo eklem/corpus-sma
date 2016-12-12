@@ -1,0 +1,52 @@
+<document xml:lang="sma" id="no_id">
+  <header>
+    <title>JAAHKOE</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>92</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual/>
+    <origFileName>http://www.osko.no/index.php?kat_id=202&amp;art_id=222</origFileName>
+    <parallel_text location="index.php_kat_id=202_art_id=222.html" xml:lang="nob"/>
+    <parallel_text location="index.php_kat_id=202_art_id=222.html" xml:lang="sme"/>
+    <parallel_text location="index.php_kat_id=202_art_id=222.html" xml:lang="smj"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Darjoe</p>
+    <p>Saemien gærhkoeraerine</p>
+    <p xml:lang="sms">|</p>
+    <p xml:lang="dan">Heelsege</p>
+    <p xml:lang="sms">|</p>
+    <p>Darjoe</p>
+    <p xml:lang="sms">|</p>
+    <p>Kristusen gievlie</p>
+    <p type="title">Mejnie Saemien gærhkoeraerie barka?</p>
+    <p>
+      <em type="italic">Saemien gærhkoeraerie Dennie nøørjen gærhkosne lea Gærhkoetjåanghkoen åårgane, jïh edtja saemien gærhkoejielemem Dennie nøørjen gærhkosne evtiedidh, vaarjelidh jïh iktedidh. Saemien gærhkoeraerien barkoesuerkie lea gaajhkh aamhtesh mah raerien mielen mietie saemien gærhkoejielemem doehtedieh.  </em>
+    </p>
+    <p xml:lang="sms">-</p>
+    <p>Saemien gærhkoejieleme materijellh jaahkoeøøhpehtæmman evtede, jealajahta saemien salmelaavlomem, saemien liturgijem evtede.</p>
+    <p xml:lang="sms">-</p>
+    <p>Saemien gærhkoeraerie sæjhta saemien noerh dåårrehtidh gyrhkeles dienesjasse.</p>
+    <p xml:lang="sms">-</p>
+    <p>Saemien gærhkoeraerie sæjhta saemien gærhkoejielemem raasti rastah nænnoestidh, dejnie noerhtelaantine jïh Russlaantesne.</p>
+    <p xml:lang="sms">-</p>
+    <p>Saemien gærhkoeraerie aalkoealmetjigujmie abpe veartenisnie laavenjostoe, Gærhkoen vearteneraerien tjïrrh.</p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+  </body>
+</document>

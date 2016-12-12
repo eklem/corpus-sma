@@ -1,0 +1,76 @@
+<document xml:lang="sma" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>963</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.saemiedigkie.no/layout/set/print/Saemiedigkien-bijre/Sjieke/Reaktah</origFileName>
+    <parallel_text xml:lang="smj" location="rievtesvuoda.html"/>
+    <parallel_text xml:lang="nob" location="rettigheter.html"/>
+    <parallel_text xml:lang="sme" location="vuoigatvuodat.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Reaktah / Sjïeke / Saemiedigkien bïjre / Saemiedigkie - Sametinget</p>
+    <p type="title">Reaktah</p>
+    <p xml:lang="sms">"</p>
+    <p>"Goh akte vihkeles våarome sov politihkese dle reerenasse våaroemasse beaja staate Nöörje aalkovistie lea göökte åålmegi dajvesne tseegkesovveme – saemieh jïh nöörjen almetjh – jïh gåabpegh åålmegh dam seamma reaktam jïh seamma krievemem utnieh sov kultuvrem jïh sov gïelem evtiedidh. Daate prinsihpeles seammavyörtegsvoete Maadthlaaken § 110A tjåådtje."</p>
+    <p xml:lang="nob">Stortingsmelding 55 (2000-2001)</p>
+    <p xml:lang="sms">"</p>
+    <p>Saemiedigkie gaajhkesåarhts reaktagyhtjelassh sov darjosne gïetede, gaajhki siebriedahkesuerkiej sisnjeli. Saemieh ovmessie såarhts reaktah utnieh; goh indivijde, goh jïjtse åålmege jïh goh aalkoealmetje. Saemieh eerpeme reaktah utnieh sijjen aerpievuekien eatneme- jïh tjaetsiedajvide, jïh reaktam vierhtide utnieh dejnie dajvine mah leah dïhte tjåenghkies materijelle kultuvrevåarome. Dah reaktah leah aaj ektiedamme dejtie suerkide goh gïele, ööhpehtimmie, healsoe jïh reereme kultuvremojstesijstie.</p>
+    <p>Daate reaktavåarome gaskenasjovnale almetjerïekteles viedteldihkie konvensjovnine gååvnese, sisnjelds nöörjen reaktesne jïh saemiej provhkine jïh reaktavuajnojne.</p>
+    <p>Goh saemiej almetjeveeljeme åårgane Nöörjesne, dle Saemiedigkien ulmie lea barkedh guktie saemiej vihkielommes reaktah jååhkesjimmiem åadtjoeh, mij lea akte våarome juktie gorredidh jïh nænnoestidh saemien kultuvrem, gïelem jïh siebriedahkejielemem, jïh ihke dah ovmessie saemien aerpievuekieh gååvnesieh.</p>
+    <p>Almetjereaktine jïh saemien reaktajgujmie ektine dle vihkeles tjïertestidh:</p>
+    <list>
+      <p type="listitem">Aalkoealmetjedïejvese ij leah ektiedamme dejtie mah voestegh bööti.</p>
+    </list>
+    <p>Aalkoealmetjedïejvese jïh aalkoealmetjereaktah eah leah arkeologeles vihtiestimmide ektiedamme, mah vuesiehtieh gie voestegh bööti. Aalkoealmetjereaktah reaktide dejtie almetjidie feerhmieh mah joe lin dajvesne åvtelen nasjovnalestaate tseegkesovvi, bene mah idtjin ååktemem åadtjoeh goh seammavyörtegs.</p>
+    <p>ILO-konvensjovnesne nr. 169, aalkoealmetji jïh tjiertealmetji bïjre jïjtjeraarehke staatine dle tjåådtje aalkoealmetjh leah</p>
+    <p xml:lang="sms">"</p>
+    <p>
+      <em type="italic">"Almetjh jïjtjeraarehke staatine mah aalkoealmetjinie vuajnalgieh, juktie dah almetjijstie båetieh mah laantesne jallh aktene geografiske dajvesne laanten nuelesne årroejin, dellie gosse vitneme jallh koloniseringe lin, jallh gosse dejtie daaletje staati raastide nænnoesti, jïh saaht mij riekteles sijjide leah, gaajhkh jallh naaken sijjen jïjtsh sosijale, ekonomeles, kultuvrelle jïh polithkeles institusjovnh utniehtamme." </em>
+    </p>
+    <p xml:lang="sms">"</p>
+    <list>
+      <p type="listitem">Saemieh eah sjïere reaktah utnieh mah giehpiedieh naaken dejstie jeatjah nöörjen almetji reaktijste.</p>
+    </list>
+    <p>Aalkoealmetjinie årrodh ij sïjhth jiehtedh naaken stuerebe reaktam utnieh dajvide jïh tjaatside mubpijste. Saemieh eah jienebh reaktah utnieh nöörjen almetjijste eatnemevierhtide nuhtedh, bielelen båatsoe, mejnie aerpievuekien mietie, ajve saemieh maahteme gïehtelidh Nöörjesne. Jeatjah jielemh goh laanteburrie jïh gööleme sijjen sjïere reaktah utnieh saaht man kultuvrese ektiedimmiem åtna.</p>
+    <p>Aalkoealmetjereaktah gorredieh dah saemieh edtjieh seamma nuepieh åadtjodh goh nöörjen almetjh sov kultuvrem evtiedidh, sov jieledevuekiem tjåadtjoehtidh jïh nuepiem utnedh aktine åålmeginie årrodh aaj båetijen biejjien. Daesnie jeenjesh vienhtieh sjïere råajvarimmieh leah dïhte seamma goh sjïere reaktah.</p>
+    <p>Ij leah naan sjïere reakta saemien maanah edtjieh seamma nuepieh åadtjodh goh nöörjen maanah sov ietniengïelem skuvlesne lïeredh. Daate reakta Ööhpehtimmielaakesne tjåådtje, jïh bielelen daam sjïere laaketeekstem dle saemien maanah lin sïerreldihkie sjïdteme. Dïhte mij seapan vååjnoe goh joekehts gïetedimmie, ij leah mij akt jeatjebe goh akte råajvarimmie mij lea daerpies juktie <em type="italic">seammavoetem </em>, jïh <em type="italic">seamma nuepieh </em>gorredidh. </p>
+    <p xml:lang="nob">
+      <em type="bold">Internasjonale konvensjoner </em>
+    </p>
+    <list>
+      <p type="listitem">EN’i konvensjovne sivijle jïh politihkeles reaktaj bïjre jaepeste 1966 (SP) jïjnjh vihkeles jïh voernges almetjeriekteles njoelkedassh åtna saemiereaktaj bïjre. Daate konvensjovne aaj meatan vaaltasovveme nöörjen reaktesne mij jeatjah laaki åvtelen båata, v. almetjereaktalaakine . Joekoen vihkeles 1. artihkele mij lea almetji reaktaj bïjre jïjtje nænnoestidh, artihkele 2, 3 jïh 26 mij lea ij-sïerredimmien bïjre, jïh artihkele 27 mij vihteste almetjh etnihken, religijööse jallh gïeleldh unnebelåhkojste eah edtjh nyöjhkesovvedh sov jïjtse kultuvrem utnedh, sov jïjtse religijovnem bæjhkodh jallh utnedh, jallh sov jïjtse gïelem nåhtadidh. Aalkoealmetji muhteste, dle artihkele 27 aaj feerhmie dam reaktam materijelle kultuvrese jïh aerpievuekien jielemegïehteldæmman, mij lea åtnose laante- jïh eatnemevierhtijste ektiedamme. Daate nænnoestimmie aaj vaarjelimmiem buakta hearaldehtemi vööste eatnamisnie, dejnie dajvine gusnie aalkoealmetjh aerpievuekien jielemigujmie gïehtelieh.</p>
+    </list>
+    <list>
+      <p type="listitem">EN’i konvensjovne ekonomeles, sosijale jïh kultuvrelle reaktaj bïjre jaepeste 1966 (ØSK) aaj artihkelh åtna mah ulmiem utnieh saemieriekteles dåeriesmoerevuajnojde. Goh SP dle aaj ØSK almetjereaktalaaken tjïrrh meatan vaaltasovveme nöörjen reaktesne jïh jeatjah laaki åvtelen båata. 1. artihkele mij lea reaktan bïjre jïjtse nænnoestidh lea eevre seammaplïeres goh 1.artihkele SP’sne. 2. artihkele nr. 2 jïh 13 vihtiestieh dah staath diedtem utnieh tjirkedh ihke tjïrrehtimmie reaktijste mah leah ØSK’esne, heannede naan såarhts sïerredimmien bielelen.</p>
+    </list>
+    <list>
+      <p type="listitem">EN’i konvensjovne maanaj reaktaj bïjre jaepeste 1989 (BK) göökte reaktah åtna mah sjïerelaakan aalkoealmetji reaktah neebnieh. 30.artihkele lea mahte seammalaakan goh 27.artihkele SP’sne, dejnie joekehtsinie aalkoealmetjh leah sjïerelaakan neebneme BK’en 30. artihkelisnie. Daate nænnoestimmie almetjeriekteles åeliedimmieh staatese tseegkie, saemien maanaj byjjenimmietsiehkiej bïjre jïh dej religijööse, kultuvrelle jïh gïeleldh reaktaj bïjre. 17. artihkele (d) staatem åelede meedija edtja sjïerelaakan krööhkestidh aalkoealmetjemaanaj gïeleldh daerpiesvoeth. Maanakonvensjovne lea goh SP jïh ØSK meatan vaaltasovveme nöörjen reaktesne, almetjereaktalaaken tjïrrh.</p>
+    </list>
+    <list>
+      <p type="listitem">EN’i konvensjovne nåhkehtimmien bïjre gaajhkesåarhts raase-sïerredimmijste jaepeste 1965 (RDK) lea dïhte vihkielommes alemetjeriekteles dïrrege gosse lea sïerredimmien bïjre. Sïerredimmie aalkoealmetjijstie RDK’en nualan båata. EN’i raasesïerredimmiedåehkie åvtese buakta joekoen aalkoealmetji teehpeme laanteste jïh eatnemevierhtijste <span type="quote">“kolonisereden, kommersielle sïeltide jïh staaten gïehteldimmide”</span> lea sïerredihks. Raase-sïerredimmiedåehkie lahtestimmine bööti gaskem jeatjah Nöörjen Reerenassen raeriestæmman finnmarhkelaakese, gusnie jeahta satne tjoeperde daate laakeraeriestimmie tjarkilaakan saemien giehtjedimmiem jïh sjæjsjalimmiefaamoem giehpede, dejtie dajve- jïh eatnemevierhtide Finnamarhken fylhkesne. Dåehkie birri Nöörje tjoeri raerieh gaavnedh dejtie gyhtjelasside laantereaktaj bïjre, mej bïjre dah saemieh meehtin seamadidh. http://www.universalhumanrightsindex.org/documents/824/490/document/en/pdf/text.pdf</p>
+    </list>
+    <list>
+      <p type="listitem">Skïereden 13.b. 2007 dle EN’i generalekrirrie EN’sne bæjhkoehtimmiem nænnoesti aalkoealmetji reaktaj bïjre. Bæjhkoehtimmie lea reaktaj bïjre jïjtjenænnoestæmman, dajvi jïh vierhtiej bïjre, råårestallemi bïjre akten frijje bievneme jååhkesjæmman, kultuvren jïh kultuvreaerpien bïjre, aerpievuekien daajroej bïjre jïh gïelen, healsoen jïh ööhpehtimmien bïjre. Bæjhkoehtimmie vihtieslaakan jååhkesje aalkoealmetjh reaktam utnieh jïjtje nænnoestidh, daan nuelesne saemiej reakta frijjelaakan sov ekonomijen, sosijale jïh kultuvrelle evtiedimmien bïjre nænnoestidh, jïh reakta frijjelaakan sov politihkeles sijjien bïjre nænnoestidh. Bæjhkoehtimmie aaj saemiej reaktam tjïerteste sov politihkeles, riekteles jïh ekonomeles institusjovnh nænnoestidh.</p>
+    </list>
+    <list>
+      <p type="listitem">ILO-konvesjovne nr. 169 aalkoealmetji jïh krirriealmetji bïjre jïjtjeraarehke staatine jaepeste 1989 (ILO 169) lea akte vihkeles dïrrege almetjereaktese gosse lea aalkoealmetji reakt naj bïjre. Konvensjovne lea laantereaktaj, barkoetsiehkiej, barkoelïerehtimmien, healsoe jïh ööhpehtimmien bïjre. Konsultasjovnh jïh meatan årrodh leah dïhte roenegierkie konvensjovnesne.</p>
+    </list>
+    <list>
+      <p type="listitem">Konvensjovne biologeles gellievoeten bïjre jaepeste 1992 (CBD) aaj sjyöhtehke akten saemieriekteles evtiedimmien gaavhtan, joekoen dah artihkelh 8j jïh 10c. Goh akte lïhtse dejnie staaten åeliedimmine juktie dam biologeles gellievoetem vaarjelidh, dle staath edtjieh <span type="quote">“ååktedh, gorrredidh jïh tjåadtjoehtidh daajroem, orresjugniedimmieh jïh haarjanimmiem aalkoealmetji siebriedahkide, jïh voenges siebriedahkide mah aerpievuekien mietie jielieh”</span>.</p>
+    </list>
+  </body>
+</document>

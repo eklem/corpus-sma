@@ -1,0 +1,132 @@
+<document xml:lang="sma" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>954</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.1177.se/Jamtland-Harjedalen/Nationella-minoritetssprak/Nationella-minoritetssprak/Sydsamiska/Regler-och-rattigheter/Tystnadsplikt-och-sekretess</origFileName>
+    <parallel_text xml:lang="eng" location="professional-secrecy-and-confidentiality.html"/>
+    <parallel_text xml:lang="fin" location="tystnadsplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="fit" location="tystnadsplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="rmf" location="tystnadsplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="rmn" location="tystnadsplikt-och-sekretess-.html"/>
+    <parallel_text xml:lang="rmu" location="tystnadsplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="rmy-rka" location="tystnadsplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="rmy-rlo" location="tystnadsplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="sme" location="tystnadsplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="smj" location="tystnadplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="swe" location="tystnadsplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="yid" location="tystnadsplikt-och-sekretess.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Sjeavohthvoete jïh sekretesse / Tystnadsplikt och sekretess - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe">Information och tjänster för din hälsa och vård. Besök 1177.se eller ring 1177 för sjukvårdsrådgivning. Öppet dygnet runt.</p>
+    <p xml:lang="swe">Gå direkt till innehållet</p>
+    <p xml:lang="swe">Gå direkt till navigeringen</p>
+    <p xml:lang="ger">Stäng</p>
+    <p xml:lang="nob">Behöver du sjukvårdsrådgivning? Ring 1177</p>
+    <p>Åarjelsaemiengiele / Sydsamiska</p>
+    <p type="title">ÅarjelsaemiengieleSydsamiska</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title">Sjeavohthvoete jïh sekretesse Tystnadsplikt och sekretess</p>
+    <p xml:lang="nno">Skriv ut</p>
+    <p xml:lang="ger">Stäng</p>
+    <p type="title" xml:lang="nno">Skriv ut</p>
+    <p xml:lang="swe">Hela artikeln (ca 4 sidor)</p>
+    <p type="title" xml:lang="swe">Välj kapitel för utskrift</p>
+    <p>Mij dïhte lea? (ca 3 sidor)</p>
+    <p xml:lang="swe">Bielelen sjeavohthvoete (ca 3 sidor)</p>
+    <p xml:lang="swe">Tipsa och dela</p>
+    <p xml:lang="nno">Skriv ut</p>
+    <p xml:lang="ger">Stäng</p>
+    <p type="title" xml:lang="nno">Skriv ut</p>
+    <p xml:lang="swe">Hela artikeln (ca 4 sidor)</p>
+    <p type="title" xml:lang="swe">Välj kapitel för utskrift</p>
+    <p>Mij dïhte lea? (ca 3 sidor)</p>
+    <p xml:lang="swe">Bielelen sjeavohthvoete (ca 3 sidor)</p>
+    <p type="title" xml:lang="swe">Hitta i artikeln</p>
+    <p type="title">Mij dïhte lea?</p>
+    <p type="title">Mij dïhte lea?</p>
+    <p type="title">Gaajhkh hoksesne sjeavohthvoetem utnieh</p>
+    <p>Gosse hoksese gaskesadta lea vihkeles bievnemem damta dejtie barkijidie mah råaka. Bievneme lea vihkeles juktie edtja damtedh jearsoes jïh doestedh soptsestidh gaajhki dej vaejviej jallh symptomi bïjre mejtie åtna jïh dan gaavhtan dam hoksem åådtje maam daarpesje. Dannasinie gaajhkesh gïeh healsoe- jïh skïemtjehoksesne berkieh sjeavohthvoetem utnieh. Våaromeprinsipe lea ij oktegh hoksesne åadtjoeh maamakt dov bïjre bievnieh jis datne ih leah dam dåhkasjahteme. Dïhte lea vuesiehtimmien gaavhtan dov skïemtjelassen bïjre, gïetedimmien bïjre jallh dov privateles tsiehkiej bïjre.</p>
+    <p>Skïemtjehoksesne seamma sekretessevaarjelimmie gaajhkh skïemtjiji åvteste jïh seamma man reaktam åtna Sveerjesne årrodh jallh ij.</p>
+    <p>Sjeavohthvoetem byögkeles- jïh sekretesselaaken mietie stuvrie dejtie gïeh berkieh staatesne, laantedigkine jïh tjïeltine mearan dah mah berkieh privaaten hoksevedtijinie edtjieh njoelkedasside dåeriedidh sjeavohthvoeten bïjre skïemtjijevihtieslaakesne. Dïhte gie sjeavohthvoetem meadta maahta dåapmestovlesne dööpmedh jallh jeatjah vuekine beadtasåvva reeremistie mij hoksem vååksjedh.</p>
+    <p>Barkijh skïemtjegåetesne jallh hoksejarngesne sjeavohthvoetem utnieh. Dïhte lea barre dejtie gie skïemtjijem huksieh gïeh åadtjoeh sinsitnine soptsestidh skïemtjijen healsoetsiehkien jallh persovneles tsiehkiej bïjre. Vuesiehtimmien gaavhtan dåaktere åådtje skïemtjijen båehtjierdimmiem digkiedidh kollegine barre jis dïhte seamma persovnem håksa.</p>
+    <p>Gaajhkh barkijh sjeavohthvoetem utnieh seamma gie hoksesne råaka. Dïhte dovne byjjes jïh privaate hoksesne jïh jis lea dåakterh, skïemtjesåjhterh jallh administratijveles barkijh. Toelhkestæjjah jïh jarkoestæjjah gïeh berkieh laavenjassine healsoe- jïh skïemtjehoksesne aaj sjeavohthvoetem utnieh. Aaj barkijh apotehkine sjeavohthvoetem utnieh.</p>
+    <p type="title">Jïjtje nænnoste</p>
+    <p>Dah laakh jiehtieh ij gænnah lïhke fuelhkie reaktam utnieh åadtjoeh daejredh maam jeahtasåvva jïh deahpede skïemtjegåetesne jis ij sïjhth dah edtjieh dam daejredh. Barkijh pruvhkieh skïemtjijem gihtjedh giejtie dah åadtjoeh bïevnesh vedtedh. Dellie jïjtje veeljie gïeh dah åadtjoeh bievnedh. Vuesiehtimmien gaavhtan maahta operasjovnen åvteli barkijidie beavna dah åadtjoeh jiehtedh lïhke fualhkan guktie operasjovne gåarede åvteli jïjtje lea vuerkeme.</p>
+    <p>Maanide dellie daamhtaj åelieh reaktam utnieh daejredh dej maanan hoksen bïjre jïh aaj daejredh maam journaalesne tjåådtje. Mohte gosse maana bæjjene, noere, dellie krïevesåvva daamhtaj maana edtja dïsse seamadidh.</p>
+    <p>Jis skïemtjehoksesne jallh sosiaaledïenesjisnie såvma maanam åeliej luvnie daaresjieh, jallh jis åelieh eah maehtieh maanam vaarjelidh, dellie ij journaalem olkese vedtieh.</p>
+    <p>Skïemtjijejournaalh aaj sekretessesne jïh dah gïeh åadtjoeh journaalem lohkedh lea dah barkijh gïeh skïemtjijem huksieh maam journaalem dæjpa. Seamma saaht jis journaale daatovresne gååvnese jallh lea paehpierasse tjaaleme.</p>
+    <p xml:lang="swe">Fäll ihop</p>
+    <p type="title">Bielelen sjeavohthvoete</p>
+    <p type="title">Bielelen sjeavohthvoete</p>
+    <p type="title">Bielelen sjeavohthvoete</p>
+    <p>Jïlhts sekretesse jïh sjeavohthvoete lea vijries maahta sekretessem åadtjodh miedtedh sjïere sjïekenistie, bielelen skïemtjije dïsse jååhkesje. Dïhte gosse vuesiehtimmien gaavhtan jis</p>
+    <list>
+      <p type="listitem">dåapmestovle, åklagare-, polijse-, kronofogde- jallh skaehtiereereme tsihkestahta daejredh jis sjïere persovne hoksesijjesne årroeminie</p>
+      <p type="listitem">sosialeståvroen raerie reakteles, sosijaleles jïh medisijneles gyhtjelassi åvteste bïevnesh daarpesje dan barkose</p>
+      <p type="listitem">transportstyrelsen/feelemeståvroe bïevnesh daarpesje naan sjïehtelevoetem pryövedh vuajemekåarhtem, traktovrekåarhtem jallh taksivuejijelegitimasjovnem utnedh</p>
+      <p type="listitem">bïevnesh daarpesje gosse edtja pryövedh jis lohkije tjuara jolleskuvleööhpehtimmiem orrijidh</p>
+      <p type="listitem">bïevnesh daarpesje reaktamedisijneles goerehtæmman.</p>
+    </list>
+    <p>Gosse miedtemem såvma mij lea dan itjmies guktie unnemes akte jaepie faangkegåetesne dellie hoksebarkijh reaktam utnieh sjeavohthvoetem miedtedh dan tjïrrh polijsebæjhkoehtimmiem darjodh miedtemen bïjre jïh gyhtjelassh vaestiedieh dovne polijse- jïh åklagereåejvieladtjijste. Vuesiehtimmieh gaavhtan dagkerh miedtemh båvveme, vaaltaladteme jïh kruepies daaresjimmie. Gååvnesieh aaj sjïere trafihkemiedtemh mej leah vuelebe miedtemeskaala vuesiehtimmien gaavhtan tjïervesne vuejedh maam hoksebarkijh reaktam utnieh bæjhkoehtidh.</p>
+    <p type="title">Sjïere bielelen sjeavohthvoete maanide</p>
+    <p>Jis hoksebarkijh suvmieh maanide miedteme dellie reaktam sjeavohthvoetem miedtedh. Dïhte maahta årrodh daaresjimmie jallh seksuellen vædtsoesvoete.</p>
+    <p>Jis hoksebarkijh suvmieh maana irhkesåvva edtjieh barkijh dagkerh sovmemh sosialedïenesjasse bæjhkoehtidh, mij edtja dam goerehtidh jïh eventuelle dam polijsese bæjhkoehtidh. Dïhte aaj gosse goerehtimmiem dorje jis noere vaarjelimmiem daarpesje. Hoksebarkijh skåltoem utnieh bïevnesh vedtedh maam maahta vihkeles goerehtimmesne årrodh.</p>
+    <p type="title">Ij naan aaltereraaste gååvnesh gosse maana jïjtje nænnoeste</p>
+    <p>Gosse lea onne maanaj bïjre lea åelieh gïeh nænnoestieh dej bïevnesi bïjre jis åadtjoeh dejtie olkese vedtedh jallh ij. Gosse maana båarasåbpoe sjædta jïh jïermijes dellie maana jïjtje åådtje nænnoestidh jis hoksebarkijh åadtjoeh bïevnesh olkese vedtedh jïh gïese. Ij gååvnesh naan sjïere aaltereraaste gåessie maana åådtje jïjtje nænnoestidh, dam åådtje persovneste persovnese nænnoestidh. Dïhte sæjhta jiehtedh eah åelieh åålegh åadtjoeh maanan healsoetsiehkien bïjre daejredh.</p>
+    <p type="title">Försäkringskassan/tjirkijekassa jïh försäkringsbolag/tjirkijebolaagh</p>
+    <p>Jïjtje nænnoste jis healsoe- jïh skïemtjehokse åådtje bïevnesh olkese vedtedh dan bïjre mah skïemtjelassh åtna jallh mah båehtjierdimmieh åådtjeme. Mohte jis skïemtjes jïh skïemtjemaaksoem ohtsedh tjirkijekasseste hoksebarkijh åadtjoeh dah vedtedh bïevnesh mejtie daarpesjieh guktie maahta vuarjasjidh jis reaktam åtna skïemtjemaaksose.</p>
+    <p>Dïhte aaj jis skaaram jallh skïemtjelassem åådtjeme jïh sæjhta maaksoem sov tjirkijebolaageste åadtjodh. Dellie tjirkijebolaage reaktam åtna daejredh maam daarpesje guktie maahta vuarjasjidh jis reaktam maaksose åtna.</p>
+    <p type="title">Miedtemh sjeavohthvoeten vööste</p>
+    <p>Jalhts gååvnese tsiehkieh gosse hoksebarkijh åadtjoeh miedtedh jallh edtjieh miedtedh sjeavohthvoetem dïhte ij leah sïejhmes. Våaromeåssjele lea sjeavohthvoete gååvnese juktie edtja skïemtjijem vaarjelidh.</p>
+    <p>Jis dïhte skïemtjejinie såvma naan hoksebarkijste lea sjeavohthvoetem miedteme maahta dam polijsese jallh Sosialståvrose bæjhkoehtidh. Destie dïhte persovne maahta åtaleme jïh dööpmeme sjïdtedh.</p>
+    <p xml:lang="swe">Fäll ihop</p>
+    <p xml:lang="swe">Tipsa och dela</p>
+    <list>
+      <p type="listitem" xml:lang="nno">Facebook</p>
+      <p type="listitem" xml:lang="nno">Twitter</p>
+    </list>
+    <p type="title" xml:lang="fkv">Tipsa en vän</p>
+    <p xml:lang="swe">Till:</p>
+    <p xml:lang="swe">Från:</p>
+    <p xml:lang="swe">Ditt namn:</p>
+    <p xml:lang="swe">Jag vill tipsa dig om en artikel på 1177 Vårdguiden:</p>
+    <p xml:lang="swe">http://www.1177.se/Jamtland-Harjedalen/Nationella-minoritetssprak/Nationella-minoritetssprak/Sydsamiska/Regler-och-rattigheter/Tystnadsplikt-och-sekretess/</p>
+    <p xml:lang="ger">Stäng</p>
+    <p xml:lang="nno">Skriv ut</p>
+    <p xml:lang="ger">Stäng</p>
+    <p type="title" xml:lang="nno">Skriv ut</p>
+    <p xml:lang="swe">Hela artikeln (ca 4 sidor)</p>
+    <p type="title" xml:lang="swe">Välj kapitel för utskrift</p>
+    <p>Mij dïhte lea? (ca 3 sidor)</p>
+    <p xml:lang="swe">Bielelen sjeavohthvoete (ca 3 sidor)</p>
+    <p xml:lang="ger">Publicerad:</p>
+    <p xml:lang="sms">2013-12-16</p>
+    <p xml:lang="swe">Redaktör:</p>
+    <p>
+      <em type="italic">Redaktööre: </em>
+    </p>
+    <p xml:lang="nob">Ingela Andersson, 1177 Vårdguiden</p>
+    <p xml:lang="swe">Granskare:</p>
+    <p xml:lang="nob"><em type="italic">Goerehtæjja: </em>Pia Aprea, kommunikatööre, Patientnämnden Region Skåne. </p>
+    <p>Gaajhkh sisvege lea gïetedamme, goerehtamme jïh dåhkasjahteme redaksjovneste jïh redaksjovneraereste 1177 Vårdguiden.</p>
+    <p xml:lang="swe">Synpunkter på innehållet? Tyck till</p>
+    <p xml:lang="swe">1177 Vårdguiden – en tjänst från Sveriges landsting och regioner</p>
+  </body>
+</document>

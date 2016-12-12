@@ -1,0 +1,96 @@
+<document xml:lang="sma" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>518</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.1177.se/Jamtland-Harjedalen/Nationella-minoritetssprak/Nationella-minoritetssprak/Sydsamiska/Egenvard-barn/d</origFileName>
+    <parallel_text xml:lang="eng" location="ont-i-orat-hos-barn.html"/>
+    <parallel_text xml:lang="fin" location="ont-i-orat-hos-barn.html"/>
+    <parallel_text xml:lang="fit" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="rmf" location="ont-i-orat-hos-barn---egenvard.html"/>
+    <parallel_text xml:lang="rmn" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="rmu" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="rmy-rka" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="rmy-rlo" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="sme" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="smj" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="swe" location="l1.html"/>
+    <parallel_text xml:lang="yid" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Gosse maana bieljie-naavlehtahkem åtna - maam maahta jïjtje darjodh? / Ont i örat hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe">Information och tjänster för din hälsa och vård. Besök 1177.se eller ring 1177 för sjukvårdsrådgivning. Öppet dygnet runt.</p>
+    <p xml:lang="swe">Gå direkt till innehållet</p>
+    <p xml:lang="swe">Gå direkt till navigeringen</p>
+    <p xml:lang="ger">Stäng</p>
+    <p xml:lang="nob">Behöver du sjukvårdsrådgivning? Ring 1177</p>
+    <p>Åarjelsaemiengiele / Sydsamiska</p>
+    <p type="title">ÅarjelsaemiengieleSydsamiska</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title">Gosse maana bieljie-naavlehtahkem åtna - maam maahta jïjtje darjodh?Ont i örat hos barn - vad kan man göra själv?</p>
+    <p xml:lang="nno">Skriv ut (ca 2 sidor)</p>
+    <list>
+      <p type="listitem">Jis maana gællesje åejjine bijjene dellie bankeme lååtjme bieljesne jïh ij dan jïjnjh naavlehth. Vuekiem åejjiegietjiem bijjene lea dåvnah bååmsteren nuelesne bïejedh.</p>
+    </list>
+    <p type="title">Daamhtaj jïjjesne naavlehte</p>
+    <p>Maanah gïeh sovhtine maahta bieljie-naavlehtahkem åadtjodh juktie skïelth bieljine benkiehtieh. Dah aaj maehtieh baaktjesem åadtjodh jis ovleme gaskebieljesne sjædta. Dovne sovhte jïh bieljieovleme sïejhme infeksjovneskïemtjelassh maanine. Daamhtaj maana jïjjege baaktjesistie fahkoe juktie jienebe benkehte gosse gællesje. Buerebe maahta damtedh jis gellie dåvnah åejjien nuelesne utnedh.</p>
+    <p>Jeatjah vaejvieh mestie maahta bieljie-naavlehtahkem åadtjodh lea ovleme bieljieraejkesne trommeskïelten vööste, voksedåmhpa jallh vaejvieh skiehrielïhtsine.</p>
+    <p type="title">Bieljieovleme gaskebieljesne</p>
+    <p>Bieljieovleme gaskebieljine daamhtaj aalka dallegh jïh boelhketjem ryöhkoe. Lissine naavlehte maana maahta domtesem utnedh luehkine bieljesne jïh nåakebe govledh. Aaj maahta vaejliem utnedh. Muvhtene trommeskïelte loedtene jïh sïeje bieljieraajkan galka. Dellie naavlehtahkem lååtjme. Maanah maehtieh aaj bieljieovlemem utnedh jïh eah bååktjesem damth.</p>
+    <p type="title">Baaktjesevualanimmie daalhkesh</p>
+    <p>Jis daajra maana bieljieovlemem åtna maahta baaktjesevualanimmie daalhkesidie vedtedh mej sisnie paracetamole, vuesiehtimmien gaavhtan Alvedon jïh Panodil, jallh daalhkesidie mej sisnie ibuprofen, vuesiehtimmieh Ipren jïh Ibumetin. Daalhkesh gååvnesieh galkije hammojne, stolepillerinie jïh tabledtine. Gååvnese eensi bïhkedimmieh aeskesne.</p>
+    <p>Gosse maanah nuerebe goh govhte askh ij byöroeh baaktjesevualanimmiem vedtedh bielelen voestes skïemtjesåjhterinie jallh dåaktarinie rååresjidh.</p>
+    <p>Maanah nuerebe goh 18 jaepieh gïeh vaejliem utnieh, eah edtjh baaktjesevualanimmie jallh vaejlievualanimmie daalhkesidie acetylsalicylsyrine nåhtadidh, vuesiehtimmien gaavhtan Magnecyl, Treo jallh Albyl jis ij dåaktere lea dam moeneme.</p>
+    <p type="title">Njueniesprejje</p>
+    <p>Njueniesprejjem maahta nåhtadidh gosse snoelken jïh dïhte dorje aelhkebe maanese voejngehtidh. Ij leah vuesiehtamme njueniesprejje viehkine sjædta jis bieljieinflammasjovne.</p>
+    <p type="title">Bieljiedåeriesmoere jïh laavkome</p>
+    <p>Jis raejkie trommeskïeltesne sjïdteme byöroe vuertedh laavkodh goske lea orrijamme bieljieraejkeste galkedh. Gosse trommeskïelte starnedamme, mij pråvhka varki sjïdtedidh, maahta viht laavkodh. Jis rööjrem bieljesne jallh bieljieovlemem åtna ij edtjh laavkodh åejjine tjaetsien bijjelesgietjien nuelesne.</p>
+    <p type="title">Maahta daarpesjidh hoksem bïeljelidh</p>
+    <p>Maanah maehtieh bieljie-naavlehtahkem åadtjodh gosse sovhtine. Mohte jis ij orrijh naavlehtidh, jïlhts baaktjesevualanimmie daalhkesidie båehtjierdamme jïh åejjie bijjene, byöroe maanam hoksejarngesne jallh jouredåastoevisnie goerehtidh göökte-golme dygni raejesne.</p>
+    <p>Jis maana samhtjan, ij åajsoeh stååkedidh jïh ij sïjhth jovkedh jïh nuerebe enn govhte askh, edtja hoksem ryöktese bïeljelidh.</p>
+    <p>Byöroe aaj eejnegen hoksejarngem bïeljelidh jis maam akt maanan bieljeste gurkeste, jis maana baaktjesem åtna jallh ij.</p>
+    <p>Maahta åålegh skïemtjehokseraeriestæmman ringkedh jïh rååresjidh.</p>
+    <p xml:lang="swe">Tipsa och dela</p>
+    <list>
+      <p type="listitem" xml:lang="nno">Facebook</p>
+      <p type="listitem" xml:lang="nno">Twitter</p>
+    </list>
+    <p type="title" xml:lang="fkv">Tipsa en vän</p>
+    <p xml:lang="swe">Till:</p>
+    <p xml:lang="swe">Från:</p>
+    <p xml:lang="swe">Ditt namn:</p>
+    <p xml:lang="swe">Jag vill tipsa dig om en artikel på 1177 Vårdguiden:</p>
+    <p xml:lang="nno">http://www.1177.se/Jamtland-Harjedalen/Nationella-minoritetssprak/Nationella-minoritetssprak/Sydsamiska/Egenvard-barn/d/</p>
+    <p xml:lang="ger">Stäng</p>
+    <p xml:lang="nno">Skriv ut (ca 2 sidor)</p>
+    <p xml:lang="ger">Publicerad:</p>
+    <p xml:lang="sms">2013-12-02</p>
+    <p xml:lang="swe">Redaktör:</p>
+    <p>
+      <em type="italic">Redaktööre: </em>
+    </p>
+    <p xml:lang="nob">Fredrik Lagerqvist, 1177 Vårdguiden</p>
+    <p xml:lang="swe">Granskare:</p>
+    <p><em type="italic">Goerehtæjja: </em>Bertil Marklund, sïejhmedåaktere, professore, FoU-ektievoete primærehokse Vänersborg </p>
+    <p xml:lang="swe">Illustratör:</p>
+    <p><em type="italic">Illustratööre: </em>Lotta Persson, illustratööre, Göteborg </p>
+    <p>Gaajhke sisvege lea aaj gïehtjedamme, goerehtamme jïh dåhkasjahteme redaksjovneste jïh redaksjovneraereste 1177 Vårdguiden.</p>
+    <p xml:lang="swe">Synpunkter på innehållet? Tyck till</p>
+    <p xml:lang="swe">1177 Vårdguiden – en tjänst från Sveriges landsting och regioner</p>
+  </body>
+</document>

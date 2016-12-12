@@ -1,0 +1,46 @@
+<document xml:lang="sma" id="no_id">
+  <header>
+    <title>JAAHKOE</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>63</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual/>
+    <origFileName>http://www.osko.no/index.php?kat_id=38&amp;art_id=70</origFileName>
+    <parallel_text location="index.php_kat_id=38_art_id=70.html" xml:lang="nob"/>
+    <parallel_text location="index.php_kat_id=38_art_id=70.html" xml:lang="sme"/>
+    <parallel_text location="" xml:lang="smj"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Kristusen gievlie</p>
+    <p type="title" xml:lang="sme">Áhččámet</p>
+    <p xml:lang="sme">Áhččámet, don guhte leat almmis!</p>
+    <p xml:lang="sme">Bauhuvvos du namma.</p>
+    <p xml:lang="sme">Bohtos du riika.</p>
+    <p xml:lang="sme">Šaddos du dáhttu,</p>
+    <p xml:lang="sme">mo almmis nu maiddái eatnama alde.</p>
+    <p xml:lang="sme">Atte midjiide odne min beaivválaš láibbi.</p>
+    <p xml:lang="sme">Ja atte midjiide min suttuid ándagassii,</p>
+    <p xml:lang="sme">nugo mii ge ándagassi addit velggolaččaidasamet.</p>
+    <p xml:lang="sme">Ale ge doalvvo min geahččalussii,</p>
+    <p xml:lang="sme">muhto beastte min báhas eret</p>
+    <p xml:lang="sme">Dasgo du lea riika ja fápmu ja gudni agálašvuhtti</p>
+    <p xml:lang="ger">Amen.</p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+  </body>
+</document>

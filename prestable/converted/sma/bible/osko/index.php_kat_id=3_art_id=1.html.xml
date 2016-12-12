@@ -1,0 +1,42 @@
+<document xml:lang="sma" id="no_id">
+  <header>
+    <title>JAAHKOE</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>70</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual/>
+    <origFileName>http://www.osko.no/index.php?kat_id=3&amp;art_id=1</origFileName>
+    <parallel_text location="index.php_kat_id=3_art_id=1.html" xml:lang="nob"/>
+    <parallel_text location="index.php_kat_id=3_art_id=1.html" xml:lang="sme"/>
+    <parallel_text location="index.php_kat_id=3_art_id=1.html" xml:lang="smj"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p xml:lang="sms">1</p>
+    <p xml:lang="sms">2</p>
+    <p xml:lang="sms">3</p>
+    <p xml:lang="sms">4</p>
+    <p xml:lang="sms">5</p>
+    <p xml:lang="sms">6</p>
+    <p xml:lang="sms">7</p>
+    <p>Soptsesh</p>
+    <p type="title">Skyllijh fealadimmesne</p>
+    <p>Guktie skyllemetijjem øørnedamme lea joekehts sijjeste sæjjan. Sïejhmemes skyllemeøøhpehtimmie lea dan jaepien gosse åktsadinie klaassesne vaadtsah, jïh gaektsie askh vaesieh  . Muvhtene lehkesne øøhpehtimmie våhkoebiejjine, fïerhten våhkoen jallh fïerhten mubpien våhkoen. Muvhtene lehkesne lea tjåanghkoeh hieljine, mearan jeatjebh leejri gåajkoe vuelkieh. Lohkh vielie skyllemen bïjre daesnie. Daesnie tjøønghkeme naan guvvieh skyllemegaavnesjimmijste. Mijjieh haestebe skyllijidie soptsesh tjaledh sijjen øørnegijstie.</p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+  </body>
+</document>

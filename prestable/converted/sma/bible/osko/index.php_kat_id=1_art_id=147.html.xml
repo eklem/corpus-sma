@@ -1,0 +1,45 @@
+<document xml:lang="sma" id="no_id">
+  <header>
+    <title>JAAHKOE</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>55</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual/>
+    <origFileName>http://www.osko.no/index.php?kat_id=1&amp;art_id=147</origFileName>
+    <parallel_text location="index.php_kat_id=1_art_id=147.html" xml:lang="nob"/>
+    <parallel_text location="index.php_kat_id=1_art_id=147.html" xml:lang="sme"/>
+    <parallel_text location="index.php_kat_id=1_art_id=147.html" xml:lang="smj"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Dov åssjalommesh</p>
+    <p type="title">Mannasinie skyllije?</p>
+    <p>Manne dam darjoem ihke lea akte tjaebpies vuekie. Gaptam åadtjoem. Jïh jïjnjh fuelhkieh skyllemasse båetieh.</p>
+    <p xml:lang="isl">Kar</p>
+    <p xml:lang="nob">i</p>
+    <p>anne 14 jaepien båeries</p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+    <p type="title" xml:lang="swe">kommentarer(1):</p>
+    <p type="title" xml:lang="dan">mange gode ting</p>
+    <p xml:lang="nob">Fordi jeg følger tradisjon, mange av mine venner konfirmeres, får endel gaver, og jeg får dra på samlinger.</p>
+    <p type="title" xml:lang="nno">Skriv en kommentar:</p>
+    <p xml:lang="nob">Navn:</p>
+    <p xml:lang="smn">epost:</p>
+    <p xml:lang="ger">Kommentar:</p>
+  </body>
+</document>

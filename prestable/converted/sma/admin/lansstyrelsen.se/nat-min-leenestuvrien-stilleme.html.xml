@@ -1,0 +1,121 @@
+<document xml:lang="sma" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>376</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/aarjelsaemien/Pages/leenestuvrien-stilleme.aspx</origFileName>
+    <parallel_text location="nat-min-laaninhallituksen-tehtavat.html" xml:lang="fin"/>
+    <parallel_text location="nat-min-leanastivrra-bargogohccumus.html" xml:lang="sme"/>
+    <parallel_text location="nat-min-lenastivra-viddno.html" xml:lang="smj"/>
+    <parallel_text location="nat-min-lansstyrelsens-uppdrag.html" xml:lang="swe"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Leenestuvrien stilleme - Länsstyrelsen i Stockholm</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Snabblänk till textinnehållet</p>
+      <p type="listitem" xml:lang="swe">om webbplatsen</p>
+      <p type="listitem">startsidan</p>
+      <p type="listitem" xml:lang="nno">nyheter</p>
+      <p type="listitem" xml:lang="eng">webbkarta</p>
+      <p type="listitem" xml:lang="eng">sökfunktion</p>
+      <p type="listitem" xml:lang="swe">kontakta oss</p>
+      <p type="listitem" xml:lang="nob">blanketter</p>
+      <p type="listitem" xml:lang="dan">publikationer</p>
+    </list>
+    <p type="title" xml:lang="swe">Webbplatsen använder kakor</p>
+    <p xml:lang="swe">På Länsstyrelsens webbplats används kakor (cookies) bland annat för anonym statistik. Du hjälper oss att göra en bättre webbplats om du accepterar kakor. Läs om kakor och hur vi använder dem</p>
+    <p xml:lang="swe">Jag accepterar kakor</p>
+    <p>Innehåll A till Ö</p>
+    <list/>
+    <list>
+      <p type="listitem" xml:lang="eng">English</p>
+      <p type="listitem" xml:lang="fin">Suomeksi</p>
+      <p type="listitem" xml:lang="fkv">Meänkieli</p>
+      <p type="listitem" xml:lang="sms">Lättläst</p>
+      <p type="listitem" xml:lang="nno">Resanderomani (romani chib)</p>
+      <p type="listitem">Åarjelsaemien</p>
+      <p type="listitem" xml:lang="smj">Sámigiella</p>
+      <p type="listitem" xml:lang="nob">Teckenspråk</p>
+    </list>
+    <list>
+      <p type="listitem">Lyssna</p>
+      <p type="listitem" xml:lang="nno">Webbkarta</p>
+    </list>
+    <p xml:lang="kal">Startsida</p>
+    <p xml:lang="sms">&gt;</p>
+    <p xml:lang="swe">Människa &amp; samhälle</p>
+    <p xml:lang="sms">&gt;</p>
+    <p xml:lang="swe">Nationella minoriteter</p>
+    <p xml:lang="sms">&gt;</p>
+    <p>Åarjelsaemien (sydsamiska)</p>
+    <p xml:lang="sms">&gt;</p>
+    <p>Leenestuvrien stilleme</p>
+    <list>
+      <p type="listitem" xml:lang="isl">Begravningar</p>
+      <p type="listitem" xml:lang="swe">Deponera pengar</p>
+      <p type="listitem" xml:lang="fkv">Folkhälsa</p>
+      <p type="listitem" xml:lang="eng">Integration</p>
+      <p type="listitem" xml:lang="swe">Jämställdhet</p>
+      <p type="listitem" xml:lang="swe">Kameraövervakning</p>
+      <p type="listitem" xml:lang="dan">Krisberedskap</p>
+      <p type="listitem" xml:lang="dan">Livsmedelskontroll</p>
+      <p type="listitem" xml:lang="isl">Lönegaranti</p>
+      <p type="listitem" xml:lang="nno">Medborgarskap</p>
+      <p type="listitem" xml:lang="swe">Mänskliga rättigheter</p>
+      <p type="listitem">Nationella minoriteter <list><p type="listitem" xml:lang="swe">Förvaltningsområden</p><p type="listitem" xml:lang="swe">Lagen om nationella minoriteter</p><p type="listitem" xml:lang="swe">Länsstyrelsens uppdrag</p><p type="listitem" xml:lang="swe">Organisationsbidrag</p><p type="listitem" xml:lang="nob">Statsbidrag</p><p type="listitem" xml:lang="swe">Övriga insatser</p><p type="listitem" xml:lang="fin">Suomeksi</p><p type="listitem" xml:lang="smj">Davvisámigiella (nordsamiska)</p><p type="listitem" xml:lang="smj">Julevsámegiella (lulesamiska)</p><p type="listitem">Åarjelsaemien (sydsamiska) <list><p type="listitem">Reeremedajvh</p><p type="listitem">Laake nasjovnelle unnebelåhkoej bïjre</p><p type="listitem">Leenestuvrien stilleme</p><p type="listitem">Åårganisasjovnedåarjoeh</p><p type="listitem">Staatedåarjoeh</p></list></p><p type="listitem" xml:lang="fkv">Meänkieli</p><p type="listitem" xml:lang="kal">Romani arli</p><p type="listitem" xml:lang="sme">Romani kelderaš</p></list></p>
+      <p type="listitem" xml:lang="romanian">Notarius publicus</p>
+      <p type="listitem" xml:lang="eng">Val</p>
+      <p type="listitem">Vigsel</p>
+      <p type="listitem" xml:lang="swe">Överförmyndare</p>
+    </list>
+    <p xml:lang="swe">Dela informationen</p>
+    <p type="title">Leenestuvrien stilleme</p>
+    <p>
+      <em type="italic">Leenestuvrie Stuehkesne jih Saemiedigkie stillemem åådtjeme vihtesjidh laakem nasjovnelle unnebelåhkoej jih unnebelåhkoegïeli bïjre mij Tsiengelen 1.b 2010 faamoem åadtjoeji. </em>
+    </p>
+    <p>Fïerhten jaepien Leenestuvrie jih Saemiedigkie edtjieh minngiejielemen laaken mietie gïehtjehtidh jih dam reerenasse buerkiestidh.</p>
+    <p>Leenestuvrie edtja aaj Saemiedigken ektine barkoem ektiedidh dejtie unnebelåhkoepolitihki vuepside nasjovnelle daltesisnie. Dïhte sjädta mijjieh edtjebe bïevnesedarjomidie öörnedh jih aaj tjïeltide jih unnebelåhkojde dåarjedidh sijjen barkosne ektiedimmiem tseegkedh tjïeltedaltesisnie. Leenestuvrie jih Saemiedigkie edtjieh aaj stillemen mietie staatedåarjoeh joekedidh tjïeltide jih laantedigkide mah reeremedajvi sisjnelisnie.</p>
+    <p type="title" xml:lang="fkv">Kontakta oss</p>
+    <p xml:lang="sme">Ann-Marie Algemo</p>
+    <p xml:lang="nob">Ann-Marie punkt Algemo snabela lansstyrelsen punkt se§Ann-Marie punkt Algemo snabela lansstyrelsen punkt se</p>
+    <p xml:lang="sms">010-2231209</p>
+    <p xml:lang="nob">Katarina Popovic</p>
+    <p xml:lang="nob">Katarina punkt Popovic snabela lansstyrelsen punkt se§Katarina punkt Popovic snabela lansstyrelsen punkt se</p>
+    <p xml:lang="sms">010-2231517</p>
+    <p>Helena Cronséll</p>
+    <p xml:lang="nob">Helena punkt Cronsell snabela lansstyrelsen punkt se§Helena punkt Cronsell snabela lansstyrelsen punkt se</p>
+    <p xml:lang="sms">010-2231279</p>
+    <p xml:lang="fin">Vladimir Guala</p>
+    <p xml:lang="swe">Vladimir punkt Guala snabela lansstyrelsen punkt se§Vladimir punkt Guala snabela lansstyrelsen punkt se</p>
+    <p xml:lang="sms">010-2231338</p>
+    <p xml:lang="swe">Skicka meddelande</p>
+    <p xml:lang="swe">Dölj formulär</p>
+    <p xml:lang="nno">E-postadress</p>
+    <p xml:lang="swe">Skicka en kopia av meddelandet till angiven e-postadress</p>
+    <p xml:lang="swe">Meddelande</p>
+    <p xml:lang="swe">Skriv in nedanstående kod för att skicka meddelande</p>
+    <p xml:lang="swe">Generera ny bild</p>
+    <p xml:lang="swe">Rapportera fel på sidan</p>
+    <p xml:lang="swe">Dölj kommentarsformulär</p>
+    <p type="title" xml:lang="swe">Rapportera fel på sidan</p>
+    <p xml:lang="swe">Vi tar gärna emot dina synpunkter om du hittat något felaktigt på den här sidan. Din kommentar skickas till sidansvarig redaktör.</p>
+    <p>Namn</p>
+    <p xml:lang="eng">E-post</p>
+    <p xml:lang="ger">Kommentar</p>
+    <p xml:lang="swe">Skriv in nedanstående kod för att skicka kommentar</p>
+    <p xml:lang="swe">Generera ny bild</p>
+  </body>
+</document>

@@ -1,0 +1,66 @@
+<document xml:lang="sma" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>282</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.saemiedigkie.no/layout/set/print/Lierehtimmie/Maanagierte</origFileName>
+    <parallel_text xml:lang="smj" location="manajgarde.html"/>
+    <parallel_text xml:lang="nob" location="barnehager.html"/>
+    <parallel_text xml:lang="sme" location="manaidgardi.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Maanagïerte / Lïerehtimmie / Saemiedigkie - Sametinget</p>
+    <p>Ohtsh dåarjoem</p>
+    <p type="title">Maanagïerte</p>
+    <p>Maanagïertepolitihken åejvieulmie Saemiedigkesne lea hijven byjjenimmietsiehkieh sjugniedidh saemien maanagïertefaalenassen tjïrrh. Saemien maanagïertefaalenasse lea akte gaahpoeh faalenasse gaajhkide maanide jïh eejhtegidie mah dam sijhtieh. Vihkeles saemien gïelem jïh kultuvrem åvtese lutnjedh aktene saemien maanagïertefaalenassesne. Daate lea aerpien jïh aerpievuekiej bïjre, men seamma tïjjen gorredidh, sjugniedidh jïh orrestidh.</p>
+    <p>Politihkere gïen diedte</p>
+    <p xml:lang="nob">Rådsmedlem</p>
+    <p>NSR</p>
+    <p xml:lang="nob">Nordre</p>
+    <p xml:lang="sme">Silje Karine Muotka</p>
+    <p>Phone: +47 984 87 576</p>
+    <p xml:lang="sme">silje.karine.muotka@samediggi.no</p>
+    <p>Daaletje</p>
+    <p>Saemien sisvege maanagïertelohkehtæjjaööhpehtimmesne</p>
+    <p>Gaajhkesh mah dam orre maanagïertelohkehtæjjaööhpehtimmiem aelkieh edtjieh s...</p>
+    <p>Lohkh jienebh</p>
+    <p>Vuesieh gaajkesh saakh</p>
+    <p>Saemiedigkiebïevnesen mietie saemien maanagïertefaalenassen bïjre Saemiedigkie edtja hoksedh:</p>
+    <list>
+      <p type="listitem">sisvege maanagïertine evtiedimmiem, lïerehtimmiem jïh skearkagimmiem eevtjie</p>
+      <p type="listitem">maanah lissiehtamme gïeleskreejremem åadtjoeh noerhte- julev jïh åarjelsaemien</p>
+      <p type="listitem">gïelebiesiemaallh maanagïertine evtiesuvvieh</p>
+      <p type="listitem">maanagïerth nuekies saemiengïelen barkijh utnieh</p>
+      <p type="listitem">maanagïerth nuekies pedagogeles dalhketjh jïh stååkegaevnieh utnieh</p>
+      <p type="listitem">maanah iktemearan evtiedimmiem lïerehtimmiesisvegisnie utnieh maanagïerteste skuvlese</p>
+    </list>
+    <p>Saemiedigkie naemhtie tjïelkeste mij akte saemien maanagïertefaalenasse lea:Saemien maanagïertefaalenasseakte faalenasse gusnie maanagïerten barkoevåarome lea saemien gïele jïh kultuvre. Maanagïerte edtja maanaj saemien identiteetem nænnoestehtedh viehkine saemien gïelem nuhtjedh jïh saemien kultuvren bïjre bievnedh. Saemiengïelen pedagogeles barkijh maanagïertem stuvrieh.</p>
+    <p>Maahta saemien maanagïertefaalenassem daejnie såarhtine juekedh: a) saemien maanagïerth jïh nöörjen maanagïerth saemien goevtesinie b) maanagïerth faalenassine saemien gïelelïerehtimmien bïjre.</p>
+    <p>Saemiedigkie saemien maanagïertefaalenassese sjïehteladta viehkine dåarjoem reeredh maanagïertide. Maanagïerth mah aktem saemien maanagïertefaalenassem vedtieh maehtieh dej joekehts dåarjoeöörnegi bïjre syökedh. Saemiedigkien budsjedtedejtie dåarjoeöörnegidie buerkeste.</p>
+    <p>Juktie maanagïerten barkoem dåarjoehtidhMieriesoejkesjinie maanagïerten sisvegasse jïh laavenjassinejienebh teemagærjetjh leah dorjesovveme. Teemagærjetjh edtjieh skraejrine årrodh jïh våaroeminie årrodh ussjedæmman gosse ovmessie teemajgujmie barka mah leah ektiedamme maanagïerten sisvegasse jïh laavenjasside. Aktebïhkedæjja maanagïertide saemien maanajgujmielea dorjesovveme.</p>
+    <p>Saemiedigkien leah jienebh laavenjostoeguejmieh mah mijjine berkieh juktie mijjen ulmieh jaksedh.</p>
+    <p>Maahtoedepartemente</p>
+    <p>Ööhpehtimmiedirektovrate</p>
+    <p>Fylhkenålma</p>
+    <p>Maanagïerti eejhtegemoenehtse</p>
+    <p>Byjngetje vierhtieh:</p>
+    <p>Maanagïertelaake (Lovdata)</p>
+    <list/>
+    <p>
+      <span type="quote">Saemien maanagïertefaalenasse akte gaahpoeh faalenasse gaajhkide maanide jïh eejhtegidie mah dam sijhtieh.</span>
+    </p>
+  </body>
+</document>

@@ -1,0 +1,109 @@
+<document xml:lang="sma" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>222</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.saemiedigkie.no/layout/set/print/Gaerjagaaetie</origFileName>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="nob" location="bibliotek.html"/>
+    <parallel_text xml:lang="sme" location="girjeradju.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Gærjagåetie / Saemiedigkie - Sametinget</p>
+    <p>
+      <span type="quote">Saemiedigkie edtja saemiej politihkeles sijjiem veaksahbåbpoe darjodh jïh saemiej iedtjh skreejredh Nöörjesne jïh sjïehteladtedh guktie saemieh maehtieh sov gïelem, sov kultuvrem jïh sov siebriedahkejieledem gorredidh jïh evtiedidh.</span>
+    </p>
+    <p>Saemiedigkien bïjre</p>
+    <p>Veeljeme jïh veeljemelåhkoe</p>
+    <p>Stipendh jïh dåarjoeh</p>
+    <p xml:lang="smj">Web-tv</p>
+    <p>Tjaangh BIBSYS</p>
+    <list>
+      <p type="listitem" xml:lang="romanian">Oria</p>
+      <p type="listitem" xml:lang="nob">Bibsys</p>
+    </list>
+    <p type="title">Gærjagåetien bïjre</p>
+    <p>Saemiedigkien gærjagåetie dam stööremes våarhkoem gærjijste jïh jeatjah materijelleste saemien gï...</p>
+    <p>Histovrije</p>
+    <p xml:lang="sms">//</p>
+    <p>Barkijh</p>
+    <p xml:lang="sms">//</p>
+    <p>Govlehtallh</p>
+    <p type="title">Dïenesjh</p>
+    <p>Jis edtja dongkedh jallh löönedh Saemiedigkien gærjagåeteste tjoerh tjaalasovveme löönijinie årro...</p>
+    <p>Löönijinie sjïdth</p>
+    <p xml:lang="sms">//</p>
+    <p>Naemhtie datne dov löönemem orresth</p>
+    <p xml:lang="sms">//</p>
+    <p>Mov sæjroe/Guktie tjeakoesbaakoem darjodh</p>
+    <p xml:lang="sms">//</p>
+    <p>Gærjapaahkh lååjkedæmman</p>
+    <p type="title">Våarhkoeh</p>
+    <p>Saemiedigkien gærjagåetien dovne ræhpas jïh steegkeldh våarhkoeh. Mijjen akte stoerre magasijne t...</p>
+    <p>Sjïerevåarhkoeh</p>
+    <p xml:lang="sms">//</p>
+    <p>Plaerieh jïh boelhkeplaerieh</p>
+    <p xml:lang="sms">//</p>
+    <p>Daatabaash</p>
+    <p type="title" xml:lang="sme">Diŋgo Sámedikki ávvugirjjiid dákko</p>
+    <p xml:lang="sme">Sámedikki 25 jagi ávvudeami oktavuođas almmuhuvvojedje guokte girjji: Sámediggi 25 jagi ja Sámediggi ja dáidda.</p>
+    <p type="title">Saemien tjaelijelearoe tseegkesåvva</p>
+    <p>Saemien lohkijh jienebh gærjah saemiengïelesne sijhtieh mejstie noerh eadtjalduvvieh. Dan åvteste Saemiedigkie, Saemien tjaelijesiebreste (SGS), jïh Saemien tjiehpiedæjjaraerie (SDR) aktem tjaelijelearoem nierhkieh mij edtja noere tjaelijh dåårrehtidh mah saemiengïelesne tjaelieh.</p>
+    <p type="title">Mijjieh juvnehtibie</p>
+    <p type="title">Saemien bibliografije</p>
+    <p>
+      <list>
+        <p type="listitem">Nöörjen saemien bibliografije</p>
+      </list>
+      <list>
+        <p type="listitem">Sveerjen saemien bibliografije</p>
+      </list>
+      <list>
+        <p type="listitem">Såevmien saemien bibliografije</p>
+      </list>
+    </p>
+    <p type="title">Saemien gærjabussh</p>
+    <p>
+      <list>
+        <p type="listitem" xml:lang="sme">Gærjagåetiebusse Deatnu/ Unjárga</p>
+      </list>
+      <list>
+        <p type="listitem">Gærjagåetie- jïh kultuvrebusse Noerhte-Tromsesne</p>
+      </list>
+      <list>
+        <p type="listitem" xml:lang="sme">Gærjabusse Kárásjohka/Utsjok/Porsanger</p>
+      </list>
+      <list>
+        <p type="listitem">Gærja- jïh kultuvrebusse Tromsesne</p>
+      </list>
+      <list>
+        <p type="listitem">Julevsaemien gærjabusse</p>
+      </list>
+      <list>
+        <p type="listitem">Åarjelsaemien gærjabusse/Gærjah</p>
+      </list>
+      <list>
+        <p type="listitem">Ektienoerhtelaanti gærjabusse</p>
+      </list>
+    </p>
+    <p type="title" xml:lang="sme">Blogga</p>
+    <p>
+      <list>
+        <p type="listitem">Saemien gærjagåetiedïenesje</p>
+      </list>
+    </p>
+  </body>
+</document>

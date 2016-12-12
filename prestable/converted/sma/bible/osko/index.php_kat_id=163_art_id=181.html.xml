@@ -1,0 +1,44 @@
+<document xml:lang="sma" id="no_id">
+  <header>
+    <title>JAAHKOE</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>73</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual/>
+    <origFileName>http://www.osko.no/index.php?kat_id=163&amp;art_id=181</origFileName>
+    <parallel_text location="index.php_kat_id=163_art_id=181.html" xml:lang="nob"/>
+    <parallel_text location="index.php_kat_id=163_art_id=181.html" xml:lang="sme"/>
+    <parallel_text location="" xml:lang="smj"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Kristusen gievlie</p>
+    <p type="title" xml:lang="sme">Du soajáidat mu ala</p>
+    <p xml:lang="sme">1. Du soajáidat mu ala, o Jesus lebbe don,</p>
+    <p xml:lang="sme">vai morraš sis ja ilus du luhte bisun mun.</p>
+    <p xml:lang="sme">Mu dorvu leage heađis, mu fápmu, suodjalus,</p>
+    <p xml:lang="sme">ja divtte juohke beaivvi, mu eallit árpmu sis.</p>
+    <p xml:lang="sme">2. Su suttuid ándagassii don atte, Beastážan,</p>
+    <p xml:lang="sme">ja sivdnit bassi miela ja dáhtu raddasán.</p>
+    <p xml:lang="sme">Min váldde, sihke stuorráid ja smávváid, háldosat,</p>
+    <p xml:lang="sme">ja divtte odne eahket min nohkkat ráfásat.</p>
+    <p xml:lang="nob">Lina Sandell</p>
+    <p xml:lang="nob">J. Børretzen</p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+  </body>
+</document>

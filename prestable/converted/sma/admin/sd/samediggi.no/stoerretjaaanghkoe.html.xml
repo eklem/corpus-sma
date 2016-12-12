@@ -1,0 +1,88 @@
+<document xml:lang="sma" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>215</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.saemiedigkie.no/layout/set/print/Saemiedigkien-bijre/AAaarganisasjovnestruktuvre/Stoerretjaaanghkoe</origFileName>
+    <parallel_text xml:lang="smj" location="aallestjaahkanibme.html"/>
+    <parallel_text xml:lang="nob" location="plenum.html"/>
+    <parallel_text xml:lang="sme" location="dievascoahkkin.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Stoerretjåanghkoe / Åårganisasjovnestruktuvre / Saemiedigkien bïjre / Saemiedigkie - Sametinget</p>
+    <p type="title">Stoerretjåanghkoe</p>
+    <p>Saemiedigkien stoerretjåanghkoe lea Saemiedigkien bijjemes åårgane jïh faamoe.</p>
+    <p>Saemiedigkie sov barkoem sjïehtede dej mieriej sisnjeli mah leah vadteme Laakesne Saemiedigkien bïjre jïh jeatjah saemien reaktatsiehkiej bïjre (saemielaake) . Stoerretjåanghkoe saemiedigkien barkoeöörnegem nænnoste, njoelkedassigujmie jïh bïhkedassigujmie dejtie jeatjah darjoemidie mejtie Saemiedigkie stuvrie.</p>
+    <p>Stoerretjåanghkoeh sïejhmemes njieljien aejkien jaepien, seamma våhkoen goh moenehtsetjåanghkoeh. Måantan jïh dæjstan leah moenehtsetjåanghkoeh, stoerretjåanghkoe lea gaskevåhkoen raejeste bearjadahken raajan.</p>
+    <p>Veeljemeboelhken 2013-2017 daah krirrieh jïh læstoeh Saemiedigkesne:</p>
+    <list>
+      <p type="listitem">
+        <em type="bold">Nöörjen saemiej rïjhkesiebrie (NSR) </em>
+      </p>
+      <p type="listitem">
+        <em type="bold">Nöörjen saemiej rïjhkesiebrie (NSR) jïh Samefolkets parti (SáB) (ektielæstoe) </em>
+      </p>
+      <p type="listitem">
+        <em type="bold">Barkoekrirrie </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="bold">Árja </em>
+      </p>
+      <p type="listitem" xml:lang="ger">
+        <em type="bold">Fremskrittskrirrie </em>
+      </p>
+      <p type="listitem">
+        <em type="bold">Båatsoesaemielæstoe </em>
+      </p>
+      <p type="listitem">
+        <em type="bold">Åelkies </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="bold">Nordkalottfolket </em>
+      </p>
+      <p type="listitem">
+        <em type="bold">Åarjel-Saemiej Gïelh </em>
+      </p>
+      <p type="listitem">
+        <em type="bold">Saemieh åerjielisnie </em>
+      </p>
+      <p type="listitem" xml:lang="nob">
+        <em type="bold">Fastboendes liste </em>
+      </p>
+    </list>
+    <p>
+      <em type="bold">Saemiedigkien moenehtsetjåanghkoeh jïh stoerretjåanghkoeh mubpien jaepiebielien 2015: </em>
+    </p>
+    <p>Våhkoen 39: skïereden 21. – 25. b., moenehtse- jïh stoerretjåanghkoeh</p>
+    <p>Våhkoen 47: gålkoen 16. – 20. b., moenehtsetjåanghkoeh</p>
+    <p>Våhkoen 49: gålkoen 30. b. – goeven 4. b., stoerretjåanghkoe</p>
+    <p>
+      <em type="bold">Saemiedigkien moenehtsetjåanghkoeh jïh stoerretjåanghkoeh voestes bielien 2016 </em>
+    </p>
+    <p>Våhkoe 9: goevten 29. b. - njoktjen 4. b. moenehtse- jïh stoerretjåanghkoeh.</p>
+    <p>Våhkoe 21: suehpeden 23. - 27. b., moenehtsetjåanghkoeh (måanta– bearjadahke)</p>
+    <p>Våhkoe 23: ruffien 6. - 10. b. stoerretjåanghkoe</p>
+    <p>
+      <em type="bold">Saemiedigkien moenehtsetjåanghkoeh jïh stoerretjåanghkoeh mubpien biejjien 2016 </em>
+    </p>
+    <p>Våhkoe 39: skïereden 26. - 30. b., moenehtse- jïh stoerretjåanghkoeh</p>
+    <p>Våhkoe 47: gålkoen 21. - 25. b., moenehtsetjåanghkoeh (måanta – bearjadahke)</p>
+    <p>Våhkoe 49: goeven 5. - 9. b., stoerretjåanghkoe</p>
+    <p xml:lang="sme">
+      <em type="italic">Guvvie: Kenneth Hætta/Sametinget. </em>
+    </p>
+  </body>
+</document>

@@ -1,0 +1,37 @@
+<document xml:lang="sma" id="no_id">
+  <header>
+    <title>JAAHKOE</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>65</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual/>
+    <origFileName>http://www.osko.no/index.php?kat_id=3&amp;art_id=148</origFileName>
+    <parallel_text location="index.php_kat_id=3_art_id=148.html" xml:lang="nob"/>
+    <parallel_text location="index.php_kat_id=3_art_id=148.html" xml:lang="sme"/>
+    <parallel_text location="index.php_kat_id=3_art_id=148.html" xml:lang="smj"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Soptsesh</p>
+    <p type="title">Vitnh tjaebpies åasah. Darjoeh soptsesem</p>
+    <p>Mijjieh sïjhtebe datne edtjh meatan årrodh soptsesh darjodh dan nedtesæjjan Soptsesh, leejri bïjre, skyllemegaavnesjimmieh, åehpies almetji bïjre, gærja-, musihke jih filmesoptsesh jallh dov åssjaldahkh jieleden smaave jïh stoerre onterdimmiej bïjre.</p>
+    <p>Seedth mijjese teeksth jih guvvieh jih mijjieh sïjhtebe datnem viehkiehtidh teekstine. Datne maahtah veeljedh mennie gïelesne datne sïjhth tjaeledh.</p>
+    <p>Dah mah soptsesem mijjese seedtieh maehtieh ierielimmiem åadtjodh.</p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+  </body>
+</document>
