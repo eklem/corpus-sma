@@ -1,0 +1,36 @@
+<document xml:lang="sma" id="no_id">
+  <header>
+    <title>JAAHKOE</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>118</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual/>
+    <origFileName>http://www.osko.no/index.php?kat_id=137&amp;art_id=139</origFileName>
+    <parallel_text location="index.php_kat_id=137_art_id=139.html" xml:lang="nob"/>
+    <parallel_text location="index.php_kat_id=137_art_id=139.html" xml:lang="sme"/>
+    <parallel_text location="" xml:lang="smj"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Kristusen gievlie</p>
+    <p type="title" xml:lang="nob">Hvilestedet</p>
+    <p xml:lang="nob">Den blå perlen skal minne om en skyfri, blå himmel, for at den skal få deg til å tenke på en dag uten bekymringer. En dag av glede. Gleden kan komme til oss plutselig, som nåde, noe vi ikke har fortjent. Du kjenner trygghet til at alt kan bli bra. Du behøver ikke vite hvordan akkurat nå. Det er ok å ikke tenke på bekymringene. Jesus sa det: Vær som fuglene og blomstene, de er frie, de bekymrer seg ikke. Vi kan ta alt av Guds hånd. Du kan tenke på det når du holder i den blå perlen.</p>
+    <p xml:lang="nob">Les hva Jesus sier om frihet og glede i Lukasevangeliet kapitel 12, 22-31 vers.</p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+  </body>
+</document>

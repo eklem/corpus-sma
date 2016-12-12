@@ -1,0 +1,36 @@
+<document xml:lang="sma" id="no_id">
+  <header>
+    <title>JAAHKOE</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>145</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual/>
+    <origFileName>http://www.osko.no/index.php?kat_id=129&amp;art_id=110</origFileName>
+    <parallel_text location="index.php_kat_id=129_art_id=110.html" xml:lang="nob"/>
+    <parallel_text location="index.php_kat_id=129_art_id=110.html" xml:lang="sme"/>
+    <parallel_text location="" xml:lang="smj"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Kristusen gievlie</p>
+    <p type="title" xml:lang="nno">Nådegaver</p>
+    <p xml:lang="nob">Det er forskjellige nådegaver, men Ånden er den samme. Det er forskjellige tjenester, men Herren er den samme. Det er forskjellige kraftige virkninger, men Gud er den samme, han som er virksom og gjør alt i alle. Hos hver enkelt gir Ånden seg til kjenne slik at det tjener til det gode. For ved én og samme Ånd blir det gitt én å tale visdom, en annen å formidle kunnskap, én får ved den ene Ånd en spesiell trosgave, en annen får nådegaver til å helbrede, og én får kraft til å gjøre under. Én får den gave å tale profetisk, en annen å bedømme ånder, én får ulike slag av tungetale, og en annen kan tyde tungetale. Alt dette gjør den ene og samme Ånd, som deler ut sine gaver til hver enkelt slik han vil.</p>
+    <p xml:lang="nno">1:e Kor. 12:4-11</p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+  </body>
+</document>
