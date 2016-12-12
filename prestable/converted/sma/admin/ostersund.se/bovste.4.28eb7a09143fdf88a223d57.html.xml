@@ -1,0 +1,32 @@
+<document xml:lang="sma" id="no_id">
+  <header>
+    <title>Bovste - ostersund.se</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>64</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.ostersund.se/boleva/samiskasomminoritetssprak/maanahoohpehtimmiebarnutbildning/aahrskuvleforskola/mosippanaarhskuvlemosippansforskola/bovste.4.28eb7a09143fdf88a223d57.html</origFileName>
+    <parallel_text xml:lang="swe" location="renenbovtse.4.7602401133d7a3802d80002366.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p type="title">Bovtse</p>
+    <p>Bovtsesne akten stååkedimmie- jih lïerehtimmie byjresem gååvnese mah saemien kultuvreste skreejreme. Jienebh bïevnesh saemien kultuvren bïjre vuelnie gååvnese.</p>
+    <p>Gaaltije</p>
+    <p>Bovtsen barkoesoejkesje Renen/Bovtse arbetsplan (pdf, 214 kB)</p>
+    <p type="title">Mijjieh mah daesnie barkeminie leah</p>
+    <p><em type="italic">Tanja Nordfjell </em>mij åarjelsaemiengïelem soptseste. Tanja maahtoem vätnoen jih saemien kultuvren bïjre åtna. Dïhte aaj akten vätnoeööhpehtimmiem Johkemehkesne vaadtseme. </p>
+    <p xml:lang="sme"><em type="italic">Mait Högberg </em>aarskuvlelohkedäjja lea. </p>
+    <p><em type="italic">Susanne Nordberg </em>lohkedäjja maadthskuvlen aerebi jaepide, aarhskuvleklaassese jih aarhskuvlese. </p>
+  </body>
+</document>

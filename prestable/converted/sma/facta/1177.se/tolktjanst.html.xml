@@ -1,0 +1,113 @@
+<document xml:lang="sma" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>614</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.1177.se/Jamtland-Harjedalen/Nationella-minoritetssprak/Nationella-minoritetssprak/Sydsamiska/Regler-och-rattigheter/Tolktjanst</origFileName>
+    <parallel_text xml:lang="eng" location="tolktjanst.html"/>
+    <parallel_text xml:lang="fin" location="tolktjanst.html"/>
+    <parallel_text xml:lang="fit" location="tolktjanst.html"/>
+    <parallel_text xml:lang="rmf" location="tolktjanst.html"/>
+    <parallel_text xml:lang="rmn" location="tolktjanst.html"/>
+    <parallel_text xml:lang="rmu" location="tolktjanst.html"/>
+    <parallel_text xml:lang="rmy-rka" location="tolktjanst.html"/>
+    <parallel_text xml:lang="rmy-rlo" location="tolktjanst.html"/>
+    <parallel_text xml:lang="sme" location="tilktjanst.html"/>
+    <parallel_text xml:lang="smj" location="tolktjanst.html"/>
+    <parallel_text xml:lang="swe" location="tolktjanst.html"/>
+    <parallel_text xml:lang="yid" location="tolktjanst.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Toelhkestimmiedïenesje / Tolktjänst - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe">Information och tjänster för din hälsa och vård. Besök 1177.se eller ring 1177 för sjukvårdsrådgivning. Öppet dygnet runt.</p>
+    <p xml:lang="swe">Gå direkt till innehållet</p>
+    <p xml:lang="swe">Gå direkt till navigeringen</p>
+    <p xml:lang="ger">Stäng</p>
+    <p xml:lang="nob">Behöver du sjukvårdsrådgivning? Ring 1177</p>
+    <p>Åarjelsaemiengiele / Sydsamiska</p>
+    <p type="title">ÅarjelsaemiengieleSydsamiska</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title">ToelhkestimmiedïenesjeTolktjänst</p>
+    <p xml:lang="nno">Skriv ut (ca 3 sidor)</p>
+    <p type="title">Bïevnesh</p>
+    <p type="title">Bïevnesh</p>
+    <p type="title">Jeatjah gïelide toelhkestidh</p>
+    <p>Healsoe- jïh skïemtjehoksebarkiji skåaltoe bïevnesh vedtieh mij lea individuellen sjiehtedamme. Barkijh edtjieh krööhkedh gaskem jeatjebem mij kulturellen jïh gïeleldh våaromem åtna. Dïhte sæjhta jiehtedh barkijh, jis daarpesje, edtjieh toelhkem utnedh gosse bievnieh. Maahta jïjtje krïevedh toelhkem åadtjodh, jis ij naan gihtjieh jis dam daarpesje. Dellie tjïeltem beavna, man dïedtem tjaangedæjjatoelhki åvteste åtna.</p>
+    <p>Tjaangedæjjah gïeh toelhkem daarpesjieh gosse healsoe- jïh skïemtjehoksem gaskesadtedh daamhtaj lea fuelhkieh jïh voelph gïeh maehtieh viehkine årrodh. Bene jïlhts gååvnese dam maam gohtje fuelhkietoelhkem buerebe jis offisiellen toelhkem laantedigkien jallh tjïelten tjïrrh nåhtadidh. Kulturellen joekehts jïh joekehts vierhtieh persovni gaskem ovmessie laantijste dorje naan tsiehkine hijven åtna naan gie neutraleles gie maahta viehkine toelhkestidh.</p>
+    <p type="title">Gusnie gaskeladtja?</p>
+    <p>Maahta tjïelten telefovnevïekselem bievnedh mij maahta vijriebasse saehtedh.</p>
+    <p type="title">Toelhkestimmiejarnge</p>
+    <p>Jeenjemes laantedigkie/regijovnh toelhkejarngem utnieh mearan naan dïenesjh utnieh mejtie maehtieh bievnedh.</p>
+    <p>Toelhkejarngesne berkieh sjïereööhpehtamme toelhkide:</p>
+    <list>
+      <p type="listitem">Væhtatoelhkh dejtie bieljehts maanabaeleste, dïhte sæjhta jiehtedh almetjh gïeh bieljehts reakasovveme jallh dam dasseme gosse maana jïh væhtagïelem utnieh voestesgïeline.</p>
+      <p type="listitem">Geervebieljehtstoelhkh geervebieljehtsidie, dïhte sæjhta jiehtedh persovnh gïeh bieljehts sjïdteme gosse geerve jïh giej sveerjengïele voestesgïeline (daamhtaj tjaelemetoelhkestimmie) mohte aaj væhtah dåarjojne (TSS) jïh lohkeme.</p>
+      <p type="listitem">Bieljehts-tjelmehtstoelhkh bieljehts-tjelmehtsidie jallh dejtie mahte bieljehts jallh tjelmehts persovnidie.</p>
+    </list>
+    <p>Toelhkh darjoeh guktie govlijes almetjh jïh bieljehts/mahte bieljehts maehtieh gaskesadtedh.</p>
+    <p>Toelhkedïenesje namhtah jïh maahta toelhkem dongkedh laantedigkien toelhkejarngen tjïrrh gaajhkh tsiehkine gosse veanhta dam daarpesjidh. Dam dejtie dovne bieljehts maanabaeleste, mahte bieljehts, geervebieljehts, bieljehts-tjelmehts jïh govlijes.</p>
+    <p type="title">Gusnie gaskeladtja?</p>
+    <p>Jis toelhkem daarpesje maahta jïjtse laantedigkien toelhkejarngem bievnedh.</p>
+    <p type="title">Laaken mietie</p>
+    <p>Hälso- och sjukvårdslagen/Healsoe- jïh skïemtjehokselaake, SFS, 1982:763</p>
+    <p type="title">Soptsesedïenesje</p>
+    <p>Soptsesedïenesje lea namhtah dïenesje jis gïele-, soptsese- jallh gïeledåeriesmoerem åtna. Soptsesedïenesjisnie soptsesedïenesjetoelhkestæjjah berkieh. Soptsesedïenesje daelie gååvnese luhkie laantedigkine. Desnie maahta dej dïenesjigujmie viehkiem åadtjodh:</p>
+    <list>
+      <p type="listitem">Soptesedåarjoe, mij lea soptsesedïenesjetoelhkestæjjah lea persovneles gaskesadtemedåarjoe bïeljelimmine mah ovvihties jïh gïerve damtedh. Dah jiehtieh baakoeh ikth vielie jïh/jallh tjïelkesieh soptsesem jallh vuekiem guktie gaskesadta.</p>
+      <p type="listitem">Telefovnedåarjoe, mij lea viehkiem åådtje golmepaartesoptsestimmieh ringkedh gusnie soptsesedïenesjetoelhke aalka jïh jis daerpies tjïelkese jïh bïhkede men dan mænngan barre duekesne gååvnese.</p>
+      <p type="listitem">Lohkeme- jïh tjaelemedåarjoe, mij lea viehkiem åådtje prieviem jïh tjaalegh lohkedh jïh/jallh tjaeledh, våålese tjaala tjåanghkosne jïh jienebe.</p>
+    </list>
+    <p type="title">Gusnie gaskeladtja?</p>
+    <p>Laantedigkien telefovnevieksele daajra jis gååvnese Soptsesedïenesje laantedigkesne jallh ij.</p>
+    <p type="title">Telesoptsese</p>
+    <p>Telesoptsese lea namhtah jïh abpe rïjhkesne dïenesje jis gïele-, soptsese- jallh gïeledåeriesmoerem åtna. Telesoptsesisnie soptsestimmietoelhkh berkieh jïh dah ajve sveerjen gïeline toelhkestidh. Desnie maahta dej dïenesjigujmie viehkiem åadtjodh:</p>
+    <list>
+      <p type="listitem">Teletoelhkh gïeh gïerve baakoeh jïh jiehtesh toelhkestieh jis dåeriesmoerem åtna govledh jallh guarkedh maam jeahta.</p>
+      <p type="listitem">Toelhke aath bïhkede guktie dah leah jis dam daarpesje. Dah aaj maehtieh viehkiehtidh telefovneviekseli tjïrrh ringkedh.</p>
+      <p type="listitem">Telesoptsese lea meatan dåarjojne abpe soptsesesne. Dah maehtieh tjaeledh maam jiehtesåvva jïh dam hïejmese seedtedh.</p>
+    </list>
+    <p type="title">Gusnie gaskeladtja?</p>
+    <p>Ringkie sïejhme telefovnine, tjirkes jallh mobijle, telefovnenummerem 020-22 11 44. Soptsestimmietoelhke Telesoptsesinie vaestede jïh ektine soptsesem ryöjredidh. Toelhke ringkie dïsse maam sæjhta ringkedh jïh meatan dåarjojne orre. Gosse soptsesem galhkeme dellie gåalmede persovnem soptsesem laehpedh jïh toelhkine soptsesen bïjre soptseste.</p>
+    <p xml:lang="swe">Fäll ihop</p>
+    <p xml:lang="swe">Tipsa och dela</p>
+    <list>
+      <p type="listitem" xml:lang="nno">Facebook</p>
+      <p type="listitem" xml:lang="nno">Twitter</p>
+    </list>
+    <p type="title" xml:lang="fkv">Tipsa en vän</p>
+    <p xml:lang="swe">Till:</p>
+    <p xml:lang="swe">Från:</p>
+    <p xml:lang="swe">Ditt namn:</p>
+    <p xml:lang="swe">Jag vill tipsa dig om en artikel på 1177 Vårdguiden:</p>
+    <p xml:lang="nno">http://www.1177.se/Jamtland-Harjedalen/Nationella-minoritetssprak/Nationella-minoritetssprak/Sydsamiska/Regler-och-rattigheter/Tolktjanst/</p>
+    <p xml:lang="ger">Stäng</p>
+    <p xml:lang="nno">Skriv ut (ca 3 sidor)</p>
+    <p xml:lang="ger">Publicerad:</p>
+    <p xml:lang="sms">2013-12-05</p>
+    <p xml:lang="swe">Redaktör:</p>
+    <p>
+      <em type="italic">Redaktööre: </em>
+    </p>
+    <p xml:lang="nob">Ingela Andersson, 1177 Vårdguiden</p>
+    <p xml:lang="swe">Granskare:</p>
+    <p><em type="italic">Goerehtæjja: </em>Tekstem goerehte Hjälpmedelsinstituhten ektesne. Teksten våarome tjaalege <span type="quote" xml:lang="swe">"Vägar till hjälpmedel och samhällsstöd för personer med funktionshinder"</span> Hjälpmedelsinstituhteste. Katalogen finns på Hjälpmedelsinstitutets webbesijjesne pdf-fijline. </p>
+    <p>Gaajhkh sisvegisnie lea barkeme, goerehtamme jïh dååhkesjahteme redaksjovneste jïh redaksjovneraereste 1177 Vårdguiden.</p>
+    <p xml:lang="swe">Synpunkter på innehållet? Tyck till</p>
+    <p xml:lang="swe">1177 Vårdguiden – en tjänst från Sveriges landsting och regioner</p>
+  </body>
+</document>
