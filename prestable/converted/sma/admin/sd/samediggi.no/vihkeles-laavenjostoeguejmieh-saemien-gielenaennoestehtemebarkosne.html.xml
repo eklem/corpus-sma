@@ -13,9 +13,24 @@
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
     <multilingual/>
     <origFileName>http://www.saemiedigkie.no/layout/set/print/Giele/Reeremedajve-saemien-gielide/Vihkeles-laavenjostoeguejmieh-saemien-gielenaennoestehtemebarkosne</origFileName>
-    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
     <parallel_text xml:lang="nob" location="viktige-samarbeidspartnere-i-arbeidet-for-aa-styrke-samisk-spraak.html"/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
     <parallel_text xml:lang="sme" location="dehalas-ovttasbargoguoimmut-samegiela-nannemis.html"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>

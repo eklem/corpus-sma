@@ -13,7 +13,24 @@
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
     <multilingual/>
     <origFileName>http://www.ntfk.no/bibliotek/saker/2005/FT/Vedlegg%5CFT05041_1.htm</origFileName>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
     <parallel_text xml:lang="nob" location="vedlegg_ft05041_1.htm.html"/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
+    <parallel_text xml:lang="sme" location=""/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -52,18 +69,18 @@
       <p type="listitem" xml:lang="nob">Det er behov for solide nettverk mellom de ulike institusjonene for å utnytte dagens ressurser på en best mulig måte.</p>
     </list>
     <p xml:lang="nob">Samisk kultur og samfunnsliv er under press fra det norske storsamfunnet på mange måter. Dette kan motvirkes gjennom en aktiv og bevisst planlegging på fylkesnivå. Dette er særdeles viktig med tanke på at reindriftens arealbruk strekker seg over flere kommunegrenser. Hensynet til samisk kultur, næringsutøving og samfunnsutvikling må tilrettelegges slik i planprosessene at de ikke blir truet, men får utviklingsmuligheter.</p>
-    <p xml:lang="nob">Ž   Partene vil bidra til å sette samiske spørsmål på dagsorden på alle virksomhetsområdene og å gi bedre informasjon til sine medaktører for å styrke arbeidet med samiske spørsmål.</p>
-    <p xml:lang="nob">Ž   Partene vil i samarbeid med øvrige aktører bidra til kompetanseutvikling i samiske spørsmål innen ulike fagområder.</p>
+    <p xml:lang="nob">·   Partene vil bidra til å sette samiske spørsmål på dagsorden på alle virksomhetsområdene og å gi bedre informasjon til sine medaktører for å styrke arbeidet med samiske spørsmål.</p>
+    <p xml:lang="nob">·   Partene vil i samarbeid med øvrige aktører bidra til kompetanseutvikling i samiske spørsmål innen ulike fagområder.</p>
     <p xml:lang="nob">Internasjonalt sett er samisk og i særdeleshet sørsamisk språk å betrakte som truede språk. Språkets utviklingsmuligheter skal sikres bl.a. gjennom sameloven. Bevaring og utvikling av det samiske språket forutsetter at barn og unge gis reelle muligheter til å lære og å bruke det.</p>
-    <p xml:lang="nob">Ž   Offentlige myndigheter er forpliktet til å ta et aktivt medansvar for sikring og utvikling av samisk språk på ulike nivåer. Partene er derfor enige om at det er behov for tiltak for revitalisering av sørsamisk språk.</p>
+    <p xml:lang="nob">·   Offentlige myndigheter er forpliktet til å ta et aktivt medansvar for sikring og utvikling av samisk språk på ulike nivåer. Partene er derfor enige om at det er behov for tiltak for revitalisering av sørsamisk språk.</p>
     <p xml:lang="nob">Fylkeskommunene har hovedansvaret for videregående opplæring og er forpliktet til å ta et aktivt medansvar for sikring og utvikling av samisk språk på videregående nivå. Opplæringsloven hjemler også voksnes rett til grunn- og videregående opplæring og derav følger også individuell rett til opplæring i samisk.</p>
-    <p xml:lang="nob">Ž   Det er nødvendig å utvikle et bedre nettverk mellom de videregående skolene, Sametinget og fylkeskommunene utenfor området for forvaltning av samisk språk, for å oppnå en bedre kompetanseutnyttelse. Nettverket må styrkes for å høyne kvaliteten på undervisningen på videregående nivå.</p>
+    <p xml:lang="nob">·   Det er nødvendig å utvikle et bedre nettverk mellom de videregående skolene, Sametinget og fylkeskommunene utenfor området for forvaltning av samisk språk, for å oppnå en bedre kompetanseutnyttelse. Nettverket må styrkes for å høyne kvaliteten på undervisningen på videregående nivå.</p>
     <p xml:lang="nob">Reindriftsnæringen er den vesentligste samiske næringen i sørsamisk område, men samtidig også det viktigste kulturbærende elementet. N æringen er sårbar overfor arealinngrep og rovdyrplage. Et nært samarbeid mellom samarbeidspartene innenfor disse spørsmålene er derfor viktig.   Det er også viktig å se på muligheten for å videreutvikle reindrifta bl.a. gjennom økt verdiskaping i næringen.</p>
-    <p xml:lang="nob">Ž   Partene vil bidra til bedre dialog om arealbruken på tvers av kommunegrensene</p>
-    <p xml:lang="nob">Ž   Øke verdiskapingen i reindrifta</p>
+    <p xml:lang="nob">·   Partene vil bidra til bedre dialog om arealbruken på tvers av kommunegrensene</p>
+    <p xml:lang="nob">·   Øke verdiskapingen i reindrifta</p>
     <p xml:lang="nob">Duedtie i sørsamisk område er viktig som kulturbærer, som identitetsskapende element og som samisk næring. Duedtie har et potensial for å skape flere arbeidsplasser og er også et viktig element i styrking av det samiske språket.</p>
     <p xml:lang="nob">Arenaer for samisk kulturutøvelse er viktig for utvikling av kunnskap og næringer og for å styrke kulturelle og sosiale bånd og danne grunnlaget for kollektiv identifikasjon.</p>
-    <p xml:lang="nob">Ž   Partene vil arbeide for å synliggjøre samhandlingen mellom kultur og næring, men også skape rom for moderne kulturuttrykk som dans, teater, musikk, litteratur m.v.</p>
+    <p xml:lang="nob">·   Partene vil arbeide for å synliggjøre samhandlingen mellom kultur og næring, men også skape rom for moderne kulturuttrykk som dans, teater, musikk, litteratur m.v.</p>
     <p type="title" xml:lang="nob">Handlingsdel</p>
     <p type="title" xml:lang="nob">Språk</p>
     <p xml:lang="nob">Samisk er et truet språk og sørsamisk er kanskje det samiske språket som er i størst fare for å gå tapt. Partene vil arbeide for å opprette språksentre i Hattfjelldal, på Snåsa og på Røros. Partene er enige om at det i første omgang er behov for å prioritere og opprette et språksenter på Røros. Partene skal arbeide for å sikre å videreutvikle det pedagogiske tilbudet på Elgå oppvekstsenter. Partene skal arbeid fram et språkutviklingsprogram som skal sikre et helhetlig og kvalitativt språktilbud i det sørsamisk området.</p>
@@ -145,7 +162,7 @@
     <p xml:lang="dan">Fylkesordfører   Fylkesrådsleder</p>
     <p type="title" xml:lang="nob">Det sørsamiske området</p>
     <p xml:lang="nob">Det sørsamiske området strekker seg over et stort geografisk område. Organisatorisk og politisk er dette et vanskelig område med ulikt bosettingsmønster og infrastruktur. Derfor har partene funnet det hensiktsmessig å dele området inn i tre regioner i en beskrivelse av området.</p>
-    <p type="title" xml:lang="ger">Region nord</p>
+    <p type="title" xml:lang="deu">Region nord</p>
     <p xml:lang="nob">Sørsamisk språkområde i Nordland fylke strekker seg fra Saltfjellet i nord til fylkesgrensen mot Nord-Trøndelag i sør, og utgjør en del av det sørsamiske fellesskapet. Reindriften har stor betydning for den samiske kulturen i dette området. I region nord er det en egen sameskole som er lokalisert til Hattfjelldal, hvor også Sijti Jarnge - Samisk Kultursenter for det sørsamiske området i Nordland er lokalisert. Senteret ble stiftet i 1984 og ble  offisielt åpnet i mai 1987. Sijti Jarnge kan oversettes med begrepet <span type="quote" xml:lang="nob">"samesamfunnets midtpunkt"</span>. Virksomheten er informasjon, kursvirksomhet, kulturvern, innsamling, bearbeiding og utgivelse av bøker og publikasjoner vedrørende samisk historie. Sijti Jarnge har i samarbeid med Fylkesbiblioteket i Nordland ansvar for drift av samisk bokbuss. Det er et flersidig organisasjonsmiljø i denne regionen, fra duodji-organisasjoner til teater, nærings- og kulturorganisasjoner generelt. I det sørsamiske området i Nordland undervises det i sørsamisk på barne- og ungdomsskolenivå ved Sameskolen og ved enkelte kommunale barne- og ungdomsskoler. På videregående skoles nivå gis det også undervisning i samisk, og det er gjennomført undervisning i samisk som voksenopplæringskurs. Det er en barnehage i Hattfjelldal som har tilbud om samisk kultur- og språkstimulering. Kultursenteret i Hattfjelldal har et nært samarbeid, og et ansvar i forhold til den samiske kulturparken på Majavatn.</p>
     <p xml:lang="nob">I det sørsamiske området drives det teatervirksomhet i regi av Åarjelsaemien Teatere/Sydsamisk Teater. Teateret ble stiftet i 1985 og er organisert som en organisasjon bestående av teaterinteresserte samer. Målet for arbeidet er å etablere permanent teatervirksomhet i de sørsamiske områdene i Norge.</p>
     <p type="title" xml:lang="nob">Region midtre</p>
@@ -166,19 +183,19 @@
     <p xml:lang="nob">Brekken oppvekst- og lokalsenter i Røros er gjennom prosjektet <span type="quote" xml:lang="nob">”Sørsamisk opplæring ved heimeskolen”</span> utpekt som en av tre ressursskoler (Hattfjelldal og Snåsa) innen samisk undervisning i sørsamisk område. Brekken har i dag samisk- og temaundervisning og gir i tillegg fjernundervisning/ambulerende lærer til andre grunnskoler i Sør-Trøndelag og Hedmark.</p>
     <p xml:lang="nob">Røros videregående skole har ansvar for tilsvarende undervisning på videregående skoles nivå, og gir fjernundervisning til andre skoler i og utenfor sørregionen. Rørossamisk opplæringsprogram er initiert av Røros kommune og fylkeskommunen og utvikler og samkjører kompetansehevingstiltak innen samisk språk, kultur og næring i regionen, <em type="italic">bl.a. fagopplæring i reindrift. </em>Sør-Trøndelag fylkeskommune har tillagt Rørosmuseet et ansvar for bevaring og formidling av samisk kulturarv i regionen og opprettet en fast samisk fagstilling fra 2002. Glomdalsmuseet i Hedmark har et flerkulturelt kunnskaps-og kompetansesenter som prosjekt. Til sammen utgjør disse institusjonene et funksjonelt miljø. </p>
     <p xml:lang="nob">Det viktig at Røros gis status som språksenter for å få økt effekt av det aktive kompetanse- og kulturmiljøet i regionen. Det er et uttrykt ønske fra den samiske befolkningen i området å få videreutviklet og samlet alle de overnevnte funksjonene i et felles kultur-, kompetanse- og næringssenter, slik at man får utnyttet det tverrfaglige miljøet optimalt.</p>
-    <p xml:lang="ger">EKTESVUEKIE-BARKOE-MÅÅHTEDIMMIE ÅARJELH-SAEMIDE.</p>
+    <p xml:lang="deu">EKTESVUEKIE-BARKOE-MÅÅHTEDIMMIE ÅARJELH-SAEMIDE.</p>
     <p>Nøørjen Saemiedigkie, Noerhtelaanten -, Noerhte-Trøndelaagen -, åarjelh Trøndelaagen - jih Hedemarken fylhkestjielth edtjieh ektesne barkedh .</p>
     <p type="title">MÅÅHTEHDIMMIEN&#13; VUEPSIE</p>
     <p>Nænnoestidh jih tjiertestidh man vihkeles  saemien kultuvre, giele jih ektievuekie leah.</p>
     <p type="title">VUEPSIE&#13; MÅÅHTEDIMMINE</p>
-    <p>Ž   Mååhtedimmie edtja byjjehtidh guktie gaajhkh aamhtsh mah åarjelh-saemide  jih saemiej dajvide veadtaldihkie, ektievuekien  nualan båetieh. Ektievuekie edtja båetije biejjieh vijriebasse juhtedh jih saemieh edtjieh ektesne vierhtiehtidh aamhtsh mah vihkeles.</p>
-    <p>Ž   Saemieh ektesne govlesuvvieh, seamma maadtojne, kultuvrine, gieline jih vuekiej gujme.</p>
-    <p>Ž   Lihtsegh guht dej aamhtsijgujmie berkieh, tjoeverieh diedtem vuesiehtidh, saemiej kultuvrem vaarjelidh jih aaj  ektievoetide ovmese dajvine  gorredidh.</p>
-    <p>Ž   Åarjelh-saemiej dajvide daerpies nænnoestidh ovmese darjomijgujmie jih saemieh jijtje tjoeverieh nuepieh åadtjodh  vuepside jaksedh.</p>
-    <p>Ž   Daerpies leah mååhtedimmieh åadtjodh mah åarjelh-saemide jijtje reaktam vedtieh barkedh sijjen vuekien mietie guktie dihte Våarome-laaken jih internasjovnale konvensjovni mietie sjeahta. Dah minngemes internasjovnale konvensjovnh vuesiehtieh  saemiej reaktah goh aalkoealmetjh.</p>
+    <p>·   Mååhtedimmie edtja byjjehtidh guktie gaajhkh aamhtsh mah åarjelh-saemide  jih saemiej dajvide veadtaldihkie, ektievuekien  nualan båetieh. Ektievuekie edtja båetije biejjieh vijriebasse juhtedh jih saemieh edtjieh ektesne vierhtiehtidh aamhtsh mah vihkeles.</p>
+    <p>·   Saemieh ektesne govlesuvvieh, seamma maadtojne, kultuvrine, gieline jih vuekiej gujme.</p>
+    <p>·   Lihtsegh guht dej aamhtsijgujmie berkieh, tjoeverieh diedtem vuesiehtidh, saemiej kultuvrem vaarjelidh jih aaj  ektievoetide ovmese dajvine  gorredidh.</p>
+    <p>·   Åarjelh-saemiej dajvide daerpies nænnoestidh ovmese darjomijgujmie jih saemieh jijtje tjoeverieh nuepieh åadtjodh  vuepside jaksedh.</p>
+    <p>·   Daerpies leah mååhtedimmieh åadtjodh mah åarjelh-saemide jijtje reaktam vedtieh barkedh sijjen vuekien mietie guktie dihte Våarome-laaken jih internasjovnale konvensjovni mietie sjeahta. Dah minngemes internasjovnale konvensjovnh vuesiehtieh  saemiej reaktah goh aalkoealmetjh.</p>
     <p>Plaaneståvroen tsiehkie- jih bigkemelaake jih fylhkestjielten raerie - daaroen jiehts-<span type="quote" xml:lang="dan">"regionale utviklingsaktører"</span> edtjieh tjoeveridh laakide goltelidh bigkemen gaavhtan jih aaj vaarjelidh  guktie ektievoete åarjelh-saemide båetije biejjieh sjidtieh guktie laake nænnoestamme. Nimhtie leah mååhtedimmieh Saemiedigkien jih Fylhkestjieltiej gaskems daerpies.</p>
     <p>Reeremelihtsegh leah naemhtie seamadamme:</p>
-    <p type="title" xml:lang="ger">STRATEGIH</p>
+    <p type="title" xml:lang="deu">STRATEGIH</p>
     <p>Åarjelh-saemien dajvesne leah saemieh orreme jih dajvem provhkeme guhkie øvtebe daan aejkeste.  Dajve lea stoerre jih ryøhkoe  gellie politiske-, jih administrative raasti bijjelen. Nimhtie leah ellies  barkoe joekoen vihkeles dejtie ovmese fylhkide  jis edtjieh eensi laakan buektiehtidh  åarjelh-saemiej daerpies-voeth jih iedtjh vaarjelidh.</p>
     <p>Stoerre dajvh jih vaenie almetjh fierhtene sijjesne, kriepesje institusjovnh</p>
     <p>jih funksjovnh  gellie læhkesne almetjidie viehkine. Dah tjoeverieh tseegksovvedh gusnie dah golme leavloe-mierie, Aarborte, Snåasa jih Rørose.</p>
@@ -196,14 +213,14 @@
       <p type="listitem">Nimhtie dah ovmese barkijh maehtieh daajroem barkoej bijre sinsætnan vedtedh jih nimhtie saemiej aamhtside ovmese daltesinie bijjiebasse lutnjedh.</p>
     </list>
     <p>Internasjovnale vuajnosne lea saemien, jih inhtsie åarjelh-saemien giele, aajhtaldihkie. Gielelaaken laavenjasse lea gielem vaarjelidh jih øøvtiedidh. Maanah jih noerh tjoeverieh nuepiem åadtjodh gielem lieredh jih provhkedh jis giele edtja båetije biejjeh jielemisnie årrodh.</p>
-    <p>Ž   Byjjes reeremen lea joekoen diedte vaaksjodh jih øøvtiedidh guktie saemiengiele ovmese daltesinie vijriebasse båata. Reeremelihtsegh leah siemesh ovmese råajvarimmieh leah daerpies jis åarjelh-saemien giele vihth edtja jielemetseahkan båetedh.</p>
+    <p>·   Byjjes reeremen lea joekoen diedte vaaksjodh jih øøvtiedidh guktie saemiengiele ovmese daltesinie vijriebasse båata. Reeremelihtsegh leah siemesh ovmese råajvarimmieh leah daerpies jis åarjelh-saemien giele vihth edtja jielemetseahkan båetedh.</p>
     <p>Øøhpehtimmie jåarhkeskuvline leah eeremes Fylhkestjieltij diedte jih vuartoe dejstie leah bueriedimmie faagese. Faage tjoevere vihkeles sæjjan jih øøvtiedæmman båetedh. Øøhpehtimmielaake aaj geerve almetjidie reaktam vadta saemien gielem lieredh jih aaj reaktam aajne learohkidie.</p>
-    <p>Ž   Daerpies lea aaj jåarhkeskuvlide, Saemiedigkiem jih aaj fylhkestjieltien skuvlide  eevtjedh ektesne barkedh dajvine mah leah  reereme-dajvi bæjngolen. Nimhtie dah tsavtsh-vierhtieh buerebe åtnose båetieh.</p>
+    <p>·   Daerpies lea aaj jåarhkeskuvlide, Saemiedigkiem jih aaj fylhkestjieltien skuvlide  eevtjedh ektesne barkedh dajvine mah leah  reereme-dajvi bæjngolen. Nimhtie dah tsavtsh-vierhtieh buerebe åtnose båetieh.</p>
     <p>Gaske-viermieh ektievuekie-barkoe aaj daerpies jis øøhpehtimmie edtja stinkebe dej jillemes daltesinie sjidtedh.</p>
     <p>Båatsoejieleme lea vihkeles saemide åarjelh-saemien dajvesne jih aaj buerie kultuvre-guedtije, gielese lissine.</p>
     <p>Jieleme lea saajrohts dovne laanten jih ovjuvri gaavhtan. Nimhtie lea ektievuekie-barkoe tjieltij gaskems joekoen daerpies. Vihkeles aaj giehtjedidh nuepide guktie båatsoejieleme maahta buerebe sjidtedh jis jienebh vierhtieh jielemasse.</p>
-    <p>Ž   Reeremelihtsegh aaj sijhtieh vuartasjidh guktie laanth maehtieh buerebe laaken provhkesovvedh tjielteraastij gaskems.</p>
-    <p>Ž   Guktie vierhtide båatsoejielemasse stueriedidh.</p>
+    <p>·   Reeremelihtsegh aaj sijhtieh vuartasjidh guktie laanth maehtieh buerebe laaken provhkesovvedh tjielteraastij gaskems.</p>
+    <p>·   Guktie vierhtide båatsoejielemasse stueriedidh.</p>
     <p>Duedtie åarjelh-saemien dajvesne lea vihkeles dovne goh kultuvren guedtije, saemien guelmien vuesiehtæjja (identitete) jih aaj goh jieleme.Duedtie maahta jienebh barkoesijjieh øørnedh jih lea aaj ålvas vihkeles gielen gaavhtan.</p>
     <p>Sijjieh gusnie saemien kultuvrine barkedh lea vihkeles dovne maahtoen jih jielemen gaavhtan jih gusnie aaj  nuepie almetji gaskesvoetem nænnoestidh.</p>
     <list>
@@ -214,7 +231,7 @@
     <p>Saemien giele lea aajhtaldihkie jih eeremes åarjelh-saemien giele. Reeremelihtsegh sijhtieh ekti vøøki barkedh jih faaledh giele-jarngh dovne Aarbortesne, Snåasesne jih Rørosesne.</p>
     <p>Voestegh raeriestieh giele-jarngem Rørosesne rihpestidh. Edtjieh aaj barkedh guktie øøvtiedidh faaleldahkem Elgåen sjidtemesæjjan. Lihtsegh aaj jååhkesjieh edtja gieleøøvtiedimmie- provgramme  båetedh mij vihteles sæjhta tjirkedh ellies jih eensi giele-faaleldahkem åarjelh-saemien dajvese.</p>
     <p>Jis tjielte daej nebneme dajvine reeremedajvesne (forvaltningsområde) meatan båata, dellie sjiere giele-tsiehkie dijveldimmien nualan båata.</p>
-    <p type="title" xml:lang="ger">ØØHPEHTIMMIE/MAAHTOE</p>
+    <p type="title" xml:lang="deu">ØØHPEHTIMMIE/MAAHTOE</p>
     <p>Eah man gellie lohkehtæjjah maahtoem åarjelh-saemien gielese utnieh.</p>
     <p>Reereme-lihtsegh luhpiedieh sijhtieh barkedh guktie edtja nuepie sjidtedh ellies øøhpehtimmiem saemien gielese åadtjodh, lohkehtæjjajgujmie giej buerie maahtoe.Fylhkestjielth jih Saemiedigie edtjieh laavenjostedh daan barkoen bijre juktie</p>
     <list>
@@ -252,13 +269,13 @@
     <p>Saemiedigkien tjilkeme aamhtse 43/02.</p>
     <p>Jeatja barkoe reereme-lihtsegidie lea eadtjaldehtedh  jih barkedh guktie kultuvre-såafoe mij Sijti Jarngese  veadtaldihkie, bigkesåvva. Dihte edtja åarjelh-saemiej bigkeme-tradisjovnh vuesiehtidh.</p>
     <p>Seamma bodtesne edtja barkoe juhtedh buerie jih sjiehteles gaavnedimmie -sijjeh åarjelh-saemien kultuvrese øørnedh.( Golme regiovnh).</p>
-    <p type="title" xml:lang="ger">BIBLIOVTEKH</p>
+    <p type="title" xml:lang="deu">BIBLIOVTEKH</p>
     <p>Reereme-lihtsegh dåajvoetieh gaskems saerniestimmieh jih bievnesh vedtedh, bibliovtekh-tjåangkide dåeriedidh jih duvtedh - jih kuvsjh øørnedh.</p>
     <p>Dåajvoetieh aaj voejhkelidh jeatja øøhpehtimmie-, jih  råajvarimmijgujmie giehtelidh guktie dah guht skuvline jih bibliovtekine barkeminie, viehkiem åadtjoeh.</p>
     <p>Sijhtieh aaj Sijti Jarngen bibliovtekem øøvtiedidh juktie dihte  joekoen vihkeles sjædta åarjelh-saemien kultuvre bigkemisnie. Ellies viehkiedæjjah dan barkose leah Saemien sjiere bibliovteke jih Noerhtelaanten fylhkesbibliovteke .</p>
     <p>Gærjahbussh Aarbortesne jih Rørosesne aaj øøvtiedæmman viehkieh daarpesjieh. Lihtsegh aaj sijhtieh barkedh guktie gærjah-låhkoeh væjranieh jih  orre åarjelh saemien tjaalaldahkh dejtie busside båetieh.</p>
     <p>Sijhtieh aaj barkedh guktie orre gærjah-bussem Sijti Jarngese åestedh, busse mij lea daaletje våaromen mietie.</p>
-    <p type="title" xml:lang="ger">TEATERE</p>
+    <p type="title" xml:lang="deu">TEATERE</p>
     <p>Teatere lea vihkeles deerpege gosse edtja åarjelh-saemien kultuvrem, gielem, identitetem jih jijth-damtesem nænnoestidh.</p>
     <p>Reereme-lihtsegh luhpiedieh barkedh guktie nuekies duvtie-vierhtieh Åarjelhsaemien Teaterese båetieh.</p>
     <p type="title">KULTUVRE- ARRANGEMENT JIH FESTIVALH</p>
@@ -283,12 +300,12 @@
     <p>Vihkeles aaj Interreg-barkoem nænnoestidh jih øøvtiedidh. Daejnie jiehtsassine govlesåvva fylhkestjielth maehtieh provsjekte-aajhterinie årrodh, aaj provsjektide vierhtieh buektedh, jih gaskemierine årrodh gosse daerpies  ovmese provsjekti vøøste stuvredh. Sijhtieh aaj barkedh guktie Interregbarkoeh maehtieh vijriebasse juhtedh  mænngan jaepien 2006.</p>
     <p type="title">HOVSPITERINGH</p>
     <p>Lihtsegh sijhtieh sjiehtesjadtedh hovspitering gaskems.</p>
-    <p type="title" xml:lang="ger">MAN GUHKIEM RYØKEDH</p>
+    <p type="title" xml:lang="deu">MAN GUHKIEM RYØKEDH</p>
     <p>Mååhtedimmie tjoevere giehtjedæmman biejesovvedh gosse njielje jaepieh vaaseme.</p>
     <p>Sjiere mååhtedimmieh maehtieh orrijehtedh gosse govhte askh vaaseme jis bievnesh dan bijre vadtasovveme.</p>
     <p type="title">BEETNEH-VIERHTIEH</p>
     <p>Sjiere povlitiske gietedallh leah daerpies fierhten ovmese provsjektese.</p>
-    <p type="title" xml:lang="ger">DÅERIEDIMMIE</p>
+    <p type="title" xml:lang="deu">DÅERIEDIMMIE</p>
     <p>Tjåangkoe edtja fierhten jaepien årrodh, reereme- jih politiske daltesisnie .</p>
     <p type="title">§Bodøesne, goevten 11.-biejjien 2005</p>
     <p>Saemiedigkie     NoerhteTrøndelagen fylhkestjielte   Noerhtelaanten fylhkestjielte</p>

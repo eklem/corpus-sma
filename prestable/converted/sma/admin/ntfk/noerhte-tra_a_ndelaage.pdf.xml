@@ -13,30 +13,47 @@
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
     <multilingual/>
     <origFileName>http://www.ntfk.no/NordTrondelag/brosjyre/Documents/Noerhte-Tr%C3%B8%C3%B8ndelaage.pdf</origFileName>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
     <parallel_text xml:lang="nob" location="nord-tra_ndelag.pdf"/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
+    <parallel_text xml:lang="sme" location=""/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
     <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p xml:lang="ger">LEKA</p>
+    <p xml:lang="deu">LEKA</p>
     <p xml:lang="nno">Leka</p>
     <p>VIKNA</p>
     <p xml:lang="nno">Store Namsvatnet</p>
     <p xml:lang="nno">Vikna</p>
     <p xml:lang="nno">Rørvik</p>
-    <p xml:lang="ger">Kolvereid</p>
+    <p xml:lang="deu">Kolvereid</p>
     <p>Namsskogan</p>
-    <p xml:lang="ger">RØYRVIK</p>
+    <p xml:lang="deu">RØYRVIK</p>
     <p>NÆRØYNAMS</p>
     <p xml:lang="nob">Salsbruket</p>
     <p>SKOGAN</p>
-    <p xml:lang="ger">Limingen</p>
+    <p xml:lang="deu">Limingen</p>
     <p xml:lang="dan">Abelvær</p>
     <p xml:lang="nob">Salsvatnet</p>
     <p xml:lang="nno">Limingen Seierstad</p>
-    <p xml:lang="ger">FOSNES</p>
+    <p xml:lang="deu">FOSNES</p>
     <p>HØYLANDET</p>
     <p xml:lang="nob">Tunnsjøen</p>
     <p xml:lang="fin">Skorovatn</p>
@@ -50,7 +67,7 @@
     <p xml:lang="nno">Sanddøla</p>
     <p xml:lang="nno">Nordli</p>
     <p xml:lang="nob">Namsos</p>
-    <p xml:lang="ger">Bangsund</p>
+    <p xml:lang="deu">Bangsund</p>
     <p>Namsen</p>
     <p>OVERHALLA</p>
     <p>LIERNE</p>
@@ -59,13 +76,13 @@
     <p>Snåsa</p>
     <p>Namdalseid</p>
     <p xml:lang="smj">Snåsavatn</p>
-    <p xml:lang="ger">Beitstad</p>
+    <p xml:lang="deu">Beitstad</p>
     <p>SNÅSA</p>
     <p xml:lang="isl">Sunnan</p>
     <p xml:lang="smn">Malm</p>
     <p xml:lang="nno">Steinkjer</p>
     <p>VERRAN</p>
-    <p xml:lang="ger">Rengen</p>
+    <p xml:lang="deu">Rengen</p>
     <p>STEINKJER</p>
     <p xml:lang="sme">Sparbu</p>
     <p>INDERØY</p>
@@ -78,14 +95,14 @@
     <p>VERDAL</p>
     <p>LEVANGER</p>
     <p xml:lang="fin">Åsen</p>
-    <p xml:lang="ger">FROSTA</p>
-    <p xml:lang="ger">Feren</p>
+    <p xml:lang="deu">FROSTA</p>
+    <p xml:lang="deu">Feren</p>
     <p>STJØRDAL</p>
     <p><em type="bold">Daajroe Noerhte-Trøøndelaagen bïjre</em> </p>
     <p xml:lang="nob">Hommelvik</p>
     <p xml:lang="nno">Kopperå</p>
     <p xml:lang="nno">Meråker</p>
-    <p xml:lang="ger">MERÅKER</p>
+    <p xml:lang="deu">MERÅKER</p>
     <p><em type="bold">Noerhte-Trøøndelaageb y j j e n i d h – å r r o d h – l ï e r e d h – b a r k e d h - v e a s o d h</em> </p>
     <p>Stoeredahke:22396 km2 Åålmege-låhkoe:129 069 (tsiengelen 1. b. 2007) Guhkemes jeanoe:Nååmesje 210 km Fylhken jollemes tsiehkie:Jitneme 1513 m.s.b Støøremes jaevrie:Snaåsen jaevrie 118 km2 – 42 km guhkies Nasjovnaale-paarkh:Byrkije, Lïjre jïh Låarte/Skæhkere Man gellie tjïelth: Fylhken åejvie-staare:Stientje – Nøørjen geografijen jarnge Staarh:Stjørdaale, Leevangke, Verdaale, Stientje, Namsovse jïh, Kålverije (Nøørjen unnemes staare) Fylhken blomma:Marisko –orkidè (cyprepedium calceolus) Fylhken gierkie:Tulitt</p>
     <p>Datne maahtah vielie Noerhte-Trøøndelaagen bïjre goh vuelkemesijjie daesnie lohkedh: www.trondelag.com</p>

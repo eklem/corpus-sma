@@ -13,9 +13,24 @@
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
     <multilingual/>
     <origFileName>http://www.saemiedigkie.no/layout/set/print/Kultuvrejieleme/Sijjieh-saemien-kultuvrebarkose</origFileName>
-    <parallel_text xml:lang="smj" location="arena-same-kulturdaajmadibmaj.html"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
     <parallel_text xml:lang="nob" location="arenaer-for-samisk-kulturutoevelse.html"/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
     <parallel_text xml:lang="sme" location="sami-kulturbargoarenat.html"/>
+    <parallel_text xml:lang="smj" location="arena-same-kulturdaajmadibmaj.html"/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -64,7 +79,7 @@
       <p type="listitem">Dåarjoehtidh guktie dah saemien teaterh maehtieh jïjtjemse kåanstevuekien mietie evtiedidh, scenekåanstem jolle daltesisnie darjodh, jïh maehtedh scenekåanstine bïjre jarkan mïnnedidh, guktie dah leah goh sijjieh gusnie kultuvrem dååjre jïh kultuvrem daajroes darjoeh, jïh gusnie saemien gïele åtnasåvva jïh våajnoes dorjesåvva</p>
       <p type="listitem">Viehkiehtidh guktie saemien kultuvrehijstovrije gorresåvva, reeresåvva jïh daajroes dorjesåvva</p>
     </list>
-    <p>Dïhte mij lea orre 2013 lea akte öörnege <em type="bold"><span type="quote">«Arenaer for kunst- og kulturformidling/ Sijjieh gusnie kåanstem jïh kultuvrem daajroes darjoehš</span> </em>. Dïhte orre öörnege råajvarimmide dejtie saemien tjiehpiedæjjide lissehte, naemhtie guktie kultuvrebïevnesisnie tjåådtje. Dej prijoriteradimmiej gaskem daennie öörnegisnie lea akte stuerebe fokuse dejtie orresjugneden darjoemidie, mah edtjieh viehkiehtidh saemien institusjovnh evtiedidh, jïh sijjieh gusnie kåanste- jïh kultuvrem vuesehte. Öörnege aaj sijjieh, viermieh jïh laavenjostoeprosjekth dåårje, mah viehkiehtieh aktine lissiehtamme gaskenasjovnaale vuesiehtimmine, jïh eksporte saemien kåansteste jïh saemien tjiehpiedæjjijste akten gaskenasjovnaale maarkedese, jïh tseegkemedåarjoe noere saemien tjiehpiedæjjide. </p>
+    <p>Dïhte mij lea orre 2013 lea akte öörnege <em type="bold"><span type="quote">«Arenaer for kunst- og kulturformidling/ Sijjieh gusnie kåanstem jïh kultuvrem daajroes darjoeh»</span> </em>. Dïhte orre öörnege råajvarimmide dejtie saemien tjiehpiedæjjide lissehte, naemhtie guktie kultuvrebïevnesisnie tjåådtje. Dej prijoriteradimmiej gaskem daennie öörnegisnie lea akte stuerebe fokuse dejtie orresjugneden darjoemidie, mah edtjieh viehkiehtidh saemien institusjovnh evtiedidh, jïh sijjieh gusnie kåanste- jïh kultuvrem vuesehte. Öörnege aaj sijjieh, viermieh jïh laavenjostoeprosjekth dåårje, mah viehkiehtieh aktine lissiehtamme gaskenasjovnaale vuesiehtimmine, jïh eksporte saemien kåansteste jïh saemien tjiehpiedæjjijste akten gaskenasjovnaale maarkedese, jïh tseegkemedåarjoe noere saemien tjiehpiedæjjide. </p>
     <list/>
     <p>
       <span type="quote">Saemien kultuvregåetieh, teaterh, festivaalh jïh museumh leah vihkeles sijjieh juktie saemien kåanstem, kultuvrem jïh kultuvreaerpiem vuesiehtidh, gorredidh jïh evtiedidh.</span>

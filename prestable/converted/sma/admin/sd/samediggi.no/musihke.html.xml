@@ -13,9 +13,24 @@
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
     <multilingual/>
     <origFileName>http://www.saemiedigkie.no/layout/set/print/Kultuvrejieleme/Stipende-jih-daaarjoe/Musihke</origFileName>
-    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
     <parallel_text xml:lang="nob" location="musikk.html"/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
     <parallel_text xml:lang="sme" location="musihkka.html"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -40,7 +55,7 @@
     </p>
     <list>
       <p type="listitem">Fealadimmiedåarjoe</p>
-      <p type="listitem" xml:lang="ger">Konserte</p>
+      <p type="listitem" xml:lang="deu">Konserte</p>
       <p type="listitem">Artistehonoraare jïh vuelkemedåarjoe saemien artistide jïh kultuvrebarkijidie</p>
     </list>
     <p><em type="bold">Fealadimmiedåarjoe </em>: </p>
@@ -49,7 +64,7 @@
     <p>- Vuelkememaaksoeh/årrome/beapmoe</p>
     <p>- Teknihken maaksoeh</p>
     <p>- Åasah tjoejese jïh tjoevkese</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Konserte: </em>
     </p>
     <p>Aktegs konserth dåarjoem åadtjoeh 10 000,- kråvnaj raajan. Edtja råajvarimmiem tjirrehtidh jïh finansieradidh öörnedæjjine ektine.</p>

@@ -13,7 +13,24 @@
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
     <multilingual/>
     <origFileName>http://www.ntfk.no/bibliotek/saker/2010/FR/Vedtak%2010234_s.htm</origFileName>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
     <parallel_text xml:lang="nob" location="vedtak10234.htm.html"/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
+    <parallel_text xml:lang="sme" location=""/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -22,7 +39,7 @@
   <body>
     <p>Fylhkenraerie   Noerhte-Trøøndelagesne</p>
     <p>Noerhte-Trøøndelagen   fylhkentjïelte</p>
-    <p xml:lang="ger">AAMHTSEPROTOKOLLE</p>
+    <p xml:lang="deu">AAMHTSEPROTOKOLLE</p>
     <p type="title">Aamhtese nr. 10/234</p>
     <p><em type="bold">Saemiedigkie  </em> <em type="bold">– Govlehtimmie  orre ryøknemenjoelkedassijste  jïh  joekedimmievæhtijste  guektiengieledåarjose  , dejtie  tjïeltide  jïh  fylhkentjieltide  mah  leah  saemien  gïelen  reeremedajven  sisnjelen  .  </em></p>
     <p type="title">Gietedamme</p>

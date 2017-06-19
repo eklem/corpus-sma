@@ -13,9 +13,24 @@
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
     <multilingual/>
     <origFileName>http://www.saemiedigkie.no/layout/set/print/Byjrese-areale-jih-kultuvrevarjelimmie/Areale/Samedikki-planaveahkki/Soejkesje-jih-bigkemelaake</origFileName>
-    <parallel_text xml:lang="smj" location="pladna-ja-tsiekkaduslahka.html"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
     <parallel_text xml:lang="nob" location="plan-og-bygningsloven.html"/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
     <parallel_text xml:lang="sme" location="plana-ja-huksenlahka.html"/>
+    <parallel_text xml:lang="smj" location="pladna-ja-tsiekkaduslahka.html"/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -70,7 +85,7 @@
       <p type="listitem">Aktem tjïelke åssjelenænnoestimmie sjïehtesjamme gusnie tjåådtje, gaajhkh soejkesjimmieh mah laaken mietie edtjieh eatnemevåaromem gorredidh saemien kultuvrese, jieliemidie jïh siebriedahkejieliedasse, leah akte vihkeles sïlle åvtese. Saemien miehtjiesdajvejielemh båatsojne ektine, leah aaj akte bielie daestie.</p>
       <p type="listitem">Saemiedigkie faamoem åådtjeme gaajhkine arealesoejkesjinie vuastalidh mah maehtieh stoerre ulmiem utnedh saemien kultuvrese jïh jieliemasse, jïh dellie aaj gåarede aktem tjïelke saemien tsevtsemem utnedh, juktie dam saemien eatnemevåaromem gorredidh. Daejnie nænnoestimmine dle diedtem åtna konsultasjovnediedtem tjïrrehtidh, ILO 169 6. art. mietie, jïh reaktam åtna meatan årrodh dennie byögkeles, riekteles reeremisnie åtnosne, reeremisnie jïh vaarjelimmesne eatnemevierhtijste, ILO 169 15. art. (1) mietie. Gosse faamoem åtna vuastalidh, dle soejkesjeåejvieladtje ij ajve tjoerh vuarjasjidh guktie dah råajvarimmieh saemien kultuvrem jïh jielemem tsevtsieh, (v. soejkesje—jïh bigkemelaakine § 3-1 jïh finnmaarhkelaakine § 4 (Bïhkedassh), men dah tjuerieh aaj pryövedh Saemiedigkine seamadidh råårestallemi jïh liktemi tjïrrh, dej veajkoej Saemiedigkie aktem råajvarimmiem nyöjhkoe aktine vuastalimmine. Læjhkan Saemiedigkie ij aktem ellies nyöjhkemereaktam utnieh, juktie dïhte minngemosth nænnoestimmie maahta orre gïetedæmman båetedh Byjresedepartementesne. Men aaj Byjresedepartementen galhkuvegïetedimmiem edtja darjodh mænngan Saemiedigkine råårestalleme. Saemiedigkie edtja jïjtje våaromem evtiedidh gosse maahta vuastalidh. Saemiedigkie ij faamoem utnieh soejkesjebïhkedassh nænnoestidh juktie eatnemevåaromem saemien kultuvrese, jieliemidie jïh siebriedahkejieliedasse gorredidh. Læjhkan ij leah mejtegh mah departementem heerredh dagkerh soejkesjebïhkedassh nænnoestidh. Saemiedigkien gaavhtan tjuara badth tsihkestehtedh, dagkerh bïhkedassh maahta ajve nænnoestidh mænngan Saemiedigkine råårestalleme, jïh jååhkesjimmiem Saemiedigkeste åådtjeme.</p>
       <p type="listitem">Jeatjah saemien iedtjeladtjh jïh voenges siebriedahken reakta råajvarimmiej bïjre govlelgidh, mah ryöktesth dejtie gïetiedieh, eah leah meatan vaalteme laaken nænnoestimmine. Mïerhkesjimmine laaken § 5-1 i dle læjhkan tjïerteste akte sjïere diedte gååvnese ILO’n 169 mietie, dejtie eadtjohkelaakan meatan vaeltedh soejkesjeprosessesne.</p>
-      <p type="listitem">Båatsoen arealeåtnoem våajnoes darjodh areaeleåssjelisnie LNFR ( <span type="quote">«Laanteburrie, eatneme jïh eejehtallemeåssjele, jïh aaj båatsoeš</span>) lea aaj joekoen vihkeles, juktie voerkesvoetem båatsoen bïjre lissiehtidh, soejkesjeåejviladtji luvnie. Daate sæjhta viehkine årrodh juktie vaarjelimmiem båatsoen arealijste veaksahkåbpoe darjodh.</p>
+      <p type="listitem">Båatsoen arealeåtnoem våajnoes darjodh areaeleåssjelisnie LNFR ( <span type="quote">«Laanteburrie, eatneme jïh eejehtallemeåssjele, jïh aaj båatsoe»</span>) lea aaj joekoen vihkeles, juktie voerkesvoetem båatsoen bïjre lissiehtidh, soejkesjeåejviladtji luvnie. Daate sæjhta viehkine årrodh juktie vaarjelimmiem båatsoen arealijste veaksahkåbpoe darjodh.</p>
       <p type="listitem">Laake såemies gaertjiedimmiem sjïehteladta juktie dispensasjovnh vedtedh nænnoestimmijste, mah leah soejkesjelaaken mietie nænnoestamme. Daate nuepiem gaertjede akten soejkesjenamhtah lissiebigkemasse, mij heannede jis jïjnjh dispensasjovnh vadtasuvvieh, jïh mah tjåanghkan leah stoerre bigkemh dajvine, jïh dan åvteste aaj jeatjah åtnoe miehtjiesdajveste sjædta.</p>
     </list>
     <p>Politihkere gïen diedte</p>

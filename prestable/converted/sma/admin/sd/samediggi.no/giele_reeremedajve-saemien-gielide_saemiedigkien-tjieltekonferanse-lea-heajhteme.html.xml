@@ -13,9 +13,24 @@
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
     <multilingual/>
     <origFileName>http://www.saemiedigkie.no/Giele/Reeremedajve-saemien-gielide/Saemiedigkien-tjieltekonferanse-lea-heajhteme</origFileName>
-    <parallel_text xml:lang="smj" location="giella_same-giellahaldadimguovllo_suohkankonferanssa-guovvamano-10.-ja-11.-biejve.html"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
     <parallel_text xml:lang="nob" location="spraak_forvaltningsomraade_sametingets-kommunekonferanse-er-avlyst.html"/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
     <parallel_text xml:lang="sme" location="giella_samegielaid-halddasanguovlu_suohkankonferansa-ii-lagiduvvo.html"/>
+    <parallel_text xml:lang="smj" location="giella_same-giellahaldadimguovllo_suohkankonferanssa-guovvamano-10.-ja-11.-biejve.html"/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -32,7 +47,7 @@
       <em type="italic">Dæjstan, goevten 10.b. </em>
     </p>
     <p>1. bielie. Guektiengïelevoete tjïeltesuerkesne</p>
-    <p xml:lang="ger">08:30 – 09:00 Registreradimmie</p>
+    <p xml:lang="deu">08:30 – 09:00 Registreradimmie</p>
     <p xml:lang="sms">09:00 – 09:15</p>
     <p xml:lang="sms">09:15 – 09:35</p>
     <p xml:lang="sms">09:35 – 10:00</p>

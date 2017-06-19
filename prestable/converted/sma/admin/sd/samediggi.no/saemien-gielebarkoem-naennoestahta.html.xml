@@ -12,9 +12,24 @@
     </availability>
     <multilingual/>
     <origFileName>http://www.saemiedigkie.no/layout/set/print/Vaaarhkoe/Veeljemeboelhken-2009-2013/Tjaalegh/Saemien-gielebarkoem-naennoestahta</origFileName>
-    <parallel_text location="nannejit-sami-giellabarggu.html" xml:lang="sme"/>
-    <parallel_text location="styrker-samisk-spraakarbeid.html" xml:lang="nob"/>
-    <parallel_text location="nanni-same-giellabargov.html" xml:lang="smj"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location="styrker-samisk-spraakarbeid.html"/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
+    <parallel_text xml:lang="sme" location="nannejit-sami-giellabarggu.html"/>
+    <parallel_text xml:lang="smj" location="nanni-same-giellabargov.html"/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -26,7 +41,7 @@
     <p xml:lang="sme">18. Guovvamánnu 2013</p>
     <p>Saemiedigkien dåarjoeöörnegh saemien gïelese dam saemien gïelebarkoem dåarjohte. Daate akte vuarjasjimmie vuesehte maam Norut Alta – Áltá lea dorjeme aktene laavenjostosne Nordlandforskning’ine Saemiedægkan.</p>
     <p>Saemiedigkien dåarjoeöörnegh saemien gïelese dam saemien gïelebarkoem dåarjohte. Daate akte vuarjasjimmie vuesehte maam Norut Alta – Áltá lea dorjeme aktene laavenjostosne Nordlandforskning’ine Saemiedægkan.</p>
-    <p>Måantan 18.02.13 dle reektehtsem <span type="quote" xml:lang="nob">«Evaluering av Sametingets søkerbaserte tilskuddsordninger for samisk språkš</span> bæjhkoehtamme sjïdti Saemiedigkesne.</p>
+    <p>Måantan 18.02.13 dle reektehtsem <span type="quote" xml:lang="nob">«Evaluering av Sametingets søkerbaserte tilskuddsordninger for samisk språk»</span> bæjhkoehtamme sjïdti Saemiedigkesne.</p>
     <p>Vuarjasjimmien ulmie lea aktem guvviem åadtjodh dovne guktie dåarjoedåastojh dåarjoem Saemiedigkeste nåhtadieh, jïh guktie Saemiedigkie jïjtje dejtie dåarjoeöörnegidie reerie.</p>
     <p>
       <em type="bold">Gïelebarkoem <span type="quote">“sjïdtedahta”</span> </em>

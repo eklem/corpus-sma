@@ -12,8 +12,24 @@
     </availability>
     <multilingual/>
     <origFileName>http://www.saemiedigkie.no/layout/set/print/Byjrese-areale-jih-kultuvrevarjelimmie/Saemien-gaaetievaarjelimmie/Bievnesh-jijtsistie-vaarjelamme-saemien-gaaetiej-bijre</origFileName>
-    <parallel_text location="cilgehus-automahtalaccat-rafaidahttojuvvon-sami-visttiid-birra.html" xml:lang="sme"/>
-    <parallel_text location="orientering-om-automatisk-freda-samiske-bygninger.html" xml:lang="nob"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location="orientering-om-automatisk-freda-samiske-bygninger.html"/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
+    <parallel_text xml:lang="sme" location="cilgehus-automahtalaccat-rafaidahttojuvvon-sami-visttiid-birra.html"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
