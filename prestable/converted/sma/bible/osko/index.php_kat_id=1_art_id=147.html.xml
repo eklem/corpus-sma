@@ -14,7 +14,7 @@
         <publisher>Samisk Kirkeråd</publisher>
       </publication>
     </publChannel>
-    <wordcount>55</wordcount>
+    <wordcount>53</wordcount>
     <conversion_status type="standard"/>
     <availability>
       <free/>
@@ -49,9 +49,7 @@
     <p>Dov åssjalommesh</p>
     <p type="title">Mannasinie skyllije?</p>
     <p>Manne dam darjoem ihke lea akte tjaebpies vuekie. Gaptam åadtjoem. Jïh jïjnjh fuelhkieh skyllemasse båetieh.</p>
-    <p xml:lang="isl">Kar</p>
-    <p xml:lang="nob">i</p>
-    <p>anne 14 jaepien båeries</p>
+    <p>Karianne 14 jaepien båeries</p>
     <p xml:lang="nob">Utskriftsvennlig versjon</p>
     <p type="title" xml:lang="swe">kommentarer(1):</p>
     <p type="title" xml:lang="dan">mange gode ting</p>
@@ -59,6 +57,6 @@
     <p type="title" xml:lang="nno">Skriv en kommentar:</p>
     <p xml:lang="nob">Navn:</p>
     <p xml:lang="smn">epost:</p>
-    <p xml:lang="deu">Kommentar:</p>
+    <p xml:lang="ger">Kommentar:</p>
   </body>
 </document>
