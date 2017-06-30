@@ -14,13 +14,12 @@
         <publisher>Samisk Kirkeråd</publisher>
       </publication>
     </publChannel>
-    <wordcount>106</wordcount>
+    <wordcount>102</wordcount>
     <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
     <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual/>
     <origFileName>http://www.osko.no/index.php?kat_id=7&amp;art_id=5</origFileName>
     <parallel_text xml:lang="dan" location=""/>
     <parallel_text xml:lang="eng" location=""/>
@@ -48,11 +47,11 @@
   <body>
     <p>Saemien gærhkoeraerine</p>
     <p>Saemien gærhkoeraerine</p>
-    <p xml:lang="sms">|</p>
-    <p xml:lang="dan">Heelsege</p>
-    <p xml:lang="sms">|</p>
+    <p>|</p>
+    <p>Heelsege</p>
+    <p>|</p>
     <p>Darjoe</p>
-    <p xml:lang="sms">|</p>
+    <p>|</p>
     <p>Kristusen gievlie</p>
     <p type="title">Saemien gærhkoeraerien</p>
     <p>Gærhkoetjåanghkoe Saemien gærhkoeraeriem tseegki jaepien 1992. Raerie edtja saemien gærhkoejielemem Dennie nøørjen gærhkosne evtiedidh, vaarjelidh jïh iktedidh. Saemien gærhkoeraerien barkoesuerkie lea gaajhkh aamhtesh mah raerien mielen mietie saemien gærhkoejielemem doehtedieh</p>
@@ -60,20 +59,6 @@
     <p>
       <em type="bold">Saemien gærhkoeraerien lïhtsegh leah:  </em>
     </p>
-    <p xml:lang="nob">Anne Dalheim (</p>
-    <p>åvtehke</p>
-    <p xml:lang="sms">),</p>
-    <p xml:lang="nno">Ingar Nikolaisen Kuoljok,</p>
-    <p>julevsaemien tjirkije / Åarjel-Hålogalaanten bispedajve,</p>
-    <p>Jonhild Joma,</p>
-    <p>åarjelsaemien tjirkije/ Nidarosen bispedajve,</p>
-    <p>Kirsten Isaksen, noerhtesaemin tjirkije / Noerhte-Hålogalaanten bispedajv</p>
-    <p xml:lang="nno">Mari Helander,</p>
-    <p>saemien tjirkije Åarjel-Nøørjeste,</p>
-    <p xml:lang="sme">Jovnna Z Dunfjell,</p>
-    <p>Saemiedigkien tjirkije</p>
-    <p xml:lang="nob">Tor Berger Jørgensen,</p>
-    <p>Bispetjåanghkoen tjirkije</p>
-    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+    <p>Anne Dalheim (åvtehke), Ingar Nikolaisen Kuoljok, julevsaemien tjirkije / Åarjel-Hålogalaanten bispedajve, 	Jonhild Joma, åarjelsaemien tjirkije/ Nidarosen bispedajve, 	Kirsten Isaksen, noerhtesaemin tjirkije / Noerhte-Hålogalaanten bispedajv, 	Mari Helander, saemien tjirkije Åarjel-Nøørjeste,  	Jovnna Z Dunfjell, Saemiedigkien tjirkije, 	Tor Berger Jørgensen, Bispetjåanghkoen tjirkije</p>
   </body>
 </document>
