@@ -11,7 +11,6 @@
       <free/>
     </availability>
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
     <origFileName>http://www.saemiedigkie.no/layout/set/print/Healsoe-jih-sosijaale/Healsoe</origFileName>
     <parallel_text xml:lang="dan" location=""/>
     <parallel_text xml:lang="eng" location=""/>
@@ -41,12 +40,12 @@
     <p type="title">Healsoe</p>
     <p>Saemiedigkie barka guktie dah saemieh aktem seammavyörtegs healsoedïenesjem åadtjoeh mij våaromem vaalta saemien gïelesne jïh kultuvresne.</p>
     <p>Politihkere gïen diedte</p>
-    <p xml:lang="nob">Rådsmedlem</p>
+    <p>Rådsmedlem</p>
     <p>NSR</p>
-    <p xml:lang="sme">Gáisi</p>
-    <p xml:lang="nob">Henrik Olsen</p>
+    <p>Gáisi</p>
+    <p>Henrik Olsen</p>
     <p>Phone: +47 907 75 219</p>
-    <p xml:lang="sme">henrik.olsen@samediggi.no</p>
+    <p>henrik.olsen@samediggi.no</p>
     <p>Daaletje</p>
     <p>Govlemehokse saemien gïelesne</p>
     <p>Saemiedigkieraerie 304 000 kråvnah dåårje govlemeseabran Hørselshemmedes lan...</p>
@@ -64,8 +63,8 @@
       <p type="listitem">Vielie maahtoe jïh daajroe saemien gïelesne jïh saemien gïelen jïh kultuvren bïjre gaajhkine daltesinie healsoedïenesjisnie. Tjåadtjoehtæjja dan åvteste lea aktene bijjemes daltesisnie.</p>
     </list>
     <list>
-      <p type="listitem" xml:lang="nob">En likeverdig helsetjeneste til det samiske folk som tar utgangspunkt i samisk språk og kultur.</p>
-      <p type="listitem" xml:lang="nob">Økt kompetanse og kunnskap i og om samisk språk og kultur på alle nivå i helsetjenesten. Ansvaret for dette ligger på et overordnet nivå.</p>
+      <p type="listitem">En likeverdig helsetjeneste til det samiske folk som tar utgangspunkt i samisk språk og kultur.</p>
+      <p type="listitem">Økt kompetanse og kunnskap i og om samisk språk og kultur på alle nivå i helsetjenesten. Ansvaret for dette ligger på et overordnet nivå.</p>
     </list>
     <p>
       <span type="quote">Saemiedigkien ulmie lea seammavyörtegs healsoe- jïh sosijalefaalenasse saemien skïemtjijidie, seammalaakan goh dejtie jeatjah årroejidie.</span>
