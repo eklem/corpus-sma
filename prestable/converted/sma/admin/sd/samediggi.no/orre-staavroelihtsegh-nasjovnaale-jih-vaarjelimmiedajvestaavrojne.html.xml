@@ -11,7 +11,6 @@
       <free/>
     </availability>
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
     <origFileName>http://www.saemiedigkie.no/layout/set/print/Byjrese-areale-jih-kultuvrevarjelimmie/Eatnemegellievoete/Orre-staavroelihtsegh-nasjovnaale-jih-vaarjelimmiedajvestaavrojne</origFileName>
     <parallel_text xml:lang="dan" location=""/>
     <parallel_text xml:lang="eng" location=""/>
@@ -39,7 +38,7 @@
   <body>
     <p>Orre ståvroelïhtsegh nasjovnaale- jïh vaarjelimmiedajveståvrojne / Eatnemegellievoete / Byjrese, areale jïh kultuvrevarjelimmie / Saemiedigkie - Sametinget</p>
     <p type="title">Orre ståvroelïhtsegh nasjovnaale- jïh vaarjelimmiedajveståvrojne</p>
-    <p xml:lang="sme">16. Geassemánnu 2014</p>
+    <p>16. Geassemánnu 2014</p>
     <p>Saemiedigkieraerie Thomas Åhrén lea madtjeles ihke Byjresedepartemeente lea saemiedigkieraerien raerieh fulkeme nammoehtimmesne orre saemien lïhtsegijstie 11 nasjonalpaarhke- jïh vaarjelimmieståvrojne. Voenges reereme nasjonalpaarhkijste jïh vaarjelimmiedajvijste dam saemien åtnoem nænnoestahta, Åhrén jeahta.</p>
     <p>Daan aejkien edtjin saemien tjirkijh veeljedh nasjonalpaarhkeståvrojde Låarte/Skæhkere- Lijre (4 lïhtsegh), Njaarke (2), Seiland (2), Stabbursdalen (1), Varangerhalvøya (2), Øvre Pasvik (1) jïh Ånderdalen (1) nasjonalpaarhkh jïh vaarjelimmieståvrojde Lyngsalpan (2) jïh Nordkvaløy- Rebbenesøy (1) eatnemevaarjelimmiedajvh jïh Trollheimen (2) vaarjelimmiedajveståvrose.</p>
     <p>Saemiedigkieraerie Thomas Åhrén jeahta ståvroeh leah maehteles ståvroelïhtsegh åådtjeme gellielaaketje daajrojne saemien eatnemeåtnoen jïh siebriedahken bïjre.</p>
@@ -60,35 +59,35 @@
     <p>Tjirkije: Kjell Jøran Jåma Sæjjasadtje tjirkije: Tom Aile Bientie</p>
     <p>Tjirkije: Thomas Danielsen Sæjjasadtje tjirkije: Jon Andreas Steinfjell Devika</p>
     <p>2) Vaarjelimmiedajveståvroe Lyngsalpan eatnemevaarjelimmiedajvese</p>
-    <p xml:lang="nno">Tjirkije: Audun Johnsen Sæjjasadtje tjirkije: Rolf Johansen</p>
-    <p xml:lang="nno">Tjirkije: Hilde Marie Larsen Sæjjasadtje tjirkije: Inger Heiskel</p>
+    <p>Tjirkije: Audun Johnsen Sæjjasadtje tjirkije: Rolf Johansen</p>
+    <p>Tjirkije: Hilde Marie Larsen Sæjjasadtje tjirkije: Inger Heiskel</p>
     <p>3) Nasjonalpaarhkeståvroe Njaarken nasjonalpaarhkese</p>
     <p>Tjirkije: Ole Henrik Kappfjell Sæjjasadtje tjirkije: Betty Kappfjell</p>
     <p>Tjirkije: Gun Margret Utsi Sæjjasadtje tjirkije: Roy Kvitfjell</p>
     <p>4) Vaarjelimmiedajveståvroe Nordkvaløy–Rebbenesøy eatnemevaarjelimmiedajvese</p>
-    <p xml:lang="sme">Tjirkije: Elisabeth Johansen Sæjjasadtje tjirkije: Eskild Johansen</p>
-    <p xml:lang="nno">5) Nasjonalpaarhkeståvroe Reisa nasjonalpaarhkese</p>
-    <p xml:lang="smj">Tjirkije: Anne Merethe Siri Fyhn Sæjjasadtje tjirkije: Mikkel Anders A. Gaup</p>
-    <p xml:lang="nno">Tjirkije: Hilde A. Nyvoll Sæjjasadtje tjirkije: Geir Tommy Pedersen</p>
-    <p xml:lang="nno">6) Nasjonalpaarhkeståvroe Seiland nasjonalpaarhkese</p>
-    <p xml:lang="sme">Tjirkije: Brita J. Skum Sæjjasadtje tjirkije: Ann-Kristin Engstad</p>
-    <p xml:lang="nob">Tjirkije: Arne Jørgensen Sæjjasadtje tjirkije: Robert Wilhelmsen</p>
+    <p>Tjirkije: Elisabeth Johansen Sæjjasadtje tjirkije: Eskild Johansen</p>
+    <p>5) Nasjonalpaarhkeståvroe Reisa nasjonalpaarhkese</p>
+    <p>Tjirkije: Anne Merethe Siri Fyhn Sæjjasadtje tjirkije: Mikkel Anders A. Gaup</p>
+    <p>Tjirkije: Hilde A. Nyvoll Sæjjasadtje tjirkije: Geir Tommy Pedersen</p>
+    <p>6) Nasjonalpaarhkeståvroe Seiland nasjonalpaarhkese</p>
+    <p>Tjirkije: Brita J. Skum Sæjjasadtje tjirkije: Ann-Kristin Engstad</p>
+    <p>Tjirkije: Arne Jørgensen Sæjjasadtje tjirkije: Robert Wilhelmsen</p>
     <p>7) Nasjonalpaarhkeståvroe Stabbursdalen nasjonalpaarhkese</p>
     <p>Tjirkije: Ronny Wilhelmsen Sæjjasadtje tjirkije: Ida B. Bjørnbak</p>
     <p>8) Vaarjelimmiedajveståvroe Trollheimen eatnemevaarjelimmiedajvese</p>
     <p>Tjirkije: Maja Britt Renander Sæjjasadtje tjirkije: Anna Kristina Renander</p>
-    <p xml:lang="fin">Tjirkije: Gustav Kant Sæjjasadtje tjirkije: Elias Kant</p>
+    <p>Tjirkije: Gustav Kant Sæjjasadtje tjirkije: Elias Kant</p>
     <p>9) Nasjonalpaarhkeståvroe Varangerhalvøya nasjonalpaarhkese</p>
     <p>Tjirkije: Jan Ivvár Smuk Sæjjasadtje tjirkije: Inger Anita Smuk</p>
-    <p xml:lang="sme">Tjirkije: Ragnhild Melleby Aslaksen Sæjjasadtje tjirkije: Jarl Even Roska</p>
-    <p xml:lang="nno">10) Nasjonalpaarhkeståvroe Øvre Pasvik nasjonalpaarhkese</p>
-    <p xml:lang="sme">Tjirkije: Mariann W. Magga Sæjjasadtje tjirkije: Ola Johansen</p>
+    <p>Tjirkije: Ragnhild Melleby Aslaksen Sæjjasadtje tjirkije: Jarl Even Roska</p>
+    <p>10) Nasjonalpaarhkeståvroe Øvre Pasvik nasjonalpaarhkese</p>
+    <p>Tjirkije: Mariann W. Magga Sæjjasadtje tjirkije: Ola Johansen</p>
     <p>11) Nasjonalpaarhkeståvroe Ånderdalen nasjonalpaarhkese</p>
-    <p xml:lang="nno">Tjirkije: Anne Berit P. Kristiansen Sæjjasadtje tjirkije: Geir Are Winther</p>
+    <p>Tjirkije: Anne Berit P. Kristiansen Sæjjasadtje tjirkije: Geir Are Winther</p>
     <p>
       <em type="bold">Govlesadtemebïevnesh ståvroelïhtsegidie vaarjelimmiedajveståvrojne leah Saemiedigkien gåetiesæjrosne: </em>
     </p>
-    <p xml:lang="nob">http://www.sametinget.no/Miljoe-areal-og-kulturvern/Naturmangfold/Verneomraadestyrene/Sametingets-tjirkijeer-i-verneomraadestyrene</p>
+    <p>http://www.sametinget.no/Miljoe-areal-og-kulturvern/Naturmangfold/Verneomraadestyrene/Sametingets-tjirkijeer-i-verneomraadestyrene</p>
     <p>
       <em type="bold">Saemiedigkieraerie Thomas Åhrén, 908 39 </em>
     </p>
