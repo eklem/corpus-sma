@@ -10,7 +10,6 @@
     <availability>
       <free/>
     </availability>
-    <multilingual/>
     <origFileName>http://www.saemiedigkie.no/layout/set/print/Byjrese-areale-jih-kultuvrevarjelimmie/Areale/Saemiedigkiebievnese-areale-jih-byjresepolitihken-bijre-Boeoeredimmie-raeriejgujmie-baaetedh</origFileName>
     <parallel_text xml:lang="dan" location=""/>
     <parallel_text xml:lang="eng" location=""/>
@@ -38,7 +37,7 @@
   <body>
     <p>Saemiedigkiebïevnese areale- jïh byjresepolitihken bïjre - Bööredimmie raeriejgujmie båetedh / Areale / Byjrese, areale jïh kultuvrevarjelimmie / Saemiedigkie - Sametinget</p>
     <p type="title">Saemiedigkiebïevnese areale- jïh byjresepolitihken bïjre - Bööredimmie raeriejgujmie båetedh</p>
-    <p xml:lang="sme">09. Čakčamánnu 2015</p>
+    <p>09. Čakčamánnu 2015</p>
     <p>
       <em type="bold">Saemiedigkieraerie raerieh sæjhta saemiedigkiebïevnesasse arealen jïh byjresen bïjre. Bïevnesen ulmie lea Saemiedigkien politihkem nænnoestehtedh dejnie gyhtjelassine areale- jïh byjreseligke haestemi bïjre mej uvte saemien siebriedahke tjåådtje tïjjen åvtese. </em>
     </p>
@@ -48,8 +47,8 @@
       <p type="listitem">Arealereereme jïh arealeåtnoe - Else Grete Broderstad jïh Eva Josefsen</p>
       <p type="listitem">Åtnoe jïh reereme mearoearealijste - Einar Eythurson jïh Camilla Brattland</p>
       <p type="listitem">Vaarjelimmiedajvereereme jïh eatnemegellievoete - Jan Åge Riseth</p>
-      <p type="listitem" xml:lang="nno">Miehtjieåtnoe - Øyvind Ravna</p>
-      <p type="listitem" xml:lang="nob">Nuhteme eatnemevierhtijste - Christian Nellemann</p>
+      <p type="listitem">Miehtjieåtnoe - Øyvind Ravna</p>
+      <p type="listitem">Nuhteme eatnemevierhtijste - Christian Nellemann</p>
       <p type="listitem">Aerpievuekien daajroe reeremisnie – Saemien jïlleskuvle Árbediehtu-prosjekten baaktoe</p>
     </list>
     <p>Tjaalegevåarhkoe sæjhta goh daajroevåarome årrodh jïh viehkiehtidh akten gamte digkiedæmman dovne staateles jïh regijovnaale åejvieladtjigujmie jïh saemien voenges siebriedahkigujmie.</p>
