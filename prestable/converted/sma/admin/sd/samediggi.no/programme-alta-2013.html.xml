@@ -11,7 +11,6 @@
       <free/>
     </availability>
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
     <origFileName>http://www.saemiedigkie.no/layout/set/print/Gaskenasjovnaale-barkoe/Alta-2013/Programme-Alta-2013</origFileName>
     <parallel_text xml:lang="dan" location=""/>
     <parallel_text xml:lang="eng" location=""/>
@@ -39,7 +38,7 @@
   <body>
     <p>Programme Alta 2013 / Áltá 2013 / Gaskenasjovnaale barkoe / Saemiedigkie - Sametinget</p>
     <p type="title">Programme Alta 2013</p>
-    <p xml:lang="sme">08. Njukčamánnu 2013</p>
+    <p>08. Njukčamánnu 2013</p>
     <p>Åvtelhbodti programme dan ryöjreden aalkoealmetjekonferansese Altesne ruffien 8. – 12.b. 2013.</p>
     <p>
       <em type="bold">Laavadahken, ruffien 8.b. </em>
