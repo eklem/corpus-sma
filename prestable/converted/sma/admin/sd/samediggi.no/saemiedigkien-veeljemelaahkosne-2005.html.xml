@@ -11,7 +11,6 @@
       <free/>
     </availability>
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
     <origFileName>http://www.saemiedigkie.no/layout/set/print/Veeljeme-jih-veeljemelaahkoe/Kampanjeside/Veeljemelaahkoe/Saemiedigkien-veeljemelaahkosne-2005</origFileName>
     <parallel_text xml:lang="dan" location=""/>
     <parallel_text xml:lang="eng" location=""/>
@@ -39,18 +38,18 @@
   <body>
     <p>Saemiedigkien veeljemelåhkosne 2005 / Veeljemelåhkoe / Kampanjeside / Veeljeme jïh veeljemelåhkoe / Saemiedigkie - Sametinget</p>
     <p type="title">Saemiedigkien veeljemelåhkosne 2005</p>
-    <p xml:lang="isl">14. Miessemánnu 2013</p>
+    <p>14. Miessemánnu 2013</p>
     <p>Saemiedigkien veeljemelåhkosne 2005:este lin 12538 almetjh. Dïhte våarome sjidti gåessie mandaath juekedh veeljemegievlide veeljemen 2009 åvteste.</p>
     <p>Daesnie vuelelen låhkoeh gaavnh veeljemegievlijste 2005 veeljemen åvteste</p>
-    <p xml:lang="sme">1 Várjjat/Varanger</p>
-    <p xml:lang="sme">2 Deatnu/Tana</p>
-    <p xml:lang="sme">3 Kárášjohka/Karasjok</p>
-    <p xml:lang="sme">4 Guovdageaidnu/Kautokieno</p>
-    <p xml:lang="sme">5 Porsáŋgu/Porsanger</p>
-    <p xml:lang="sme">6 Áltá/Fálesnuorri - Alta/Kvalsund</p>
+    <p>1 Várjjat/Varanger</p>
+    <p>2 Deatnu/Tana</p>
+    <p>3 Kárášjohka/Karasjok</p>
+    <p>4 Guovdageaidnu/Kautokieno</p>
+    <p>5 Porsáŋgu/Porsanger</p>
+    <p>6 Áltá/Fálesnuorri - Alta/Kvalsund</p>
     <p>7 Noerhte-Tromse/Nord-Troms</p>
-    <p xml:lang="nno">8 Gaska-Tromse/Midt-Troms</p>
-    <p xml:lang="nob">9 Årjel-Trome/Sør-Troms</p>
+    <p>8 Gaska-Tromse/Midt-Troms</p>
+    <p>9 Årjel-Trome/Sør-Troms</p>
     <p>10 Noerhte Noerhtelaante/Nordre Nordland</p>
     <p>11 Gaske Noerhtelaante/Midtre Nordland</p>
     <p>12 Åarjel-Saepmie/Sørsameområdet</p>
