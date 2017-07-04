@@ -11,7 +11,6 @@
       <free/>
     </availability>
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
     <origFileName>http://www.saemiedigkie.no/layout/set/print/Veeljeme-jih-veeljemelaahkoe/Kampanjeside/Krirrieh-Veeljemebarkijh/Gaaabph-edtja-dejtie-aavtelhbodti-steemmide-seedtedh</origFileName>
     <parallel_text xml:lang="dan" location=""/>
     <parallel_text xml:lang="eng" location=""/>
@@ -39,11 +38,11 @@
   <body>
     <p>Gåabph edtja dejtie åvtelhbodti steemmide seedtedh? / Krirrieh/Veeljemebarkijh / Kampanjeside / Veeljeme jïh veeljemelåhkoe / Saemiedigkie - Sametinget</p>
     <p type="title">Gåabph edtja dejtie åvtelhbodti steemmide  seedtedh?</p>
-    <p xml:lang="isl">14. Miessemánnu 2013</p>
+    <p>14. Miessemánnu 2013</p>
     <p>Lissine akte læstoe maam tjïelth maehtieh nuhtjedh gosse edtjieh åvtelhbodti steemmah seedtedh dan tjïeltese mij edtja aktem åvtelhbodti ryöknemem darjodh saemiedigkieveeljemasse.</p>
     <p>56 tjïelth edtjieh aktem åvtelbodti ryöknemem darjodh jïjtje, jïh dam reektedh veeljemejïjjen. Dejtie jeatjah tjïeltide, dle ryöknemeveeljemeståvroe veeljemegievlesne, mij dam åvtelhbodti ryöknemem jïh reektemem dorje.</p>
     <p>Dah ryöknemetjïelth veeljemegievline dam minngemosth ryöknemem darjoeh.</p>
-    <p xml:lang="nob">Adresseregister_kommuner_og_opptellingskommuner 2013.xlsx</p>
-    <p xml:lang="fin">47,83 kB</p>
+    <p>Adresseregister_kommuner_og_opptellingskommuner 2013.xlsx</p>
+    <p>47,83 kB</p>
   </body>
 </document>
