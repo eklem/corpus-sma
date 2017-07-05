@@ -11,7 +11,6 @@
       <free/>
     </availability>
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
     <origFileName>http://www.saemiedigkie.no/layout/set/print/Saemiedigkien-bijre/AAaarganisasjovnestruktuvre/Stoerretjaaanghkoe</origFileName>
     <parallel_text xml:lang="dan" location=""/>
     <parallel_text xml:lang="eng" location=""/>
@@ -53,10 +52,10 @@
       <p type="listitem">
         <em type="bold">Barkoekrirrie </em>
       </p>
-      <p type="listitem" xml:lang="sme">
+      <p type="listitem">
         <em type="bold">Árja </em>
       </p>
-      <p type="listitem" xml:lang="deu">
+      <p type="listitem">
         <em type="bold">Fremskrittskrirrie </em>
       </p>
       <p type="listitem">
@@ -65,7 +64,7 @@
       <p type="listitem">
         <em type="bold">Åelkies </em>
       </p>
-      <p type="listitem" xml:lang="sme">
+      <p type="listitem">
         <em type="bold">Nordkalottfolket </em>
       </p>
       <p type="listitem">
@@ -74,7 +73,7 @@
       <p type="listitem">
         <em type="bold">Saemieh åerjielisnie </em>
       </p>
-      <p type="listitem" xml:lang="nob">
+      <p type="listitem">
         <em type="bold">Fastboendes liste </em>
       </p>
     </list>
@@ -96,7 +95,7 @@
     <p>Våhkoe 39: skïereden 26. - 30. b., moenehtse- jïh stoerretjåanghkoeh</p>
     <p>Våhkoe 47: gålkoen 21. - 25. b., moenehtsetjåanghkoeh (måanta – bearjadahke)</p>
     <p>Våhkoe 49: goeven 5. - 9. b., stoerretjåanghkoe</p>
-    <p xml:lang="sme">
+    <p>
       <em type="italic">Guvvie: Kenneth Hætta/Sametinget. </em>
     </p>
   </body>
