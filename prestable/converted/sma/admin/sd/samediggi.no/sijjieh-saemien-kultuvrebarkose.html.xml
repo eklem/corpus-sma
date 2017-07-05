@@ -5,13 +5,12 @@
     <author>
       <unknown/>
     </author>
-    <wordcount>465</wordcount>
+    <wordcount>457</wordcount>
     <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
     <origFileName>http://www.saemiedigkie.no/layout/set/print/Kultuvrejieleme/Sijjieh-saemien-kultuvrebarkose</origFileName>
     <parallel_text xml:lang="dan" location=""/>
     <parallel_text xml:lang="eng" location=""/>
@@ -42,12 +41,9 @@
     <p type="title">Sijjieh saemien kultuvrebarkose</p>
     <p>Saemien kultuvregåetieh, teaterh, festivaalh jïh museumh leah vihkeles sijjieh juktie saemien kåanstem, kultuvrem jïh kultuvreaerpiem vuesiehtidh, gorredidh jïh evtiedidh. Daah institusjovnh leah saemien tjoevkesetjoelth sijjen voenges siebriedahkine, dah barkoesijjieh faalehtieh kultuvrejielemi sisnjeli dajvine. Institusjovnebigkeme jïh institusjovneevtiedimmie leah dan åvteste dïhte vihkielommes, juktie gorredidh jïh evtiedidh dam saemien siebriedahkem jïh dam saemien demokratijem.</p>
     <p>Politihkere gïen diedte</p>
-    <p xml:lang="nob">Rådsmedlem</p>
+    <p>Rådsmedlem</p>
     <p>NSR</p>
-    <p xml:lang="sme">Gáisi</p>
-    <p xml:lang="nob">Henrik Olsen</p>
-    <p>Phone: +47 907 75 219</p>
-    <p xml:lang="sme">henrik.olsen@samediggi.no</p>
+    <p>Gáisi</p>
     <p>Daaletje</p>
     <p>Logo-gaahtjeme Tråantese 2017</p>
     <p>Logo-gaahtjeme Tråantese 2017 - nasjovnaale aavoedimmie jïh tjåenghkies saem...</p>
