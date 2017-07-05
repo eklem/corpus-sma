@@ -5,13 +5,12 @@
     <author>
       <unknown/>
     </author>
-    <wordcount>149</wordcount>
+    <wordcount>140</wordcount>
     <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
     <origFileName>http://www.saemiedigkie.no/layout/set/print/Jielemh</origFileName>
     <parallel_text xml:lang="dan" location=""/>
     <parallel_text xml:lang="eng" location=""/>
@@ -42,12 +41,9 @@
     <p type="title">Jielemh</p>
     <p>Saemien jielemevuekieh tjåadtjoehtidh jïh vijriesåbpoe evtiedidh dam saemiej jielemevåaroemem gorrede, jïh lea akte tjirkeme ihke saemien kultuvre jïh akte jielije saemien gïele evtiesuvvieh.</p>
     <p>Politihkere gïen diedte</p>
-    <p xml:lang="nob">Rådsmedlem</p>
+    <p>Rådsmedlem</p>
     <p>NSR</p>
-    <p xml:lang="nob">Nordre</p>
-    <p xml:lang="sme">Silje Karine Muotka</p>
-    <p>Phone: +47 984 87 576</p>
-    <p xml:lang="sme">silje.karine.muotka@samediggi.no</p>
+    <p>Nordre</p>
     <list>
       <p type="listitem">Båatsoe</p>
       <p type="listitem">Marijne jielemh</p>
@@ -57,13 +53,13 @@
       <p type="listitem">Kulturejieleme</p>
       <p type="listitem">Aarvoesjugniedimmieprogramme</p>
     </list>
-    <p type="title" xml:lang="smj">Sámedigge barggá</p>
+    <p type="title">Sámedigge barggá</p>
     <list>
       <p type="listitem">nænnoes jïh gellielaaketje jielemh buektiehtidh</p>
       <p type="listitem">jielemh utnedh mah våaroeminie utnieh jïh krööhkeste dam saemien kultuvrem, eatnemem jïh byjresem</p>
       <p type="listitem">jielemh utnedh mah våaromem beaja jielije voenges siebriedahkide, gusnie almetjh sïjhtieh årrodh</p>
     </list>
-    <p type="title" xml:lang="smj">Duogásj</p>
+    <p type="title">Duogásj</p>
     <p>Saemien jielemh leah aerpievuekien mietie eatnamasse ektiedamme orreme. Saemieh jieliemassem jïh baalhkam åådtjeme gosse vierhtieh miehtjiesdajveste veedtjeme, goh gööleme, jåartaburrieh jïh båatsoe, mah aaj ïebnh vytnesjæmman jïh ovmessie dorjesidie vadteme mejgujmie guhkiebasse evtiedamme. Dïhte saemien åålmege jïjtjemse sjïehtede jïh skearkege bielelen jïjtse kultuvrem luejhtedh. Dïhte sojjehtje jïh skaepiedihks vuajnoe jarkelæmman jïh orreussjedæmman lea akte vihkeles aarvoe saemien jielemeevtiedimmesne aaj daan biejjien.</p>
   </body>
 </document>
