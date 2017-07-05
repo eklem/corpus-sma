@@ -10,7 +10,6 @@
     <availability>
       <free/>
     </availability>
-    <multilingual/>
     <origFileName>http://www.saemiedigkie.no/layout/set/print/Healsoe-jih-sosijaale/Healsoe-jih-sosijaaleprosjekth</origFileName>
     <parallel_text xml:lang="dan" location=""/>
     <parallel_text xml:lang="eng" location=""/>
@@ -68,15 +67,15 @@
       <em type="bold">Aerviedimmienjoelkedassh: </em>
     </p>
     <p>Dåarjoe aerviedamme sjædta buerkiestamme ohtsemen jïh prosjektebuerkiestimmien mietie, raajan 500 000 kråvnah.</p>
-    <p xml:lang="nob">Regelverk for tilskudd til Helse -og sosialprosjekter 2016</p>
-    <p xml:lang="fin">(79,64 kB)</p>
-    <p xml:lang="nno">Søknadsskjema Helse- og sosialprosjekter 2016</p>
-    <p xml:lang="fin">(95,19 kB)</p>
-    <p xml:lang="sme">Doarjjanjuolggadusat doarjja dearvvašvuođa- ja sosiaálaprošeavttaide 2016</p>
-    <p xml:lang="fin">(228,80 kB)</p>
-    <p xml:lang="sme">Doarjjaohcan dearvvašvuođa- ja sosiálaprošeavttaide</p>
-    <p xml:lang="fin">(95,77 kB)</p>
+    <p>Regelverk for tilskudd til Helse -og sosialprosjekter 2016</p>
+    <p>(79,64 kB)</p>
+    <p>Søknadsskjema Helse- og sosialprosjekter 2016</p>
+    <p>(95,19 kB)</p>
+    <p>Doarjjanjuolggadusat doarjja dearvvašvuođa- ja sosiaálaprošeavttaide 2016</p>
+    <p>(228,80 kB)</p>
+    <p>Doarjjaohcan dearvvašvuođa- ja sosiálaprošeavttaide</p>
+    <p>(95,77 kB)</p>
     <p>Dåarjoenjoelkedassh - Healsoe- jïh sosijaaleprosjekth</p>
-    <p xml:lang="fin">(48,78 kB)</p>
+    <p>(48,78 kB)</p>
   </body>
 </document>
