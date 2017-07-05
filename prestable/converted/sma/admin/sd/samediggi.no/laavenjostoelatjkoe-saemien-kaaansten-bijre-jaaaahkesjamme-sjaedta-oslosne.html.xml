@@ -10,7 +10,6 @@
     <availability>
       <free/>
     </availability>
-    <multilingual/>
     <origFileName>http://www.saemiedigkie.no/layout/set/print/Kultuvrejieleme/Kaaanste-jih-kultuvrebarkoe/Laavenjostoelatjkoe-saemien-kaaansten-bijre-jaaaahkesjamme-sjaedta-Oslosne</origFileName>
     <parallel_text xml:lang="dan" location=""/>
     <parallel_text xml:lang="eng" location=""/>
@@ -38,7 +37,7 @@
   <body>
     <p>Laavenjostoelatjkoe saemien kåansten bïjre jååhkesjamme sjædta Oslosne / Kåanste- jïh kultuvrebarkoe / Kultuvrejieleme / Saemiedigkie - Sametinget</p>
     <p type="title">Laavenjostoelatjkoe saemien kåansten bïjre jååhkesjamme sjædta Oslosne</p>
-    <p xml:lang="smj">09. Juovlamánnu 2015</p>
+    <p>09. Juovlamánnu 2015</p>
     <p>Saemiedigkie jïh Saemien tjiehpiedæjjaraerie aktem orre laavenjostoelatjkoem jååhkesjieh duarstan goeven 10.b. Oslosne.</p>
     <p>Guejmieh leah 2004 raejeste aktem laavenjostoelatjkoem åtneme, jïh dïhte orre latjkoe maam daelie jååhkesjamme lea faamosne boelhken 2016-2019.</p>
     <p>
