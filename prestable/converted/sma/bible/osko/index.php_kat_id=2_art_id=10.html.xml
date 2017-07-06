@@ -20,7 +20,6 @@
       <free/>
     </availability>
     <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual/>
     <origFileName>http://www.osko.no/index.php?kat_id=2&amp;art_id=10</origFileName>
     <parallel_text xml:lang="dan" location=""/>
     <parallel_text xml:lang="eng" location=""/>
@@ -54,6 +53,6 @@
     <p>Mijjieh gegkestibie kristusen gievlie edtja garmerdehtedh akten ræhpas jïh girmes ussjedæmman dej jieledenligke jïh etihken dåeriesmoeri bïjre, aktene kristeles mieresne. Mijjieh sïjhtebe dah aamhtesh, mejtie kristusen gievlie bæjjese vaalta, edtjieh sjyöhtehke domtedh dan jieliedasse datne jielieminie.</p>
     <p>Mijjieh libie sïjhteme gulliegernieh juekedh mejtie mijjieh gaavneme: bijbelen tjaaleginie, saemien vijsieslidteratuvresne, histovrijen heannadimmine, guvvine jïh musihkene.Sïjhth vielie daejredh mijjen gaaltiji bïjre? Vuartesjh slipkien nuelesne <span type="quote">”Mijjen bïjre”</span>. Daesnie maahtah raerieh gærjaj bïjre gaavnedh, jis sïjhth vielie lohkedh.</p>
     <p>Kristusen gievlien bijre: www.fralsarkransen.se</p>
-    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+    <p>Utskriftsvennlig versjon</p>
   </body>
 </document>
