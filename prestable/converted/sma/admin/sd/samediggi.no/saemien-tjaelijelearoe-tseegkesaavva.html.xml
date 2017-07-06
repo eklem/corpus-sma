@@ -11,7 +11,6 @@
       <free/>
     </availability>
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
     <origFileName>http://www.saemiedigkie.no/layout/set/print/Kultuvrejieleme/Kaaanste-jih-kultuvrebarkoe/Saemien-tjaelijelearoe-tseegkesaavva</origFileName>
     <parallel_text xml:lang="dan" location=""/>
     <parallel_text xml:lang="eng" location=""/>
@@ -39,7 +38,7 @@
   <body>
     <p>Saemien tjaelijelearoe tseegkesåvva / Kåanste- jïh kultuvrebarkoe / Kultuvrejieleme / Saemiedigkie - Sametinget</p>
     <p type="title">Saemien tjaelijelearoe tseegkesåvva</p>
-    <p xml:lang="sme">02. Guovvamánnu 2015</p>
+    <p>02. Guovvamánnu 2015</p>
     <p>Saemien lohkijh jienebh gærjah saemiengïelesne sijhtieh mejstie noerh eadtjalduvvieh. Dan åvteste Saemiedigkie, Saemien tjaelijesiebreste (SGS), jïh Saemien tjiehpiedæjjaraerie (SDR) aktem tjaelijelearoem nierhkieh mij edtja noere tjaelijh dåårrehtidh mah saemiengïelesne tjaelieh.</p>
     <p>Prosjekten ulmie lea unnemes vïjhte noere tjaelijh dåårrehtidh mah saemiengïelesne tjaelieh. Tjaelijelearoe göökte jaaepieh vaasa, jaabnan viermietjåanghkoejgujmie, tjaelemeseminaarigujmie jïh bïhkedimmine maehteles tjaeliejijstie jïh faagealmetjijstie.</p>
     <p>Saemiedigkieraerie Henrik Olsen jeahta tjaelijelearoe edtja skreejrehtidh tjaelijevoetem evtiedidh, jïh dam lidteræære maahtoem lutnjedh båetijen aejkien tjaeliejidie.</p>
@@ -75,7 +74,7 @@
     <p>
       <em type="bold">Vielie bïevnesh: </em>
     </p>
-    <p xml:lang="sme">Vivian Aira, 784 74 167, vivian.aira@samediggi.no ja Brita Kåven, 480 75 174, brita@samidaiddar.no</p>
-    <p xml:lang="nob">Saemiedigkieraerie Henrik Olsen, 907 75 219</p>
+    <p>Vivian Aira, 784 74 167, vivian.aira@samediggi.no ja Brita Kåven, 480 75 174, brita@samidaiddar.no</p>
+    <p>Saemiedigkieraerie Henrik Olsen, 907 75 219</p>
   </body>
 </document>
