@@ -5,13 +5,12 @@
     <author>
       <unknown/>
     </author>
-    <wordcount>269</wordcount>
+    <wordcount>261</wordcount>
     <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
     <origFileName>http://www.saemiedigkie.no/layout/set/print/Gaskenasjovnaale-barkoe/Alta-2013</origFileName>
     <parallel_text xml:lang="dan" location=""/>
     <parallel_text xml:lang="eng" location=""/>
@@ -38,24 +37,21 @@
   </header>
   <body>
     <p>Áltá 2013 / Gaskenasjovnaale barkoe / Saemiedigkie - Sametinget</p>
-    <p type="title" xml:lang="sme">Áltá 2013</p>
+    <p type="title">Áltá 2013</p>
     <p>Saemiedigkie lea aalkoealmetjetjirkijh abpe veartenistie bööredamme akten gaskenasjovnaale jïh ryöjreden aalkoealmetjekonferansese Altesne, Finnmarhke, ruffien 8.- 12.b. 2013.</p>
     <p>Vuertieminie medtie 800 aalkoealmetjen saadthalmetjh, -raeriestæjjah, ovmessie vïhtesjæjjah jïh tjirkijh preesseste abpe veartenistie Altese båetieh ruffien 2013, juktie ENn generaalekrirrien veartenekonferansese ryöjredidh aalkoealmetji bïjre New York’sne 2014.</p>
-    <p xml:lang="eng">Information about Áltá 2013 in english</p>
-    <p xml:lang="sme">Web-tv: Áltá 2013 live</p>
+    <p>Information about Áltá 2013 in english</p>
+    <p>Web-tv: Áltá 2013 live</p>
     <p>Politihkere gïen diedte</p>
-    <p xml:lang="nob">Sametingspresident</p>
-    <p xml:lang="nob">Arbeiderpartiet</p>
-    <p xml:lang="sme">Ávjovárri</p>
-    <p xml:lang="sme">Egil Olli</p>
-    <p>Phone: +47 900 26 880</p>
-    <p xml:lang="sme">egil.olli@samediggi.no</p>
+    <p>Sametingspresident</p>
+    <p>Arbeiderpartiet</p>
+    <p>Ávjovárri</p>
     <p>Daaletje</p>
     <p>Akte vihkeles nammoehtimmie veartenen aalkoealmetjidie</p>
-    <p xml:lang="nob">EN’n generalekrirrien presidente, Ambassadööre Nassir Abdulaziz Al-Nassar (Q...</p>
+    <p>EN’n generalekrirrien presidente, Ambassadööre Nassir Abdulaziz Al-Nassar (Q...</p>
     <p>Lohkh jienebh</p>
-    <p xml:lang="eng">Alta outcome document</p>
-    <p xml:lang="eng">Excerpt: Indigenous Peoples and Nations representing the 7 global geo-politi...</p>
+    <p>Alta outcome document</p>
+    <p>Excerpt: Indigenous Peoples and Nations representing the 7 global geo-politi...</p>
     <p>Lohkh jienebh</p>
     <p>Vuesieh gaajkesh saakh</p>
     <p>Ulmie daejnie ryöjreden aalkoealmetjekonferansine Altesne 2013 lea lissiehtamme laavenjostose viehkiehtidh, jïh aaj gaavnedh jïh iktedidh vihkeles dåeriesmoerh jïh aamhtesh veartenen aalkoealmetji gaskem daennie barkosne juktie aalkoealmetji almetjereaktah gorredidh veartenekonferansesne ( UN World Conference on Indigenous Peoples, WCIP ) jaepien 2014.</p>
@@ -64,19 +60,19 @@
     <p>
       <em type="bold">Vielie bïevnesh Alta 2013n bïjre </em>
     </p>
-    <p xml:lang="nob">
+    <p>
       <em type="bold">Konferanseprogramme </em>
     </p>
-    <p xml:lang="nob">
+    <p>
       <em type="bold">Kultuvreprogramme </em>
     </p>
-    <p xml:lang="nob">
+    <p>
       <em type="bold">Side Events </em>
     </p>
-    <p xml:lang="nob">
+    <p>
       <em type="bold">Praktisk informasjon </em>
     </p>
-    <p xml:lang="sme">
+    <p>
       <em type="bold">Govlehtallh Áltá 2013 </em>
     </p>
     <p>
@@ -88,11 +84,11 @@
     <p>
       <em type="bold">WCIP 2014 bïjre </em>
     </p>
-    <p xml:lang="sme">
+    <p>
       <em type="bold">Áltá 2013 in english </em>
     </p>
-    <p xml:lang="eng">
-      <span type="quote" xml:lang="eng">The Sami Parliament in Norway believes that the World Conference  provides an  opportunity to further respect for and ensure improved implementation of indigenous peoples' rights. </span>
+    <p>
+      <span type="quote">The Sami Parliament in Norway believes that the World Conference  provides an  opportunity to further respect for and ensure improved implementation of indigenous peoples' rights. </span>
     </p>
   </body>
 </document>
