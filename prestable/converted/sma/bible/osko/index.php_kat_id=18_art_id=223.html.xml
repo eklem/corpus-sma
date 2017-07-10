@@ -20,7 +20,10 @@
       <free/>
     </availability>
     <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="sma"/>
+    </multilingual>
     <origFileName>http://www.osko.no/index.php?kat_id=18&amp;art_id=223</origFileName>
     <parallel_text xml:lang="dan" location=""/>
     <parallel_text xml:lang="eng" location=""/>
@@ -43,7 +46,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
   </header>
   <body>
     <p>Lïerh: Dålle</p>
