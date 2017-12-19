@@ -11,7 +11,6 @@
       <free/>
     </availability>
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
     <origFileName>http://www.saemiedigkie.no/Giele/Reeremedajve-saemien-gielide/Saemiedigkien-tjieltekonferanse-lea-heajhteme</origFileName>
     <parallel_text xml:lang="dan" location=""/>
     <parallel_text xml:lang="eng" location=""/>
@@ -38,24 +37,24 @@
   </header>
   <body>
     <p type="title">Saemiedigkien tjïeltekonferanse lea heajhteme</p>
-    <p xml:lang="sme">09. Guovvamánnu 2015</p>
+    <p>09. Guovvamánnu 2015</p>
     <p>Tjïeltekonferanse lea heajhteme nåake vearelden gaavhtan</p>
     <p>Tjïeltekonferanse goevten 10. – 11. b. 2015 Karasjohkesne</p>
     <p>Konferanse lea auditovrijisnie</p>
-    <p xml:lang="sme">http://tv.samediggi.no</p>
+    <p>http://tv.samediggi.no</p>
     <p>
       <em type="italic">Dæjstan, goevten 10.b. </em>
     </p>
     <p>1. bielie. Guektiengïelevoete tjïeltesuerkesne</p>
-    <p xml:lang="deu">08:30 – 09:00 Registreradimmie</p>
-    <p xml:lang="sms">09:00 – 09:15</p>
-    <p xml:lang="sms">09:15 – 09:35</p>
-    <p xml:lang="sms">09:35 – 10:00</p>
-    <p xml:lang="sms">10:00 – 10:30</p>
-    <p xml:lang="sms">10:30 – 11:00</p>
-    <p xml:lang="sms">11:00 – 11:30</p>
-    <p xml:lang="sms">11:30 – 12:30</p>
-    <p xml:lang="sms">12.30 – 13.30</p>
+    <p>08:30 – 09:00 Registreradimmie</p>
+    <p>09:00 – 09:15</p>
+    <p>09:15 – 09:35</p>
+    <p>09:35 – 10:00</p>
+    <p>10:00 – 10:30</p>
+    <p>10:30 – 11:00</p>
+    <p>11:00 – 11:30</p>
+    <p>11:30 – 12:30</p>
+    <p>12.30 – 13.30</p>
     <p>Buerie båeteme, Saemiedigkiepresidente Aili Keskitalo</p>
     <p>Bïevnesh saemien gïelemoenehtsen bïjre, åvtehke Bård Magne Pedersen</p>
     <p>Guektiengïelevoete – daan beajjetje tsiehkie, haestemh jïh veanhtadimmieh, Saemiedigkiepresidente Aili Keskitalo</p>
@@ -65,17 +64,17 @@
     <p>Digkiedimmie</p>
     <p>Beapmoe (Saemiedigkesne)</p>
     <p>2. bielie. Tjïeltereforme</p>
-    <p xml:lang="sms">13:30 – 14:30</p>
-    <p xml:lang="sms">14:30 – 14:45</p>
-    <p xml:lang="sms">14:45 – 15:00</p>
-    <p xml:lang="sms">15:00 – 15:30</p>
-    <p xml:lang="sms">15:30 – 16:00</p>
-    <p xml:lang="sms">16:00 – 16:30</p>
-    <p xml:lang="sms">16:30 – 17:00</p>
-    <p xml:lang="sms">17:00 - 18:00</p>
-    <p xml:lang="sms">18:00</p>
-    <p xml:lang="sms">20:00</p>
-    <p xml:lang="nno">Tjïeltereforme. Håaleme ekspertemoenehtsistie, Lars Erik Borge.</p>
+    <p>13:30 – 14:30</p>
+    <p>14:30 – 14:45</p>
+    <p>14:45 – 15:00</p>
+    <p>15:00 – 15:30</p>
+    <p>15:30 – 16:00</p>
+    <p>16:00 – 16:30</p>
+    <p>16:30 – 17:00</p>
+    <p>17:00 - 18:00</p>
+    <p>18:00</p>
+    <p>20:00</p>
+    <p>Tjïeltereforme. Håaleme ekspertemoenehtsistie, Lars Erik Borge.</p>
     <p>Reerenassen saemien vuajnoe tjïeltereformesne, staatetjaelije Anne Karin Olli</p>
     <p>Gyhtjelassh</p>
     <p>Prïhtjege gaahkoejgujmie, muerjieh</p>
@@ -84,22 +83,22 @@
     <p>Digkiedimmie. Maam ulmide tjïeltereforme sæjhta åadtjodh gïelen, kultuvren jïh siebriedahkejieleden evtiedimmien gaavhtan saemien dajvine. Håaleme Deatnun tjïelten jïh Karasjohken tjïelten baaktoe</p>
     <p>Digkiedimmie. Digkiedimmien åvtehke: Lavangen tjïelteåejvie Erling Bratsberg</p>
     <p>Galhkuve 1. biejjie</p>
-    <p xml:lang="nob">Gaskebiejjie, Scandic Hotel Karasjok</p>
+    <p>Gaskebiejjie, Scandic Hotel Karasjok</p>
     <p>
       <em type="italic">Gaskevåhkoen, goevten 11.b. </em>
     </p>
     <p>3. bielie. Jieleme- jïh siebriedahkeevtiedimmie</p>
-    <p xml:lang="sms">09.00 – 09.30</p>
-    <p xml:lang="sms">09:30 – 10:00</p>
-    <p xml:lang="sms">10:00 – 10:30</p>
-    <p xml:lang="sms">10:30 – 12:00</p>
-    <p xml:lang="sms">12:00 – 13:00</p>
-    <p xml:lang="sms">13:00 – 14:00</p>
-    <p xml:lang="sms">14:00 – 14:30</p>
-    <p xml:lang="sms">14:30 – 15:00</p>
-    <p xml:lang="sms">15.00</p>
-    <p xml:lang="sms">15:30</p>
-    <p xml:lang="smj">Åssjaldahkh jååktatjistie, Aili Keskitalo</p>
+    <p>09.00 – 09.30</p>
+    <p>09:30 – 10:00</p>
+    <p>10:00 – 10:30</p>
+    <p>10:30 – 12:00</p>
+    <p>12:00 – 13:00</p>
+    <p>13:00 – 14:00</p>
+    <p>14:00 – 14:30</p>
+    <p>14:30 – 15:00</p>
+    <p>15.00</p>
+    <p>15:30</p>
+    <p>Åssjaldahkh jååktatjistie, Aili Keskitalo</p>
     <p>Bïevnesh Dáhttuprosjekten bïjre, Ragnhild Dalheim Eriksen, Saemiedigkie</p>
     <p>Prïhtjege gaahkoejgujmie, muerjie.</p>
     <p>Evtiedimmievæhtah saemien siebriedahkine. Maam tjïelth darjoeh mah lyhkesieh? Knut Vareide, Telemarksforskning.</p>
@@ -108,6 +107,6 @@
     <p>Prïhtjege gaahkoejgujmie, muerjieh.</p>
     <p>Åenehks vaajestimmie abpe konferanseste, Saemiedigkiepresidente Aili Keskitalo</p>
     <p>Galhkuve jïh vualkoe gåetide.</p>
-    <p xml:lang="sme">Busseskovhte Scandic Karasjok Hotelleste Lakselv girtiesæjjan.</p>
+    <p>Busseskovhte Scandic Karasjok Hotelleste Lakselv girtiesæjjan.</p>
   </body>
 </document>
