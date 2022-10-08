@@ -1,0 +1,25 @@
+{
+  "name": "corpus-sma",
+  "version": "0.0.1",
+  "description": "South sámi corpus files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eklem/corpus-sma.git"
+  },
+  "keywords": [
+    "Southern",
+    "Sami",
+    "corpus",
+    "dataset"
+  ],
+  "author": "Giellalt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eklem/corpus-sma/issues"
+  },
+  "homepage": "https://github.com/eklem/corpus-sma#readme"
+}
